@@ -6,7 +6,7 @@ Autonomous agents are used to encapsulate such technics and they collaborate amo
 
 This is my Graduation Final Project for the Bachelor of Computer Sciences Degree, please see the full documentation here:
 
-#### [Agent Based Investment Analysis](doc/TCII.pdf)
+#### [Agent Based Investment Analysis - Brazilian Portuguese](doc/TCII.pdf)
 
 ### **Overview**
 
@@ -35,7 +35,7 @@ Is is necessary to install JDK 1.4 or higher from http://java.sun.com/
 
 **3. Install Apache Tomcat 4.21**
 
- É necessário instalar o Apache Tomcat 4.21 que pode ser obtido em http://jakarta.apache.org/
+Is it necessary to install Apache Tomcat 4.21, which can be downloaded @ http://jakarta.apache.org/
 
 **4. Software Instalation**
 
@@ -45,8 +45,8 @@ To install the software, please download the source package from  http://abia.so
 
 To execute,just open a windows command prompt (cmd.exe) and go to the test folder on the folder where the source package was uncompressed and execute the Batch file: executarABIA.bat
 
-**6 Simulação**
+**6 Simulation**
 
 To simulate, just execute the simulator on the bin folder, just make sure to configura all xml files on the conf file.
 
-
+### Project Folder Organization
