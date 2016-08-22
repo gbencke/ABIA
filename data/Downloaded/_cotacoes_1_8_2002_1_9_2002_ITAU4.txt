@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ITAU4.SA (BANCO ITAU HOLDING FINANCEIRA S)
+        </TD><TD>As of Aug-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-30-02</TD><TD>142.49</TD><TD>147.00</TD><TD>142.00</TD><TD>147.00</TD><TD>271,107</TD><TD>140.11</TD></TR>
+<TR>
+<TD>Aug-29-02</TD><TD>141.80</TD><TD>143.51</TD><TD>134.02</TD><TD>142.00</TD><TD>291,098</TD><TD>135.11</TD></TR>
+<TR>
+<TD>Aug-28-02</TD><TD>144.50</TD><TD>146.00</TD><TD>140.50</TD><TD>140.50</TD><TD>164,081</TD><TD>133.61</TD></TR>
+<TR>
+<TD>Aug-27-02</TD><TD>141.00</TD><TD>146.30</TD><TD>140.50</TD><TD>144.13</TD><TD>422,996</TD><TD>137.24</TD></TR>
+<TR>
+<TD>Aug-26-02</TD><TD>130.00</TD><TD>138.00</TD><TD>130.00</TD><TD>137.89</TD><TD>105,767</TD><TD>131.00</TD></TR>
+<TR>
+<TD>Aug-23-02</TD><TD>130.00</TD><TD>131.00</TD><TD>127.00</TD><TD>129.50</TD><TD>100,152</TD><TD>122.61</TD></TR>
+<TR>
+<TD>Aug-22-02</TD><TD>123.00</TD><TD>129.00</TD><TD>122.80</TD><TD>129.00</TD><TD>83,123</TD><TD>122.11</TD></TR>
+<TR>
+<TD>Aug-21-02</TD><TD>122.11</TD><TD>125.98</TD><TD>121.70</TD><TD>123.01</TD><TD>218,025</TD><TD>116.12</TD></TR>
+<TR>
+<TD>Aug-20-02</TD><TD>122.50</TD><TD>127.00</TD><TD>120.60</TD><TD>121.11</TD><TD>227,896</TD><TD>114.22</TD></TR>
+<TR>
+<TD>Aug-19-02</TD><TD>122.90</TD><TD>129.00</TD><TD>122.25</TD><TD>123.50</TD><TD>120,642</TD><TD>116.61</TD></TR>
+<TR>
+<TD>Aug-16-02</TD><TD>125.00</TD><TD>125.00</TD><TD>120.00</TD><TD>124.49</TD><TD>192,955</TD><TD>117.60</TD></TR>
+<TR>
+<TD>Aug-15-02</TD><TD>129.00</TD><TD>129.00</TD><TD>119.10</TD><TD>120.00</TD><TD>216,616</TD><TD>113.11</TD></TR>
+<TR>
+<TD>Aug-14-02</TD><TD>130.00</TD><TD>130.00</TD><TD>116.01</TD><TD>125.01</TD><TD>346,494</TD><TD>118.12</TD></TR>
+<TR>
+<TD>Aug-13-02</TD><TD>126.00</TD><TD>129.30</TD><TD>125.50</TD><TD>126.50</TD><TD>200,627</TD><TD>119.61</TD></TR>
+<TR>
+<TD>Aug-12-02</TD><TD>141.00</TD><TD>141.00</TD><TD>128.03</TD><TD>131.30</TD><TD>146,934</TD><TD>124.41</TD></TR>
+<TR>
+<TD>Aug-09-02</TD><TD>147.70</TD><TD>149.50</TD><TD>138.00</TD><TD>138.00</TD><TD>204,809</TD><TD>131.11</TD></TR>
+<TR>
+<TD>Aug-08-02</TD><TD>154.00</TD><TD>158.22</TD><TD>149.00</TD><TD>149.00</TD><TD>343,065</TD><TD>142.11</TD></TR>
+<TR>
+<TD>Aug-07-02</TD><TD>138.00</TD><TD>145.95</TD><TD>138.00</TD><TD>145.00</TD><TD>167,001</TD><TD>138.11</TD></TR>
+<TR>
+<TD>Aug-06-02</TD><TD>134.02</TD><TD>138.50</TD><TD>134.02</TD><TD>137.00</TD><TD>214,501</TD><TD>130.11</TD></TR>
+<TR>
+<TD>Aug-05-02</TD><TD>133.00</TD><TD>137.20</TD><TD>130.50</TD><TD>133.98</TD><TD>205,388</TD><TD>127.09</TD></TR>
+<TR>
+<TD>Aug-02-02</TD><TD>125.99</TD><TD>133.80</TD><TD>125.00</TD><TD>133.05</TD><TD>244,131</TD><TD>126.16</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>$0.09 Cash Dividend</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>123.79</TD><TD>124.30</TD><TD>118.00</TD><TD>123.00</TD><TD>235,762</TD><TD>116.11</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

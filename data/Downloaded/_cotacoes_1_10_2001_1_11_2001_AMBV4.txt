@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - AMBV4.SA (COMPANHIA DE BEBIDAS DAS AMERIC)
+        </TD><TD>As of Nov-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>440.00</TD><TD>452.49</TD><TD>434.99</TD><TD>452.30</TD><TD>35,467</TD><TD>435.28</TD></TR>
+<TR>
+<TD>Oct-31-01</TD><TD>436.50</TD><TD>440.00</TD><TD>434.99</TD><TD>439.50</TD><TD>35,463</TD><TD>422.48</TD></TR>
+<TR>
+<TD>Oct-30-01</TD><TD>449.99</TD><TD>449.99</TD><TD>436.50</TD><TD>436.50</TD><TD>47,667</TD><TD>419.48</TD></TR>
+<TR>
+<TD>Oct-29-01</TD><TD>444.00</TD><TD>450.00</TD><TD>434.02</TD><TD>446.51</TD><TD>41,905</TD><TD>429.49</TD></TR>
+<TR>
+<TD>Oct-26-01</TD><TD>432.50</TD><TD>452.00</TD><TD>432.50</TD><TD>445.00</TD><TD>13,362</TD><TD>427.98</TD></TR>
+<TR>
+<TD>Oct-25-01</TD><TD>430.00</TD><TD>437.00</TD><TD>429.00</TD><TD>432.50</TD><TD>19,719</TD><TD>415.48</TD></TR>
+<TR>
+<TD>Oct-24-01</TD><TD>430.00</TD><TD>438.99</TD><TD>428.00</TD><TD>435.00</TD><TD>25,061</TD><TD>417.98</TD></TR>
+<TR>
+<TD>Oct-23-01</TD><TD>432.00</TD><TD>437.00</TD><TD>430.02</TD><TD>431.03</TD><TD>15,183</TD><TD>414.01</TD></TR>
+<TR>
+<TD>Oct-22-01</TD><TD>435.00</TD><TD>435.00</TD><TD>427.00</TD><TD>432.00</TD><TD>29,012</TD><TD>414.98</TD></TR>
+<TR>
+<TD>Oct-19-01</TD><TD>430.01</TD><TD>440.00</TD><TD>430.00</TD><TD>435.00</TD><TD>37,747</TD><TD>417.98</TD></TR>
+<TR>
+<TD>Oct-18-01</TD><TD>439.20</TD><TD>439.20</TD><TD>430.01</TD><TD>430.02</TD><TD>4,224</TD><TD>413.00</TD></TR>
+<TR>
+<TD>Oct-17-01</TD><TD>438.00</TD><TD>442.00</TD><TD>430.06</TD><TD>434.85</TD><TD>20,765</TD><TD>417.83</TD></TR>
+<TR>
+<TD>Oct-16-01</TD><TD>445.00</TD><TD>448.99</TD><TD>432.00</TD><TD>432.00</TD><TD>9,713</TD><TD>414.98</TD></TR>
+<TR>
+<TD>Oct-15-01</TD><TD>420.00</TD><TD>445.00</TD><TD>420.00</TD><TD>440.00</TD><TD>11,806</TD><TD>422.98</TD></TR>
+<TR>
+<TD>Oct-11-01</TD><TD>426.00</TD><TD>438.00</TD><TD>425.00</TD><TD>435.00</TD><TD>11,908</TD><TD>417.98</TD></TR>
+<TR>
+<TD>Oct-10-01</TD><TD>415.00</TD><TD>433.00</TD><TD>413.00</TD><TD>426.00</TD><TD>15,528</TD><TD>408.98</TD></TR>
+<TR>
+<TD>Oct-09-01</TD><TD>400.00</TD><TD>410.00</TD><TD>391.00</TD><TD>406.01</TD><TD>15,201</TD><TD>388.99</TD></TR>
+<TR>
+<TD>Oct-08-01</TD><TD>386.00</TD><TD>405.00</TD><TD>386.00</TD><TD>395.01</TD><TD>10,993</TD><TD>377.99</TD></TR>
+<TR>
+<TD>Oct-05-01</TD><TD>412.01</TD><TD>412.03</TD><TD>401.01</TD><TD>406.00</TD><TD>21,606</TD><TD>388.98</TD></TR>
+<TR>
+<TD>Oct-04-01</TD><TD>410.00</TD><TD>420.00</TD><TD>410.00</TD><TD>411.00</TD><TD>28,861</TD><TD>393.98</TD></TR>
+<TR>
+<TD>Oct-02-01</TD><TD>434.01</TD><TD>440.00</TD><TD>417.00</TD><TD>419.99</TD><TD>31,187</TD><TD>402.97</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>428.00</TD><TD>436.00</TD><TD>407.00</TD><TD>435.00</TD><TD>33,486</TD><TD>417.98</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

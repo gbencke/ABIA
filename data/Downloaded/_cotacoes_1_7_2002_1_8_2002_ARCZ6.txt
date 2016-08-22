@@ -1,0 +1,138 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ARCZ6.SA (ARACRUZ CELULOSE SA)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>6.29</TD><TD>6.50</TD><TD>6.05</TD><TD>6.05</TD><TD>1,111</TD><TD>5.73</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>5.90</TD><TD>6.38</TD><TD>5.90</TD><TD>6.35</TD><TD>1,672</TD><TD>6.03</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>5.80</TD><TD>6.00</TD><TD>5.75</TD><TD>5.80</TD><TD>500</TD><TD>5.48</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>5.45</TD><TD>5.85</TD><TD>5.43</TD><TD>5.66</TD><TD>871</TD><TD>5.34</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>5.40</TD><TD>5.47</TD><TD>5.29</TD><TD>5.42</TD><TD>327</TD><TD>5.10</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>5.30</TD><TD>5.45</TD><TD>5.30</TD><TD>5.33</TD><TD>367</TD><TD>5.01</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>5.05</TD><TD>5.40</TD><TD>4.99</TD><TD>5.36</TD><TD>358</TD><TD>5.04</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>5.25</TD><TD>5.28</TD><TD>5.09</TD><TD>5.09</TD><TD>601</TD><TD>4.77</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>5.36</TD><TD>5.45</TD><TD>5.15</TD><TD>5.30</TD><TD>1,311</TD><TD>4.98</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>5.45</TD><TD>5.45</TD><TD>5.18</TD><TD>5.45</TD><TD>503</TD><TD>5.13</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>5.60</TD><TD>5.70</TD><TD>5.35</TD><TD>5.40</TD><TD>841</TD><TD>5.08</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>5.35</TD><TD>5.60</TD><TD>5.34</TD><TD>5.60</TD><TD>1,117</TD><TD>5.28</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>5.25</TD><TD>5.35</TD><TD>5.20</TD><TD>5.25</TD><TD>301</TD><TD>4.93</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>5.11</TD><TD>5.25</TD><TD>5.10</TD><TD>5.25</TD><TD>1,283</TD><TD>4.93</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>5.09</TD><TD>5.46</TD><TD>5.07</TD><TD>5.17</TD><TD>860</TD><TD>4.85</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>5.20</TD><TD>5.24</TD><TD>4.96</TD><TD>5.09</TD><TD>2,597</TD><TD>4.77</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>5.40</TD><TD>5.40</TD><TD>5.23</TD><TD>5.29</TD><TD>377</TD><TD>4.97</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>5.55</TD><TD>5.56</TD><TD>5.42</TD><TD>5.42</TD><TD>112</TD><TD>5.10</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>5.40</TD><TD>5.50</TD><TD>5.37</TD><TD>5.48</TD><TD>373</TD><TD>5.16</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>5.45</TD><TD>5.55</TD><TD>5.40</TD><TD>5.40</TD><TD>80</TD><TD>5.08</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>5.56</TD><TD>5.56</TD><TD>5.35</TD><TD>5.45</TD><TD>1,142</TD><TD>5.13</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>5.64</TD><TD>5.70</TD><TD>5.55</TD><TD>5.60</TD><TD>1,259</TD><TD>5.28</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>5.67</TD><TD>5.69</TD><TD>5.52</TD><TD>5.56</TD><TD>619</TD><TD>5.24</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNLP4.SA (TELE NORTE LESTE PARTICIPACOES )
+        </TD><TD>As of Aug-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-30-02</TD><TD>26.56</TD><TD>27.20</TD><TD>26.31</TD><TD>26.40</TD><TD>2,818,520</TD><TD>25.26</TD></TR>
+<TR>
+<TD>Aug-29-02</TD><TD>25.73</TD><TD>26.97</TD><TD>25.50</TD><TD>26.70</TD><TD>2,468,680</TD><TD>25.56</TD></TR>
+<TR>
+<TD>Aug-28-02</TD><TD>26.35</TD><TD>26.45</TD><TD>25.71</TD><TD>26.15</TD><TD>2,658,000</TD><TD>25.01</TD></TR>
+<TR>
+<TD>Aug-27-02</TD><TD>26.12</TD><TD>26.40</TD><TD>25.56</TD><TD>26.30</TD><TD>3,707,980</TD><TD>25.16</TD></TR>
+<TR>
+<TD>Aug-26-02</TD><TD>24.84</TD><TD>25.79</TD><TD>24.60</TD><TD>25.79</TD><TD>2,293,930</TD><TD>24.65</TD></TR>
+<TR>
+<TD>Aug-23-02</TD><TD>24.40</TD><TD>24.84</TD><TD>23.90</TD><TD>24.40</TD><TD>2,392,740</TD><TD>23.26</TD></TR>
+<TR>
+<TD>Aug-22-02</TD><TD>22.90</TD><TD>24.39</TD><TD>22.80</TD><TD>24.39</TD><TD>2,386,480</TD><TD>23.25</TD></TR>
+<TR>
+<TD>Aug-21-02</TD><TD>23.20</TD><TD>23.35</TD><TD>22.75</TD><TD>23.06</TD><TD>2,214,520</TD><TD>21.92</TD></TR>
+<TR>
+<TD>Aug-20-02</TD><TD>23.78</TD><TD>23.80</TD><TD>22.50</TD><TD>22.67</TD><TD>2,442,600</TD><TD>21.53</TD></TR>
+<TR>
+<TD>Aug-19-02</TD><TD>23.25</TD><TD>24.15</TD><TD>23.00</TD><TD>23.25</TD><TD>2,579,540</TD><TD>22.11</TD></TR>
+<TR>
+<TD>Aug-16-02</TD><TD>23.00</TD><TD>23.70</TD><TD>22.70</TD><TD>23.49</TD><TD>2,269,010</TD><TD>22.35</TD></TR>
+<TR>
+<TD>Aug-15-02</TD><TD>23.81</TD><TD>24.00</TD><TD>22.51</TD><TD>22.70</TD><TD>2,448,000</TD><TD>21.56</TD></TR>
+<TR>
+<TD>Aug-14-02</TD><TD>23.50</TD><TD>23.90</TD><TD>22.41</TD><TD>23.45</TD><TD>4,234,600</TD><TD>22.31</TD></TR>
+<TR>
+<TD>Aug-13-02</TD><TD>23.31</TD><TD>24.50</TD><TD>23.11</TD><TD>23.11</TD><TD>2,506,420</TD><TD>21.97</TD></TR>
+<TR>
+<TD>Aug-12-02</TD><TD>25.00</TD><TD>25.00</TD><TD>23.51</TD><TD>23.63</TD><TD>2,226,540</TD><TD>22.49</TD></TR>
+<TR>
+<TD>Aug-09-02</TD><TD>25.10</TD><TD>25.81</TD><TD>24.45</TD><TD>24.70</TD><TD>2,868,700</TD><TD>23.56</TD></TR>
+<TR>
+<TD>Aug-08-02</TD><TD>26.10</TD><TD>26.64</TD><TD>25.81</TD><TD>25.98</TD><TD>5,197,880</TD><TD>24.84</TD></TR>
+<TR>
+<TD>Aug-07-02</TD><TD>24.60</TD><TD>25.20</TD><TD>23.80</TD><TD>24.79</TD><TD>3,616,530</TD><TD>23.65</TD></TR>
+<TR>
+<TD>Aug-06-02</TD><TD>22.80</TD><TD>24.40</TD><TD>22.75</TD><TD>24.30</TD><TD>2,122,720</TD><TD>23.16</TD></TR>
+<TR>
+<TD>Aug-05-02</TD><TD>24.00</TD><TD>24.00</TD><TD>22.46</TD><TD>22.46</TD><TD>2,220,660</TD><TD>21.32</TD></TR>
+<TR>
+<TD>Aug-02-02</TD><TD>24.45</TD><TD>24.80</TD><TD>23.80</TD><TD>24.30</TD><TD>3,384,500</TD><TD>23.16</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>24.02</TD><TD>24.45</TD><TD>22.96</TD><TD>24.30</TD><TD>3,638,540</TD><TD>23.16</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNEP4.SA (TELE NORDESTE CELULAR PARTICIPA)
+        </TD><TD>As of Aug-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-30-02</TD><TD>2.72</TD><TD>2.74</TD><TD>2.50</TD><TD>2.50</TD><TD>2,946,430</TD><TD>2.42</TD></TR>
+<TR>
+<TD>Aug-29-02</TD><TD>2.67</TD><TD>2.78</TD><TD>2.59</TD><TD>2.69</TD><TD>1,976,880</TD><TD>2.61</TD></TR>
+<TR>
+<TD>Aug-28-02</TD><TD>2.74</TD><TD>2.74</TD><TD>2.67</TD><TD>2.67</TD><TD>1,173,760</TD><TD>2.59</TD></TR>
+<TR>
+<TD>Aug-27-02</TD><TD>2.70</TD><TD>2.77</TD><TD>2.66</TD><TD>2.66</TD><TD>2,145,930</TD><TD>2.58</TD></TR>
+<TR>
+<TD>Aug-26-02</TD><TD>2.58</TD><TD>2.70</TD><TD>2.58</TD><TD>2.70</TD><TD>2,034,310</TD><TD>2.62</TD></TR>
+<TR>
+<TD>Aug-23-02</TD><TD>2.62</TD><TD>2.67</TD><TD>2.55</TD><TD>2.55</TD><TD>1,384,110</TD><TD>2.47</TD></TR>
+<TR>
+<TD>Aug-22-02</TD><TD>2.52</TD><TD>2.68</TD><TD>2.52</TD><TD>2.68</TD><TD>1,852,560</TD><TD>2.60</TD></TR>
+<TR>
+<TD>Aug-21-02</TD><TD>2.43</TD><TD>2.59</TD><TD>2.43</TD><TD>2.53</TD><TD>1,309,040</TD><TD>2.45</TD></TR>
+<TR>
+<TD>Aug-20-02</TD><TD>2.46</TD><TD>2.46</TD><TD>2.37</TD><TD>2.38</TD><TD>620,011</TD><TD>2.30</TD></TR>
+<TR>
+<TD>Aug-19-02</TD><TD>2.50</TD><TD>2.53</TD><TD>2.41</TD><TD>2.42</TD><TD>856,451</TD><TD>2.34</TD></TR>
+<TR>
+<TD>Aug-16-02</TD><TD>2.33</TD><TD>2.54</TD><TD>2.32</TD><TD>2.54</TD><TD>991,585</TD><TD>2.46</TD></TR>
+<TR>
+<TD>Aug-15-02</TD><TD>2.42</TD><TD>2.44</TD><TD>2.32</TD><TD>2.32</TD><TD>626,349</TD><TD>2.24</TD></TR>
+<TR>
+<TD>Aug-14-02</TD><TD>2.49</TD><TD>2.49</TD><TD>2.25</TD><TD>2.33</TD><TD>2,598,220</TD><TD>2.25</TD></TR>
+<TR>
+<TD>Aug-13-02</TD><TD>2.63</TD><TD>2.63</TD><TD>2.38</TD><TD>2.40</TD><TD>1,527,170</TD><TD>2.32</TD></TR>
+<TR>
+<TD>Aug-12-02</TD><TD>2.60</TD><TD>2.63</TD><TD>2.57</TD><TD>2.60</TD><TD>797,176</TD><TD>2.52</TD></TR>
+<TR>
+<TD>Aug-09-02</TD><TD>2.72</TD><TD>2.73</TD><TD>2.60</TD><TD>2.60</TD><TD>1,458,300</TD><TD>2.52</TD></TR>
+<TR>
+<TD>Aug-08-02</TD><TD>2.75</TD><TD>2.80</TD><TD>2.71</TD><TD>2.75</TD><TD>1,553,490</TD><TD>2.67</TD></TR>
+<TR>
+<TD>Aug-07-02</TD><TD>2.73</TD><TD>2.75</TD><TD>2.61</TD><TD>2.64</TD><TD>1,349,580</TD><TD>2.56</TD></TR>
+<TR>
+<TD>Aug-06-02</TD><TD>2.67</TD><TD>2.73</TD><TD>2.63</TD><TD>2.67</TD><TD>1,509,180</TD><TD>2.59</TD></TR>
+<TR>
+<TD>Aug-05-02</TD><TD>2.80</TD><TD>2.83</TD><TD>2.60</TD><TD>2.60</TD><TD>864,673</TD><TD>2.52</TD></TR>
+<TR>
+<TD>Aug-02-02</TD><TD>2.82</TD><TD>2.90</TD><TD>2.76</TD><TD>2.76</TD><TD>1,421,310</TD><TD>2.68</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>2.78</TD><TD>3.02</TD><TD>2.76</TD><TD>2.82</TD><TD>1,306,310</TD><TD>2.74</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

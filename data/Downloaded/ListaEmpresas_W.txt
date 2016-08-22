@@ -1,0 +1,123 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WEG S.A.&ccvm=5410&site=B&pregao=WEG&mercado=16&pagina=itr_dfp_ian">WEG</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WEG S.A.&ccvm=5410&site=B&pregao=WEG&mercado=16&pagina=itr_dfp_ian">WEG S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=WEG S.A.&ccvm=5410&site=B&pregao=WEG&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WEMBLEY SOCIEDADE ANONIMA&ccvm=11800&site=B&pregao=WEMBLEY&mercado=1&pagina=itr_dfp_ian">WEMBLEY</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WEMBLEY SOCIEDADE ANONIMA&ccvm=11800&site=B&pregao=WEMBLEY&mercado=1&pagina=itr_dfp_ian">WEMBLEY SOCIEDADE ANONIMA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=WEMBLEY SOCIEDADE ANONIMA&ccvm=11800&site=B&pregao=WEMBLEY&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WETZEL S.A.&ccvm=11991&site=B&pregao=WETZEL S/A&mercado=1&pagina=itr_dfp_ian">WETZEL S/A</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WETZEL S.A.&ccvm=11991&site=B&pregao=WETZEL S/A&mercado=1&pagina=itr_dfp_ian">WETZEL S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=WETZEL S.A.&ccvm=11991&site=B&pregao=WETZEL S/A&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WIEST S.A.&ccvm=14397&site=B&pregao=WIEST&mercado=1&pagina=itr_dfp_ian">WIEST</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WIEST S.A.&ccvm=14397&site=B&pregao=WIEST&mercado=1&pagina=itr_dfp_ian">WIEST S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=WIEST S.A.&ccvm=14397&site=B&pregao=WIEST&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WT NSBC SECURITIZADORA CRED IMOB S.A.&ccvm=19356&site=B&pregao=WT NSBC&mercado=1&pagina=itr_dfp_ian">WT NSBC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WT NSBC SECURITIZADORA CRED IMOB S.A.&ccvm=19356&site=B&pregao=WT NSBC&mercado=1&pagina=itr_dfp_ian">WT NSBC SECURITIZADORA CRED IMOB S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=WT NSBC SECURITIZADORA CRED IMOB S.A.&ccvm=19356&site=B&pregao=WT NSBC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WT TC SECURITIZADORA CRED IMOB S.A.&ccvm=19380&site=B&pregao=WT TC&mercado=1&pagina=itr_dfp_ian">WT TC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=WT TC SECURITIZADORA CRED IMOB S.A.&ccvm=19380&site=B&pregao=WT TC&mercado=1&pagina=itr_dfp_ian">WT TC SECURITIZADORA CRED IMOB S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=WT TC SECURITIZADORA CRED IMOB S.A.&ccvm=19380&site=B&pregao=WT TC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

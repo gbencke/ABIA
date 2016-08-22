@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CRTP5.SA (CELULAR CRT PARTICIPACOES SA)
+        </TD><TD>As of Feb-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-02</TD><TD>451.00</TD><TD>451.00</TD><TD>433.00</TD><TD>441.00</TD><TD>1,687</TD><TD>421.32</TD></TR>
+<TR>
+<TD>Jan-31-02</TD><TD>453.00</TD><TD>465.00</TD><TD>441.00</TD><TD>450.00</TD><TD>2,102</TD><TD>430.32</TD></TR>
+<TR>
+<TD>Jan-30-02</TD><TD>454.00</TD><TD>454.50</TD><TD>445.02</TD><TD>453.00</TD><TD>2,218</TD><TD>433.32</TD></TR>
+<TR>
+<TD>Jan-29-02</TD><TD>470.00</TD><TD>480.00</TD><TD>440.00</TD><TD>454.50</TD><TD>2,346</TD><TD>434.82</TD></TR>
+<TR>
+<TD>Jan-28-02</TD><TD>472.00</TD><TD>475.00</TD><TD>470.00</TD><TD>470.00</TD><TD>3,105</TD><TD>450.32</TD></TR>
+<TR>
+<TD>Jan-24-02</TD><TD>470.00</TD><TD>478.00</TD><TD>470.00</TD><TD>472.00</TD><TD>3,221</TD><TD>452.32</TD></TR>
+<TR>
+<TD>Jan-23-02</TD><TD>460.00</TD><TD>470.00</TD><TD>450.01</TD><TD>465.00</TD><TD>3,558</TD><TD>445.32</TD></TR>
+<TR>
+<TD>Jan-22-02</TD><TD>460.00</TD><TD>460.01</TD><TD>445.00</TD><TD>445.00</TD><TD>6,033</TD><TD>425.32</TD></TR>
+<TR>
+<TD>Jan-21-02</TD><TD>466.00</TD><TD>470.00</TD><TD>460.00</TD><TD>460.00</TD><TD>1,452</TD><TD>440.32</TD></TR>
+<TR>
+<TD>Jan-18-02</TD><TD>471.00</TD><TD>474.00</TD><TD>468.00</TD><TD>470.00</TD><TD>4,857</TD><TD>450.32</TD></TR>
+<TR>
+<TD>Jan-17-02</TD><TD>480.00</TD><TD>485.00</TD><TD>469.00</TD><TD>473.00</TD><TD>14,727</TD><TD>453.32</TD></TR>
+<TR>
+<TD>Jan-16-02</TD><TD>486.00</TD><TD>486.00</TD><TD>460.00</TD><TD>470.05</TD><TD>11,921</TD><TD>450.37</TD></TR>
+<TR>
+<TD>Jan-15-02</TD><TD>510.00</TD><TD>510.00</TD><TD>484.96</TD><TD>486.00</TD><TD>13,032</TD><TD>466.32</TD></TR>
+<TR>
+<TD>Jan-14-02</TD><TD>500.00</TD><TD>500.00</TD><TD>485.00</TD><TD>490.10</TD><TD>9,702</TD><TD>470.42</TD></TR>
+<TR>
+<TD>Jan-11-02</TD><TD>514.00</TD><TD>535.00</TD><TD>510.00</TD><TD>514.99</TD><TD>2,814</TD><TD>495.31</TD></TR>
+<TR>
+<TD>Jan-10-02</TD><TD>525.00</TD><TD>525.00</TD><TD>500.00</TD><TD>514.99</TD><TD>11,036</TD><TD>495.31</TD></TR>
+<TR>
+<TD>Jan-09-02</TD><TD>548.00</TD><TD>548.00</TD><TD>520.00</TD><TD>535.00</TD><TD>9,791</TD><TD>515.32</TD></TR>
+<TR>
+<TD>Jan-08-02</TD><TD>542.00</TD><TD>542.00</TD><TD>525.02</TD><TD>535.00</TD><TD>16,113</TD><TD>515.32</TD></TR>
+<TR>
+<TD>Jan-07-02</TD><TD>564.00</TD><TD>564.00</TD><TD>540.00</TD><TD>548.99</TD><TD>6,689</TD><TD>529.31</TD></TR>
+<TR>
+<TD>Jan-04-02</TD><TD>535.05</TD><TD>564.00</TD><TD>530.00</TD><TD>564.00</TD><TD>14,719</TD><TD>544.32</TD></TR>
+<TR>
+<TD>Jan-03-02</TD><TD>525.00</TD><TD>547.00</TD><TD>525.00</TD><TD>542.00</TD><TD>14,295</TD><TD>522.32</TD></TR>
+<TR>
+<TD>Jan-02-02</TD><TD>494.00</TD><TD>515.00</TD><TD>494.00</TD><TD>515.00</TD><TD>18,289</TD><TD>495.32</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

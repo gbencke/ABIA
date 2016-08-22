@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TCSL4.SA (TELE CELULAR SUL PARTICIPACOES )
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>2.25</TD><TD>2.25</TD><TD>2.16</TD><TD>2.17</TD><TD>975,055</TD><TD>2.17</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>2.27</TD><TD>2.28</TD><TD>2.20</TD><TD>2.25</TD><TD>1,136,900</TD><TD>2.25</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>2.29</TD><TD>2.31</TD><TD>2.20</TD><TD>2.23</TD><TD>715,426</TD><TD>2.23</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>2.33</TD><TD>2.37</TD><TD>2.28</TD><TD>2.29</TD><TD>1,122,800</TD><TD>2.29</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>2.33</TD><TD>2.34</TD><TD>2.31</TD><TD>2.32</TD><TD>769,500</TD><TD>2.32</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>2.36</TD><TD>2.36</TD><TD>2.31</TD><TD>2.34</TD><TD>582,191</TD><TD>2.34</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>2.32</TD><TD>2.38</TD><TD>2.31</TD><TD>2.34</TD><TD>1,436,100</TD><TD>2.34</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>2.35</TD><TD>2.36</TD><TD>2.29</TD><TD>2.30</TD><TD>1,639,790</TD><TD>2.30</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>2.35</TD><TD>2.35</TD><TD>2.31</TD><TD>2.31</TD><TD>739,431</TD><TD>2.31</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>2.38</TD><TD>2.39</TD><TD>2.32</TD><TD>2.34</TD><TD>628,183</TD><TD>2.34</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>2.38</TD><TD>2.41</TD><TD>2.35</TD><TD>2.36</TD><TD>700,364</TD><TD>2.36</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>2.36</TD><TD>2.41</TD><TD>2.35</TD><TD>2.36</TD><TD>516,454</TD><TD>2.36</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>2.39</TD><TD>2.42</TD><TD>2.36</TD><TD>2.38</TD><TD>542,348</TD><TD>2.38</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>2.44</TD><TD>2.46</TD><TD>2.38</TD><TD>2.39</TD><TD>843,201</TD><TD>2.39</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>2.42</TD><TD>2.43</TD><TD>2.36</TD><TD>2.39</TD><TD>658,468</TD><TD>2.39</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>2.39</TD><TD>2.42</TD><TD>2.35</TD><TD>2.39</TD><TD>456,625</TD><TD>2.39</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>2.41</TD><TD>2.41</TD><TD>2.34</TD><TD>2.39</TD><TD>745,649</TD><TD>2.39</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>2.43</TD><TD>2.46</TD><TD>2.40</TD><TD>2.42</TD><TD>586,031</TD><TD>2.42</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>2.51</TD><TD>2.54</TD><TD>2.43</TD><TD>2.43</TD><TD>991,369</TD><TD>2.43</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>2.43</TD><TD>2.52</TD><TD>2.43</TD><TD>2.52</TD><TD>189,063</TD><TD>2.52</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>2.48</TD><TD>2.49</TD><TD>2.43</TD><TD>2.49</TD><TD>845,375</TD><TD>2.49</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>2.45</TD><TD>2.50</TD><TD>2.42</TD><TD>2.48</TD><TD>787,719</TD><TD>2.48</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>2.41</TD><TD>2.45</TD><TD>2.33</TD><TD>2.45</TD><TD>1,618,950</TD><TD>2.45</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

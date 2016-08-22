@@ -1,0 +1,132 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ITSA4.SA (ITAUSA INVESTIMENTOS ITAU SA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>1.85</TD><TD>1.85</TD><TD>1.80</TD><TD>1.80</TD><TD>3,252</TD><TD>1.65</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>1.85</TD><TD>1.89</TD><TD>1.82</TD><TD>1.88</TD><TD>4,544</TD><TD>1.73</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>1.75</TD><TD>1.85</TD><TD>1.74</TD><TD>1.83</TD><TD>7,492</TD><TD>1.68</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>1.74</TD><TD>1.77</TD><TD>1.71</TD><TD>1.72</TD><TD>4,256</TD><TD>1.57</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>1.82</TD><TD>1.82</TD><TD>1.76</TD><TD>1.76</TD><TD>6,108</TD><TD>1.61</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>1.72</TD><TD>1.83</TD><TD>1.69</TD><TD>1.83</TD><TD>4,066</TD><TD>1.68</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>1.67</TD><TD>1.76</TD><TD>1.64</TD><TD>1.73</TD><TD>7,612</TD><TD>1.58</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>1.57</TD><TD>1.67</TD><TD>1.55</TD><TD>1.67</TD><TD>4,128</TD><TD>1.52</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>1.51</TD><TD>1.58</TD><TD>1.49</TD><TD>1.58</TD><TD>2,269</TD><TD>1.43</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>1.52</TD><TD>1.53</TD><TD>1.49</TD><TD>1.52</TD><TD>2,347</TD><TD>1.37</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>1.51</TD><TD>1.54</TD><TD>1.50</TD><TD>1.53</TD><TD>4,879</TD><TD>1.38</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>1.48</TD><TD>1.52</TD><TD>1.48</TD><TD>1.51</TD><TD>11,670</TD><TD>1.36</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>1.47</TD><TD>1.47</TD><TD>1.42</TD><TD>1.44</TD><TD>4,164</TD><TD>1.29</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>1.50</TD><TD>1.50</TD><TD>1.46</TD><TD>1.47</TD><TD>2,080</TD><TD>1.32</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>1.50</TD><TD>1.50</TD><TD>1.47</TD><TD>1.49</TD><TD>4,246</TD><TD>1.34</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>1.51</TD><TD>1.54</TD><TD>1.50</TD><TD>1.52</TD><TD>3,252</TD><TD>1.37</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>1.49</TD><TD>1.53</TD><TD>1.47</TD><TD>1.51</TD><TD>3,180</TD><TD>1.36</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>1.47</TD><TD>1.51</TD><TD>1.45</TD><TD>1.46</TD><TD>5,423</TD><TD>1.31</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>1.53</TD><TD>1.53</TD><TD>1.47</TD><TD>1.51</TD><TD>2,004</TD><TD>1.36</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>1.59</TD><TD>1.59</TD><TD>1.50</TD><TD>1.51</TD><TD>1,825</TD><TD>1.36</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>1.59</TD><TD>1.59</TD><TD>1.55</TD><TD>1.57</TD><TD>2,528</TD><TD>1.42</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>1.52</TD><TD>1.57</TD><TD>1.51</TD><TD>1.57</TD><TD>4,707</TD><TD>1.42</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>1.56</TD><TD>1.58</TD><TD>1.51</TD><TD>1.51</TD><TD>4,365</TD><TD>1.36</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>$0.00 Cash Dividend</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>1.47</TD><TD>1.55</TD><TD>1.45</TD><TD>1.54</TD><TD>2,392</TD><TD>1.39</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

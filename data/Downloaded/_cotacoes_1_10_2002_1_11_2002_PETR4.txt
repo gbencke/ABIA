@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PETR4.SA (PETROLEO BRASILEIRO SA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>44.40</TD><TD>45.49</TD><TD>43.55</TD><TD>44.19</TD><TD>1,307</TD><TD>42.63</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>43.70</TD><TD>44.49</TD><TD>43.10</TD><TD>44.30</TD><TD>1,140</TD><TD>42.74</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>42.95</TD><TD>43.55</TD><TD>42.00</TD><TD>43.50</TD><TD>1,698</TD><TD>41.94</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>41.97</TD><TD>42.40</TD><TD>41.20</TD><TD>41.40</TD><TD>1,393</TD><TD>39.84</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>43.42</TD><TD>43.80</TD><TD>41.82</TD><TD>42.00</TD><TD>1,215</TD><TD>40.44</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>42.85</TD><TD>44.39</TD><TD>42.10</TD><TD>43.41</TD><TD>1,252</TD><TD>41.85</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>42.25</TD><TD>44.80</TD><TD>41.54</TD><TD>43.09</TD><TD>2,453</TD><TD>41.53</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>39.95</TD><TD>42.20</TD><TD>39.00</TD><TD>42.20</TD><TD>1,812</TD><TD>40.64</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>38.58</TD><TD>39.90</TD><TD>38.11</TD><TD>39.90</TD><TD>1,117</TD><TD>38.34</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>39.00</TD><TD>39.35</TD><TD>37.85</TD><TD>39.25</TD><TD>1,383</TD><TD>37.69</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>38.25</TD><TD>39.40</TD><TD>37.70</TD><TD>39.00</TD><TD>1,000</TD><TD>37.44</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>35.85</TD><TD>38.30</TD><TD>35.85</TD><TD>38.30</TD><TD>1,508</TD><TD>36.74</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>35.48</TD><TD>35.59</TD><TD>34.70</TD><TD>35.20</TD><TD>1,443</TD><TD>33.64</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>35.40</TD><TD>36.48</TD><TD>35.16</TD><TD>35.16</TD><TD>962</TD><TD>33.60</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>35.90</TD><TD>36.41</TD><TD>35.15</TD><TD>35.15</TD><TD>1,698</TD><TD>33.59</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>38.96</TD><TD>39.20</TD><TD>37.05</TD><TD>37.05</TD><TD>1,478</TD><TD>35.49</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>38.85</TD><TD>39.90</TD><TD>38.01</TD><TD>38.39</TD><TD>1,493</TD><TD>36.83</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>38.75</TD><TD>39.20</TD><TD>38.02</TD><TD>39.20</TD><TD>1,110</TD><TD>37.64</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>39.17</TD><TD>39.50</TD><TD>37.52</TD><TD>39.50</TD><TD>1,421</TD><TD>37.94</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>41.00</TD><TD>41.40</TD><TD>38.90</TD><TD>39.05</TD><TD>915</TD><TD>37.49</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>41.01</TD><TD>41.35</TD><TD>40.57</TD><TD>40.65</TD><TD>684</TD><TD>39.09</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>39.75</TD><TD>41.40</TD><TD>39.20</TD><TD>40.69</TD><TD>917</TD><TD>39.13</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>40.15</TD><TD>40.90</TD><TD>39.02</TD><TD>39.60</TD><TD>1,371</TD><TD>38.04</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>37.56</TD><TD>40.60</TD><TD>37.11</TD><TD>39.67</TD><TD>1,850</TD><TD>38.11</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

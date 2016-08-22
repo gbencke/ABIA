@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VCPA4.SA (VOTORANTIM CELULOSE E PAPEL SA)
+        </TD><TD>As of Aug-29-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-29-03</TD><TD>145.00</TD><TD>155.50</TD><TD>145.00</TD><TD>155.00</TD><TD>21,434</TD><TD>155.00</TD></TR>
+<TR>
+<TD>Aug-28-03</TD><TD>151.01</TD><TD>151.01</TD><TD>149.00</TD><TD>149.51</TD><TD>25,158</TD><TD>149.51</TD></TR>
+<TR>
+<TD>Aug-27-03</TD><TD>151.00</TD><TD>151.49</TD><TD>150.00</TD><TD>151.49</TD><TD>13,340</TD><TD>151.49</TD></TR>
+<TR>
+<TD>Aug-26-03</TD><TD>146.01</TD><TD>151.00</TD><TD>145.20</TD><TD>150.70</TD><TD>35,226</TD><TD>150.70</TD></TR>
+<TR>
+<TD>Aug-25-03</TD><TD>148.80</TD><TD>150.00</TD><TD>145.29</TD><TD>146.00</TD><TD>19,117</TD><TD>146.00</TD></TR>
+<TR>
+<TD>Aug-22-03</TD><TD>151.00</TD><TD>152.30</TD><TD>147.56</TD><TD>147.90</TD><TD>38,591</TD><TD>147.90</TD></TR>
+<TR>
+<TD>Aug-21-03</TD><TD>146.99</TD><TD>150.00</TD><TD>145.99</TD><TD>150.00</TD><TD>64,258</TD><TD>150.00</TD></TR>
+<TR>
+<TD>Aug-20-03</TD><TD>144.80</TD><TD>146.99</TD><TD>143.02</TD><TD>146.80</TD><TD>43,109</TD><TD>146.80</TD></TR>
+<TR>
+<TD>Aug-19-03</TD><TD>144.96</TD><TD>145.00</TD><TD>144.60</TD><TD>144.99</TD><TD>11,124</TD><TD>144.99</TD></TR>
+<TR>
+<TD>Aug-18-03</TD><TD>142.94</TD><TD>144.99</TD><TD>142.61</TD><TD>144.97</TD><TD>15,268</TD><TD>144.97</TD></TR>
+<TR>
+<TD>Aug-15-03</TD><TD>140.91</TD><TD>143.50</TD><TD>140.91</TD><TD>141.99</TD><TD>9,556</TD><TD>141.99</TD></TR>
+<TR>
+<TD>Aug-14-03</TD><TD>141.99</TD><TD>142.00</TD><TD>141.00</TD><TD>141.00</TD><TD>19,438</TD><TD>141.00</TD></TR>
+<TR>
+<TD>Aug-13-03</TD><TD>137.50</TD><TD>142.94</TD><TD>137.50</TD><TD>142.00</TD><TD>46,110</TD><TD>142.00</TD></TR>
+<TR>
+<TD>Aug-12-03</TD><TD>134.90</TD><TD>137.50</TD><TD>134.90</TD><TD>137.50</TD><TD>23,635</TD><TD>137.50</TD></TR>
+<TR>
+<TD>Aug-11-03</TD><TD>133.00</TD><TD>133.80</TD><TD>132.00</TD><TD>133.00</TD><TD>16,317</TD><TD>133.00</TD></TR>
+<TR>
+<TD>Aug-08-03</TD><TD>133.00</TD><TD>133.00</TD><TD>131.00</TD><TD>132.20</TD><TD>30,061</TD><TD>132.20</TD></TR>
+<TR>
+<TD>Aug-07-03</TD><TD>133.05</TD><TD>133.50</TD><TD>131.90</TD><TD>132.50</TD><TD>67,812</TD><TD>132.50</TD></TR>
+<TR>
+<TD>Aug-06-03</TD><TD>133.80</TD><TD>133.80</TD><TD>132.22</TD><TD>132.80</TD><TD>29,866</TD><TD>132.80</TD></TR>
+<TR>
+<TD>Aug-05-03</TD><TD>137.01</TD><TD>138.00</TD><TD>134.00</TD><TD>134.20</TD><TD>8,411</TD><TD>134.20</TD></TR>
+<TR>
+<TD>Aug-04-03</TD><TD>136.45</TD><TD>138.99</TD><TD>136.45</TD><TD>138.50</TD><TD>10,011</TD><TD>138.50</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>137.00</TD><TD>137.45</TD><TD>135.11</TD><TD>137.00</TD><TD>42,625</TD><TD>137.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,134 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>8,642.00</TD><TD>9,021.00</TD><TD>8,637.00</TD><TD>8,998.00</TD><TD>0</TD><TD>8,998.00</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>8,718.00</TD><TD>8,720.00</TD><TD>8,352.00</TD><TD>8,623.00</TD><TD>0</TD><TD>8,623.00</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>9,200.00</TD><TD>9,202.00</TD><TD>8,703.00</TD><TD>8,716.00</TD><TD>0</TD><TD>8,716.00</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>9,251.00</TD><TD>9,386.00</TD><TD>9,170.00</TD><TD>9,199.00</TD><TD>0</TD><TD>9,199.00</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>9,207.00</TD><TD>9,357.00</TD><TD>9,207.00</TD><TD>9,228.00</TD><TD>0</TD><TD>9,228.00</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>9,245.00</TD><TD>9,341.00</TD><TD>9,069.00</TD><TD>9,148.00</TD><TD>0</TD><TD>9,148.00</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>9,575.00</TD><TD>9,575.00</TD><TD>9,137.00</TD><TD>9,264.00</TD><TD>0</TD><TD>9,264.00</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>9,375.00</TD><TD>9,638.00</TD><TD>9,375.00</TD><TD>9,585.00</TD><TD>0</TD><TD>9,585.00</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>9,512.00</TD><TD>9,626.00</TD><TD>9,353.00</TD><TD>9,372.00</TD><TD>0</TD><TD>9,372.00</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>9,626.00</TD><TD>9,638.00</TD><TD>9,399.00</TD><TD>9,505.00</TD><TD>0</TD><TD>9,505.00</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>9,855.00</TD><TD>9,943.00</TD><TD>9,613.00</TD><TD>9,650.00</TD><TD>0</TD><TD>9,650.00</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>10,171.00</TD><TD>10,172.00</TD><TD>9,822.00</TD><TD>9,831.00</TD><TD>0</TD><TD>9,831.00</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>10,156.00</TD><TD>10,219.00</TD><TD>10,086.00</TD><TD>10,181.00</TD><TD>0</TD><TD>10,181.00</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>10,182.00</TD><TD>10,188.00</TD><TD>10,032.00</TD><TD>10,173.00</TD><TD>0</TD><TD>10,173.00</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>9,967.00</TD><TD>10,248.00</TD><TD>9,967.00</TD><TD>10,182.00</TD><TD>0</TD><TD>10,182.00</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>9,962.00</TD><TD>10,052.00</TD><TD>9,841.00</TD><TD>9,960.00</TD><TD>0</TD><TD>9,960.00</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>9,725.00</TD><TD>9,955.00</TD><TD>9,716.00</TD><TD>9,954.00</TD><TD>0</TD><TD>9,954.00</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>9,739.00</TD><TD>9,882.00</TD><TD>9,643.00</TD><TD>9,717.00</TD><TD>0</TD><TD>9,717.00</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>9,993.00</TD><TD>9,993.00</TD><TD>9,709.00</TD><TD>9,723.00</TD><TD>0</TD><TD>9,723.00</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>10,167.00</TD><TD>10,174.00</TD><TD>9,921.00</TD><TD>9,997.00</TD><TD>0</TD><TD>9,997.00</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>10,365.00</TD><TD>10,372.00</TD><TD>10,065.00</TD><TD>10,136.00</TD><TD>0</TD><TD>10,136.00</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>10,383.00</TD><TD>10,477.00</TD><TD>10,312.00</TD><TD>10,378.00</TD><TD>0</TD><TD>10,378.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

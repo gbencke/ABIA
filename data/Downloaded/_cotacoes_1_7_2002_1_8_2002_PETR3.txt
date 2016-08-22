@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PETR3.SA (PETROLEO BRASILEIRO SA)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>45.00</TD><TD>45.67</TD><TD>43.70</TD><TD>45.01</TD><TD>414</TD><TD>43.45</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>43.01</TD><TD>45.70</TD><TD>43.00</TD><TD>45.00</TD><TD>460</TD><TD>43.44</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>40.98</TD><TD>42.30</TD><TD>40.50</TD><TD>42.10</TD><TD>920</TD><TD>40.54</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>42.11</TD><TD>42.99</TD><TD>40.00</TD><TD>40.00</TD><TD>593</TD><TD>38.44</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>42.50</TD><TD>44.50</TD><TD>41.00</TD><TD>41.49</TD><TD>468</TD><TD>39.93</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>43.99</TD><TD>44.00</TD><TD>42.80</TD><TD>43.50</TD><TD>518</TD><TD>41.94</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>41.00</TD><TD>44.80</TD><TD>40.50</TD><TD>44.20</TD><TD>643</TD><TD>42.64</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>42.30</TD><TD>44.20</TD><TD>42.00</TD><TD>42.00</TD><TD>515</TD><TD>40.44</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>47.00</TD><TD>47.00</TD><TD>43.00</TD><TD>43.00</TD><TD>1,127</TD><TD>41.44</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>48.10</TD><TD>48.39</TD><TD>47.15</TD><TD>47.20</TD><TD>166</TD><TD>45.64</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>50.10</TD><TD>50.10</TD><TD>48.65</TD><TD>48.65</TD><TD>480</TD><TD>47.09</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>49.50</TD><TD>50.23</TD><TD>49.43</TD><TD>50.02</TD><TD>772</TD><TD>48.46</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>48.25</TD><TD>49.00</TD><TD>48.00</TD><TD>49.00</TD><TD>257</TD><TD>47.44</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>48.61</TD><TD>48.70</TD><TD>47.50</TD><TD>48.10</TD><TD>286</TD><TD>46.54</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>49.10</TD><TD>49.60</TD><TD>48.60</TD><TD>49.00</TD><TD>549</TD><TD>47.44</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>49.40</TD><TD>49.50</TD><TD>48.60</TD><TD>48.80</TD><TD>267</TD><TD>47.24</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>50.00</TD><TD>51.00</TD><TD>49.50</TD><TD>49.80</TD><TD>189</TD><TD>48.24</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>50.55</TD><TD>50.55</TD><TD>49.20</TD><TD>49.41</TD><TD>149</TD><TD>47.85</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>50.80</TD><TD>50.80</TD><TD>49.80</TD><TD>50.15</TD><TD>143</TD><TD>48.59</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>51.00</TD><TD>51.50</TD><TD>50.80</TD><TD>51.00</TD><TD>296</TD><TD>49.44</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>52.69</TD><TD>52.69</TD><TD>50.60</TD><TD>51.20</TD><TD>334</TD><TD>49.64</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>52.60</TD><TD>52.60</TD><TD>50.80</TD><TD>51.60</TD><TD>261</TD><TD>50.04</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>53.50</TD><TD>53.50</TD><TD>52.20</TD><TD>52.75</TD><TD>186</TD><TD>51.19</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

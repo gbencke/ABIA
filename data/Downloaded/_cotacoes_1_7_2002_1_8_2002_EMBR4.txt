@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EMBR4.SA (EMBRAER SA)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>14.90</TD><TD>14.90</TD><TD>14.00</TD><TD>14.40</TD><TD>1,883</TD><TD>14.09</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>14.50</TD><TD>15.10</TD><TD>14.50</TD><TD>14.78</TD><TD>2,014</TD><TD>14.47</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>14.50</TD><TD>15.00</TD><TD>14.40</TD><TD>14.55</TD><TD>844</TD><TD>14.24</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>13.85</TD><TD>14.90</TD><TD>13.85</TD><TD>14.55</TD><TD>1,660</TD><TD>14.24</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>14.20</TD><TD>14.30</TD><TD>13.72</TD><TD>13.80</TD><TD>290</TD><TD>13.49</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>13.90</TD><TD>14.15</TD><TD>13.62</TD><TD>14.10</TD><TD>713</TD><TD>13.79</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>14.05</TD><TD>14.20</TD><TD>13.06</TD><TD>13.60</TD><TD>1,391</TD><TD>13.29</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>14.93</TD><TD>14.93</TD><TD>13.95</TD><TD>14.05</TD><TD>484</TD><TD>13.74</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>14.95</TD><TD>14.95</TD><TD>14.20</TD><TD>14.54</TD><TD>1,183</TD><TD>14.23</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>15.10</TD><TD>15.10</TD><TD>14.70</TD><TD>14.82</TD><TD>500</TD><TD>14.51</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>15.15</TD><TD>15.19</TD><TD>15.00</TD><TD>15.15</TD><TD>307</TD><TD>14.84</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>14.80</TD><TD>15.30</TD><TD>14.80</TD><TD>15.24</TD><TD>949</TD><TD>14.93</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>14.50</TD><TD>14.95</TD><TD>14.50</TD><TD>14.70</TD><TD>978</TD><TD>14.39</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>$0.09 Cash Dividend</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>14.55</TD><TD>14.65</TD><TD>14.11</TD><TD>14.57</TD><TD>577</TD><TD>14.26</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>14.79</TD><TD>14.80</TD><TD>14.35</TD><TD>14.55</TD><TD>396</TD><TD>14.15</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>14.90</TD><TD>14.90</TD><TD>14.41</TD><TD>14.79</TD><TD>761</TD><TD>14.39</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>15.00</TD><TD>15.08</TD><TD>14.53</TD><TD>14.60</TD><TD>886</TD><TD>14.20</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>14.90</TD><TD>15.20</TD><TD>14.86</TD><TD>15.05</TD><TD>401</TD><TD>14.65</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>14.90</TD><TD>15.00</TD><TD>14.60</TD><TD>14.85</TD><TD>233</TD><TD>14.45</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>14.80</TD><TD>14.90</TD><TD>14.55</TD><TD>14.90</TD><TD>124</TD><TD>14.50</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>14.99</TD><TD>15.06</TD><TD>14.35</TD><TD>14.75</TD><TD>458</TD><TD>14.35</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>15.02</TD><TD>15.30</TD><TD>14.80</TD><TD>15.06</TD><TD>794</TD><TD>14.66</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>14.99</TD><TD>15.25</TD><TD>14.99</TD><TD>15.16</TD><TD>426</TD><TD>14.76</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

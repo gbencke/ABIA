@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VALE3.SA (COMPANHIA VALE DO RIO DOCE)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>51.50</TD><TD>52.00</TD><TD>51.50</TD><TD>52.00</TD><TD>10</TD><TD>41.47</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>51.99</TD><TD>52.00</TD><TD>51.70</TD><TD>51.75</TD><TD>27</TD><TD>41.22</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>51.60</TD><TD>52.00</TD><TD>51.20</TD><TD>52.00</TD><TD>30</TD><TD>41.47</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>51.99</TD><TD>52.01</TD><TD>51.90</TD><TD>52.00</TD><TD>17</TD><TD>41.47</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>51.50</TD><TD>52.00</TD><TD>51.50</TD><TD>51.90</TD><TD>107</TD><TD>41.37</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>52.00</TD><TD>52.00</TD><TD>51.50</TD><TD>51.50</TD><TD>6</TD><TD>40.97</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>50.50</TD><TD>52.00</TD><TD>50.50</TD><TD>52.00</TD><TD>11</TD><TD>41.47</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>51.02</TD><TD>51.02</TD><TD>50.65</TD><TD>50.65</TD><TD>21</TD><TD>40.12</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>50.40</TD><TD>51.00</TD><TD>50.39</TD><TD>50.90</TD><TD>52</TD><TD>40.37</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>50.30</TD><TD>50.45</TD><TD>50.00</TD><TD>50.30</TD><TD>11</TD><TD>39.77</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>50.50</TD><TD>50.50</TD><TD>50.30</TD><TD>50.30</TD><TD>25</TD><TD>39.77</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>51.00</TD><TD>51.00</TD><TD>50.30</TD><TD>50.50</TD><TD>20</TD><TD>39.97</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>50.99</TD><TD>51.00</TD><TD>49.99</TD><TD>50.50</TD><TD>378</TD><TD>39.97</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>50.50</TD><TD>51.00</TD><TD>50.00</TD><TD>51.00</TD><TD>27</TD><TD>40.47</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>52.00</TD><TD>52.00</TD><TD>50.50</TD><TD>50.50</TD><TD>1</TD><TD>39.97</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>51.50</TD><TD>51.80</TD><TD>49.99</TD><TD>50.00</TD><TD>23</TD><TD>39.47</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>51.00</TD><TD>52.00</TD><TD>50.90</TD><TD>51.50</TD><TD>35</TD><TD>40.97</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>49.01</TD><TD>50.50</TD><TD>49.01</TD><TD>50.50</TD><TD>15</TD><TD>39.97</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>49.00</TD><TD>49.00</TD><TD>48.20</TD><TD>48.20</TD><TD>4</TD><TD>37.67</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>49.49</TD><TD>49.50</TD><TD>49.00</TD><TD>49.00</TD><TD>10</TD><TD>38.47</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>48.50</TD><TD>49.00</TD><TD>48.50</TD><TD>49.00</TD><TD>19</TD><TD>38.47</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>48.50</TD><TD>49.00</TD><TD>48.01</TD><TD>48.50</TD><TD>36</TD><TD>37.97</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>48.50</TD><TD>48.51</TD><TD>48.50</TD><TD>48.50</TD><TD>78</TD><TD>37.97</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

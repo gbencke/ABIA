@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TMAR5.SA (TELEMAR NORTE LESTE SA)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>39.60</TD><TD>39.80</TD><TD>38.70</TD><TD>38.80</TD><TD>314,225</TD><TD>38.80</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>39.50</TD><TD>39.95</TD><TD>39.50</TD><TD>39.69</TD><TD>279,923</TD><TD>39.69</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>39.91</TD><TD>39.91</TD><TD>39.15</TD><TD>39.50</TD><TD>231,824</TD><TD>39.50</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>39.71</TD><TD>39.91</TD><TD>39.41</TD><TD>39.61</TD><TD>290,385</TD><TD>39.61</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>39.81</TD><TD>39.81</TD><TD>39.50</TD><TD>39.62</TD><TD>111,196</TD><TD>39.62</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>41.00</TD><TD>41.50</TD><TD>39.90</TD><TD>40.00</TD><TD>146,536</TD><TD>40.00</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>41.30</TD><TD>41.37</TD><TD>40.85</TD><TD>41.00</TD><TD>160,319</TD><TD>41.00</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>41.70</TD><TD>41.70</TD><TD>41.00</TD><TD>41.10</TD><TD>191,215</TD><TD>41.10</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>41.80</TD><TD>41.80</TD><TD>41.20</TD><TD>41.30</TD><TD>203,526</TD><TD>41.30</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>41.45</TD><TD>41.55</TD><TD>41.06</TD><TD>41.25</TD><TD>212,186</TD><TD>41.25</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>41.35</TD><TD>41.50</TD><TD>41.15</TD><TD>41.40</TD><TD>323,056</TD><TD>41.40</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>41.45</TD><TD>42.30</TD><TD>41.10</TD><TD>41.50</TD><TD>306,083</TD><TD>41.50</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>43.30</TD><TD>43.30</TD><TD>41.45</TD><TD>41.70</TD><TD>212,309</TD><TD>41.70</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>41.50</TD><TD>43.30</TD><TD>41.50</TD><TD>43.30</TD><TD>527,959</TD><TD>43.30</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>40.00</TD><TD>41.70</TD><TD>39.81</TD><TD>41.50</TD><TD>336,968</TD><TD>41.50</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>39.30</TD><TD>40.20</TD><TD>39.20</TD><TD>39.70</TD><TD>538,643</TD><TD>39.70</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>38.70</TD><TD>39.25</TD><TD>38.50</TD><TD>39.05</TD><TD>268,801</TD><TD>39.05</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>39.01</TD><TD>39.60</TD><TD>38.90</TD><TD>39.25</TD><TD>255,641</TD><TD>39.25</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>39.15</TD><TD>39.60</TD><TD>39.15</TD><TD>39.30</TD><TD>276,862</TD><TD>39.30</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>39.00</TD><TD>39.44</TD><TD>38.50</TD><TD>39.25</TD><TD>103,083</TD><TD>39.25</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>39.91</TD><TD>39.91</TD><TD>39.21</TD><TD>39.45</TD><TD>154,540</TD><TD>39.45</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>40.30</TD><TD>41.09</TD><TD>39.90</TD><TD>40.20</TD><TD>104,983</TD><TD>40.20</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>39.40</TD><TD>40.30</TD><TD>38.80</TD><TD>40.30</TD><TD>186,562</TD><TD>40.30</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

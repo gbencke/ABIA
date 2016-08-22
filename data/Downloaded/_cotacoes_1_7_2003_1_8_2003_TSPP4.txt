@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TSPP4.SA (TELESP CELULAR PARTICIPACOES SA)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>4.24</TD><TD>4.24</TD><TD>3.96</TD><TD>3.97</TD><TD>3,014,120</TD><TD>3.97</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>4.29</TD><TD>4.32</TD><TD>4.17</TD><TD>4.19</TD><TD>2,456,640</TD><TD>4.19</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>4.46</TD><TD>4.47</TD><TD>4.22</TD><TD>4.22</TD><TD>2,014,600</TD><TD>4.22</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>4.44</TD><TD>4.46</TD><TD>4.36</TD><TD>4.38</TD><TD>1,976,200</TD><TD>4.38</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>4.50</TD><TD>4.52</TD><TD>4.38</TD><TD>4.38</TD><TD>2,297,960</TD><TD>4.38</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>4.56</TD><TD>4.60</TD><TD>4.47</TD><TD>4.48</TD><TD>4,512,490</TD><TD>4.48</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>4.70</TD><TD>4.72</TD><TD>4.56</TD><TD>4.57</TD><TD>1,821,220</TD><TD>4.57</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>4.66</TD><TD>4.74</TD><TD>4.64</TD><TD>4.66</TD><TD>3,703,840</TD><TD>4.66</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>4.55</TD><TD>4.66</TD><TD>4.55</TD><TD>4.63</TD><TD>2,756,560</TD><TD>4.63</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>4.67</TD><TD>4.67</TD><TD>4.55</TD><TD>4.55</TD><TD>3,283,680</TD><TD>4.55</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>4.69</TD><TD>4.72</TD><TD>4.62</TD><TD>4.63</TD><TD>2,615,010</TD><TD>4.63</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>4.62</TD><TD>4.72</TD><TD>4.60</TD><TD>4.65</TD><TD>2,243,220</TD><TD>4.65</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>4.61</TD><TD>4.68</TD><TD>4.60</TD><TD>4.63</TD><TD>1,908,520</TD><TD>4.63</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>4.63</TD><TD>4.69</TD><TD>4.62</TD><TD>4.63</TD><TD>2,259,770</TD><TD>4.63</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>4.61</TD><TD>4.67</TD><TD>4.60</TD><TD>4.64</TD><TD>2,080,680</TD><TD>4.64</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>4.64</TD><TD>4.68</TD><TD>4.58</TD><TD>4.58</TD><TD>2,225,790</TD><TD>4.58</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>4.64</TD><TD>4.73</TD><TD>4.62</TD><TD>4.65</TD><TD>2,083,920</TD><TD>4.65</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>4.60</TD><TD>4.70</TD><TD>4.60</TD><TD>4.69</TD><TD>2,011,940</TD><TD>4.69</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>4.72</TD><TD>4.74</TD><TD>4.60</TD><TD>4.60</TD><TD>3,292,320</TD><TD>4.60</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>4.57</TD><TD>4.70</TD><TD>4.55</TD><TD>4.68</TD><TD>2,182,470</TD><TD>4.68</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>4.61</TD><TD>4.71</TD><TD>4.54</TD><TD>4.57</TD><TD>2,636,990</TD><TD>4.57</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>4.64</TD><TD>4.66</TD><TD>4.57</TD><TD>4.60</TD><TD>2,257,310</TD><TD>4.60</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>4.46</TD><TD>4.63</TD><TD>4.42</TD><TD>4.61</TD><TD>3,679,580</TD><TD>4.61</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

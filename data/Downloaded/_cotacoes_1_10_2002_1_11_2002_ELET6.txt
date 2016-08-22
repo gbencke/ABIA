@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELET6.SA (ELETROBRAS)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>19.00</TD><TD>19.35</TD><TD>18.80</TD><TD>19.10</TD><TD>654,902</TD><TD>16.21</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>19.30</TD><TD>19.65</TD><TD>19.00</TD><TD>19.20</TD><TD>758,272</TD><TD>16.31</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>18.50</TD><TD>19.30</TD><TD>18.46</TD><TD>19.30</TD><TD>645,689</TD><TD>16.41</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>17.88</TD><TD>18.40</TD><TD>17.50</TD><TD>18.25</TD><TD>823,012</TD><TD>15.36</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>18.50</TD><TD>18.90</TD><TD>17.85</TD><TD>17.85</TD><TD>681,529</TD><TD>14.96</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>17.41</TD><TD>18.74</TD><TD>17.41</TD><TD>18.54</TD><TD>772,765</TD><TD>15.65</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>18.40</TD><TD>19.00</TD><TD>17.20</TD><TD>17.30</TD><TD>940,069</TD><TD>14.41</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>17.80</TD><TD>18.55</TD><TD>16.80</TD><TD>18.50</TD><TD>854,426</TD><TD>15.61</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>15.99</TD><TD>17.30</TD><TD>15.91</TD><TD>17.11</TD><TD>1,178,440</TD><TD>14.22</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>16.01</TD><TD>16.50</TD><TD>15.90</TD><TD>16.30</TD><TD>303,031</TD><TD>13.41</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>15.00</TD><TD>16.18</TD><TD>14.90</TD><TD>16.00</TD><TD>889,285</TD><TD>13.11</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>14.58</TD><TD>15.25</TD><TD>14.58</TD><TD>15.10</TD><TD>880,114</TD><TD>12.21</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>14.80</TD><TD>14.80</TD><TD>14.01</TD><TD>14.30</TD><TD>781,886</TD><TD>11.41</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>15.20</TD><TD>15.39</TD><TD>14.60</TD><TD>14.70</TD><TD>651,906</TD><TD>11.81</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>15.89</TD><TD>15.89</TD><TD>15.00</TD><TD>15.02</TD><TD>583,377</TD><TD>12.13</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>16.31</TD><TD>16.60</TD><TD>15.90</TD><TD>16.00</TD><TD>417,821</TD><TD>13.11</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>15.80</TD><TD>16.49</TD><TD>15.60</TD><TD>16.00</TD><TD>434,034</TD><TD>13.11</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>15.60</TD><TD>15.85</TD><TD>15.35</TD><TD>15.63</TD><TD>627,884</TD><TD>12.74</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>15.95</TD><TD>15.95</TD><TD>15.35</TD><TD>15.80</TD><TD>538,247</TD><TD>12.91</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>16.80</TD><TD>16.80</TD><TD>15.81</TD><TD>15.81</TD><TD>316,113</TD><TD>12.92</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>16.76</TD><TD>17.06</TD><TD>16.40</TD><TD>16.83</TD><TD>491,004</TD><TD>13.94</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>16.30</TD><TD>16.76</TD><TD>15.90</TD><TD>16.62</TD><TD>314,629</TD><TD>13.73</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>16.20</TD><TD>16.56</TD><TD>15.96</TD><TD>16.00</TD><TD>1,158,120</TD><TD>13.11</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>15.20</TD><TD>16.20</TD><TD>15.20</TD><TD>15.90</TD><TD>559,163</TD><TD>13.01</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

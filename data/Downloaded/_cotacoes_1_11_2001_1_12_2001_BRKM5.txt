@@ -1,0 +1,122 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRKM5.SA (BRASKEM S.A.)
+        </TD><TD>As of Nov-29-01</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-29-01</TD><TD>420.00</TD><TD>422.52</TD><TD>403.01</TD><TD>413.01</TD><TD>1,314</TD><TD>395.54</TD></TR>
+<TR>
+<TD>Nov-28-01</TD><TD>434.00</TD><TD>440.00</TD><TD>417.10</TD><TD>418.21</TD><TD>2,649</TD><TD>400.74</TD></TR>
+<TR>
+<TD>Nov-27-01</TD><TD>$11.50 Cash Dividend</TD></TR>
+<TR>
+<TD>Nov-27-01</TD><TD>441.01</TD><TD>441.01</TD><TD>434.00</TD><TD>434.05</TD><TD>2,334</TD><TD>416.58</TD></TR>
+<TR>
+<TD>Nov-26-01</TD><TD>434.00</TD><TD>455.00</TD><TD>430.00</TD><TD>443.99</TD><TD>4,814</TD><TD>415.02</TD></TR>
+<TR>
+<TD>Nov-23-01</TD><TD>418.00</TD><TD>444.99</TD><TD>416.00</TD><TD>434.01</TD><TD>6,091</TD><TD>405.04</TD></TR>
+<TR>
+<TD>Nov-22-01</TD><TD>410.00</TD><TD>418.00</TD><TD>409.00</TD><TD>410.00</TD><TD>3,121</TD><TD>381.03</TD></TR>
+<TR>
+<TD>Nov-21-01</TD><TD>385.00</TD><TD>405.00</TD><TD>375.00</TD><TD>403.00</TD><TD>2,630</TD><TD>374.03</TD></TR>
+<TR>
+<TD>Nov-20-01</TD><TD>391.01</TD><TD>409.99</TD><TD>384.00</TD><TD>387.00</TD><TD>2,576</TD><TD>358.03</TD></TR>
+<TR>
+<TD>Nov-19-01</TD><TD>405.00</TD><TD>405.00</TD><TD>390.01</TD><TD>400.00</TD><TD>4,375</TD><TD>371.03</TD></TR>
+<TR>
+<TD>Nov-16-01</TD><TD>390.07</TD><TD>403.98</TD><TD>385.00</TD><TD>390.00</TD><TD>8,473</TD><TD>361.03</TD></TR>
+<TR>
+<TD>Nov-14-01</TD><TD>396.00</TD><TD>413.00</TD><TD>390.00</TD><TD>392.00</TD><TD>1,373</TD><TD>363.03</TD></TR>
+<TR>
+<TD>Nov-13-01</TD><TD>405.00</TD><TD>414.99</TD><TD>395.00</TD><TD>395.00</TD><TD>2,052</TD><TD>366.03</TD></TR>
+<TR>
+<TD>Nov-12-01</TD><TD>405.11</TD><TD>420.00</TD><TD>401.00</TD><TD>410.50</TD><TD>2,361</TD><TD>381.53</TD></TR>
+<TR>
+<TD>Nov-09-01</TD><TD>388.00</TD><TD>419.90</TD><TD>388.00</TD><TD>410.00</TD><TD>3,432</TD><TD>381.03</TD></TR>
+<TR>
+<TD>Nov-08-01</TD><TD>415.00</TD><TD>420.00</TD><TD>408.00</TD><TD>408.01</TD><TD>1,057</TD><TD>379.04</TD></TR>
+<TR>
+<TD>Nov-07-01</TD><TD>400.50</TD><TD>420.00</TD><TD>400.50</TD><TD>411.00</TD><TD>777</TD><TD>382.03</TD></TR>
+<TR>
+<TD>Nov-06-01</TD><TD>405.00</TD><TD>413.00</TD><TD>403.00</TD><TD>403.00</TD><TD>1,037</TD><TD>374.03</TD></TR>
+<TR>
+<TD>Nov-05-01</TD><TD>400.00</TD><TD>409.00</TD><TD>395.00</TD><TD>401.20</TD><TD>1,530</TD><TD>372.23</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>385.50</TD><TD>403.00</TD><TD>381.00</TD><TD>383.02</TD><TD>1,673</TD><TD>354.05</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

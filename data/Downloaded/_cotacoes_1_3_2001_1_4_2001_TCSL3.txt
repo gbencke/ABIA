@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TCSL3.SA (TELE CELULAR SUL PARTICIPACOES )
+        </TD><TD>As of Mar-30-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-30-01</TD><TD>2.95</TD><TD>3.05</TD><TD>2.90</TD><TD>3.00</TD><TD>1,081,510</TD><TD>2.90</TD></TR>
+<TR>
+<TD>Mar-29-01</TD><TD>2.95</TD><TD>3.09</TD><TD>2.91</TD><TD>2.98</TD><TD>844,029</TD><TD>2.88</TD></TR>
+<TR>
+<TD>Mar-28-01</TD><TD>3.00</TD><TD>3.00</TD><TD>2.91</TD><TD>2.97</TD><TD>384,859</TD><TD>2.87</TD></TR>
+<TR>
+<TD>Mar-27-01</TD><TD>3.00</TD><TD>3.00</TD><TD>2.89</TD><TD>2.99</TD><TD>1,117,050</TD><TD>2.89</TD></TR>
+<TR>
+<TD>Mar-26-01</TD><TD>2.88</TD><TD>2.98</TD><TD>2.87</TD><TD>2.90</TD><TD>326,323</TD><TD>2.80</TD></TR>
+<TR>
+<TD>Mar-23-01</TD><TD>2.88</TD><TD>3.00</TD><TD>2.70</TD><TD>2.80</TD><TD>340,576</TD><TD>2.70</TD></TR>
+<TR>
+<TD>Mar-22-01</TD><TD>2.81</TD><TD>2.90</TD><TD>2.71</TD><TD>2.80</TD><TD>260,293</TD><TD>2.70</TD></TR>
+<TR>
+<TD>Mar-21-01</TD><TD>3.00</TD><TD>3.08</TD><TD>2.71</TD><TD>2.81</TD><TD>715,298</TD><TD>2.71</TD></TR>
+<TR>
+<TD>Mar-20-01</TD><TD>3.09</TD><TD>3.15</TD><TD>2.96</TD><TD>2.96</TD><TD>450,879</TD><TD>2.86</TD></TR>
+<TR>
+<TD>Mar-19-01</TD><TD>3.28</TD><TD>3.28</TD><TD>3.00</TD><TD>3.02</TD><TD>111,639</TD><TD>2.92</TD></TR>
+<TR>
+<TD>Mar-16-01</TD><TD>3.18</TD><TD>3.28</TD><TD>3.13</TD><TD>3.20</TD><TD>90,011</TD><TD>3.10</TD></TR>
+<TR>
+<TD>Mar-15-01</TD><TD>3.36</TD><TD>3.38</TD><TD>3.10</TD><TD>3.11</TD><TD>106,139</TD><TD>3.01</TD></TR>
+<TR>
+<TD>Mar-14-01</TD><TD>3.39</TD><TD>3.39</TD><TD>3.20</TD><TD>3.30</TD><TD>115,410</TD><TD>3.20</TD></TR>
+<TR>
+<TD>Mar-13-01</TD><TD>3.41</TD><TD>3.49</TD><TD>3.32</TD><TD>3.40</TD><TD>384,688</TD><TD>3.30</TD></TR>
+<TR>
+<TD>Mar-12-01</TD><TD>3.41</TD><TD>3.45</TD><TD>3.30</TD><TD>3.30</TD><TD>168,371</TD><TD>3.20</TD></TR>
+<TR>
+<TD>Mar-09-01</TD><TD>3.45</TD><TD>3.52</TD><TD>3.35</TD><TD>3.50</TD><TD>157,151</TD><TD>3.40</TD></TR>
+<TR>
+<TD>Mar-08-01</TD><TD>3.70</TD><TD>3.71</TD><TD>3.43</TD><TD>3.45</TD><TD>220,134</TD><TD>3.35</TD></TR>
+<TR>
+<TD>Mar-07-01</TD><TD>3.84</TD><TD>3.84</TD><TD>3.55</TD><TD>3.65</TD><TD>316,280</TD><TD>3.55</TD></TR>
+<TR>
+<TD>Mar-06-01</TD><TD>3.80</TD><TD>3.89</TD><TD>3.53</TD><TD>3.70</TD><TD>175,194</TD><TD>3.60</TD></TR>
+<TR>
+<TD>Mar-05-01</TD><TD>3.65</TD><TD>3.90</TD><TD>3.55</TD><TD>3.85</TD><TD>266,756</TD><TD>3.75</TD></TR>
+<TR>
+<TD>Mar-02-01</TD><TD>3.41</TD><TD>3.65</TD><TD>3.25</TD><TD>3.60</TD><TD>493,597</TD><TD>3.50</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>3.40</TD><TD>3.40</TD><TD>3.30</TD><TD>3.40</TD><TD>571,439</TD><TD>3.30</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

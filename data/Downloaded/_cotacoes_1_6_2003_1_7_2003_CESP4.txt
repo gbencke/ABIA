@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CESP4.SA (COMPANHIA ENERGETICA DE SAO PAU)
+        </TD><TD>As of Jul-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>6.95</TD><TD>7.30</TD><TD>6.95</TD><TD>7.30</TD><TD>98,839</TD><TD>7.30</TD></TR>
+<TR>
+<TD>Jun-30-03</TD><TD>7.06</TD><TD>7.06</TD><TD>6.87</TD><TD>6.90</TD><TD>82,050</TD><TD>6.90</TD></TR>
+<TR>
+<TD>Jun-27-03</TD><TD>7.32</TD><TD>7.37</TD><TD>7.06</TD><TD>7.06</TD><TD>73,140</TD><TD>7.06</TD></TR>
+<TR>
+<TD>Jun-26-03</TD><TD>7.22</TD><TD>7.34</TD><TD>7.19</TD><TD>7.22</TD><TD>52,408</TD><TD>7.22</TD></TR>
+<TR>
+<TD>Jun-25-03</TD><TD>7.40</TD><TD>7.49</TD><TD>7.15</TD><TD>7.20</TD><TD>65,304</TD><TD>7.20</TD></TR>
+<TR>
+<TD>Jun-24-03</TD><TD>7.36</TD><TD>7.56</TD><TD>7.35</TD><TD>7.40</TD><TD>97,277</TD><TD>7.40</TD></TR>
+<TR>
+<TD>Jun-23-03</TD><TD>7.60</TD><TD>7.63</TD><TD>7.15</TD><TD>7.30</TD><TD>95,278</TD><TD>7.30</TD></TR>
+<TR>
+<TD>Jun-20-03</TD><TD>7.90</TD><TD>7.90</TD><TD>7.50</TD><TD>7.50</TD><TD>138,201</TD><TD>7.50</TD></TR>
+<TR>
+<TD>Jun-18-03</TD><TD>8.15</TD><TD>8.20</TD><TD>7.68</TD><TD>7.90</TD><TD>278,814</TD><TD>7.90</TD></TR>
+<TR>
+<TD>Jun-17-03</TD><TD>8.30</TD><TD>8.38</TD><TD>8.13</TD><TD>8.20</TD><TD>73,692</TD><TD>8.20</TD></TR>
+<TR>
+<TD>Jun-16-03</TD><TD>8.31</TD><TD>8.63</TD><TD>8.27</TD><TD>8.27</TD><TD>56,200</TD><TD>8.27</TD></TR>
+<TR>
+<TD>Jun-13-03</TD><TD>8.41</TD><TD>8.55</TD><TD>8.35</TD><TD>8.35</TD><TD>63,055</TD><TD>8.35</TD></TR>
+<TR>
+<TD>Jun-12-03</TD><TD>8.50</TD><TD>8.54</TD><TD>8.30</TD><TD>8.40</TD><TD>88,933</TD><TD>8.40</TD></TR>
+<TR>
+<TD>Jun-11-03</TD><TD>8.45</TD><TD>8.59</TD><TD>8.23</TD><TD>8.59</TD><TD>118,450</TD><TD>8.59</TD></TR>
+<TR>
+<TD>Jun-10-03</TD><TD>8.66</TD><TD>8.79</TD><TD>8.33</TD><TD>8.64</TD><TD>93,567</TD><TD>8.64</TD></TR>
+<TR>
+<TD>Jun-09-03</TD><TD>8.70</TD><TD>8.85</TD><TD>8.66</TD><TD>8.75</TD><TD>99,201</TD><TD>8.75</TD></TR>
+<TR>
+<TD>Jun-06-03</TD><TD>8.73</TD><TD>8.87</TD><TD>8.70</TD><TD>8.76</TD><TD>140,872</TD><TD>8.76</TD></TR>
+<TR>
+<TD>Jun-05-03</TD><TD>8.55</TD><TD>8.81</TD><TD>8.54</TD><TD>8.70</TD><TD>110,450</TD><TD>8.70</TD></TR>
+<TR>
+<TD>Jun-04-03</TD><TD>8.44</TD><TD>8.70</TD><TD>8.30</TD><TD>8.70</TD><TD>199,147</TD><TD>8.70</TD></TR>
+<TR>
+<TD>Jun-03-03</TD><TD>8.12</TD><TD>8.35</TD><TD>7.93</TD><TD>8.24</TD><TD>70,746</TD><TD>8.24</TD></TR>
+<TR>
+<TD>Jun-02-03</TD><TD>8.30</TD><TD>8.39</TD><TD>8.06</TD><TD>8.08</TD><TD>69,828</TD><TD>8.08</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

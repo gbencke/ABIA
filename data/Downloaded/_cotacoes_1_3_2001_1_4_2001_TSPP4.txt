@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TSPP4.SA (TELESP CELULAR PARTICIPACOES SA)
+        </TD><TD>As of Mar-30-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-30-01</TD><TD>12.86</TD><TD>13.00</TD><TD>12.35</TD><TD>12.68</TD><TD>2,508,970</TD><TD>12.68</TD></TR>
+<TR>
+<TD>Mar-29-01</TD><TD>13.55</TD><TD>13.63</TD><TD>12.85</TD><TD>13.00</TD><TD>1,268,940</TD><TD>13.00</TD></TR>
+<TR>
+<TD>Mar-28-01</TD><TD>13.84</TD><TD>13.90</TD><TD>13.42</TD><TD>13.51</TD><TD>776,133</TD><TD>13.51</TD></TR>
+<TR>
+<TD>Mar-27-01</TD><TD>13.75</TD><TD>14.20</TD><TD>13.65</TD><TD>13.93</TD><TD>1,312,690</TD><TD>13.93</TD></TR>
+<TR>
+<TD>Mar-26-01</TD><TD>13.71</TD><TD>13.80</TD><TD>13.21</TD><TD>13.75</TD><TD>1,467,890</TD><TD>13.75</TD></TR>
+<TR>
+<TD>Mar-23-01</TD><TD>13.80</TD><TD>13.80</TD><TD>12.95</TD><TD>13.33</TD><TD>1,721,420</TD><TD>13.33</TD></TR>
+<TR>
+<TD>Mar-22-01</TD><TD>14.22</TD><TD>14.45</TD><TD>13.05</TD><TD>13.40</TD><TD>2,539,970</TD><TD>13.40</TD></TR>
+<TR>
+<TD>Mar-21-01</TD><TD>14.67</TD><TD>15.19</TD><TD>14.50</TD><TD>14.70</TD><TD>791,098</TD><TD>14.70</TD></TR>
+<TR>
+<TD>Mar-20-01</TD><TD>15.10</TD><TD>15.30</TD><TD>14.60</TD><TD>14.65</TD><TD>913,080</TD><TD>14.65</TD></TR>
+<TR>
+<TD>Mar-19-01</TD><TD>15.65</TD><TD>15.70</TD><TD>14.75</TD><TD>14.82</TD><TD>1,000,810</TD><TD>14.82</TD></TR>
+<TR>
+<TD>Mar-16-01</TD><TD>15.35</TD><TD>15.79</TD><TD>15.30</TD><TD>15.52</TD><TD>829,307</TD><TD>15.52</TD></TR>
+<TR>
+<TD>Mar-15-01</TD><TD>15.50</TD><TD>15.70</TD><TD>15.15</TD><TD>15.41</TD><TD>1,708,480</TD><TD>15.41</TD></TR>
+<TR>
+<TD>Mar-14-01</TD><TD>15.66</TD><TD>15.70</TD><TD>15.09</TD><TD>15.21</TD><TD>2,163,520</TD><TD>15.21</TD></TR>
+<TR>
+<TD>Mar-13-01</TD><TD>15.92</TD><TD>16.10</TD><TD>15.69</TD><TD>16.07</TD><TD>1,476,180</TD><TD>16.07</TD></TR>
+<TR>
+<TD>Mar-12-01</TD><TD>16.10</TD><TD>16.40</TD><TD>15.65</TD><TD>15.65</TD><TD>1,627,310</TD><TD>15.65</TD></TR>
+<TR>
+<TD>Mar-09-01</TD><TD>16.49</TD><TD>16.82</TD><TD>16.23</TD><TD>16.40</TD><TD>3,052,320</TD><TD>16.40</TD></TR>
+<TR>
+<TD>Mar-08-01</TD><TD>17.45</TD><TD>17.50</TD><TD>16.40</TD><TD>16.44</TD><TD>4,265,380</TD><TD>16.44</TD></TR>
+<TR>
+<TD>Mar-07-01</TD><TD>18.39</TD><TD>18.39</TD><TD>17.03</TD><TD>17.24</TD><TD>2,356,360</TD><TD>17.24</TD></TR>
+<TR>
+<TD>Mar-06-01</TD><TD>18.83</TD><TD>19.05</TD><TD>17.91</TD><TD>18.05</TD><TD>749,137</TD><TD>18.05</TD></TR>
+<TR>
+<TD>Mar-05-01</TD><TD>19.15</TD><TD>19.30</TD><TD>18.30</TD><TD>18.55</TD><TD>483,519</TD><TD>18.55</TD></TR>
+<TR>
+<TD>Mar-02-01</TD><TD>18.57</TD><TD>19.29</TD><TD>18.40</TD><TD>18.80</TD><TD>1,010,900</TD><TD>18.80</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>18.61</TD><TD>18.98</TD><TD>18.39</TD><TD>18.40</TD><TD>1,191,270</TD><TD>18.40</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

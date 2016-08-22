@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ARCZ6.SA (ARACRUZ CELULOSE SA)
+        </TD><TD>As of Aug-31-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-31-01</TD><TD>4.57</TD><TD>4.57</TD><TD>4.28</TD><TD>4.42</TD><TD>1,330</TD><TD>3.92</TD></TR>
+<TR>
+<TD>Aug-30-01</TD><TD>4.50</TD><TD>4.60</TD><TD>4.50</TD><TD>4.51</TD><TD>349</TD><TD>4.01</TD></TR>
+<TR>
+<TD>Aug-29-01</TD><TD>4.39</TD><TD>4.60</TD><TD>4.39</TD><TD>4.57</TD><TD>860</TD><TD>4.07</TD></TR>
+<TR>
+<TD>Aug-28-01</TD><TD>4.25</TD><TD>4.39</TD><TD>4.25</TD><TD>4.37</TD><TD>271</TD><TD>3.87</TD></TR>
+<TR>
+<TD>Aug-27-01</TD><TD>4.26</TD><TD>4.26</TD><TD>4.23</TD><TD>4.24</TD><TD>384</TD><TD>3.74</TD></TR>
+<TR>
+<TD>Aug-24-01</TD><TD>4.20</TD><TD>4.26</TD><TD>4.20</TD><TD>4.21</TD><TD>365</TD><TD>3.71</TD></TR>
+<TR>
+<TD>Aug-23-01</TD><TD>4.10</TD><TD>4.22</TD><TD>4.10</TD><TD>4.19</TD><TD>186</TD><TD>3.69</TD></TR>
+<TR>
+<TD>Aug-22-01</TD><TD>4.21</TD><TD>4.21</TD><TD>4.08</TD><TD>4.20</TD><TD>242</TD><TD>3.70</TD></TR>
+<TR>
+<TD>Aug-21-01</TD><TD>4.11</TD><TD>4.21</TD><TD>4.10</TD><TD>4.14</TD><TD>685</TD><TD>3.64</TD></TR>
+<TR>
+<TD>Aug-20-01</TD><TD>4.08</TD><TD>4.20</TD><TD>4.08</TD><TD>4.10</TD><TD>237</TD><TD>3.60</TD></TR>
+<TR>
+<TD>Aug-17-01</TD><TD>4.09</TD><TD>4.20</TD><TD>4.09</TD><TD>4.16</TD><TD>281</TD><TD>3.66</TD></TR>
+<TR>
+<TD>Aug-15-01</TD><TD>4.10</TD><TD>4.30</TD><TD>4.10</TD><TD>4.16</TD><TD>923</TD><TD>3.66</TD></TR>
+<TR>
+<TD>Aug-14-01</TD><TD>3.97</TD><TD>4.10</TD><TD>3.97</TD><TD>4.06</TD><TD>165</TD><TD>3.56</TD></TR>
+<TR>
+<TD>Aug-13-01</TD><TD>3.97</TD><TD>4.00</TD><TD>3.90</TD><TD>3.99</TD><TD>346</TD><TD>3.49</TD></TR>
+<TR>
+<TD>Aug-10-01</TD><TD>3.96</TD><TD>4.02</TD><TD>3.95</TD><TD>3.95</TD><TD>150</TD><TD>3.45</TD></TR>
+<TR>
+<TD>Aug-09-01</TD><TD>3.95</TD><TD>4.01</TD><TD>3.92</TD><TD>3.92</TD><TD>48</TD><TD>3.42</TD></TR>
+<TR>
+<TD>Aug-08-01</TD><TD>3.95</TD><TD>4.02</TD><TD>3.87</TD><TD>3.92</TD><TD>303</TD><TD>3.42</TD></TR>
+<TR>
+<TD>Aug-07-01</TD><TD>3.90</TD><TD>3.98</TD><TD>3.86</TD><TD>3.90</TD><TD>291</TD><TD>3.40</TD></TR>
+<TR>
+<TD>Aug-06-01</TD><TD>3.86</TD><TD>3.98</TD><TD>3.80</TD><TD>3.88</TD><TD>308</TD><TD>3.38</TD></TR>
+<TR>
+<TD>Aug-03-01</TD><TD>4.00</TD><TD>4.04</TD><TD>3.86</TD><TD>3.98</TD><TD>222</TD><TD>3.48</TD></TR>
+<TR>
+<TD>Aug-02-01</TD><TD>4.00</TD><TD>4.04</TD><TD>3.94</TD><TD>3.94</TD><TD>161</TD><TD>3.44</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>3.95</TD><TD>4.02</TD><TD>3.94</TD><TD>3.98</TD><TD>256</TD><TD>3.48</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

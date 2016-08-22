@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - SBSP3.SA (COMPANHIA DE SANEAMENTO BASICO )
+        </TD><TD>As of Aug-29-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-29-03</TD><TD>128.30</TD><TD>134.90</TD><TD>125.02</TD><TD>129.50</TD><TD>106,438</TD><TD>129.50</TD></TR>
+<TR>
+<TD>Aug-28-03</TD><TD>129.00</TD><TD>130.00</TD><TD>126.50</TD><TD>128.00</TD><TD>158,713</TD><TD>128.00</TD></TR>
+<TR>
+<TD>Aug-27-03</TD><TD>121.10</TD><TD>126.50</TD><TD>119.90</TD><TD>125.80</TD><TD>134,154</TD><TD>125.80</TD></TR>
+<TR>
+<TD>Aug-26-03</TD><TD>112.00</TD><TD>124.97</TD><TD>112.00</TD><TD>119.00</TD><TD>178,744</TD><TD>119.00</TD></TR>
+<TR>
+<TD>Aug-25-03</TD><TD>113.50</TD><TD>113.50</TD><TD>111.00</TD><TD>112.30</TD><TD>33,693</TD><TD>112.30</TD></TR>
+<TR>
+<TD>Aug-22-03</TD><TD>111.50</TD><TD>112.70</TD><TD>111.49</TD><TD>112.50</TD><TD>20,190</TD><TD>112.50</TD></TR>
+<TR>
+<TD>Aug-21-03</TD><TD>112.00</TD><TD>112.50</TD><TD>108.99</TD><TD>111.86</TD><TD>61,106</TD><TD>111.86</TD></TR>
+<TR>
+<TD>Aug-20-03</TD><TD>111.50</TD><TD>112.50</TD><TD>108.62</TD><TD>112.00</TD><TD>46,218</TD><TD>112.00</TD></TR>
+<TR>
+<TD>Aug-19-03</TD><TD>111.30</TD><TD>112.99</TD><TD>108.25</TD><TD>109.00</TD><TD>47,912</TD><TD>109.00</TD></TR>
+<TR>
+<TD>Aug-18-03</TD><TD>113.01</TD><TD>114.99</TD><TD>110.02</TD><TD>111.30</TD><TD>34,726</TD><TD>111.30</TD></TR>
+<TR>
+<TD>Aug-15-03</TD><TD>111.50</TD><TD>114.24</TD><TD>111.00</TD><TD>112.20</TD><TD>50,426</TD><TD>112.20</TD></TR>
+<TR>
+<TD>Aug-14-03</TD><TD>111.88</TD><TD>111.88</TD><TD>111.88</TD><TD>111.88</TD><TD>0</TD><TD>111.88</TD></TR>
+<TR>
+<TD>Aug-13-03</TD><TD>104.90</TD><TD>112.00</TD><TD>104.90</TD><TD>108.70</TD><TD>83,170</TD><TD>108.70</TD></TR>
+<TR>
+<TD>Aug-12-03</TD><TD>106.10</TD><TD>107.80</TD><TD>104.01</TD><TD>105.10</TD><TD>27,204</TD><TD>105.10</TD></TR>
+<TR>
+<TD>Aug-11-03</TD><TD>106.00</TD><TD>106.70</TD><TD>104.35</TD><TD>105.20</TD><TD>26,358</TD><TD>105.20</TD></TR>
+<TR>
+<TD>Aug-08-03</TD><TD>108.50</TD><TD>109.90</TD><TD>104.01</TD><TD>105.81</TD><TD>92,532</TD><TD>105.81</TD></TR>
+<TR>
+<TD>Aug-07-03</TD><TD>102.10</TD><TD>109.89</TD><TD>101.70</TD><TD>107.50</TD><TD>18,408</TD><TD>107.50</TD></TR>
+<TR>
+<TD>Aug-06-03</TD><TD>103.21</TD><TD>105.00</TD><TD>100.51</TD><TD>102.00</TD><TD>54,683</TD><TD>102.00</TD></TR>
+<TR>
+<TD>Aug-05-03</TD><TD>101.50</TD><TD>103.50</TD><TD>101.50</TD><TD>103.00</TD><TD>50,992</TD><TD>103.00</TD></TR>
+<TR>
+<TD>Aug-04-03</TD><TD>103.99</TD><TD>104.00</TD><TD>100.10</TD><TD>100.80</TD><TD>43,873</TD><TD>100.80</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>113.00</TD><TD>113.10</TD><TD>104.05</TD><TD>104.05</TD><TD>72,984</TD><TD>104.05</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

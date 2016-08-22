@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CRTP5.SA (CELULAR CRT PARTICIPACOES SA)
+        </TD><TD>As of Mar-30-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-30-01</TD><TD>890.00</TD><TD>925.00</TD><TD>890.00</TD><TD>910.00</TD><TD>12,092</TD><TD>890.32</TD></TR>
+<TR>
+<TD>Mar-29-01</TD><TD>866.02</TD><TD>900.00</TD><TD>860.00</TD><TD>885.00</TD><TD>8,212</TD><TD>865.32</TD></TR>
+<TR>
+<TD>Mar-28-01</TD><TD>895.00</TD><TD>900.00</TD><TD>860.00</TD><TD>875.00</TD><TD>2,081</TD><TD>855.32</TD></TR>
+<TR>
+<TD>Mar-27-01</TD><TD>910.00</TD><TD>920.00</TD><TD>904.01</TD><TD>908.00</TD><TD>4,324</TD><TD>888.32</TD></TR>
+<TR>
+<TD>Mar-26-01</TD><TD>920.00</TD><TD>920.00</TD><TD>895.00</TD><TD>900.00</TD><TD>3,570</TD><TD>880.32</TD></TR>
+<TR>
+<TD>Mar-23-01</TD><TD>900.00</TD><TD>900.00</TD><TD>860.00</TD><TD>884.99</TD><TD>8,565</TD><TD>865.31</TD></TR>
+<TR>
+<TD>Mar-22-01</TD><TD>880.00</TD><TD>899.97</TD><TD>804.00</TD><TD>883.00</TD><TD>9,271</TD><TD>863.32</TD></TR>
+<TR>
+<TD>Mar-21-01</TD><TD>915.00</TD><TD>915.00</TD><TD>880.00</TD><TD>899.97</TD><TD>2,523</TD><TD>880.29</TD></TR>
+<TR>
+<TD>Mar-20-01</TD><TD>915.00</TD><TD>935.00</TD><TD>907.00</TD><TD>910.00</TD><TD>4,232</TD><TD>890.32</TD></TR>
+<TR>
+<TD>Mar-19-01</TD><TD>925.00</TD><TD>935.00</TD><TD>901.00</TD><TD>912.00</TD><TD>3,483</TD><TD>892.32</TD></TR>
+<TR>
+<TD>Mar-16-01</TD><TD>929.99</TD><TD>930.00</TD><TD>891.01</TD><TD>927.98</TD><TD>4,427</TD><TD>908.30</TD></TR>
+<TR>
+<TD>Mar-15-01</TD><TD>940.00</TD><TD>940.00</TD><TD>900.00</TD><TD>905.00</TD><TD>10,216</TD><TD>885.32</TD></TR>
+<TR>
+<TD>Mar-14-01</TD><TD>910.01</TD><TD>920.00</TD><TD>890.00</TD><TD>910.00</TD><TD>9,531</TD><TD>890.32</TD></TR>
+<TR>
+<TD>Mar-13-01</TD><TD>920.00</TD><TD>940.00</TD><TD>920.00</TD><TD>930.00</TD><TD>7,025</TD><TD>910.32</TD></TR>
+<TR>
+<TD>Mar-12-01</TD><TD>960.00</TD><TD>960.00</TD><TD>911.00</TD><TD>921.00</TD><TD>5,359</TD><TD>901.32</TD></TR>
+<TR>
+<TD>Mar-09-01</TD><TD>950.02</TD><TD>973.00</TD><TD>950.00</TD><TD>960.00</TD><TD>9,585</TD><TD>940.32</TD></TR>
+<TR>
+<TD>Mar-08-01</TD><TD>957.00</TD><TD>960.00</TD><TD>940.01</TD><TD>960.00</TD><TD>19,226</TD><TD>940.32</TD></TR>
+<TR>
+<TD>Mar-07-01</TD><TD>958.00</TD><TD>960.00</TD><TD>920.00</TD><TD>959.90</TD><TD>29,137</TD><TD>940.22</TD></TR>
+<TR>
+<TD>Mar-06-01</TD><TD>937.00</TD><TD>958.90</TD><TD>937.00</TD><TD>955.00</TD><TD>30,010</TD><TD>935.32</TD></TR>
+<TR>
+<TD>Mar-05-01</TD><TD>949.99</TD><TD>951.00</TD><TD>915.00</TD><TD>935.00</TD><TD>12,942</TD><TD>915.32</TD></TR>
+<TR>
+<TD>Mar-02-01</TD><TD>974.00</TD><TD>974.00</TD><TD>921.00</TD><TD>948.00</TD><TD>31,299</TD><TD>928.32</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>1,010.00</TD><TD>1,010.00</TD><TD>928.00</TD><TD>970.00</TD><TD>73,479</TD><TD>950.32</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TLCP4.SA (TELE LESTE CELULAR PARTICIPACOE)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>1.97</TD><TD>2.10</TD><TD>1.96</TD><TD>2.04</TD><TD>1,346,580</TD><TD>2.00</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>1.97</TD><TD>1.99</TD><TD>1.95</TD><TD>1.99</TD><TD>595,779</TD><TD>1.95</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>1.98</TD><TD>1.99</TD><TD>1.94</TD><TD>1.97</TD><TD>1,674,310</TD><TD>1.93</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>1.91</TD><TD>1.97</TD><TD>1.90</TD><TD>1.97</TD><TD>795,352</TD><TD>1.93</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>1.96</TD><TD>1.96</TD><TD>1.87</TD><TD>1.91</TD><TD>484,210</TD><TD>1.87</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>1.90</TD><TD>1.98</TD><TD>1.89</TD><TD>1.95</TD><TD>2,591,580</TD><TD>1.91</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>1.90</TD><TD>1.95</TD><TD>1.87</TD><TD>1.92</TD><TD>1,812,020</TD><TD>1.88</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>1.84</TD><TD>1.91</TD><TD>1.81</TD><TD>1.89</TD><TD>1,566,170</TD><TD>1.85</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>1.93</TD><TD>1.97</TD><TD>1.82</TD><TD>1.82</TD><TD>1,551,870</TD><TD>1.78</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>1.88</TD><TD>2.04</TD><TD>1.87</TD><TD>1.92</TD><TD>3,400,390</TD><TD>1.88</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>1.89</TD><TD>1.89</TD><TD>1.78</TD><TD>1.84</TD><TD>691,992</TD><TD>1.80</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>1.89</TD><TD>1.90</TD><TD>1.79</TD><TD>1.87</TD><TD>854,709</TD><TD>1.83</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>1.81</TD><TD>1.91</TD><TD>1.81</TD><TD>1.86</TD><TD>5,850,170</TD><TD>1.82</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>1.70</TD><TD>1.86</TD><TD>1.70</TD><TD>1.81</TD><TD>2,327,580</TD><TD>1.77</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>1.65</TD><TD>1.70</TD><TD>1.65</TD><TD>1.68</TD><TD>157,680</TD><TD>1.64</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>1.78</TD><TD>1.79</TD><TD>1.71</TD><TD>1.71</TD><TD>2,188,990</TD><TD>1.67</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>1.80</TD><TD>1.84</TD><TD>1.79</TD><TD>1.80</TD><TD>3,111,350</TD><TD>1.76</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>1.75</TD><TD>1.83</TD><TD>1.75</TD><TD>1.77</TD><TD>1,860,480</TD><TD>1.73</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>1.71</TD><TD>1.76</TD><TD>1.63</TD><TD>1.75</TD><TD>1,523,940</TD><TD>1.71</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>1.66</TD><TD>1.77</TD><TD>1.66</TD><TD>1.72</TD><TD>2,709,560</TD><TD>1.68</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>1.66</TD><TD>1.70</TD><TD>1.66</TD><TD>1.66</TD><TD>830,538</TD><TD>1.62</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>1.53</TD><TD>1.66</TD><TD>1.52</TD><TD>1.66</TD><TD>1,292,960</TD><TD>1.62</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>1.60</TD><TD>1.62</TD><TD>1.51</TD><TD>1.56</TD><TD>1,995,170</TD><TD>1.52</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

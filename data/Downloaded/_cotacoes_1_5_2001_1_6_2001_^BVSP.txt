@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>14,654.00</TD><TD>14,792.00</TD><TD>14,409.00</TD><TD>14,792.00</TD><TD>0</TD><TD>14,792.00</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>14,514.00</TD><TD>14,724.00</TD><TD>14,508.00</TD><TD>14,650.00</TD><TD>0</TD><TD>14,650.00</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>14,459.00</TD><TD>14,579.00</TD><TD>14,347.00</TD><TD>14,489.00</TD><TD>0</TD><TD>14,489.00</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>14,302.00</TD><TD>14,489.00</TD><TD>14,301.00</TD><TD>14,454.00</TD><TD>0</TD><TD>14,454.00</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>14,328.00</TD><TD>14,439.00</TD><TD>14,056.00</TD><TD>14,302.00</TD><TD>0</TD><TD>14,302.00</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>14,523.00</TD><TD>14,589.00</TD><TD>14,179.00</TD><TD>14,310.00</TD><TD>0</TD><TD>14,310.00</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>14,694.00</TD><TD>14,834.00</TD><TD>14,431.00</TD><TD>14,523.00</TD><TD>0</TD><TD>14,523.00</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>14,829.00</TD><TD>14,905.00</TD><TD>14,627.00</TD><TD>14,692.00</TD><TD>0</TD><TD>14,692.00</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>15,142.00</TD><TD>15,197.00</TD><TD>14,794.00</TD><TD>14,829.00</TD><TD>0</TD><TD>14,829.00</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>14,871.00</TD><TD>15,158.00</TD><TD>14,807.00</TD><TD>15,128.00</TD><TD>0</TD><TD>15,128.00</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>14,848.00</TD><TD>15,012.00</TD><TD>14,800.00</TD><TD>14,884.00</TD><TD>0</TD><TD>14,884.00</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>14,727.00</TD><TD>15,095.00</TD><TD>14,725.00</TD><TD>14,794.00</TD><TD>0</TD><TD>14,794.00</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>14,256.00</TD><TD>14,738.00</TD><TD>14,256.00</TD><TD>14,714.00</TD><TD>0</TD><TD>14,714.00</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>14,141.00</TD><TD>14,314.00</TD><TD>14,110.00</TD><TD>14,226.00</TD><TD>0</TD><TD>14,226.00</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>14,499.00</TD><TD>14,507.00</TD><TD>14,104.00</TD><TD>14,237.00</TD><TD>0</TD><TD>14,237.00</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>15,012.00</TD><TD>15,018.00</TD><TD>14,410.00</TD><TD>14,493.00</TD><TD>0</TD><TD>14,493.00</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>14,796.00</TD><TD>15,117.00</TD><TD>14,796.00</TD><TD>14,993.00</TD><TD>0</TD><TD>14,993.00</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>14,717.00</TD><TD>14,867.00</TD><TD>14,576.00</TD><TD>14,779.00</TD><TD>0</TD><TD>14,779.00</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>14,861.00</TD><TD>14,958.00</TD><TD>14,656.00</TD><TD>14,747.00</TD><TD>0</TD><TD>14,747.00</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>15,103.00</TD><TD>15,222.00</TD><TD>14,862.00</TD><TD>14,875.00</TD><TD>0</TD><TD>14,875.00</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>15,142.00</TD><TD>15,304.00</TD><TD>15,041.00</TD><TD>15,093.00</TD><TD>0</TD><TD>15,093.00</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>14,906.00</TD><TD>15,142.00</TD><TD>14,762.00</TD><TD>15,142.00</TD><TD>0</TD><TD>15,142.00</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>14,877.00</TD><TD>14,920.00</TD><TD>14,636.00</TD><TD>14,897.00</TD><TD>0</TD><TD>14,897.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

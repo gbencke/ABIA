@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VALE5.SA (COMPANHIA VALE DO RIO DOCE)
+        </TD><TD>As of Mar-30-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-30-01</TD><TD>52.01</TD><TD>53.00</TD><TD>51.55</TD><TD>53.00</TD><TD>469</TD><TD>42.47</TD></TR>
+<TR>
+<TD>Mar-29-01</TD><TD>52.05</TD><TD>53.60</TD><TD>52.00</TD><TD>52.00</TD><TD>528</TD><TD>41.47</TD></TR>
+<TR>
+<TD>Mar-28-01</TD><TD>52.70</TD><TD>52.80</TD><TD>51.50</TD><TD>52.51</TD><TD>250</TD><TD>41.98</TD></TR>
+<TR>
+<TD>Mar-27-01</TD><TD>51.00</TD><TD>52.75</TD><TD>51.00</TD><TD>52.75</TD><TD>395</TD><TD>42.22</TD></TR>
+<TR>
+<TD>Mar-26-01</TD><TD>51.49</TD><TD>52.20</TD><TD>51.11</TD><TD>51.90</TD><TD>389</TD><TD>41.37</TD></TR>
+<TR>
+<TD>Mar-23-01</TD><TD>50.25</TD><TD>50.50</TD><TD>49.30</TD><TD>50.50</TD><TD>376</TD><TD>39.97</TD></TR>
+<TR>
+<TD>Mar-22-01</TD><TD>51.00</TD><TD>51.40</TD><TD>49.30</TD><TD>50.29</TD><TD>352</TD><TD>39.76</TD></TR>
+<TR>
+<TD>Mar-21-01</TD><TD>51.75</TD><TD>52.80</TD><TD>51.70</TD><TD>52.15</TD><TD>479</TD><TD>41.62</TD></TR>
+<TR>
+<TD>Mar-20-01</TD><TD>49.50</TD><TD>52.20</TD><TD>49.50</TD><TD>51.75</TD><TD>633</TD><TD>41.22</TD></TR>
+<TR>
+<TD>Mar-19-01</TD><TD>49.81</TD><TD>50.00</TD><TD>49.00</TD><TD>49.50</TD><TD>231</TD><TD>38.97</TD></TR>
+<TR>
+<TD>Mar-16-01</TD><TD>51.00</TD><TD>51.20</TD><TD>49.81</TD><TD>49.81</TD><TD>253</TD><TD>39.28</TD></TR>
+<TR>
+<TD>Mar-15-01</TD><TD>51.00</TD><TD>52.49</TD><TD>49.90</TD><TD>50.24</TD><TD>730</TD><TD>39.71</TD></TR>
+<TR>
+<TD>Mar-14-01</TD><TD>49.00</TD><TD>51.00</TD><TD>48.31</TD><TD>50.60</TD><TD>427</TD><TD>40.07</TD></TR>
+<TR>
+<TD>Mar-13-01</TD><TD>48.90</TD><TD>50.38</TD><TD>48.00</TD><TD>50.00</TD><TD>317</TD><TD>39.47</TD></TR>
+<TR>
+<TD>Mar-12-01</TD><TD>50.96</TD><TD>51.09</TD><TD>48.10</TD><TD>48.10</TD><TD>386</TD><TD>37.57</TD></TR>
+<TR>
+<TD>Mar-09-01</TD><TD>51.00</TD><TD>51.21</TD><TD>50.51</TD><TD>51.10</TD><TD>483</TD><TD>40.57</TD></TR>
+<TR>
+<TD>Mar-08-01</TD><TD>51.70</TD><TD>52.20</TD><TD>51.40</TD><TD>51.40</TD><TD>365</TD><TD>40.87</TD></TR>
+<TR>
+<TD>Mar-07-01</TD><TD>50.99</TD><TD>51.40</TD><TD>50.10</TD><TD>50.90</TD><TD>226</TD><TD>40.37</TD></TR>
+<TR>
+<TD>Mar-06-01</TD><TD>51.31</TD><TD>52.01</TD><TD>50.50</TD><TD>50.70</TD><TD>316</TD><TD>40.17</TD></TR>
+<TR>
+<TD>Mar-05-01</TD><TD>52.99</TD><TD>52.99</TD><TD>51.00</TD><TD>51.21</TD><TD>221</TD><TD>40.68</TD></TR>
+<TR>
+<TD>Mar-02-01</TD><TD>52.30</TD><TD>53.00</TD><TD>51.80</TD><TD>52.40</TD><TD>285</TD><TD>41.87</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>52.40</TD><TD>52.47</TD><TD>51.70</TD><TD>52.20</TD><TD>401</TD><TD>41.67</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

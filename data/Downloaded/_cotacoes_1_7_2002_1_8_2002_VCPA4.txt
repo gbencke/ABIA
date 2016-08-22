@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VCPA4.SA (VOTORANTIM CELULOSE E PAPEL SA)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>103.00</TD><TD>107.01</TD><TD>103.00</TD><TD>105.00</TD><TD>63,755</TD><TD>101.86</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>101.00</TD><TD>109.00</TD><TD>101.00</TD><TD>104.00</TD><TD>45,543</TD><TD>100.86</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>96.53</TD><TD>104.99</TD><TD>96.53</TD><TD>98.00</TD><TD>19,860</TD><TD>94.86</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>94.00</TD><TD>101.00</TD><TD>93.50</TD><TD>96.53</TD><TD>48,400</TD><TD>93.39</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>95.30</TD><TD>96.80</TD><TD>90.03</TD><TD>92.00</TD><TD>15,875</TD><TD>88.86</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>92.50</TD><TD>95.90</TD><TD>92.50</TD><TD>93.60</TD><TD>27,969</TD><TD>90.46</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>92.00</TD><TD>94.35</TD><TD>91.50</TD><TD>92.00</TD><TD>45,801</TD><TD>88.86</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>94.00</TD><TD>94.35</TD><TD>92.00</TD><TD>92.00</TD><TD>15,053</TD><TD>88.86</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>94.97</TD><TD>96.99</TD><TD>91.41</TD><TD>92.50</TD><TD>20,701</TD><TD>89.36</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>96.60</TD><TD>97.00</TD><TD>93.00</TD><TD>93.11</TD><TD>32,028</TD><TD>89.97</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>99.99</TD><TD>99.99</TD><TD>96.49</TD><TD>97.00</TD><TD>44,040</TD><TD>93.86</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>95.00</TD><TD>98.45</TD><TD>94.60</TD><TD>98.45</TD><TD>40,495</TD><TD>95.31</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>93.00</TD><TD>94.39</TD><TD>92.00</TD><TD>94.39</TD><TD>15,987</TD><TD>91.25</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>95.21</TD><TD>95.50</TD><TD>93.00</TD><TD>93.00</TD><TD>9,085</TD><TD>89.86</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>97.00</TD><TD>98.00</TD><TD>94.00</TD><TD>96.50</TD><TD>48,748</TD><TD>93.36</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>101.50</TD><TD>101.50</TD><TD>96.00</TD><TD>97.00</TD><TD>67,819</TD><TD>93.86</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>102.30</TD><TD>102.30</TD><TD>100.50</TD><TD>100.50</TD><TD>5,781</TD><TD>97.36</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>106.99</TD><TD>106.99</TD><TD>102.01</TD><TD>102.01</TD><TD>2,729</TD><TD>98.87</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>107.00</TD><TD>107.09</TD><TD>103.01</TD><TD>104.00</TD><TD>9,837</TD><TD>100.86</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>104.01</TD><TD>107.10</TD><TD>104.00</TD><TD>107.10</TD><TD>9,617</TD><TD>103.96</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>104.00</TD><TD>105.50</TD><TD>102.50</TD><TD>103.99</TD><TD>15,092</TD><TD>100.85</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>101.01</TD><TD>107.50</TD><TD>101.01</TD><TD>105.01</TD><TD>35,711</TD><TD>101.87</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>106.60</TD><TD>107.00</TD><TD>103.00</TD><TD>104.00</TD><TD>21,808</TD><TD>100.86</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

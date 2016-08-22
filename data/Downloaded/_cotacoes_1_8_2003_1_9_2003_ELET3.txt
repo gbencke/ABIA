@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELET3.SA (ELETROBRAS)
+        </TD><TD>As of Aug-29-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-29-03</TD><TD>21.71</TD><TD>22.20</TD><TD>21.38</TD><TD>22.00</TD><TD>167,862</TD><TD>22.00</TD></TR>
+<TR>
+<TD>Aug-28-03</TD><TD>22.06</TD><TD>22.39</TD><TD>21.70</TD><TD>22.10</TD><TD>113,102</TD><TD>22.10</TD></TR>
+<TR>
+<TD>Aug-27-03</TD><TD>21.79</TD><TD>22.05</TD><TD>21.60</TD><TD>22.05</TD><TD>123,509</TD><TD>22.05</TD></TR>
+<TR>
+<TD>Aug-26-03</TD><TD>21.00</TD><TD>21.85</TD><TD>20.65</TD><TD>21.64</TD><TD>188,211</TD><TD>21.64</TD></TR>
+<TR>
+<TD>Aug-25-03</TD><TD>21.35</TD><TD>21.48</TD><TD>20.70</TD><TD>20.88</TD><TD>151,143</TD><TD>20.88</TD></TR>
+<TR>
+<TD>Aug-22-03</TD><TD>21.73</TD><TD>21.89</TD><TD>21.30</TD><TD>21.35</TD><TD>144,588</TD><TD>21.35</TD></TR>
+<TR>
+<TD>Aug-21-03</TD><TD>21.35</TD><TD>21.70</TD><TD>20.85</TD><TD>21.55</TD><TD>263,090</TD><TD>21.55</TD></TR>
+<TR>
+<TD>Aug-20-03</TD><TD>20.41</TD><TD>21.45</TD><TD>20.32</TD><TD>21.44</TD><TD>175,820</TD><TD>21.44</TD></TR>
+<TR>
+<TD>Aug-19-03</TD><TD>20.50</TD><TD>20.80</TD><TD>19.80</TD><TD>20.65</TD><TD>415,461</TD><TD>20.65</TD></TR>
+<TR>
+<TD>Aug-18-03</TD><TD>19.89</TD><TD>20.47</TD><TD>19.89</TD><TD>20.30</TD><TD>139,813</TD><TD>20.30</TD></TR>
+<TR>
+<TD>Aug-15-03</TD><TD>19.35</TD><TD>19.80</TD><TD>19.15</TD><TD>19.69</TD><TD>75,380</TD><TD>19.69</TD></TR>
+<TR>
+<TD>Aug-14-03</TD><TD>18.71</TD><TD>19.30</TD><TD>18.60</TD><TD>19.20</TD><TD>100,273</TD><TD>19.20</TD></TR>
+<TR>
+<TD>Aug-13-03</TD><TD>19.00</TD><TD>19.28</TD><TD>18.50</TD><TD>18.80</TD><TD>341,332</TD><TD>18.80</TD></TR>
+<TR>
+<TD>Aug-12-03</TD><TD>19.65</TD><TD>19.71</TD><TD>19.10</TD><TD>19.20</TD><TD>51,965</TD><TD>19.20</TD></TR>
+<TR>
+<TD>Aug-11-03</TD><TD>20.00</TD><TD>20.00</TD><TD>19.46</TD><TD>19.50</TD><TD>94,243</TD><TD>19.50</TD></TR>
+<TR>
+<TD>Aug-08-03</TD><TD>18.85</TD><TD>19.95</TD><TD>18.85</TD><TD>19.78</TD><TD>283,170</TD><TD>19.78</TD></TR>
+<TR>
+<TD>Aug-07-03</TD><TD>17.90</TD><TD>18.91</TD><TD>17.90</TD><TD>18.85</TD><TD>390,751</TD><TD>18.85</TD></TR>
+<TR>
+<TD>Aug-06-03</TD><TD>18.90</TD><TD>19.10</TD><TD>17.75</TD><TD>17.75</TD><TD>236,708</TD><TD>17.75</TD></TR>
+<TR>
+<TD>Aug-05-03</TD><TD>18.99</TD><TD>19.15</TD><TD>18.66</TD><TD>18.75</TD><TD>169,859</TD><TD>18.75</TD></TR>
+<TR>
+<TD>Aug-04-03</TD><TD>18.60</TD><TD>19.50</TD><TD>18.40</TD><TD>18.68</TD><TD>96,522</TD><TD>18.68</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>19.60</TD><TD>19.60</TD><TD>18.70</TD><TD>18.95</TD><TD>209,805</TD><TD>18.95</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

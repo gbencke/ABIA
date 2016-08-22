@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BBDC4.SA (BANCO BRADESCO SA)
+        </TD><TD>As of Apr-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-30-02</TD><TD>14.05</TD><TD>14.11</TD><TD>13.95</TD><TD>13.95</TD><TD>2,160,550</TD><TD>13.16</TD></TR>
+<TR>
+<TD>Apr-29-02</TD><TD>14.20</TD><TD>14.20</TD><TD>14.05</TD><TD>14.13</TD><TD>709,259</TD><TD>13.34</TD></TR>
+<TR>
+<TD>Apr-26-02</TD><TD>14.30</TD><TD>14.30</TD><TD>14.07</TD><TD>14.20</TD><TD>1,768,610</TD><TD>13.41</TD></TR>
+<TR>
+<TD>Apr-25-02</TD><TD>14.20</TD><TD>14.70</TD><TD>14.04</TD><TD>14.10</TD><TD>1,641,640</TD><TD>13.31</TD></TR>
+<TR>
+<TD>Apr-24-02</TD><TD>14.46</TD><TD>14.65</TD><TD>14.46</TD><TD>14.65</TD><TD>815,532</TD><TD>13.86</TD></TR>
+<TR>
+<TD>Apr-23-02</TD><TD>14.42</TD><TD>14.55</TD><TD>14.36</TD><TD>14.40</TD><TD>1,453,450</TD><TD>13.61</TD></TR>
+<TR>
+<TD>Apr-22-02</TD><TD>14.50</TD><TD>14.50</TD><TD>14.30</TD><TD>14.50</TD><TD>1,821,550</TD><TD>13.71</TD></TR>
+<TR>
+<TD>Apr-19-02</TD><TD>14.55</TD><TD>14.64</TD><TD>14.46</TD><TD>14.46</TD><TD>1,090,360</TD><TD>13.67</TD></TR>
+<TR>
+<TD>Apr-18-02</TD><TD>14.40</TD><TD>14.69</TD><TD>14.40</TD><TD>14.50</TD><TD>1,533,350</TD><TD>13.71</TD></TR>
+<TR>
+<TD>Apr-17-02</TD><TD>14.65</TD><TD>14.89</TD><TD>14.58</TD><TD>14.62</TD><TD>2,679,950</TD><TD>13.83</TD></TR>
+<TR>
+<TD>Apr-16-02</TD><TD>14.71</TD><TD>14.86</TD><TD>14.45</TD><TD>14.60</TD><TD>1,809,620</TD><TD>13.81</TD></TR>
+<TR>
+<TD>Apr-15-02</TD><TD>15.11</TD><TD>15.16</TD><TD>14.50</TD><TD>14.75</TD><TD>2,554,580</TD><TD>13.96</TD></TR>
+<TR>
+<TD>Apr-12-02</TD><TD>15.21</TD><TD>15.30</TD><TD>15.00</TD><TD>15.10</TD><TD>1,411,910</TD><TD>14.31</TD></TR>
+<TR>
+<TD>Apr-11-02</TD><TD>15.26</TD><TD>15.29</TD><TD>14.92</TD><TD>15.20</TD><TD>2,200,400</TD><TD>14.41</TD></TR>
+<TR>
+<TD>Apr-10-02</TD><TD>14.69</TD><TD>15.19</TD><TD>14.58</TD><TD>14.88</TD><TD>2,549,630</TD><TD>14.09</TD></TR>
+<TR>
+<TD>Apr-09-02</TD><TD>14.45</TD><TD>14.80</TD><TD>14.45</TD><TD>14.70</TD><TD>1,754,590</TD><TD>13.91</TD></TR>
+<TR>
+<TD>Apr-08-02</TD><TD>14.16</TD><TD>14.48</TD><TD>14.16</TD><TD>14.45</TD><TD>465,128</TD><TD>13.66</TD></TR>
+<TR>
+<TD>Apr-05-02</TD><TD>14.50</TD><TD>14.50</TD><TD>14.18</TD><TD>14.35</TD><TD>1,504,370</TD><TD>13.56</TD></TR>
+<TR>
+<TD>Apr-04-02</TD><TD>14.15</TD><TD>14.50</TD><TD>14.10</TD><TD>14.50</TD><TD>1,924,920</TD><TD>13.71</TD></TR>
+<TR>
+<TD>Apr-03-02</TD><TD>14.49</TD><TD>14.49</TD><TD>14.12</TD><TD>14.14</TD><TD>2,569,040</TD><TD>13.35</TD></TR>
+<TR>
+<TD>Apr-02-02</TD><TD>14.58</TD><TD>14.69</TD><TD>14.20</TD><TD>14.20</TD><TD>2,423,110</TD><TD>13.41</TD></TR>
+<TR>
+<TD>Apr-01-02</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Apr-01-02</TD><TD>14.10</TD><TD>14.60</TD><TD>13.99</TD><TD>14.60</TD><TD>1,077,370</TD><TD>13.81</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

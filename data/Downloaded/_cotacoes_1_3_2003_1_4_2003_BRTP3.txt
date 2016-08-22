@@ -1,0 +1,132 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRTP3.SA (BRASIL TELECOM PARTICIPACOES SA)
+        </TD><TD>As of Apr-01-03</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-01-03</TD><TD>14.70</TD><TD>15.18</TD><TD>14.60</TD><TD>14.99</TD><TD>42,916</TD><TD>14.76</TD></TR>
+<TR>
+<TD>Mar-31-03</TD><TD>14.60</TD><TD>14.70</TD><TD>14.15</TD><TD>14.70</TD><TD>29,767</TD><TD>14.47</TD></TR>
+<TR>
+<TD>Mar-28-03</TD><TD>14.31</TD><TD>14.80</TD><TD>14.31</TD><TD>14.80</TD><TD>103,237</TD><TD>14.57</TD></TR>
+<TR>
+<TD>Mar-27-03</TD><TD>14.01</TD><TD>14.69</TD><TD>14.01</TD><TD>14.69</TD><TD>211,218</TD><TD>14.46</TD></TR>
+<TR>
+<TD>Mar-26-03</TD><TD>14.65</TD><TD>14.65</TD><TD>14.15</TD><TD>14.50</TD><TD>115,456</TD><TD>14.27</TD></TR>
+<TR>
+<TD>Mar-25-03</TD><TD>14.40</TD><TD>14.79</TD><TD>14.30</TD><TD>14.55</TD><TD>259,193</TD><TD>14.32</TD></TR>
+<TR>
+<TD>Mar-24-03</TD><TD>14.30</TD><TD>14.49</TD><TD>14.00</TD><TD>14.40</TD><TD>188,024</TD><TD>14.17</TD></TR>
+<TR>
+<TD>Mar-21-03</TD><TD>14.50</TD><TD>14.51</TD><TD>14.10</TD><TD>14.51</TD><TD>102,897</TD><TD>14.28</TD></TR>
+<TR>
+<TD>Mar-20-03</TD><TD>14.19</TD><TD>14.49</TD><TD>13.81</TD><TD>14.40</TD><TD>102,041</TD><TD>14.17</TD></TR>
+<TR>
+<TD>Mar-19-03</TD><TD>14.15</TD><TD>14.50</TD><TD>14.04</TD><TD>14.45</TD><TD>107,733</TD><TD>14.22</TD></TR>
+<TR>
+<TD>Mar-18-03</TD><TD>14.20</TD><TD>14.45</TD><TD>14.05</TD><TD>14.30</TD><TD>175,759</TD><TD>14.07</TD></TR>
+<TR>
+<TD>Mar-17-03</TD><TD>14.00</TD><TD>14.50</TD><TD>14.00</TD><TD>14.10</TD><TD>115,288</TD><TD>13.87</TD></TR>
+<TR>
+<TD>Mar-14-03</TD><TD>14.99</TD><TD>14.99</TD><TD>13.80</TD><TD>14.20</TD><TD>119,219</TD><TD>13.97</TD></TR>
+<TR>
+<TD>Mar-13-03</TD><TD>13.70</TD><TD>14.35</TD><TD>13.58</TD><TD>14.21</TD><TD>88,158</TD><TD>13.98</TD></TR>
+<TR>
+<TD>Mar-12-03</TD><TD>13.10</TD><TD>13.60</TD><TD>13.10</TD><TD>13.40</TD><TD>108,132</TD><TD>13.17</TD></TR>
+<TR>
+<TD>Mar-11-03</TD><TD>13.20</TD><TD>13.50</TD><TD>12.95</TD><TD>13.35</TD><TD>45,276</TD><TD>13.12</TD></TR>
+<TR>
+<TD>Mar-10-03</TD><TD>14.10</TD><TD>14.10</TD><TD>13.35</TD><TD>13.50</TD><TD>32,976</TD><TD>13.27</TD></TR>
+<TR>
+<TD>Mar-07-03</TD><TD>14.45</TD><TD>14.69</TD><TD>14.30</TD><TD>14.65</TD><TD>63,009</TD><TD>14.42</TD></TR>
+<TR>
+<TD>Mar-06-03</TD><TD>14.25</TD><TD>14.48</TD><TD>14.00</TD><TD>14.48</TD><TD>428,886</TD><TD>14.25</TD></TR>
+<TR>
+<TD>Mar-05-03</TD><TD>13.90</TD><TD>14.27</TD><TD>13.89</TD><TD>14.04</TD><TD>48,703</TD><TD>13.81</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

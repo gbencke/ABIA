@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - LIGH3.SA (LIGHT-SERVICOS DE ELETRICIDADE )
+        </TD><TD>As of Mar-30-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-30-01</TD><TD>195.00</TD><TD>202.00</TD><TD>190.00</TD><TD>202.00</TD><TD>3,739</TD><TD>202.00</TD></TR>
+<TR>
+<TD>Mar-29-01</TD><TD>198.94</TD><TD>200.00</TD><TD>191.00</TD><TD>192.15</TD><TD>4,394</TD><TD>192.15</TD></TR>
+<TR>
+<TD>Mar-28-01</TD><TD>204.00</TD><TD>204.00</TD><TD>200.00</TD><TD>200.00</TD><TD>3,763</TD><TD>200.00</TD></TR>
+<TR>
+<TD>Mar-27-01</TD><TD>209.00</TD><TD>209.00</TD><TD>206.00</TD><TD>206.00</TD><TD>1,664</TD><TD>206.00</TD></TR>
+<TR>
+<TD>Mar-26-01</TD><TD>203.00</TD><TD>211.00</TD><TD>203.00</TD><TD>205.00</TD><TD>4,151</TD><TD>205.00</TD></TR>
+<TR>
+<TD>Mar-23-01</TD><TD>206.99</TD><TD>208.99</TD><TD>200.01</TD><TD>205.00</TD><TD>2,459</TD><TD>205.00</TD></TR>
+<TR>
+<TD>Mar-22-01</TD><TD>200.00</TD><TD>209.99</TD><TD>197.52</TD><TD>200.00</TD><TD>3,479</TD><TD>200.00</TD></TR>
+<TR>
+<TD>Mar-21-01</TD><TD>220.00</TD><TD>220.00</TD><TD>207.00</TD><TD>207.00</TD><TD>2,506</TD><TD>207.00</TD></TR>
+<TR>
+<TD>Mar-20-01</TD><TD>209.00</TD><TD>218.00</TD><TD>205.00</TD><TD>210.00</TD><TD>6,016</TD><TD>210.00</TD></TR>
+<TR>
+<TD>Mar-19-01</TD><TD>208.00</TD><TD>208.00</TD><TD>203.00</TD><TD>204.10</TD><TD>1,442</TD><TD>204.10</TD></TR>
+<TR>
+<TD>Mar-16-01</TD><TD>204.02</TD><TD>208.00</TD><TD>200.00</TD><TD>205.00</TD><TD>2,618</TD><TD>205.00</TD></TR>
+<TR>
+<TD>Mar-15-01</TD><TD>208.00</TD><TD>210.00</TD><TD>200.00</TD><TD>202.50</TD><TD>4,461</TD><TD>202.50</TD></TR>
+<TR>
+<TD>Mar-14-01</TD><TD>208.00</TD><TD>209.90</TD><TD>202.51</TD><TD>204.01</TD><TD>6,656</TD><TD>204.01</TD></TR>
+<TR>
+<TD>Mar-13-01</TD><TD>219.50</TD><TD>223.90</TD><TD>207.60</TD><TD>212.50</TD><TD>12,418</TD><TD>212.50</TD></TR>
+<TR>
+<TD>Mar-12-01</TD><TD>223.00</TD><TD>223.00</TD><TD>218.00</TD><TD>219.03</TD><TD>2,513</TD><TD>219.03</TD></TR>
+<TR>
+<TD>Mar-09-01</TD><TD>218.00</TD><TD>223.00</TD><TD>217.95</TD><TD>223.00</TD><TD>1,153</TD><TD>223.00</TD></TR>
+<TR>
+<TD>Mar-08-01</TD><TD>221.80</TD><TD>227.00</TD><TD>215.00</TD><TD>218.05</TD><TD>4,768</TD><TD>218.05</TD></TR>
+<TR>
+<TD>Mar-07-01</TD><TD>224.01</TD><TD>224.01</TD><TD>217.00</TD><TD>220.48</TD><TD>2,943</TD><TD>220.48</TD></TR>
+<TR>
+<TD>Mar-06-01</TD><TD>231.00</TD><TD>231.50</TD><TD>218.00</TD><TD>221.00</TD><TD>4,572</TD><TD>221.00</TD></TR>
+<TR>
+<TD>Mar-05-01</TD><TD>233.00</TD><TD>233.00</TD><TD>228.00</TD><TD>232.90</TD><TD>1,429</TD><TD>232.90</TD></TR>
+<TR>
+<TD>Mar-02-01</TD><TD>224.00</TD><TD>233.00</TD><TD>223.99</TD><TD>233.00</TD><TD>793</TD><TD>233.00</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>220.00</TD><TD>225.00</TD><TD>219.99</TD><TD>224.01</TD><TD>2,872</TD><TD>224.01</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

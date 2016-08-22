@@ -1,0 +1,129 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CMIG3.SA (COMPANHIA ENERGETICA DE MINAS G)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>21.19</TD><TD>21.19</TD><TD>20.40</TD><TD>20.40</TD><TD>22,205</TD><TD>19.78</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>21.20</TD><TD>21.20</TD><TD>20.71</TD><TD>21.19</TD><TD>4,906</TD><TD>20.57</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>21.90</TD><TD>21.90</TD><TD>20.60</TD><TD>20.99</TD><TD>9,967</TD><TD>20.37</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>21.52</TD><TD>21.60</TD><TD>21.12</TD><TD>21.60</TD><TD>8,976</TD><TD>20.98</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>22.10</TD><TD>22.10</TD><TD>21.60</TD><TD>21.89</TD><TD>4,003</TD><TD>21.27</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>23.08</TD><TD>23.08</TD><TD>22.07</TD><TD>22.21</TD><TD>6,984</TD><TD>21.59</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>22.41</TD><TD>23.16</TD><TD>22.15</TD><TD>22.81</TD><TD>9,410</TD><TD>22.19</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>22.25</TD><TD>22.84</TD><TD>21.90</TD><TD>22.30</TD><TD>4,408</TD><TD>21.68</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>21.54</TD><TD>22.00</TD><TD>21.53</TD><TD>22.00</TD><TD>12,190</TD><TD>21.38</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>21.80</TD><TD>21.94</TD><TD>21.65</TD><TD>21.79</TD><TD>5,983</TD><TD>21.17</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>21.60</TD><TD>21.80</TD><TD>21.60</TD><TD>21.80</TD><TD>3,832</TD><TD>21.18</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>21.01</TD><TD>21.60</TD><TD>21.01</TD><TD>21.60</TD><TD>6,663</TD><TD>20.98</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>21.21</TD><TD>21.60</TD><TD>21.21</TD><TD>21.45</TD><TD>6,666</TD><TD>20.83</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>21.17</TD><TD>21.55</TD><TD>21.17</TD><TD>21.55</TD><TD>8,756</TD><TD>20.93</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>21.30</TD><TD>21.99</TD><TD>21.30</TD><TD>21.37</TD><TD>4,303</TD><TD>20.75</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>21.71</TD><TD>21.71</TD><TD>21.40</TD><TD>21.41</TD><TD>5,600</TD><TD>20.79</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>22.00</TD><TD>22.00</TD><TD>21.52</TD><TD>21.70</TD><TD>5,008</TD><TD>21.08</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>21.71</TD><TD>22.19</TD><TD>21.70</TD><TD>22.10</TD><TD>12,429</TD><TD>21.48</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>21.60</TD><TD>21.90</TD><TD>21.60</TD><TD>21.71</TD><TD>5,238</TD><TD>21.09</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>21.45</TD><TD>21.84</TD><TD>21.40</TD><TD>21.52</TD><TD>2,740</TD><TD>20.90</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>21.51</TD><TD>21.51</TD><TD>21.22</TD><TD>21.45</TD><TD>10,820</TD><TD>20.83</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>21.51</TD><TD>22.19</TD><TD>21.50</TD><TD>21.85</TD><TD>21,513</TD><TD>21.23</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>20.95</TD><TD>21.99</TD><TD>20.80</TD><TD>21.99</TD><TD>12,073</TD><TD>21.37</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PETR3.SA (PETROLEO BRASILEIRO SA)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>58.20</TD><TD>58.81</TD><TD>57.20</TD><TD>57.50</TD><TD>171</TD><TD>53.69</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>58.01</TD><TD>58.80</TD><TD>58.00</TD><TD>58.49</TD><TD>177</TD><TD>54.68</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>59.00</TD><TD>59.59</TD><TD>58.30</TD><TD>58.30</TD><TD>133</TD><TD>54.49</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>59.50</TD><TD>59.50</TD><TD>58.00</TD><TD>58.60</TD><TD>129</TD><TD>54.79</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>58.28</TD><TD>59.35</TD><TD>58.28</TD><TD>58.40</TD><TD>552</TD><TD>54.59</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>57.40</TD><TD>58.40</TD><TD>57.28</TD><TD>58.29</TD><TD>150</TD><TD>54.48</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>57.20</TD><TD>57.90</TD><TD>56.80</TD><TD>57.40</TD><TD>274</TD><TD>53.59</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>56.90</TD><TD>58.10</TD><TD>56.40</TD><TD>57.70</TD><TD>123</TD><TD>53.89</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>55.10</TD><TD>56.50</TD><TD>54.20</TD><TD>56.31</TD><TD>70</TD><TD>52.50</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>54.21</TD><TD>56.50</TD><TD>54.21</TD><TD>55.00</TD><TD>163</TD><TD>51.19</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>56.65</TD><TD>56.65</TD><TD>54.30</TD><TD>54.30</TD><TD>347</TD><TD>50.49</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>57.00</TD><TD>57.12</TD><TD>56.00</TD><TD>56.60</TD><TD>462</TD><TD>52.79</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>60.00</TD><TD>60.00</TD><TD>57.20</TD><TD>57.20</TD><TD>207</TD><TD>53.39</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>60.50</TD><TD>60.70</TD><TD>58.70</TD><TD>59.50</TD><TD>149</TD><TD>55.69</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>60.51</TD><TD>60.51</TD><TD>59.60</TD><TD>60.00</TD><TD>216</TD><TD>56.19</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>57.50</TD><TD>60.80</TD><TD>57.50</TD><TD>60.80</TD><TD>458</TD><TD>56.99</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>58.50</TD><TD>59.00</TD><TD>58.00</TD><TD>58.60</TD><TD>137</TD><TD>54.79</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>57.00</TD><TD>58.50</TD><TD>56.50</TD><TD>58.19</TD><TD>599</TD><TD>54.38</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>57.00</TD><TD>57.80</TD><TD>56.20</TD><TD>57.00</TD><TD>395</TD><TD>53.19</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>57.10</TD><TD>57.70</TD><TD>56.20</TD><TD>56.30</TD><TD>192</TD><TD>52.49</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>58.49</TD><TD>58.50</TD><TD>56.61</TD><TD>56.83</TD><TD>268</TD><TD>53.02</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>59.50</TD><TD>59.50</TD><TD>58.20</TD><TD>58.20</TD><TD>281</TD><TD>54.39</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

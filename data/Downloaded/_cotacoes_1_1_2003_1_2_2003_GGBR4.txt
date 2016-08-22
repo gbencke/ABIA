@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - GGBR4.SA (GERDAU SA)
+        </TD><TD>As of Jan-31-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jan-31-03</TD><TD>30.80</TD><TD>32.00</TD><TD>30.80</TD><TD>31.70</TD><TD>104,066</TD><TD>29.08</TD></TR>
+<TR>
+<TD>Jan-30-03</TD><TD>30.50</TD><TD>31.20</TD><TD>30.00</TD><TD>30.80</TD><TD>127,364</TD><TD>28.18</TD></TR>
+<TR>
+<TD>Jan-29-03</TD><TD>29.70</TD><TD>30.25</TD><TD>29.20</TD><TD>30.25</TD><TD>280,632</TD><TD>27.63</TD></TR>
+<TR>
+<TD>Jan-28-03</TD><TD>29.61</TD><TD>30.29</TD><TD>29.48</TD><TD>29.50</TD><TD>146,951</TD><TD>26.88</TD></TR>
+<TR>
+<TD>Jan-27-03</TD><TD>30.01</TD><TD>30.50</TD><TD>29.70</TD><TD>29.80</TD><TD>241,395</TD><TD>27.18</TD></TR>
+<TR>
+<TD>Jan-23-03</TD><TD>32.60</TD><TD>32.60</TD><TD>31.50</TD><TD>31.80</TD><TD>91,638</TD><TD>29.18</TD></TR>
+<TR>
+<TD>Jan-22-03</TD><TD>31.97</TD><TD>33.00</TD><TD>31.50</TD><TD>32.25</TD><TD>141,816</TD><TD>29.63</TD></TR>
+<TR>
+<TD>Jan-21-03</TD><TD>32.15</TD><TD>32.45</TD><TD>31.90</TD><TD>32.00</TD><TD>97,153</TD><TD>29.38</TD></TR>
+<TR>
+<TD>Jan-20-03</TD><TD>32.10</TD><TD>32.59</TD><TD>32.00</TD><TD>32.49</TD><TD>33,213</TD><TD>29.87</TD></TR>
+<TR>
+<TD>Jan-17-03</TD><TD>32.01</TD><TD>32.69</TD><TD>31.65</TD><TD>32.65</TD><TD>93,585</TD><TD>30.03</TD></TR>
+<TR>
+<TD>Jan-16-03</TD><TD>32.50</TD><TD>32.79</TD><TD>32.15</TD><TD>32.50</TD><TD>166,383</TD><TD>29.88</TD></TR>
+<TR>
+<TD>Jan-15-03</TD><TD>32.00</TD><TD>32.55</TD><TD>31.90</TD><TD>32.30</TD><TD>187,230</TD><TD>29.68</TD></TR>
+<TR>
+<TD>Jan-14-03</TD><TD>31.71</TD><TD>32.40</TD><TD>31.71</TD><TD>32.10</TD><TD>258,923</TD><TD>29.48</TD></TR>
+<TR>
+<TD>Jan-13-03</TD><TD>32.00</TD><TD>32.01</TD><TD>31.60</TD><TD>31.60</TD><TD>180,657</TD><TD>28.98</TD></TR>
+<TR>
+<TD>Jan-10-03</TD><TD>32.40</TD><TD>32.50</TD><TD>31.92</TD><TD>32.06</TD><TD>257,088</TD><TD>29.44</TD></TR>
+<TR>
+<TD>Jan-09-03</TD><TD>32.50</TD><TD>32.50</TD><TD>32.15</TD><TD>32.20</TD><TD>209,100</TD><TD>29.58</TD></TR>
+<TR>
+<TD>Jan-08-03</TD><TD>32.25</TD><TD>32.35</TD><TD>32.10</TD><TD>32.35</TD><TD>234,426</TD><TD>29.73</TD></TR>
+<TR>
+<TD>Jan-07-03</TD><TD>32.74</TD><TD>32.80</TD><TD>32.11</TD><TD>32.13</TD><TD>399,803</TD><TD>29.51</TD></TR>
+<TR>
+<TD>Jan-06-03</TD><TD>32.80</TD><TD>33.30</TD><TD>32.40</TD><TD>32.90</TD><TD>141,688</TD><TD>30.28</TD></TR>
+<TR>
+<TD>Jan-03-03</TD><TD>33.60</TD><TD>33.60</TD><TD>32.40</TD><TD>32.70</TD><TD>106,478</TD><TD>30.08</TD></TR>
+<TR>
+<TD>Jan-02-03</TD><TD>33.67</TD><TD>33.70</TD><TD>32.80</TD><TD>33.20</TD><TD>53,185</TD><TD>30.58</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

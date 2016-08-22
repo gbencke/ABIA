@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TLPP4.SA (TELECOMUNICACOES DE SAO PAULO S)
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>31.40</TD><TD>31.40</TD><TD>30.01</TD><TD>30.69</TD><TD>83,295</TD><TD>27.43</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>30.01</TD><TD>31.00</TD><TD>28.75</TD><TD>30.20</TD><TD>31,997</TD><TD>26.94</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>$1.32 Cash Dividend</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>31.50</TD><TD>31.50</TD><TD>30.00</TD><TD>30.39</TD><TD>97,923</TD><TD>27.13</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>32.00</TD><TD>32.10</TD><TD>31.59</TD><TD>31.74</TD><TD>42,000</TD><TD>27.15</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>31.98</TD><TD>32.24</TD><TD>31.52</TD><TD>32.00</TD><TD>57,835</TD><TD>27.41</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>31.50</TD><TD>31.80</TD><TD>31.30</TD><TD>31.80</TD><TD>94,887</TD><TD>27.21</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>31.55</TD><TD>31.85</TD><TD>30.72</TD><TD>31.85</TD><TD>63,193</TD><TD>27.26</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>32.00</TD><TD>32.50</TD><TD>31.80</TD><TD>32.39</TD><TD>154,614</TD><TD>27.80</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>32.06</TD><TD>32.06</TD><TD>31.50</TD><TD>31.50</TD><TD>52,689</TD><TD>26.91</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>33.28</TD><TD>33.28</TD><TD>31.49</TD><TD>31.91</TD><TD>35,754</TD><TD>27.32</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>32.80</TD><TD>32.80</TD><TD>31.60</TD><TD>32.30</TD><TD>71,419</TD><TD>27.71</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>32.63</TD><TD>33.28</TD><TD>32.30</TD><TD>32.60</TD><TD>48,574</TD><TD>28.01</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>33.10</TD><TD>33.29</TD><TD>33.10</TD><TD>33.21</TD><TD>22,407</TD><TD>28.62</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>32.55</TD><TD>33.50</TD><TD>32.55</TD><TD>33.50</TD><TD>34,833</TD><TD>28.91</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>32.70</TD><TD>33.80</TD><TD>32.70</TD><TD>33.40</TD><TD>72,884</TD><TD>28.81</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>32.50</TD><TD>32.65</TD><TD>32.21</TD><TD>32.50</TD><TD>29,275</TD><TD>27.91</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>32.55</TD><TD>32.90</TD><TD>32.39</TD><TD>32.60</TD><TD>55,145</TD><TD>28.01</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>$0.82 Cash Dividend</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>32.70</TD><TD>32.90</TD><TD>32.10</TD><TD>32.55</TD><TD>129,817</TD><TD>27.96</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>32.11</TD><TD>33.00</TD><TD>31.83</TD><TD>32.70</TD><TD>102,986</TD><TD>27.29</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>32.51</TD><TD>33.00</TD><TD>32.51</TD><TD>32.90</TD><TD>38,110</TD><TD>27.49</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>33.50</TD><TD>33.80</TD><TD>33.01</TD><TD>33.20</TD><TD>106,744</TD><TD>27.79</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>34.00</TD><TD>34.00</TD><TD>33.05</TD><TD>33.90</TD><TD>78,980</TD><TD>28.49</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

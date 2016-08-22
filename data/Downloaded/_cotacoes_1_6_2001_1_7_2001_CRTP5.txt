@@ -1,0 +1,122 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CRTP5.SA (CELULAR CRT PARTICIPACOES SA)
+        </TD><TD>As of Jun-29-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-29-01</TD><TD>950.00</TD><TD>969.99</TD><TD>950.00</TD><TD>955.00</TD><TD>4,446</TD><TD>935.32</TD></TR>
+<TR>
+<TD>Jun-28-01</TD><TD>950.00</TD><TD>969.99</TD><TD>940.00</TD><TD>950.00</TD><TD>5,633</TD><TD>930.32</TD></TR>
+<TR>
+<TD>Jun-27-01</TD><TD>950.00</TD><TD>960.00</TD><TD>905.04</TD><TD>939.99</TD><TD>5,245</TD><TD>920.31</TD></TR>
+<TR>
+<TD>Jun-26-01</TD><TD>950.00</TD><TD>960.00</TD><TD>930.00</TD><TD>950.00</TD><TD>2,148</TD><TD>930.32</TD></TR>
+<TR>
+<TD>Jun-25-01</TD><TD>972.00</TD><TD>990.00</TD><TD>940.00</TD><TD>950.00</TD><TD>22,159</TD><TD>930.32</TD></TR>
+<TR>
+<TD>Jun-22-01</TD><TD>986.00</TD><TD>995.00</TD><TD>970.00</TD><TD>971.00</TD><TD>3,842</TD><TD>951.32</TD></TR>
+<TR>
+<TD>Jun-21-01</TD><TD>1,030.00</TD><TD>1,030.00</TD><TD>982.00</TD><TD>986.99</TD><TD>4,439</TD><TD>967.31</TD></TR>
+<TR>
+<TD>Jun-20-01</TD><TD>1,050.00</TD><TD>1,050.00</TD><TD>1,010.01</TD><TD>1,029.00</TD><TD>6,031</TD><TD>1,009.32</TD></TR>
+<TR>
+<TD>Jun-19-01</TD><TD>1,040.01</TD><TD>1,070.00</TD><TD>1,040.01</TD><TD>1,050.00</TD><TD>11,888</TD><TD>1,030.32</TD></TR>
+<TR>
+<TD>Jun-18-01</TD><TD>1,080.00</TD><TD>1,080.00</TD><TD>1,040.00</TD><TD>1,040.00</TD><TD>7,589</TD><TD>1,020.32</TD></TR>
+<TR>
+<TD>Jun-15-01</TD><TD>1,089.99</TD><TD>1,100.01</TD><TD>1,084.99</TD><TD>1,096.00</TD><TD>4,746</TD><TD>1,076.32</TD></TR>
+<TR>
+<TD>Jun-13-01</TD><TD>1,067.00</TD><TD>1,100.00</TD><TD>1,060.00</TD><TD>1,095.00</TD><TD>12,555</TD><TD>1,075.32</TD></TR>
+<TR>
+<TD>Jun-12-01</TD><TD>1,048.00</TD><TD>1,070.00</TD><TD>1,045.00</TD><TD>1,067.00</TD><TD>3,906</TD><TD>1,047.32</TD></TR>
+<TR>
+<TD>Jun-11-01</TD><TD>1,090.00</TD><TD>1,090.00</TD><TD>1,040.01</TD><TD>1,055.00</TD><TD>13,582</TD><TD>1,035.32</TD></TR>
+<TR>
+<TD>Jun-08-01</TD><TD>1,090.00</TD><TD>1,091.01</TD><TD>1,080.00</TD><TD>1,090.00</TD><TD>3,848</TD><TD>1,070.32</TD></TR>
+<TR>
+<TD>Jun-07-01</TD><TD>1,065.02</TD><TD>1,100.00</TD><TD>1,065.02</TD><TD>1,099.00</TD><TD>7,445</TD><TD>1,079.32</TD></TR>
+<TR>
+<TD>Jun-06-01</TD><TD>1,110.00</TD><TD>1,119.00</TD><TD>1,070.00</TD><TD>1,080.00</TD><TD>7,047</TD><TD>1,060.32</TD></TR>
+<TR>
+<TD>Jun-05-01</TD><TD>1,080.00</TD><TD>1,119.00</TD><TD>1,080.00</TD><TD>1,105.00</TD><TD>15,273</TD><TD>1,085.32</TD></TR>
+<TR>
+<TD>Jun-04-01</TD><TD>1,050.00</TD><TD>1,100.00</TD><TD>1,050.00</TD><TD>1,095.00</TD><TD>18,435</TD><TD>1,075.32</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>1,065.00</TD><TD>1,075.00</TD><TD>1,020.00</TD><TD>1,060.10</TD><TD>13,389</TD><TD>1,040.42</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

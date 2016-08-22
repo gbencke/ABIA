@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CPLE6.SA (COMPANHIA PARANAENSE DE ENERGIA)
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>15.12</TD><TD>15.12</TD><TD>14.40</TD><TD>14.55</TD><TD>166,023</TD><TD>14.20</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>15.50</TD><TD>15.66</TD><TD>15.10</TD><TD>15.12</TD><TD>355,984</TD><TD>14.77</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>15.49</TD><TD>15.50</TD><TD>15.11</TD><TD>15.11</TD><TD>243,157</TD><TD>14.76</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>15.20</TD><TD>15.50</TD><TD>15.20</TD><TD>15.45</TD><TD>324,892</TD><TD>15.10</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>15.10</TD><TD>15.40</TD><TD>15.00</TD><TD>15.10</TD><TD>413,107</TD><TD>14.75</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>14.40</TD><TD>14.95</TD><TD>14.00</TD><TD>14.95</TD><TD>198,912</TD><TD>14.60</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>14.87</TD><TD>14.99</TD><TD>14.36</TD><TD>14.60</TD><TD>253,123</TD><TD>14.25</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>14.75</TD><TD>14.90</TD><TD>14.68</TD><TD>14.90</TD><TD>124,282</TD><TD>14.55</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>14.80</TD><TD>14.80</TD><TD>14.51</TD><TD>14.60</TD><TD>341,944</TD><TD>14.25</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>15.11</TD><TD>15.11</TD><TD>14.20</TD><TD>14.80</TD><TD>435,563</TD><TD>14.45</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>14.84</TD><TD>15.20</TD><TD>14.84</TD><TD>15.15</TD><TD>320,310</TD><TD>14.80</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>14.55</TD><TD>14.84</TD><TD>14.30</TD><TD>14.40</TD><TD>645,476</TD><TD>14.05</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>14.30</TD><TD>14.70</TD><TD>14.25</TD><TD>14.35</TD><TD>345,122</TD><TD>14.00</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>14.60</TD><TD>14.61</TD><TD>14.00</TD><TD>14.05</TD><TD>252,473</TD><TD>13.70</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>14.50</TD><TD>14.50</TD><TD>14.20</TD><TD>14.40</TD><TD>263,932</TD><TD>14.05</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>14.90</TD><TD>14.90</TD><TD>14.50</TD><TD>14.50</TD><TD>250,959</TD><TD>14.15</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>14.95</TD><TD>15.10</TD><TD>14.60</TD><TD>15.10</TD><TD>501,428</TD><TD>14.75</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>15.00</TD><TD>15.00</TD><TD>14.40</TD><TD>14.47</TD><TD>567,344</TD><TD>14.12</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>15.31</TD><TD>15.31</TD><TD>14.70</TD><TD>14.71</TD><TD>222,069</TD><TD>14.36</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>15.60</TD><TD>15.89</TD><TD>14.90</TD><TD>15.35</TD><TD>838,105</TD><TD>15.00</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>16.66</TD><TD>16.80</TD><TD>15.21</TD><TD>15.21</TD><TD>896,308</TD><TD>14.86</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

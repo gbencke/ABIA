@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CPLE6.SA (COMPANHIA PARANAENSE DE ENERGIA)
+        </TD><TD>As of Jul-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>8.30</TD><TD>8.99</TD><TD>8.28</TD><TD>8.83</TD><TD>1,164,300</TD><TD>8.83</TD></TR>
+<TR>
+<TD>Jun-30-03</TD><TD>8.63</TD><TD>8.70</TD><TD>8.26</TD><TD>8.26</TD><TD>891,711</TD><TD>8.26</TD></TR>
+<TR>
+<TD>Jun-27-03</TD><TD>9.01</TD><TD>9.01</TD><TD>8.15</TD><TD>8.63</TD><TD>2,199,120</TD><TD>8.63</TD></TR>
+<TR>
+<TD>Jun-26-03</TD><TD>9.19</TD><TD>9.28</TD><TD>8.83</TD><TD>8.96</TD><TD>521,445</TD><TD>8.96</TD></TR>
+<TR>
+<TD>Jun-25-03</TD><TD>9.38</TD><TD>9.55</TD><TD>9.09</TD><TD>9.09</TD><TD>534,179</TD><TD>9.09</TD></TR>
+<TR>
+<TD>Jun-24-03</TD><TD>9.35</TD><TD>9.64</TD><TD>9.22</TD><TD>9.40</TD><TD>981,881</TD><TD>9.40</TD></TR>
+<TR>
+<TD>Jun-23-03</TD><TD>9.63</TD><TD>9.80</TD><TD>9.10</TD><TD>9.22</TD><TD>623,140</TD><TD>9.22</TD></TR>
+<TR>
+<TD>Jun-20-03</TD><TD>10.00</TD><TD>10.00</TD><TD>9.38</TD><TD>9.61</TD><TD>840,420</TD><TD>9.61</TD></TR>
+<TR>
+<TD>Jun-18-03</TD><TD>10.41</TD><TD>10.45</TD><TD>9.90</TD><TD>9.98</TD><TD>773,665</TD><TD>9.98</TD></TR>
+<TR>
+<TD>Jun-17-03</TD><TD>10.37</TD><TD>10.59</TD><TD>10.37</TD><TD>10.40</TD><TD>852,459</TD><TD>10.40</TD></TR>
+<TR>
+<TD>Jun-16-03</TD><TD>10.30</TD><TD>10.68</TD><TD>10.30</TD><TD>10.41</TD><TD>294,565</TD><TD>10.41</TD></TR>
+<TR>
+<TD>Jun-13-03</TD><TD>10.54</TD><TD>10.55</TD><TD>10.31</TD><TD>10.34</TD><TD>448,761</TD><TD>10.34</TD></TR>
+<TR>
+<TD>Jun-12-03</TD><TD>10.17</TD><TD>10.53</TD><TD>10.02</TD><TD>10.52</TD><TD>636,010</TD><TD>10.52</TD></TR>
+<TR>
+<TD>Jun-11-03</TD><TD>10.13</TD><TD>10.30</TD><TD>9.98</TD><TD>10.18</TD><TD>251,966</TD><TD>10.18</TD></TR>
+<TR>
+<TD>Jun-10-03</TD><TD>10.50</TD><TD>10.59</TD><TD>10.07</TD><TD>10.07</TD><TD>687,021</TD><TD>10.07</TD></TR>
+<TR>
+<TD>Jun-09-03</TD><TD>10.51</TD><TD>10.70</TD><TD>10.35</TD><TD>10.36</TD><TD>219,638</TD><TD>10.36</TD></TR>
+<TR>
+<TD>Jun-06-03</TD><TD>10.55</TD><TD>10.87</TD><TD>10.55</TD><TD>10.65</TD><TD>1,108,900</TD><TD>10.65</TD></TR>
+<TR>
+<TD>Jun-05-03</TD><TD>10.10</TD><TD>10.51</TD><TD>10.06</TD><TD>10.40</TD><TD>1,172,020</TD><TD>10.40</TD></TR>
+<TR>
+<TD>Jun-04-03</TD><TD>9.85</TD><TD>10.29</TD><TD>9.75</TD><TD>10.29</TD><TD>951,628</TD><TD>10.29</TD></TR>
+<TR>
+<TD>Jun-03-03</TD><TD>9.70</TD><TD>9.75</TD><TD>9.52</TD><TD>9.65</TD><TD>511,637</TD><TD>9.65</TD></TR>
+<TR>
+<TD>Jun-02-03</TD><TD>9.85</TD><TD>10.00</TD><TD>9.70</TD><TD>9.70</TD><TD>366,378</TD><TD>9.70</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

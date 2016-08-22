@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRKM5.SA (BRASKEM S.A.)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>671.00</TD><TD>675.00</TD><TD>650.01</TD><TD>655.00</TD><TD>1,300</TD><TD>597.33</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>676.00</TD><TD>676.00</TD><TD>670.00</TD><TD>675.00</TD><TD>2,400</TD><TD>617.33</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>681.00</TD><TD>689.97</TD><TD>675.50</TD><TD>676.00</TD><TD>1,860</TD><TD>618.33</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>695.00</TD><TD>695.00</TD><TD>669.99</TD><TD>680.01</TD><TD>942</TD><TD>622.34</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>720.00</TD><TD>730.00</TD><TD>692.00</TD><TD>700.00</TD><TD>2,101</TD><TD>642.33</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>705.00</TD><TD>707.00</TD><TD>696.00</TD><TD>706.00</TD><TD>2,483</TD><TD>648.33</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>700.00</TD><TD>710.00</TD><TD>700.00</TD><TD>708.00</TD><TD>2,326</TD><TD>650.33</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>700.00</TD><TD>700.00</TD><TD>690.00</TD><TD>697.00</TD><TD>3,666</TD><TD>639.33</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>690.00</TD><TD>700.00</TD><TD>685.00</TD><TD>699.50</TD><TD>2,236</TD><TD>641.83</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>685.00</TD><TD>698.00</TD><TD>682.00</TD><TD>682.11</TD><TD>3,538</TD><TD>624.44</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>646.00</TD><TD>689.00</TD><TD>646.00</TD><TD>680.00</TD><TD>5,391</TD><TD>622.33</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>630.01</TD><TD>646.00</TD><TD>630.01</TD><TD>644.25</TD><TD>1,528</TD><TD>586.58</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>620.50</TD><TD>627.00</TD><TD>620.50</TD><TD>625.00</TD><TD>2,962</TD><TD>567.33</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>620.01</TD><TD>630.00</TD><TD>620.00</TD><TD>620.00</TD><TD>4,897</TD><TD>562.33</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>654.99</TD><TD>654.99</TD><TD>619.00</TD><TD>620.00</TD><TD>1,136</TD><TD>562.33</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>630.01</TD><TD>630.01</TD><TD>625.00</TD><TD>630.00</TD><TD>1,919</TD><TD>572.33</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>634.00</TD><TD>660.00</TD><TD>629.99</TD><TD>635.02</TD><TD>3,779</TD><TD>577.35</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>630.00</TD><TD>649.99</TD><TD>629.99</TD><TD>634.90</TD><TD>1,642</TD><TD>577.23</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>631.07</TD><TD>651.00</TD><TD>629.99</TD><TD>630.00</TD><TD>5,899</TD><TD>572.33</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>640.00</TD><TD>650.00</TD><TD>630.00</TD><TD>630.00</TD><TD>3,890</TD><TD>572.33</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>605.00</TD><TD>630.00</TD><TD>600.00</TD><TD>629.99</TD><TD>2,594</TD><TD>572.32</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>590.00</TD><TD>615.00</TD><TD>590.00</TD><TD>606.00</TD><TD>752</TD><TD>548.33</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

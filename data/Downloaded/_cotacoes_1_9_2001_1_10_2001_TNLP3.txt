@@ -1,0 +1,114 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNLP3.SA (TELE NORTE LESTE PARTICIPACOES )
+        </TD><TD>As of Oct-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>21.15</TD><TD>22.50</TD><TD>21.00</TD><TD>22.50</TD><TD>187,288</TD><TD>20.54</TD></TR>
+<TR>
+<TD>Sep-28-01</TD><TD>22.40</TD><TD>22.47</TD><TD>21.52</TD><TD>21.90</TD><TD>271,408</TD><TD>19.94</TD></TR>
+<TR>
+<TD>Sep-27-01</TD><TD>20.95</TD><TD>22.00</TD><TD>20.00</TD><TD>21.82</TD><TD>102,213</TD><TD>19.86</TD></TR>
+<TR>
+<TD>Sep-26-01</TD><TD>21.30</TD><TD>21.30</TD><TD>20.15</TD><TD>20.94</TD><TD>156,075</TD><TD>18.98</TD></TR>
+<TR>
+<TD>Sep-25-01</TD><TD>21.90</TD><TD>22.20</TD><TD>21.27</TD><TD>21.59</TD><TD>159,022</TD><TD>19.63</TD></TR>
+<TR>
+<TD>Sep-24-01</TD><TD>23.49</TD><TD>23.50</TD><TD>21.90</TD><TD>21.96</TD><TD>255,697</TD><TD>20.00</TD></TR>
+<TR>
+<TD>Sep-21-01</TD><TD>21.00</TD><TD>23.50</TD><TD>20.30</TD><TD>23.50</TD><TD>306,042</TD><TD>21.54</TD></TR>
+<TR>
+<TD>Sep-20-01</TD><TD>21.60</TD><TD>22.20</TD><TD>21.60</TD><TD>22.00</TD><TD>241,228</TD><TD>20.04</TD></TR>
+<TR>
+<TD>Sep-19-01</TD><TD>21.20</TD><TD>22.10</TD><TD>21.00</TD><TD>21.90</TD><TD>417,913</TD><TD>19.94</TD></TR>
+<TR>
+<TD>Sep-18-01</TD><TD>20.88</TD><TD>21.40</TD><TD>20.60</TD><TD>20.80</TD><TD>156,052</TD><TD>18.84</TD></TR>
+<TR>
+<TD>Sep-17-01</TD><TD>20.00</TD><TD>21.40</TD><TD>19.80</TD><TD>21.40</TD><TD>161,665</TD><TD>19.44</TD></TR>
+<TR>
+<TD>Sep-10-01</TD><TD>23.52</TD><TD>24.00</TD><TD>23.50</TD><TD>23.59</TD><TD>234,444</TD><TD>21.63</TD></TR>
+<TR>
+<TD>Sep-06-01</TD><TD>25.60</TD><TD>25.60</TD><TD>23.80</TD><TD>24.49</TD><TD>60,672</TD><TD>22.53</TD></TR>
+<TR>
+<TD>Sep-05-01</TD><TD>25.60</TD><TD>25.70</TD><TD>24.80</TD><TD>25.70</TD><TD>196,111</TD><TD>23.74</TD></TR>
+<TR>
+<TD>Sep-04-01</TD><TD>25.15</TD><TD>26.15</TD><TD>25.15</TD><TD>25.85</TD><TD>158,005</TD><TD>23.89</TD></TR>
+<TR>
+<TD>Sep-03-01</TD><TD>26.00</TD><TD>26.00</TD><TD>25.02</TD><TD>25.15</TD><TD>79,309</TD><TD>23.19</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

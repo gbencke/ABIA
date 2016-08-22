@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TCSL4.SA (TELE CELULAR SUL PARTICIPACOES )
+        </TD><TD>As of Aug-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-30-02</TD><TD>2.74</TD><TD>2.76</TD><TD>2.56</TD><TD>2.56</TD><TD>1,748,020</TD><TD>2.53</TD></TR>
+<TR>
+<TD>Aug-29-02</TD><TD>2.66</TD><TD>2.77</TD><TD>2.61</TD><TD>2.68</TD><TD>1,838,790</TD><TD>2.65</TD></TR>
+<TR>
+<TD>Aug-28-02</TD><TD>2.74</TD><TD>2.75</TD><TD>2.66</TD><TD>2.66</TD><TD>769,971</TD><TD>2.63</TD></TR>
+<TR>
+<TD>Aug-27-02</TD><TD>2.72</TD><TD>2.75</TD><TD>2.64</TD><TD>2.73</TD><TD>1,419,810</TD><TD>2.70</TD></TR>
+<TR>
+<TD>Aug-26-02</TD><TD>2.66</TD><TD>2.74</TD><TD>2.59</TD><TD>2.68</TD><TD>1,108,130</TD><TD>2.65</TD></TR>
+<TR>
+<TD>Aug-23-02</TD><TD>2.70</TD><TD>2.74</TD><TD>2.54</TD><TD>2.56</TD><TD>781,194</TD><TD>2.53</TD></TR>
+<TR>
+<TD>Aug-22-02</TD><TD>2.49</TD><TD>2.70</TD><TD>2.49</TD><TD>2.70</TD><TD>1,608,640</TD><TD>2.67</TD></TR>
+<TR>
+<TD>Aug-21-02</TD><TD>2.56</TD><TD>2.56</TD><TD>2.42</TD><TD>2.42</TD><TD>772,027</TD><TD>2.39</TD></TR>
+<TR>
+<TD>Aug-20-02</TD><TD>2.61</TD><TD>2.61</TD><TD>2.44</TD><TD>2.45</TD><TD>706,389</TD><TD>2.42</TD></TR>
+<TR>
+<TD>Aug-19-02</TD><TD>2.60</TD><TD>2.62</TD><TD>2.49</TD><TD>2.51</TD><TD>594,310</TD><TD>2.48</TD></TR>
+<TR>
+<TD>Aug-16-02</TD><TD>2.44</TD><TD>2.62</TD><TD>2.44</TD><TD>2.61</TD><TD>699,330</TD><TD>2.58</TD></TR>
+<TR>
+<TD>Aug-15-02</TD><TD>2.51</TD><TD>2.54</TD><TD>2.34</TD><TD>2.44</TD><TD>443,557</TD><TD>2.41</TD></TR>
+<TR>
+<TD>Aug-14-02</TD><TD>2.53</TD><TD>2.56</TD><TD>2.25</TD><TD>2.47</TD><TD>1,720,300</TD><TD>2.44</TD></TR>
+<TR>
+<TD>Aug-13-02</TD><TD>2.58</TD><TD>2.60</TD><TD>2.51</TD><TD>2.54</TD><TD>1,737,110</TD><TD>2.51</TD></TR>
+<TR>
+<TD>Aug-12-02</TD><TD>2.65</TD><TD>2.66</TD><TD>2.58</TD><TD>2.58</TD><TD>1,115,320</TD><TD>2.55</TD></TR>
+<TR>
+<TD>Aug-09-02</TD><TD>2.84</TD><TD>2.84</TD><TD>2.63</TD><TD>2.63</TD><TD>995,150</TD><TD>2.60</TD></TR>
+<TR>
+<TD>Aug-08-02</TD><TD>2.95</TD><TD>3.03</TD><TD>2.84</TD><TD>2.86</TD><TD>1,469,530</TD><TD>2.83</TD></TR>
+<TR>
+<TD>Aug-07-02</TD><TD>2.86</TD><TD>2.89</TD><TD>2.75</TD><TD>2.83</TD><TD>1,218,960</TD><TD>2.80</TD></TR>
+<TR>
+<TD>Aug-06-02</TD><TD>2.64</TD><TD>2.79</TD><TD>2.63</TD><TD>2.79</TD><TD>682,975</TD><TD>2.76</TD></TR>
+<TR>
+<TD>Aug-05-02</TD><TD>2.78</TD><TD>2.80</TD><TD>2.57</TD><TD>2.57</TD><TD>989,701</TD><TD>2.54</TD></TR>
+<TR>
+<TD>Aug-02-02</TD><TD>2.92</TD><TD>3.05</TD><TD>2.75</TD><TD>2.78</TD><TD>1,051,860</TD><TD>2.75</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>3.01</TD><TD>3.08</TD><TD>2.85</TD><TD>2.85</TD><TD>1,741,410</TD><TD>2.82</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

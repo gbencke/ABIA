@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - GGBR4.SA (GERDAU SA)
+        </TD><TD>As of Aug-31-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-31-01</TD><TD>16.60</TD><TD>16.69</TD><TD>16.49</TD><TD>16.50</TD><TD>94,921</TD><TD>12.12</TD></TR>
+<TR>
+<TD>Aug-30-01</TD><TD>16.50</TD><TD>16.70</TD><TD>16.40</TD><TD>16.50</TD><TD>33,603</TD><TD>12.12</TD></TR>
+<TR>
+<TD>Aug-29-01</TD><TD>16.40</TD><TD>16.60</TD><TD>16.30</TD><TD>16.60</TD><TD>79,903</TD><TD>12.22</TD></TR>
+<TR>
+<TD>Aug-28-01</TD><TD>16.35</TD><TD>16.45</TD><TD>16.20</TD><TD>16.31</TD><TD>62,355</TD><TD>11.93</TD></TR>
+<TR>
+<TD>Aug-27-01</TD><TD>16.45</TD><TD>16.45</TD><TD>16.10</TD><TD>16.30</TD><TD>26,423</TD><TD>11.92</TD></TR>
+<TR>
+<TD>Aug-24-01</TD><TD>16.16</TD><TD>16.50</TD><TD>16.16</TD><TD>16.49</TD><TD>25,696</TD><TD>12.11</TD></TR>
+<TR>
+<TD>Aug-23-01</TD><TD>16.40</TD><TD>16.40</TD><TD>16.05</TD><TD>16.15</TD><TD>60,379</TD><TD>11.77</TD></TR>
+<TR>
+<TD>Aug-22-01</TD><TD>16.51</TD><TD>16.51</TD><TD>16.10</TD><TD>16.29</TD><TD>120,713</TD><TD>11.91</TD></TR>
+<TR>
+<TD>Aug-21-01</TD><TD>16.53</TD><TD>16.90</TD><TD>16.50</TD><TD>16.50</TD><TD>80,575</TD><TD>12.12</TD></TR>
+<TR>
+<TD>Aug-20-01</TD><TD>16.70</TD><TD>17.10</TD><TD>16.50</TD><TD>16.50</TD><TD>30,034</TD><TD>12.12</TD></TR>
+<TR>
+<TD>Aug-17-01</TD><TD>16.59</TD><TD>17.10</TD><TD>16.59</TD><TD>16.80</TD><TD>80,455</TD><TD>12.42</TD></TR>
+<TR>
+<TD>Aug-15-01</TD><TD>$0.44 Cash Dividend</TD></TR>
+<TR>
+<TD>Aug-15-01</TD><TD>17.24</TD><TD>17.24</TD><TD>16.60</TD><TD>16.99</TD><TD>119,892</TD><TD>12.61</TD></TR>
+<TR>
+<TD>Aug-14-01</TD><TD>16.95</TD><TD>17.09</TD><TD>16.50</TD><TD>17.00</TD><TD>84,310</TD><TD>12.19</TD></TR>
+<TR>
+<TD>Aug-13-01</TD><TD>17.00</TD><TD>17.00</TD><TD>16.45</TD><TD>16.78</TD><TD>43,499</TD><TD>11.97</TD></TR>
+<TR>
+<TD>Aug-10-01</TD><TD>17.10</TD><TD>17.19</TD><TD>16.96</TD><TD>17.00</TD><TD>41,146</TD><TD>12.19</TD></TR>
+<TR>
+<TD>Aug-09-01</TD><TD>17.00</TD><TD>17.10</TD><TD>16.80</TD><TD>16.81</TD><TD>64,953</TD><TD>12.00</TD></TR>
+<TR>
+<TD>Aug-08-01</TD><TD>17.25</TD><TD>17.40</TD><TD>16.95</TD><TD>16.95</TD><TD>40,952</TD><TD>12.14</TD></TR>
+<TR>
+<TD>Aug-07-01</TD><TD>17.39</TD><TD>17.39</TD><TD>17.05</TD><TD>17.17</TD><TD>107,155</TD><TD>12.36</TD></TR>
+<TR>
+<TD>Aug-06-01</TD><TD>17.49</TD><TD>17.60</TD><TD>17.40</TD><TD>17.40</TD><TD>39,372</TD><TD>12.59</TD></TR>
+<TR>
+<TD>Aug-03-01</TD><TD>17.40</TD><TD>17.50</TD><TD>16.91</TD><TD>17.30</TD><TD>62,569</TD><TD>12.49</TD></TR>
+<TR>
+<TD>Aug-02-01</TD><TD>16.90</TD><TD>17.40</TD><TD>16.90</TD><TD>17.40</TD><TD>171,546</TD><TD>12.59</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>17.00</TD><TD>17.00</TD><TD>16.70</TD><TD>16.80</TD><TD>107,766</TD><TD>11.99</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

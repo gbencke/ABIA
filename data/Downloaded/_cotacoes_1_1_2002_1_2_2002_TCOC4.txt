@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TCOC4.SA (TELE CENTRO OESTE CELULAR PARTI)
+        </TD><TD>As of Feb-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-02</TD><TD>4.55</TD><TD>4.60</TD><TD>4.40</TD><TD>4.44</TD><TD>885,016</TD><TD>4.12</TD></TR>
+<TR>
+<TD>Jan-31-02</TD><TD>4.80</TD><TD>4.80</TD><TD>4.45</TD><TD>4.53</TD><TD>1,899,010</TD><TD>4.21</TD></TR>
+<TR>
+<TD>Jan-30-02</TD><TD>4.67</TD><TD>4.75</TD><TD>4.51</TD><TD>4.61</TD><TD>1,461,150</TD><TD>4.29</TD></TR>
+<TR>
+<TD>Jan-29-02</TD><TD>4.87</TD><TD>5.00</TD><TD>4.65</TD><TD>4.65</TD><TD>833,892</TD><TD>4.33</TD></TR>
+<TR>
+<TD>Jan-28-02</TD><TD>5.00</TD><TD>5.05</TD><TD>4.85</TD><TD>4.85</TD><TD>1,188,540</TD><TD>4.53</TD></TR>
+<TR>
+<TD>Jan-24-02</TD><TD>4.93</TD><TD>5.09</TD><TD>4.92</TD><TD>5.00</TD><TD>514,680</TD><TD>4.68</TD></TR>
+<TR>
+<TD>Jan-23-02</TD><TD>4.98</TD><TD>5.00</TD><TD>4.85</TD><TD>4.97</TD><TD>750,501</TD><TD>4.65</TD></TR>
+<TR>
+<TD>Jan-22-02</TD><TD>5.01</TD><TD>5.09</TD><TD>4.80</TD><TD>4.85</TD><TD>1,103,070</TD><TD>4.53</TD></TR>
+<TR>
+<TD>Jan-21-02</TD><TD>4.96</TD><TD>5.04</TD><TD>4.92</TD><TD>5.00</TD><TD>423,208</TD><TD>4.68</TD></TR>
+<TR>
+<TD>Jan-18-02</TD><TD>5.04</TD><TD>5.10</TD><TD>4.95</TD><TD>4.96</TD><TD>888,526</TD><TD>4.64</TD></TR>
+<TR>
+<TD>Jan-17-02</TD><TD>5.00</TD><TD>5.03</TD><TD>4.76</TD><TD>5.03</TD><TD>1,769,560</TD><TD>4.71</TD></TR>
+<TR>
+<TD>Jan-16-02</TD><TD>4.95</TD><TD>5.06</TD><TD>4.90</TD><TD>4.90</TD><TD>1,494,800</TD><TD>4.58</TD></TR>
+<TR>
+<TD>Jan-15-02</TD><TD>5.10</TD><TD>5.10</TD><TD>4.85</TD><TD>4.98</TD><TD>1,778,230</TD><TD>4.66</TD></TR>
+<TR>
+<TD>Jan-14-02</TD><TD>5.24</TD><TD>5.24</TD><TD>5.00</TD><TD>5.01</TD><TD>595,081</TD><TD>4.69</TD></TR>
+<TR>
+<TD>Jan-11-02</TD><TD>5.18</TD><TD>5.28</TD><TD>5.12</TD><TD>5.20</TD><TD>1,356,280</TD><TD>4.88</TD></TR>
+<TR>
+<TD>Jan-10-02</TD><TD>5.59</TD><TD>5.60</TD><TD>5.16</TD><TD>5.23</TD><TD>1,720,090</TD><TD>4.91</TD></TR>
+<TR>
+<TD>Jan-09-02</TD><TD>5.63</TD><TD>5.69</TD><TD>5.36</TD><TD>5.64</TD><TD>1,119,070</TD><TD>5.32</TD></TR>
+<TR>
+<TD>Jan-08-02</TD><TD>5.67</TD><TD>5.69</TD><TD>5.50</TD><TD>5.63</TD><TD>1,151,370</TD><TD>5.31</TD></TR>
+<TR>
+<TD>Jan-07-02</TD><TD>5.84</TD><TD>5.84</TD><TD>5.60</TD><TD>5.67</TD><TD>927,954</TD><TD>5.35</TD></TR>
+<TR>
+<TD>Jan-04-02</TD><TD>5.60</TD><TD>5.80</TD><TD>5.55</TD><TD>5.79</TD><TD>1,600,410</TD><TD>5.47</TD></TR>
+<TR>
+<TD>Jan-03-02</TD><TD>5.50</TD><TD>5.65</TD><TD>5.50</TD><TD>5.62</TD><TD>1,142,080</TD><TD>5.30</TD></TR>
+<TR>
+<TD>Jan-02-02</TD><TD>5.43</TD><TD>5.48</TD><TD>5.34</TD><TD>5.47</TD><TD>874,972</TD><TD>5.15</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

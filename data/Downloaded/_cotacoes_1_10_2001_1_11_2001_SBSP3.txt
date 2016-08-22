@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - SBSP3.SA (COMPANHIA DE SANEAMENTO BASICO )
+        </TD><TD>As of Nov-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>112.01</TD><TD>114.50</TD><TD>109.00</TD><TD>111.01</TD><TD>4,671</TD><TD>84.45</TD></TR>
+<TR>
+<TD>Oct-31-01</TD><TD>112.20</TD><TD>115.99</TD><TD>107.60</TD><TD>112.00</TD><TD>10,476</TD><TD>85.44</TD></TR>
+<TR>
+<TD>Oct-30-01</TD><TD>111.89</TD><TD>114.99</TD><TD>111.89</TD><TD>112.00</TD><TD>8,243</TD><TD>85.44</TD></TR>
+<TR>
+<TD>Oct-29-01</TD><TD>115.99</TD><TD>115.99</TD><TD>109.00</TD><TD>111.99</TD><TD>10,286</TD><TD>85.43</TD></TR>
+<TR>
+<TD>Oct-26-01</TD><TD>113.01</TD><TD>115.00</TD><TD>112.01</TD><TD>115.00</TD><TD>5,313</TD><TD>88.44</TD></TR>
+<TR>
+<TD>Oct-25-01</TD><TD>112.00</TD><TD>113.00</TD><TD>110.00</TD><TD>113.00</TD><TD>11,159</TD><TD>86.44</TD></TR>
+<TR>
+<TD>Oct-24-01</TD><TD>116.10</TD><TD>116.10</TD><TD>110.00</TD><TD>110.05</TD><TD>4,648</TD><TD>83.49</TD></TR>
+<TR>
+<TD>Oct-23-01</TD><TD>120.00</TD><TD>120.00</TD><TD>116.21</TD><TD>116.21</TD><TD>3,603</TD><TD>89.65</TD></TR>
+<TR>
+<TD>Oct-22-01</TD><TD>118.70</TD><TD>119.40</TD><TD>116.20</TD><TD>118.55</TD><TD>10,745</TD><TD>91.99</TD></TR>
+<TR>
+<TD>Oct-19-01</TD><TD>115.70</TD><TD>120.00</TD><TD>113.89</TD><TD>118.55</TD><TD>15,457</TD><TD>91.99</TD></TR>
+<TR>
+<TD>Oct-18-01</TD><TD>118.00</TD><TD>118.00</TD><TD>114.00</TD><TD>114.60</TD><TD>6,784</TD><TD>88.04</TD></TR>
+<TR>
+<TD>Oct-17-01</TD><TD>118.00</TD><TD>120.00</TD><TD>110.00</TD><TD>117.00</TD><TD>22,530</TD><TD>90.44</TD></TR>
+<TR>
+<TD>Oct-16-01</TD><TD>119.00</TD><TD>119.00</TD><TD>116.00</TD><TD>117.00</TD><TD>20,125</TD><TD>90.44</TD></TR>
+<TR>
+<TD>Oct-15-01</TD><TD>110.00</TD><TD>114.50</TD><TD>109.50</TD><TD>114.00</TD><TD>23,445</TD><TD>87.44</TD></TR>
+<TR>
+<TD>Oct-11-01</TD><TD>108.99</TD><TD>110.99</TD><TD>107.00</TD><TD>109.00</TD><TD>12,331</TD><TD>82.44</TD></TR>
+<TR>
+<TD>Oct-10-01</TD><TD>102.50</TD><TD>107.00</TD><TD>102.00</TD><TD>106.51</TD><TD>4,912</TD><TD>79.95</TD></TR>
+<TR>
+<TD>Oct-09-01</TD><TD>101.99</TD><TD>104.00</TD><TD>101.49</TD><TD>102.50</TD><TD>2,480</TD><TD>75.94</TD></TR>
+<TR>
+<TD>Oct-08-01</TD><TD>96.00</TD><TD>102.00</TD><TD>96.00</TD><TD>100.99</TD><TD>8,433</TD><TD>74.43</TD></TR>
+<TR>
+<TD>Oct-05-01</TD><TD>98.00</TD><TD>103.00</TD><TD>97.99</TD><TD>100.02</TD><TD>12,284</TD><TD>73.46</TD></TR>
+<TR>
+<TD>Oct-04-01</TD><TD>98.11</TD><TD>99.50</TD><TD>96.95</TD><TD>98.00</TD><TD>15,165</TD><TD>71.44</TD></TR>
+<TR>
+<TD>Oct-02-01</TD><TD>106.00</TD><TD>108.00</TD><TD>102.00</TD><TD>104.01</TD><TD>10,366</TD><TD>77.45</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>107.00</TD><TD>110.00</TD><TD>105.05</TD><TD>106.88</TD><TD>3,072</TD><TD>80.32</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ARCZ6.SA (ARACRUZ CELULOSE SA)
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>5.99</TD><TD>5.99</TD><TD>5.20</TD><TD>5.20</TD><TD>823</TD><TD>4.88</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>5.70</TD><TD>5.74</TD><TD>5.65</TD><TD>5.71</TD><TD>237</TD><TD>5.39</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>5.68</TD><TD>5.74</TD><TD>5.65</TD><TD>5.65</TD><TD>413</TD><TD>5.33</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>5.81</TD><TD>5.81</TD><TD>5.53</TD><TD>5.58</TD><TD>375</TD><TD>5.26</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>5.62</TD><TD>5.78</TD><TD>5.60</TD><TD>5.65</TD><TD>532</TD><TD>5.33</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>5.50</TD><TD>5.70</TD><TD>5.50</TD><TD>5.60</TD><TD>505</TD><TD>5.28</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>5.53</TD><TD>5.65</TD><TD>5.50</TD><TD>5.65</TD><TD>200</TD><TD>5.33</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>5.46</TD><TD>5.64</TD><TD>5.46</TD><TD>5.53</TD><TD>431</TD><TD>5.21</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>5.43</TD><TD>5.48</TD><TD>5.37</TD><TD>5.37</TD><TD>198</TD><TD>5.05</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>5.47</TD><TD>5.50</TD><TD>5.41</TD><TD>5.43</TD><TD>143</TD><TD>5.11</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>5.65</TD><TD>5.65</TD><TD>5.47</TD><TD>5.47</TD><TD>340</TD><TD>5.15</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>5.25</TD><TD>5.58</TD><TD>5.25</TD><TD>5.58</TD><TD>449</TD><TD>5.26</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>5.33</TD><TD>5.50</TD><TD>5.30</TD><TD>5.50</TD><TD>195</TD><TD>5.18</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>$0.18 Cash Dividend</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>5.24</TD><TD>5.32</TD><TD>5.20</TD><TD>5.32</TD><TD>405</TD><TD>5.00</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>5.17</TD><TD>5.25</TD><TD>5.17</TD><TD>5.24</TD><TD>166</TD><TD>4.74</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>5.23</TD><TD>5.27</TD><TD>5.20</TD><TD>5.20</TD><TD>337</TD><TD>4.70</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>5.11</TD><TD>5.24</TD><TD>5.11</TD><TD>5.19</TD><TD>730</TD><TD>4.69</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>5.25</TD><TD>5.25</TD><TD>5.10</TD><TD>5.11</TD><TD>408</TD><TD>4.61</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>5.20</TD><TD>5.33</TD><TD>5.17</TD><TD>5.21</TD><TD>313</TD><TD>4.71</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>5.10</TD><TD>5.20</TD><TD>5.10</TD><TD>5.20</TD><TD>601</TD><TD>4.70</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>4.80</TD><TD>5.24</TD><TD>4.80</TD><TD>5.15</TD><TD>475</TD><TD>4.65</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

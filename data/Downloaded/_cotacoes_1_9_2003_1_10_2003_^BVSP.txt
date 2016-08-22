@@ -1,0 +1,100 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Sep-05-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Sep-05-03</TD><TD>15,707.00</TD><TD>15,951.00</TD><TD>15,610.00</TD><TD>15,900.00</TD><TD>0</TD><TD>15,900.00</TD></TR>
+<TR>
+<TD>Sep-04-03</TD><TD>15,635.00</TD><TD>15,884.00</TD><TD>15,564.00</TD><TD>15,705.00</TD><TD>0</TD><TD>15,705.00</TD></TR>
+<TR>
+<TD>Sep-03-03</TD><TD>15,455.00</TD><TD>15,690.00</TD><TD>15,455.00</TD><TD>15,634.00</TD><TD>0</TD><TD>15,634.00</TD></TR>
+<TR>
+<TD>Sep-02-03</TD><TD>15,352.00</TD><TD>15,475.00</TD><TD>15,321.00</TD><TD>15,454.00</TD><TD>0</TD><TD>15,454.00</TD></TR>
+<TR>
+<TD>Sep-01-03</TD><TD>15,174.00</TD><TD>15,374.00</TD><TD>15,075.00</TD><TD>15,352.00</TD><TD>0</TD><TD>15,352.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

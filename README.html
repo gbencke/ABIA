@@ -1,0 +1,47 @@
+<HTML>
+<BODY>
+<FONT FACE=VERDANA>
+<FONT SIZE=3>1. Instalação e Execução do Programa<BR><BR></FONT>
+<FONT SIZE=2>
+O <A HREF="Instalacao.html">Documento de Instalacao</A> contêm todas as informações para a instalação e execução do programa.<BR><BR>
+<FONT SIZE=3>
+2. Estrutura e Organização dos Fontes e Dados de Teste<BR><BR>
+<FONT SIZE=2>
+Os fontes estão organizados nos diretorios abaixo:<BR><BR>
+<FONT SIZE=3>
+2.1 Diretório Downloaded<BR><BR>
+<FONT SIZE=2>
+Esse diretorio contêm os dados de teste previamente "Garimpados" na Internet. Os arquivos são os seguintes:<BR>
+<TABLE BORDER=2 CELLPADDING=5 CELLSPACING=0 BORDERCOLOR=000000 WIDTH=100%>
+<TR><TD WIDTH=30%><FONT SIZE=2>_cotacoes*.txt</TD><TD><FONT SIZE=2>Esses arquivos contêm séries históricas obtidas no Yahoo! Finance</TD></TR>
+<TR><TD WIDTH=30%><FONT SIZE=2>200*.txt</TD><TD><FONT SIZE=2>Esses arquivos são as séries históricas acima, porém reescritas no formato BDI da BOVESPA</TD></TR>
+<TR><TD WIDTH=30%><FONT SIZE=2>ListaEmpresas*.txt</TD><TD><FONT SIZE=2>Lista de empresas negociadas na BOVESPA</TD></TR>
+<TR><TD WIDTH=30%><FONT SIZE=2>Diretorios</TD><TD><FONT SIZE=2>Lista de balancetes emitidos na CVM, por data de publicação</TD></TR>
+</TABLE>
+<BR>
+<FONT SIZE=3>
+2.2 Diretório org<BR><BR>
+<FONT SIZE=2>
+Fontes em Java do Container de Agentes e classes compiladas<BR><BR>
+<FONT SIZE=3>
+2.3 Diretório test<BR><BR>
+<FONT SIZE=2>
+Diretório de Teste do Container de Agentes. O aplicativo tem que ter os seguintes arquivos e diretorios:s
+<TABLE BORDER=2 CELLPADDING=5 CELLSPACING=0 BORDERCOLOR=000000 WIDTH=100%>
+<TR><TD WIDTH=30%><FONT SIZE=2>agents</TD><TD><FONT SIZE=2>Arquivos JAR dos agentes utilizados pelo Container de Agentes</TD></TR>
+<TR><TD WIDTH=30%><FONT SIZE=2>bin</TD><TD><FONT SIZE=2>Arquivos JAR principais do Container de Agentes (ABIA.JAR) e CLIPServer</TD></TR>
+<TR><TD WIDTH=30%><FONT SIZE=2>conf</TD><TD><FONT SIZE=2>Arquivos de configuração e regras dos agentes do sistema</TD></TR>
+</TABLE>
+<BR>
+<FONT SIZE=3>
+2.3 Diretório utils<BR><BR>
+<FONT SIZE=2>
+Aplicativos utilitarios utilizados pelo Container de Agentes.
+<TABLE BORDER=2 CELLPADDING=5 CELLSPACING=0 BORDERCOLOR=000000 WIDTH=100%	>
+<TR><TD WIDTH=30%><FONT SIZE=2>ChartGenerator</TD><TD><FONT SIZE=2>Programa em VB utilizado para gerar Graficos em Excel</TD></TR>
+<TR><TD WIDTH=30%><FONT SIZE=2>CLIPServer</TD><TD><FONT SIZE=2>Adaptação do CLIPS para aceitar comandos remotos</TD></TR>
+<TR><TD WIDTH=30%><FONT SIZE=2>libs</TD><TD><FONT SIZE=2>Bibliotecas JAR auxiliares</TD></TR>
+<TR><TD WIDTH=30%><FONT SIZE=2>Simulator</TD><TD><FONT SIZE=2>Simulador de Sites Financeiros</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

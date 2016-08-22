@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VALE3.SA (COMPANHIA VALE DO RIO DOCE)
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>86.50</TD><TD>86.50</TD><TD>83.00</TD><TD>84.30</TD><TD>250</TD><TD>78.38</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>88.00</TD><TD>88.00</TD><TD>84.30</TD><TD>86.69</TD><TD>150</TD><TD>80.77</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>89.50</TD><TD>89.60</TD><TD>87.80</TD><TD>89.00</TD><TD>170</TD><TD>83.08</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>89.50</TD><TD>90.00</TD><TD>89.00</TD><TD>89.50</TD><TD>326</TD><TD>83.58</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>88.70</TD><TD>91.00</TD><TD>88.00</TD><TD>88.10</TD><TD>178</TD><TD>82.18</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>86.20</TD><TD>90.99</TD><TD>86.20</TD><TD>89.50</TD><TD>462</TD><TD>83.58</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>85.75</TD><TD>86.30</TD><TD>84.00</TD><TD>86.30</TD><TD>194</TD><TD>80.38</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>82.99</TD><TD>83.80</TD><TD>82.50</TD><TD>82.50</TD><TD>249</TD><TD>76.58</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>82.50</TD><TD>83.20</TD><TD>82.50</TD><TD>82.99</TD><TD>90</TD><TD>77.07</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>80.95</TD><TD>82.80</TD><TD>80.95</TD><TD>82.50</TD><TD>48</TD><TD>76.58</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>80.50</TD><TD>81.25</TD><TD>79.98</TD><TD>79.98</TD><TD>48</TD><TD>74.06</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>80.00</TD><TD>81.00</TD><TD>80.00</TD><TD>80.80</TD><TD>19</TD><TD>74.88</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>79.10</TD><TD>80.00</TD><TD>79.10</TD><TD>80.00</TD><TD>21</TD><TD>74.08</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>79.26</TD><TD>79.40</TD><TD>78.50</TD><TD>79.01</TD><TD>29</TD><TD>73.09</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>79.90</TD><TD>80.25</TD><TD>79.80</TD><TD>79.80</TD><TD>10</TD><TD>73.88</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>80.40</TD><TD>80.70</TD><TD>79.50</TD><TD>79.90</TD><TD>51</TD><TD>73.98</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>80.00</TD><TD>80.98</TD><TD>80.00</TD><TD>80.00</TD><TD>349</TD><TD>74.08</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>78.50</TD><TD>80.10</TD><TD>78.50</TD><TD>79.10</TD><TD>46</TD><TD>73.18</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>76.50</TD><TD>79.30</TD><TD>76.50</TD><TD>78.52</TD><TD>63</TD><TD>72.60</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>76.70</TD><TD>77.00</TD><TD>76.00</TD><TD>76.90</TD><TD>13</TD><TD>70.98</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>75.00</TD><TD>76.40</TD><TD>75.00</TD><TD>76.00</TD><TD>67</TD><TD>70.08</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>75.41</TD><TD>75.75</TD><TD>75.00</TD><TD>75.00</TD><TD>7</TD><TD>69.08</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

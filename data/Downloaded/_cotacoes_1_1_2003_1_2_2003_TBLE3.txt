@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TBLE3.SA (TRACTBEL ENERGIA SA)
+        </TD><TD>As of Jan-31-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jan-31-03</TD><TD>3.52</TD><TD>3.59</TD><TD>3.36</TD><TD>3.59</TD><TD>114,203</TD><TD>3.09</TD></TR>
+<TR>
+<TD>Jan-30-03</TD><TD>3.54</TD><TD>3.55</TD><TD>3.32</TD><TD>3.45</TD><TD>33,714</TD><TD>2.95</TD></TR>
+<TR>
+<TD>Jan-29-03</TD><TD>3.21</TD><TD>3.54</TD><TD>3.20</TD><TD>3.54</TD><TD>67,620</TD><TD>3.04</TD></TR>
+<TR>
+<TD>Jan-28-03</TD><TD>3.29</TD><TD>3.34</TD><TD>3.17</TD><TD>3.30</TD><TD>104,477</TD><TD>2.80</TD></TR>
+<TR>
+<TD>Jan-27-03</TD><TD>3.39</TD><TD>3.39</TD><TD>3.15</TD><TD>3.29</TD><TD>111,872</TD><TD>2.79</TD></TR>
+<TR>
+<TD>Jan-23-03</TD><TD>3.36</TD><TD>3.46</TD><TD>3.36</TD><TD>3.43</TD><TD>83,052</TD><TD>2.93</TD></TR>
+<TR>
+<TD>Jan-22-03</TD><TD>3.29</TD><TD>3.47</TD><TD>3.29</TD><TD>3.45</TD><TD>38,723</TD><TD>2.95</TD></TR>
+<TR>
+<TD>Jan-21-03</TD><TD>3.50</TD><TD>3.50</TD><TD>3.31</TD><TD>3.35</TD><TD>107,149</TD><TD>2.85</TD></TR>
+<TR>
+<TD>Jan-20-03</TD><TD>3.42</TD><TD>3.50</TD><TD>3.36</TD><TD>3.50</TD><TD>29,600</TD><TD>3.00</TD></TR>
+<TR>
+<TD>Jan-17-03</TD><TD>3.52</TD><TD>3.62</TD><TD>3.44</TD><TD>3.49</TD><TD>24,818</TD><TD>2.99</TD></TR>
+<TR>
+<TD>Jan-16-03</TD><TD>3.65</TD><TD>3.67</TD><TD>3.51</TD><TD>3.52</TD><TD>202,012</TD><TD>3.02</TD></TR>
+<TR>
+<TD>Jan-15-03</TD><TD>3.50</TD><TD>3.66</TD><TD>3.50</TD><TD>3.54</TD><TD>79,774</TD><TD>3.04</TD></TR>
+<TR>
+<TD>Jan-14-03</TD><TD>3.65</TD><TD>3.66</TD><TD>3.56</TD><TD>3.62</TD><TD>37,047</TD><TD>3.12</TD></TR>
+<TR>
+<TD>Jan-13-03</TD><TD>3.60</TD><TD>3.67</TD><TD>3.54</TD><TD>3.66</TD><TD>72,500</TD><TD>3.16</TD></TR>
+<TR>
+<TD>Jan-10-03</TD><TD>3.65</TD><TD>3.69</TD><TD>3.57</TD><TD>3.67</TD><TD>34,300</TD><TD>3.17</TD></TR>
+<TR>
+<TD>Jan-09-03</TD><TD>3.53</TD><TD>3.61</TD><TD>3.50</TD><TD>3.61</TD><TD>49,500</TD><TD>3.11</TD></TR>
+<TR>
+<TD>Jan-08-03</TD><TD>3.64</TD><TD>3.64</TD><TD>3.57</TD><TD>3.63</TD><TD>10,203</TD><TD>3.13</TD></TR>
+<TR>
+<TD>Jan-07-03</TD><TD>3.57</TD><TD>3.68</TD><TD>3.55</TD><TD>3.61</TD><TD>67,596</TD><TD>3.11</TD></TR>
+<TR>
+<TD>Jan-06-03</TD><TD>3.75</TD><TD>3.75</TD><TD>3.56</TD><TD>3.61</TD><TD>89,330</TD><TD>3.11</TD></TR>
+<TR>
+<TD>Jan-03-03</TD><TD>3.77</TD><TD>3.77</TD><TD>3.60</TD><TD>3.63</TD><TD>40,500</TD><TD>3.13</TD></TR>
+<TR>
+<TD>Jan-02-03</TD><TD>3.59</TD><TD>3.70</TD><TD>3.50</TD><TD>3.65</TD><TD>36,229</TD><TD>3.15</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

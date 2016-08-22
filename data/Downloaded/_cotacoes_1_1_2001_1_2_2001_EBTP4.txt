@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EBTP4.SA (EMBRATEL PARTICIPACOES SA)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>32.93</TD><TD>32.93</TD><TD>31.00</TD><TD>31.08</TD><TD>800,397</TD><TD>31.08</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>33.10</TD><TD>33.30</TD><TD>32.70</TD><TD>33.10</TD><TD>516,208</TD><TD>33.10</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>32.80</TD><TD>33.27</TD><TD>32.60</TD><TD>33.09</TD><TD>690,840</TD><TD>33.09</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>32.09</TD><TD>33.40</TD><TD>31.80</TD><TD>32.80</TD><TD>897,780</TD><TD>32.80</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>31.85</TD><TD>32.50</TD><TD>31.70</TD><TD>32.09</TD><TD>730,956</TD><TD>32.09</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>33.30</TD><TD>34.80</TD><TD>31.80</TD><TD>32.10</TD><TD>1,539,170</TD><TD>32.10</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>32.60</TD><TD>33.50</TD><TD>32.50</TD><TD>33.30</TD><TD>875,974</TD><TD>33.30</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>33.51</TD><TD>33.51</TD><TD>32.20</TD><TD>32.70</TD><TD>398,140</TD><TD>32.70</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>34.15</TD><TD>34.60</TD><TD>33.15</TD><TD>33.30</TD><TD>428,530</TD><TD>33.30</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>33.00</TD><TD>34.10</TD><TD>32.80</TD><TD>33.80</TD><TD>746,947</TD><TD>33.80</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>32.01</TD><TD>33.20</TD><TD>32.01</TD><TD>32.99</TD><TD>937,891</TD><TD>32.99</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>33.10</TD><TD>33.19</TD><TD>31.12</TD><TD>31.40</TD><TD>595,636</TD><TD>31.40</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>33.99</TD><TD>33.99</TD><TD>32.90</TD><TD>32.90</TD><TD>155,945</TD><TD>32.90</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>33.89</TD><TD>34.20</TD><TD>32.80</TD><TD>32.95</TD><TD>570,878</TD><TD>32.95</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>33.10</TD><TD>33.88</TD><TD>32.85</TD><TD>33.62</TD><TD>828,049</TD><TD>33.62</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>33.00</TD><TD>33.69</TD><TD>32.12</TD><TD>33.00</TD><TD>750,087</TD><TD>33.00</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>32.60</TD><TD>33.90</TD><TD>32.41</TD><TD>33.20</TD><TD>1,226,130</TD><TD>33.20</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>31.56</TD><TD>32.30</TD><TD>30.80</TD><TD>32.10</TD><TD>671,235</TD><TD>32.10</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>32.80</TD><TD>33.40</TD><TD>31.75</TD><TD>32.07</TD><TD>664,015</TD><TD>32.07</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>32.31</TD><TD>33.90</TD><TD>32.30</TD><TD>33.00</TD><TD>1,548,530</TD><TD>33.00</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>28.91</TD><TD>32.20</TD><TD>28.50</TD><TD>32.20</TD><TD>961,759</TD><TD>32.20</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>29.50</TD><TD>30.30</TD><TD>28.88</TD><TD>28.88</TD><TD>372,244</TD><TD>28.88</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - LIGH3.SA (LIGHT-SERVICOS DE ELETRICIDADE )
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>57.27</TD><TD>59.00</TD><TD>57.27</TD><TD>58.10</TD><TD>4,573</TD><TD>58.10</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>58.20</TD><TD>58.90</TD><TD>55.01</TD><TD>56.95</TD><TD>688</TD><TD>56.95</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>59.50</TD><TD>61.00</TD><TD>58.20</TD><TD>58.20</TD><TD>1,493</TD><TD>58.20</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>61.50</TD><TD>62.00</TD><TD>61.00</TD><TD>62.00</TD><TD>2,915</TD><TD>62.00</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>61.35</TD><TD>63.30</TD><TD>61.35</TD><TD>62.99</TD><TD>4,842</TD><TD>62.99</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>60.49</TD><TD>61.00</TD><TD>59.01</TD><TD>61.00</TD><TD>9,593</TD><TD>61.00</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>59.40</TD><TD>59.90</TD><TD>58.60</TD><TD>59.90</TD><TD>10,601</TD><TD>59.90</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>59.99</TD><TD>61.00</TD><TD>59.50</TD><TD>61.00</TD><TD>1,831</TD><TD>61.00</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>59.00</TD><TD>60.00</TD><TD>59.00</TD><TD>59.60</TD><TD>5,643</TD><TD>59.60</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>58.30</TD><TD>59.42</TD><TD>57.16</TD><TD>58.46</TD><TD>1,330</TD><TD>58.46</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>59.00</TD><TD>60.00</TD><TD>58.00</TD><TD>58.40</TD><TD>5,857</TD><TD>58.40</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>63.01</TD><TD>64.00</TD><TD>58.00</TD><TD>58.89</TD><TD>14,572</TD><TD>58.89</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>65.00</TD><TD>65.30</TD><TD>63.01</TD><TD>64.30</TD><TD>3,696</TD><TD>64.30</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>66.00</TD><TD>66.00</TD><TD>64.10</TD><TD>65.48</TD><TD>6,246</TD><TD>65.48</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>65.99</TD><TD>67.99</TD><TD>65.65</TD><TD>66.20</TD><TD>8,572</TD><TD>66.20</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>69.00</TD><TD>70.00</TD><TD>65.12</TD><TD>65.99</TD><TD>2,232</TD><TD>65.99</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>70.00</TD><TD>70.00</TD><TD>69.00</TD><TD>69.00</TD><TD>1,640</TD><TD>69.00</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>69.31</TD><TD>69.99</TD><TD>69.00</TD><TD>69.00</TD><TD>4,029</TD><TD>69.00</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>71.50</TD><TD>71.90</TD><TD>69.00</TD><TD>69.30</TD><TD>1,887</TD><TD>69.30</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>72.01</TD><TD>73.50</TD><TD>71.52</TD><TD>72.90</TD><TD>1,581</TD><TD>72.90</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>75.41</TD><TD>75.41</TD><TD>71.50</TD><TD>74.51</TD><TD>2,613</TD><TD>74.51</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>77.99</TD><TD>77.99</TD><TD>75.41</TD><TD>75.41</TD><TD>5,587</TD><TD>75.41</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

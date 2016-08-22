@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ITSA4.SA (ITAUSA INVESTIMENTOS ITAU SA)
+        </TD><TD>As of Aug-31-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-31-01</TD><TD>1.97</TD><TD>1.97</TD><TD>1.90</TD><TD>1.94</TD><TD>2,628</TD><TD>1.68</TD></TR>
+<TR>
+<TD>Aug-30-01</TD><TD>1.97</TD><TD>1.97</TD><TD>1.91</TD><TD>1.94</TD><TD>953</TD><TD>1.68</TD></TR>
+<TR>
+<TD>Aug-29-01</TD><TD>1.98</TD><TD>1.98</TD><TD>1.94</TD><TD>1.97</TD><TD>1,280</TD><TD>1.71</TD></TR>
+<TR>
+<TD>Aug-28-01</TD><TD>1.97</TD><TD>2.00</TD><TD>1.95</TD><TD>1.95</TD><TD>1,496</TD><TD>1.69</TD></TR>
+<TR>
+<TD>Aug-27-01</TD><TD>1.98</TD><TD>1.98</TD><TD>1.94</TD><TD>1.96</TD><TD>1,153</TD><TD>1.70</TD></TR>
+<TR>
+<TD>Aug-24-01</TD><TD>1.95</TD><TD>1.98</TD><TD>1.95</TD><TD>1.97</TD><TD>1,990</TD><TD>1.71</TD></TR>
+<TR>
+<TD>Aug-23-01</TD><TD>2.00</TD><TD>2.00</TD><TD>1.94</TD><TD>1.95</TD><TD>2,759</TD><TD>1.69</TD></TR>
+<TR>
+<TD>Aug-22-01</TD><TD>2.02</TD><TD>2.02</TD><TD>1.97</TD><TD>2.00</TD><TD>2,858</TD><TD>1.74</TD></TR>
+<TR>
+<TD>Aug-21-01</TD><TD>1.98</TD><TD>1.99</TD><TD>1.94</TD><TD>1.98</TD><TD>2,747</TD><TD>1.72</TD></TR>
+<TR>
+<TD>Aug-20-01</TD><TD>2.00</TD><TD>2.00</TD><TD>1.96</TD><TD>1.96</TD><TD>4,200</TD><TD>1.70</TD></TR>
+<TR>
+<TD>Aug-17-01</TD><TD>2.06</TD><TD>2.06</TD><TD>1.99</TD><TD>1.99</TD><TD>3,537</TD><TD>1.73</TD></TR>
+<TR>
+<TD>Aug-15-01</TD><TD>2.07</TD><TD>2.10</TD><TD>2.06</TD><TD>2.08</TD><TD>4,264</TD><TD>1.82</TD></TR>
+<TR>
+<TD>Aug-14-01</TD><TD>2.05</TD><TD>2.10</TD><TD>2.03</TD><TD>2.08</TD><TD>1,209</TD><TD>1.82</TD></TR>
+<TR>
+<TD>Aug-13-01</TD><TD>2.07</TD><TD>2.07</TD><TD>2.03</TD><TD>2.05</TD><TD>2,094</TD><TD>1.79</TD></TR>
+<TR>
+<TD>Aug-10-01</TD><TD>2.07</TD><TD>2.10</TD><TD>2.07</TD><TD>2.07</TD><TD>2,545</TD><TD>1.81</TD></TR>
+<TR>
+<TD>Aug-09-01</TD><TD>2.10</TD><TD>2.10</TD><TD>2.07</TD><TD>2.08</TD><TD>1,409</TD><TD>1.82</TD></TR>
+<TR>
+<TD>Aug-08-01</TD><TD>2.07</TD><TD>2.10</TD><TD>2.07</TD><TD>2.07</TD><TD>1,384</TD><TD>1.81</TD></TR>
+<TR>
+<TD>Aug-07-01</TD><TD>2.06</TD><TD>2.09</TD><TD>2.06</TD><TD>2.06</TD><TD>5,818</TD><TD>1.80</TD></TR>
+<TR>
+<TD>Aug-06-01</TD><TD>2.02</TD><TD>2.08</TD><TD>2.01</TD><TD>2.05</TD><TD>2,431</TD><TD>1.79</TD></TR>
+<TR>
+<TD>Aug-03-01</TD><TD>2.03</TD><TD>2.04</TD><TD>1.99</TD><TD>2.01</TD><TD>1,033</TD><TD>1.75</TD></TR>
+<TR>
+<TD>Aug-02-01</TD><TD>2.05</TD><TD>2.06</TD><TD>1.99</TD><TD>2.01</TD><TD>1,212</TD><TD>1.75</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>2.07</TD><TD>2.09</TD><TD>2.04</TD><TD>2.04</TD><TD>1,764</TD><TD>1.78</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

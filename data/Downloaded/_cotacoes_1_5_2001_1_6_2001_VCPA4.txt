@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VCPA4.SA (VOTORANTIM CELULOSE E PAPEL SA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>61.00</TD><TD>65.00</TD><TD>60.01</TD><TD>65.00</TD><TD>87,629</TD><TD>59.32</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>60.99</TD><TD>61.00</TD><TD>60.80</TD><TD>61.00</TD><TD>31,718</TD><TD>55.32</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>60.00</TD><TD>61.00</TD><TD>60.00</TD><TD>60.60</TD><TD>42,257</TD><TD>54.92</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>59.77</TD><TD>61.00</TD><TD>59.00</TD><TD>59.00</TD><TD>30,661</TD><TD>53.32</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>61.82</TD><TD>61.82</TD><TD>58.00</TD><TD>59.49</TD><TD>3,624</TD><TD>53.81</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>61.00</TD><TD>61.30</TD><TD>57.01</TD><TD>60.00</TD><TD>22,536</TD><TD>54.32</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>60.01</TD><TD>61.50</TD><TD>60.00</TD><TD>61.00</TD><TD>17,288</TD><TD>55.32</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>61.00</TD><TD>61.00</TD><TD>59.50</TD><TD>60.64</TD><TD>10,992</TD><TD>54.96</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>61.10</TD><TD>61.10</TD><TD>60.60</TD><TD>61.00</TD><TD>9,050</TD><TD>55.32</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>61.49</TD><TD>62.00</TD><TD>61.00</TD><TD>61.50</TD><TD>28,981</TD><TD>55.82</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>62.98</TD><TD>62.98</TD><TD>58.02</TD><TD>61.49</TD><TD>18,316</TD><TD>55.81</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>61.80</TD><TD>62.00</TD><TD>59.60</TD><TD>60.00</TD><TD>14,764</TD><TD>54.32</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>60.00</TD><TD>61.91</TD><TD>60.00</TD><TD>61.80</TD><TD>39,774</TD><TD>56.12</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>63.50</TD><TD>63.51</TD><TD>61.50</TD><TD>61.50</TD><TD>83,360</TD><TD>55.82</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>63.00</TD><TD>64.02</TD><TD>63.00</TD><TD>63.51</TD><TD>8,323</TD><TD>57.83</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>65.00</TD><TD>65.00</TD><TD>64.01</TD><TD>64.65</TD><TD>30,140</TD><TD>58.97</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>63.00</TD><TD>67.00</TD><TD>63.00</TD><TD>64.90</TD><TD>50,976</TD><TD>59.22</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>60.49</TD><TD>63.00</TD><TD>60.00</TD><TD>63.00</TD><TD>125,072</TD><TD>57.32</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>59.90</TD><TD>60.50</TD><TD>59.00</TD><TD>60.49</TD><TD>24,050</TD><TD>54.81</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>60.01</TD><TD>60.50</TD><TD>59.51</TD><TD>59.90</TD><TD>10,600</TD><TD>54.22</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>60.00</TD><TD>60.00</TD><TD>58.00</TD><TD>59.90</TD><TD>9,310</TD><TD>54.22</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>60.00</TD><TD>60.00</TD><TD>59.00</TD><TD>59.40</TD><TD>12,200</TD><TD>53.72</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>61.40</TD><TD>61.40</TD><TD>59.06</TD><TD>60.00</TD><TD>22,785</TD><TD>54.32</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

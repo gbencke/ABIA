@@ -1,0 +1,50 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+ 
+                <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Nenhuma empresa encontrada.</b></font>
+        <br><br><br><br><br><br>            
+    </td>
+  </tr>      
+	
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

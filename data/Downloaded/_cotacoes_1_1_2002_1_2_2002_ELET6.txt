@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELET6.SA (ELETROBRAS)
+        </TD><TD>As of Feb-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-02</TD><TD>32.25</TD><TD>33.35</TD><TD>31.30</TD><TD>33.35</TD><TD>1,574,120</TD><TD>30.17</TD></TR>
+<TR>
+<TD>Jan-31-02</TD><TD>31.05</TD><TD>32.40</TD><TD>30.00</TD><TD>32.40</TD><TD>3,068,740</TD><TD>29.22</TD></TR>
+<TR>
+<TD>Jan-30-02</TD><TD>29.19</TD><TD>29.19</TD><TD>28.10</TD><TD>29.05</TD><TD>504,672</TD><TD>25.87</TD></TR>
+<TR>
+<TD>Jan-29-02</TD><TD>28.50</TD><TD>29.19</TD><TD>28.10</TD><TD>28.53</TD><TD>613,096</TD><TD>25.35</TD></TR>
+<TR>
+<TD>Jan-28-02</TD><TD>29.00</TD><TD>29.38</TD><TD>28.60</TD><TD>28.79</TD><TD>499,463</TD><TD>25.61</TD></TR>
+<TR>
+<TD>Jan-24-02</TD><TD>27.80</TD><TD>29.20</TD><TD>27.80</TD><TD>29.09</TD><TD>808,681</TD><TD>25.91</TD></TR>
+<TR>
+<TD>Jan-23-02</TD><TD>27.30</TD><TD>28.00</TD><TD>26.70</TD><TD>27.80</TD><TD>368,287</TD><TD>24.62</TD></TR>
+<TR>
+<TD>Jan-22-02</TD><TD>26.45</TD><TD>27.20</TD><TD>26.40</TD><TD>26.89</TD><TD>412,620</TD><TD>23.71</TD></TR>
+<TR>
+<TD>Jan-21-02</TD><TD>27.54</TD><TD>27.54</TD><TD>26.51</TD><TD>26.63</TD><TD>229,438</TD><TD>23.45</TD></TR>
+<TR>
+<TD>Jan-18-02</TD><TD>27.20</TD><TD>27.59</TD><TD>26.70</TD><TD>27.55</TD><TD>258,264</TD><TD>24.37</TD></TR>
+<TR>
+<TD>Jan-17-02</TD><TD>26.78</TD><TD>27.15</TD><TD>26.70</TD><TD>26.98</TD><TD>687,032</TD><TD>23.80</TD></TR>
+<TR>
+<TD>Jan-16-02</TD><TD>25.40</TD><TD>26.60</TD><TD>25.20</TD><TD>26.30</TD><TD>1,000,800</TD><TD>23.12</TD></TR>
+<TR>
+<TD>Jan-15-02</TD><TD>26.00</TD><TD>26.30</TD><TD>25.10</TD><TD>25.31</TD><TD>884,781</TD><TD>22.13</TD></TR>
+<TR>
+<TD>Jan-14-02</TD><TD>27.21</TD><TD>27.40</TD><TD>25.35</TD><TD>25.50</TD><TD>770,913</TD><TD>22.32</TD></TR>
+<TR>
+<TD>Jan-11-02</TD><TD>27.50</TD><TD>27.81</TD><TD>27.10</TD><TD>27.10</TD><TD>649,086</TD><TD>23.92</TD></TR>
+<TR>
+<TD>Jan-10-02</TD><TD>29.80</TD><TD>29.80</TD><TD>27.20</TD><TD>27.35</TD><TD>2,377,330</TD><TD>24.17</TD></TR>
+<TR>
+<TD>Jan-09-02</TD><TD>31.10</TD><TD>31.10</TD><TD>29.80</TD><TD>30.00</TD><TD>752,583</TD><TD>26.82</TD></TR>
+<TR>
+<TD>Jan-08-02</TD><TD>31.00</TD><TD>31.30</TD><TD>30.65</TD><TD>31.10</TD><TD>518,888</TD><TD>27.92</TD></TR>
+<TR>
+<TD>Jan-07-02</TD><TD>30.80</TD><TD>31.20</TD><TD>30.71</TD><TD>31.20</TD><TD>488,080</TD><TD>28.02</TD></TR>
+<TR>
+<TD>Jan-04-02</TD><TD>30.90</TD><TD>31.30</TD><TD>30.50</TD><TD>30.95</TD><TD>557,357</TD><TD>27.77</TD></TR>
+<TR>
+<TD>Jan-03-02</TD><TD>30.00</TD><TD>31.10</TD><TD>30.00</TD><TD>30.90</TD><TD>493,364</TD><TD>27.72</TD></TR>
+<TR>
+<TD>Jan-02-02</TD><TD>28.80</TD><TD>30.00</TD><TD>28.80</TD><TD>29.76</TD><TD>677,447</TD><TD>26.58</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

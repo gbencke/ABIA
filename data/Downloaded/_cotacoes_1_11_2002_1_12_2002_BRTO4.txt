@@ -1,0 +1,122 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRTO4.SA (BRASIL TELECOM SA)
+        </TD><TD>As of Nov-29-02</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-29-02</TD><TD>11.15</TD><TD>11.60</TD><TD>11.15</TD><TD>11.60</TD><TD>871,942</TD><TD>11.13</TD></TR>
+<TR>
+<TD>Nov-28-02</TD><TD>11.20</TD><TD>11.25</TD><TD>11.01</TD><TD>11.14</TD><TD>194,595</TD><TD>10.67</TD></TR>
+<TR>
+<TD>Nov-27-02</TD><TD>11.44</TD><TD>11.44</TD><TD>11.04</TD><TD>11.15</TD><TD>999,454</TD><TD>10.68</TD></TR>
+<TR>
+<TD>Nov-26-02</TD><TD>11.38</TD><TD>11.40</TD><TD>11.10</TD><TD>11.24</TD><TD>801,808</TD><TD>10.77</TD></TR>
+<TR>
+<TD>Nov-25-02</TD><TD>11.20</TD><TD>11.50</TD><TD>11.20</TD><TD>11.43</TD><TD>422,738</TD><TD>10.96</TD></TR>
+<TR>
+<TD>Nov-22-02</TD><TD>11.25</TD><TD>11.38</TD><TD>11.00</TD><TD>11.30</TD><TD>709,295</TD><TD>10.83</TD></TR>
+<TR>
+<TD>Nov-21-02</TD><TD>11.10</TD><TD>11.49</TD><TD>11.00</TD><TD>11.40</TD><TD>807,218</TD><TD>10.93</TD></TR>
+<TR>
+<TD>Nov-20-02</TD><TD>10.95</TD><TD>11.10</TD><TD>10.71</TD><TD>11.05</TD><TD>942,516</TD><TD>10.58</TD></TR>
+<TR>
+<TD>Nov-19-02</TD><TD>11.05</TD><TD>11.20</TD><TD>10.55</TD><TD>10.91</TD><TD>801,286</TD><TD>10.44</TD></TR>
+<TR>
+<TD>Nov-18-02</TD><TD>11.00</TD><TD>11.35</TD><TD>11.00</TD><TD>11.05</TD><TD>777,320</TD><TD>10.58</TD></TR>
+<TR>
+<TD>Nov-14-02</TD><TD>11.05</TD><TD>11.19</TD><TD>10.85</TD><TD>11.00</TD><TD>718,069</TD><TD>10.53</TD></TR>
+<TR>
+<TD>Nov-13-02</TD><TD>10.90</TD><TD>11.10</TD><TD>10.80</TD><TD>11.05</TD><TD>479,117</TD><TD>10.58</TD></TR>
+<TR>
+<TD>Nov-12-02</TD><TD>11.00</TD><TD>11.00</TD><TD>10.81</TD><TD>10.90</TD><TD>731,541</TD><TD>10.43</TD></TR>
+<TR>
+<TD>Nov-11-02</TD><TD>11.10</TD><TD>11.30</TD><TD>11.00</TD><TD>11.10</TD><TD>1,432,110</TD><TD>10.63</TD></TR>
+<TR>
+<TD>Nov-08-02</TD><TD>12.00</TD><TD>12.10</TD><TD>10.98</TD><TD>11.00</TD><TD>2,074,620</TD><TD>10.53</TD></TR>
+<TR>
+<TD>Nov-07-02</TD><TD>11.90</TD><TD>11.95</TD><TD>11.40</TD><TD>11.73</TD><TD>525,466</TD><TD>11.26</TD></TR>
+<TR>
+<TD>Nov-06-02</TD><TD>11.99</TD><TD>12.00</TD><TD>11.60</TD><TD>11.87</TD><TD>1,246,900</TD><TD>11.40</TD></TR>
+<TR>
+<TD>Nov-05-02</TD><TD>12.10</TD><TD>12.10</TD><TD>11.70</TD><TD>11.99</TD><TD>832,634</TD><TD>11.52</TD></TR>
+<TR>
+<TD>Nov-04-02</TD><TD>12.51</TD><TD>12.80</TD><TD>12.02</TD><TD>12.06</TD><TD>1,139,900</TD><TD>11.59</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>12.50</TD><TD>12.85</TD><TD>12.40</TD><TD>12.49</TD><TD>1,899,090</TD><TD>12.02</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

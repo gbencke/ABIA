@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ACES4.SA (ACESITA SA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>0.68</TD><TD>0.68</TD><TD>0.64</TD><TD>0.66</TD><TD>4,086,370</TD><TD>0.66</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>0.69</TD><TD>0.70</TD><TD>0.67</TD><TD>0.68</TD><TD>1,426,290</TD><TD>0.68</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>0.66</TD><TD>0.68</TD><TD>0.65</TD><TD>0.67</TD><TD>3,286,900</TD><TD>0.67</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>0.66</TD><TD>0.67</TD><TD>0.64</TD><TD>0.65</TD><TD>3,266,130</TD><TD>0.65</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>0.68</TD><TD>0.68</TD><TD>0.65</TD><TD>0.65</TD><TD>1,000,030</TD><TD>0.65</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>0.69</TD><TD>0.69</TD><TD>0.67</TD><TD>0.68</TD><TD>1,179,090</TD><TD>0.68</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>0.71</TD><TD>0.71</TD><TD>0.68</TD><TD>0.68</TD><TD>1,089,440</TD><TD>0.68</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>0.72</TD><TD>0.73</TD><TD>0.69</TD><TD>0.70</TD><TD>2,123,400</TD><TD>0.70</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>0.72</TD><TD>0.75</TD><TD>0.71</TD><TD>0.73</TD><TD>2,376,950</TD><TD>0.73</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>0.71</TD><TD>0.72</TD><TD>0.69</TD><TD>0.70</TD><TD>1,929,840</TD><TD>0.70</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>0.76</TD><TD>0.77</TD><TD>0.71</TD><TD>0.73</TD><TD>1,412,360</TD><TD>0.73</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>0.77</TD><TD>0.78</TD><TD>0.74</TD><TD>0.74</TD><TD>1,169,650</TD><TD>0.74</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>0.69</TD><TD>0.78</TD><TD>0.68</TD><TD>0.77</TD><TD>4,097,820</TD><TD>0.77</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>0.71</TD><TD>0.73</TD><TD>0.68</TD><TD>0.68</TD><TD>2,401,290</TD><TD>0.68</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>0.76</TD><TD>0.76</TD><TD>0.71</TD><TD>0.71</TD><TD>1,012,420</TD><TD>0.71</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>0.81</TD><TD>0.81</TD><TD>0.76</TD><TD>0.76</TD><TD>2,089,690</TD><TD>0.76</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>0.80</TD><TD>0.82</TD><TD>0.78</TD><TD>0.81</TD><TD>1,878,520</TD><TD>0.81</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>0.80</TD><TD>0.81</TD><TD>0.78</TD><TD>0.78</TD><TD>2,885,700</TD><TD>0.78</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>0.83</TD><TD>0.84</TD><TD>0.80</TD><TD>0.80</TD><TD>2,807,030</TD><TD>0.80</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>0.85</TD><TD>0.85</TD><TD>0.83</TD><TD>0.83</TD><TD>1,175,920</TD><TD>0.83</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>0.85</TD><TD>0.86</TD><TD>0.83</TD><TD>0.83</TD><TD>3,233,940</TD><TD>0.83</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>0.85</TD><TD>0.86</TD><TD>0.82</TD><TD>0.85</TD><TD>3,551,010</TD><TD>0.85</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>0.88</TD><TD>0.88</TD><TD>0.82</TD><TD>0.83</TD><TD>2,630,730</TD><TD>0.83</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,138 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>10,172.00</TD><TD>10,266.00</TD><TD>10,043.00</TD><TD>10,140.00</TD><TD>0</TD><TD>10,140.00</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>10,099.00</TD><TD>10,241.00</TD><TD>9,733.00</TD><TD>10,168.00</TD><TD>0</TD><TD>10,168.00</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>9,602.00</TD><TD>10,097.00</TD><TD>9,602.00</TD><TD>10,069.00</TD><TD>0</TD><TD>10,069.00</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>9,570.00</TD><TD>9,656.00</TD><TD>9,439.00</TD><TD>9,601.00</TD><TD>0</TD><TD>9,601.00</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>10,022.00</TD><TD>10,092.00</TD><TD>9,573.00</TD><TD>9,574.00</TD><TD>0</TD><TD>9,574.00</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>9,807.00</TD><TD>10,598.00</TD><TD>9,698.00</TD><TD>10,015.00</TD><TD>0</TD><TD>10,015.00</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>9,832.00</TD><TD>10,107.00</TD><TD>9,763.00</TD><TD>9,799.00</TD><TD>0</TD><TD>9,799.00</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>9,342.00</TD><TD>9,840.00</TD><TD>9,263.00</TD><TD>9,840.00</TD><TD>0</TD><TD>9,840.00</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>9,099.00</TD><TD>9,331.00</TD><TD>8,982.00</TD><TD>9,331.00</TD><TD>0</TD><TD>9,331.00</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>9,022.00</TD><TD>9,161.00</TD><TD>8,979.00</TD><TD>9,128.00</TD><TD>0</TD><TD>9,128.00</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>8,902.00</TD><TD>9,081.00</TD><TD>8,873.00</TD><TD>9,022.00</TD><TD>0</TD><TD>9,022.00</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>8,397.00</TD><TD>8,920.00</TD><TD>8,397.00</TD><TD>8,902.00</TD><TD>0</TD><TD>8,902.00</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>8,510.00</TD><TD>8,513.00</TD><TD>8,225.00</TD><TD>8,371.00</TD><TD>0</TD><TD>8,371.00</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>8,452.00</TD><TD>8,622.00</TD><TD>8,446.00</TD><TD>8,507.00</TD><TD>0</TD><TD>8,507.00</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>8,853.00</TD><TD>8,853.00</TD><TD>8,430.00</TD><TD>8,451.00</TD><TD>0</TD><TD>8,451.00</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>8,864.00</TD><TD>9,042.00</TD><TD>8,832.00</TD><TD>8,855.00</TD><TD>0</TD><TD>8,855.00</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>8,708.00</TD><TD>8,932.00</TD><TD>8,707.00</TD><TD>8,866.00</TD><TD>0</TD><TD>8,866.00</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>8,838.00</TD><TD>9,291.00</TD><TD>8,604.00</TD><TD>8,715.00</TD><TD>0</TD><TD>8,715.00</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>8,870.00</TD><TD>8,909.00</TD><TD>8,691.00</TD><TD>8,847.00</TD><TD>0</TD><TD>8,847.00</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>9,268.00</TD><TD>9,288.00</TD><TD>8,841.00</TD><TD>8,863.00</TD><TD>0</TD><TD>8,863.00</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>9,151.00</TD><TD>9,319.00</TD><TD>9,092.00</TD><TD>9,260.00</TD><TD>0</TD><TD>9,260.00</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>8,852.00</TD><TD>9,170.00</TD><TD>8,807.00</TD><TD>9,140.00</TD><TD>0</TD><TD>9,140.00</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>9,011.00</TD><TD>9,132.00</TD><TD>8,811.00</TD><TD>8,820.00</TD><TD>0</TD><TD>8,820.00</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>8,642.00</TD><TD>9,021.00</TD><TD>8,637.00</TD><TD>8,998.00</TD><TD>0</TD><TD>8,998.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

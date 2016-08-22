@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TCSL4.SA (TELE CELULAR SUL PARTICIPACOES )
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>4.81</TD><TD>4.81</TD><TD>4.63</TD><TD>4.76</TD><TD>826,957</TD><TD>4.66</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>4.86</TD><TD>4.89</TD><TD>4.78</TD><TD>4.81</TD><TD>1,853,020</TD><TD>4.71</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>4.80</TD><TD>4.91</TD><TD>4.74</TD><TD>4.80</TD><TD>704,745</TD><TD>4.70</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>4.83</TD><TD>4.88</TD><TD>4.76</TD><TD>4.76</TD><TD>912,829</TD><TD>4.66</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>4.77</TD><TD>4.85</TD><TD>4.53</TD><TD>4.85</TD><TD>389,232</TD><TD>4.75</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>4.83</TD><TD>4.90</TD><TD>4.52</TD><TD>4.58</TD><TD>1,139,840</TD><TD>4.48</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>4.70</TD><TD>4.88</TD><TD>4.60</TD><TD>4.82</TD><TD>1,993,420</TD><TD>4.72</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>4.85</TD><TD>4.85</TD><TD>4.70</TD><TD>4.70</TD><TD>1,087,360</TD><TD>4.60</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>5.04</TD><TD>5.15</TD><TD>4.76</TD><TD>4.76</TD><TD>858,247</TD><TD>4.66</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>4.99</TD><TD>5.10</TD><TD>4.94</TD><TD>5.00</TD><TD>957,691</TD><TD>4.90</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>4.69</TD><TD>5.00</TD><TD>4.65</TD><TD>4.85</TD><TD>1,089,780</TD><TD>4.75</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>4.88</TD><TD>4.88</TD><TD>4.60</TD><TD>4.66</TD><TD>786,759</TD><TD>4.56</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>4.40</TD><TD>4.92</TD><TD>4.40</TD><TD>4.84</TD><TD>2,454,750</TD><TD>4.74</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>4.13</TD><TD>4.55</TD><TD>4.13</TD><TD>4.55</TD><TD>1,737,550</TD><TD>4.45</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>4.00</TD><TD>4.04</TD><TD>3.98</TD><TD>4.02</TD><TD>121,170</TD><TD>3.92</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>4.10</TD><TD>4.13</TD><TD>4.05</TD><TD>4.05</TD><TD>581,693</TD><TD>3.95</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>4.20</TD><TD>4.25</TD><TD>4.12</TD><TD>4.17</TD><TD>396,225</TD><TD>4.07</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>4.30</TD><TD>4.30</TD><TD>4.11</TD><TD>4.12</TD><TD>1,279,080</TD><TD>4.02</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>4.20</TD><TD>4.33</TD><TD>4.20</TD><TD>4.30</TD><TD>663,636</TD><TD>4.20</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>4.34</TD><TD>4.38</TD><TD>4.21</TD><TD>4.29</TD><TD>348,386</TD><TD>4.19</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>4.25</TD><TD>4.35</TD><TD>4.25</TD><TD>4.27</TD><TD>295,711</TD><TD>4.17</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>4.23</TD><TD>4.30</TD><TD>4.16</TD><TD>4.27</TD><TD>1,124,220</TD><TD>4.17</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>4.37</TD><TD>4.40</TD><TD>4.20</TD><TD>4.27</TD><TD>697,365</TD><TD>4.17</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

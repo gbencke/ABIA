@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELPL4.SA (ELETROPAULO - ELETRICIDADE DE S)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>25.60</TD><TD>27.00</TD><TD>25.02</TD><TD>25.78</TD><TD>71,779</TD><TD>25.78</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>27.60</TD><TD>27.60</TD><TD>25.50</TD><TD>25.50</TD><TD>59,764</TD><TD>25.50</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>25.98</TD><TD>27.48</TD><TD>25.98</TD><TD>27.19</TD><TD>55,222</TD><TD>27.19</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>26.00</TD><TD>26.48</TD><TD>24.50</TD><TD>25.75</TD><TD>99,141</TD><TD>25.75</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>28.60</TD><TD>29.78</TD><TD>26.00</TD><TD>26.00</TD><TD>70,040</TD><TD>26.00</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>27.35</TD><TD>29.78</TD><TD>27.00</TD><TD>29.60</TD><TD>58,928</TD><TD>29.60</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>26.99</TD><TD>29.97</TD><TD>26.75</TD><TD>27.90</TD><TD>81,199</TD><TD>27.90</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>25.40</TD><TD>26.80</TD><TD>25.40</TD><TD>26.79</TD><TD>102,928</TD><TD>26.79</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>25.01</TD><TD>25.99</TD><TD>24.65</TD><TD>25.40</TD><TD>41,472</TD><TD>25.40</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>24.11</TD><TD>26.00</TD><TD>24.11</TD><TD>25.74</TD><TD>26,256</TD><TD>25.74</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>23.00</TD><TD>25.00</TD><TD>23.00</TD><TD>24.10</TD><TD>46,742</TD><TD>24.10</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>22.50</TD><TD>23.49</TD><TD>22.15</TD><TD>22.70</TD><TD>70,056</TD><TD>22.70</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>23.50</TD><TD>23.50</TD><TD>21.39</TD><TD>21.65</TD><TD>83,814</TD><TD>21.65</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>23.49</TD><TD>23.51</TD><TD>22.90</TD><TD>23.45</TD><TD>11,813</TD><TD>23.45</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>23.50</TD><TD>23.70</TD><TD>22.24</TD><TD>22.51</TD><TD>18,166</TD><TD>22.51</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>24.47</TD><TD>24.48</TD><TD>23.30</TD><TD>23.50</TD><TD>33,964</TD><TD>23.50</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>24.40</TD><TD>24.49</TD><TD>23.25</TD><TD>23.50</TD><TD>23,661</TD><TD>23.50</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>24.10</TD><TD>24.47</TD><TD>23.10</TD><TD>23.50</TD><TD>13,173</TD><TD>23.50</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>24.01</TD><TD>24.90</TD><TD>23.35</TD><TD>24.28</TD><TD>23,328</TD><TD>24.28</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>27.28</TD><TD>27.28</TD><TD>23.60</TD><TD>23.89</TD><TD>20,910</TD><TD>23.89</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>25.29</TD><TD>26.00</TD><TD>25.00</TD><TD>26.00</TD><TD>25,789</TD><TD>26.00</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>24.99</TD><TD>24.99</TD><TD>24.10</TD><TD>24.92</TD><TD>16,512</TD><TD>24.92</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>24.95</TD><TD>26.00</TD><TD>22.50</TD><TD>23.70</TD><TD>58,547</TD><TD>23.70</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>23.60</TD><TD>24.95</TD><TD>22.81</TD><TD>24.50</TD><TD>66,676</TD><TD>24.50</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

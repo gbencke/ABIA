@@ -1,0 +1,122 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Jan-31-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jan-31-03</TD><TD>10,761.00</TD><TD>11,004.00</TD><TD>10,741.00</TD><TD>10,941.00</TD><TD>0</TD><TD>10,941.00</TD></TR>
+<TR>
+<TD>Jan-30-03</TD><TD>10,873.00</TD><TD>11,001.00</TD><TD>10,705.00</TD><TD>10,751.00</TD><TD>0</TD><TD>10,751.00</TD></TR>
+<TR>
+<TD>Jan-29-03</TD><TD>10,514.00</TD><TD>10,863.00</TD><TD>10,457.00</TD><TD>10,863.00</TD><TD>0</TD><TD>10,863.00</TD></TR>
+<TR>
+<TD>Jan-28-03</TD><TD>10,534.00</TD><TD>10,650.00</TD><TD>10,495.00</TD><TD>10,517.00</TD><TD>0</TD><TD>10,517.00</TD></TR>
+<TR>
+<TD>Jan-27-03</TD><TD>10,768.00</TD><TD>10,768.00</TD><TD>10,462.00</TD><TD>10,530.00</TD><TD>0</TD><TD>10,530.00</TD></TR>
+<TR>
+<TD>Jan-24-03</TD><TD>11,157.00</TD><TD>11,158.00</TD><TD>10,753.00</TD><TD>10,784.00</TD><TD>0</TD><TD>10,784.00</TD></TR>
+<TR>
+<TD>Jan-23-03</TD><TD>11,148.00</TD><TD>11,336.00</TD><TD>11,027.00</TD><TD>11,162.00</TD><TD>0</TD><TD>11,162.00</TD></TR>
+<TR>
+<TD>Jan-22-03</TD><TD>11,428.00</TD><TD>11,428.00</TD><TD>11,132.00</TD><TD>11,142.00</TD><TD>0</TD><TD>11,142.00</TD></TR>
+<TR>
+<TD>Jan-21-03</TD><TD>11,610.00</TD><TD>11,662.00</TD><TD>11,434.00</TD><TD>11,435.00</TD><TD>0</TD><TD>11,435.00</TD></TR>
+<TR>
+<TD>Jan-20-03</TD><TD>11,675.00</TD><TD>11,742.00</TD><TD>11,545.00</TD><TD>11,648.00</TD><TD>0</TD><TD>11,648.00</TD></TR>
+<TR>
+<TD>Jan-17-03</TD><TD>11,952.00</TD><TD>11,952.00</TD><TD>11,555.00</TD><TD>11,676.00</TD><TD>0</TD><TD>11,676.00</TD></TR>
+<TR>
+<TD>Jan-16-03</TD><TD>11,973.00</TD><TD>12,193.00</TD><TD>11,921.00</TD><TD>11,952.00</TD><TD>0</TD><TD>11,952.00</TD></TR>
+<TR>
+<TD>Jan-14-03</TD><TD>12,131.00</TD><TD>12,175.00</TD><TD>12,052.00</TD><TD>12,175.00</TD><TD>0</TD><TD>12,175.00</TD></TR>
+<TR>
+<TD>Jan-13-03</TD><TD>12,243.00</TD><TD>12,350.00</TD><TD>12,095.00</TD><TD>12,110.00</TD><TD>0</TD><TD>12,110.00</TD></TR>
+<TR>
+<TD>Jan-09-03</TD><TD>11,814.00</TD><TD>11,964.00</TD><TD>11,780.00</TD><TD>11,912.00</TD><TD>0</TD><TD>11,912.00</TD></TR>
+<TR>
+<TD>Jan-08-03</TD><TD>11,875.00</TD><TD>11,928.00</TD><TD>11,757.00</TD><TD>11,786.00</TD><TD>0</TD><TD>11,786.00</TD></TR>
+<TR>
+<TD>Jan-07-03</TD><TD>12,010.00</TD><TD>12,018.00</TD><TD>11,842.00</TD><TD>11,876.00</TD><TD>0</TD><TD>11,876.00</TD></TR>
+<TR>
+<TD>Jan-06-03</TD><TD>11,636.00</TD><TD>12,032.00</TD><TD>11,633.00</TD><TD>12,020.00</TD><TD>0</TD><TD>12,020.00</TD></TR>
+<TR>
+<TD>Jan-03-03</TD><TD>11,632.00</TD><TD>11,798.00</TD><TD>11,600.00</TD><TD>11,600.00</TD><TD>0</TD><TD>11,600.00</TD></TR>
+<TR>
+<TD>Jan-02-03</TD><TD>11,291.00</TD><TD>11,603.00</TD><TD>11,291.00</TD><TD>11,603.00</TD><TD>0</TD><TD>11,603.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

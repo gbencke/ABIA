@@ -1,0 +1,138 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TCSL3.SA (TELE CELULAR SUL PARTICIPACOES )
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>2.53</TD><TD>2.63</TD><TD>2.48</TD><TD>2.48</TD><TD>169,393</TD><TD>2.45</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>2.57</TD><TD>2.66</TD><TD>2.53</TD><TD>2.62</TD><TD>191,154</TD><TD>2.59</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>2.46</TD><TD>2.60</TD><TD>2.46</TD><TD>2.53</TD><TD>254,704</TD><TD>2.50</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>2.27</TD><TD>2.52</TD><TD>2.27</TD><TD>2.46</TD><TD>281,485</TD><TD>2.43</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>2.31</TD><TD>2.50</TD><TD>2.28</TD><TD>2.32</TD><TD>312,110</TD><TD>2.29</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>2.35</TD><TD>2.41</TD><TD>2.26</TD><TD>2.39</TD><TD>223,300</TD><TD>2.36</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>2.17</TD><TD>2.41</TD><TD>2.17</TD><TD>2.41</TD><TD>256,432</TD><TD>2.38</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>2.30</TD><TD>2.30</TD><TD>2.08</TD><TD>2.22</TD><TD>264,068</TD><TD>2.19</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>2.43</TD><TD>2.50</TD><TD>2.15</TD><TD>2.21</TD><TD>153,344</TD><TD>2.18</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>2.50</TD><TD>2.57</TD><TD>2.43</TD><TD>2.45</TD><TD>62,948</TD><TD>2.42</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>2.50</TD><TD>2.58</TD><TD>2.45</TD><TD>2.52</TD><TD>110,396</TD><TD>2.49</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>2.53</TD><TD>2.54</TD><TD>2.45</TD><TD>2.54</TD><TD>423,041</TD><TD>2.51</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>2.61</TD><TD>2.61</TD><TD>2.40</TD><TD>2.43</TD><TD>227,079</TD><TD>2.40</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>2.74</TD><TD>2.74</TD><TD>2.55</TD><TD>2.61</TD><TD>84,702</TD><TD>2.58</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>2.67</TD><TD>2.73</TD><TD>2.58</TD><TD>2.73</TD><TD>311,918</TD><TD>2.70</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>2.53</TD><TD>2.74</TD><TD>2.50</TD><TD>2.74</TD><TD>342,125</TD><TD>2.71</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>2.50</TD><TD>2.56</TD><TD>2.50</TD><TD>2.52</TD><TD>408,421</TD><TD>2.49</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>2.50</TD><TD>2.53</TD><TD>2.46</TD><TD>2.52</TD><TD>10,630</TD><TD>2.49</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>2.47</TD><TD>2.49</TD><TD>2.40</TD><TD>2.43</TD><TD>82,510</TD><TD>2.40</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>2.49</TD><TD>2.54</TD><TD>2.45</TD><TD>2.47</TD><TD>53,132</TD><TD>2.44</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>2.48</TD><TD>2.55</TD><TD>2.40</TD><TD>2.49</TD><TD>96,462</TD><TD>2.46</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>2.40</TD><TD>2.55</TD><TD>2.37</TD><TD>2.55</TD><TD>236,208</TD><TD>2.52</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>2.60</TD><TD>2.64</TD><TD>2.40</TD><TD>2.40</TD><TD>495,288</TD><TD>2.37</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

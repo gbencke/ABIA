@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<agent Name="TechnicalAnalisysAgent">
+       <CLIPServer RulesFile="TechnicalAnalisys.clp" Port="7201"/>
+       <Parameter Name="PeriodoAnalise"     Value="20"/>
+       <Parameter Name="PeriodoMinimoTrend" Value="4"/>
+       <Parameter Name="PeriodoRSI"         Value="14"/>
+       <Parameter Name="PeriodoBollinger"   Value="5"/>
+       <Parameter Name="PeriodoOscillator"  Value="5"/>
+</agent>

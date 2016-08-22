@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRKM5.SA (BRASKEM S.A.)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>370.00</TD><TD>370.00</TD><TD>354.99</TD><TD>355.00</TD><TD>1,983</TD><TD>355.00</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>375.00</TD><TD>377.99</TD><TD>360.00</TD><TD>360.00</TD><TD>2,671</TD><TD>360.00</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>365.00</TD><TD>379.88</TD><TD>350.00</TD><TD>350.00</TD><TD>2,649</TD><TD>350.00</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>368.00</TD><TD>383.00</TD><TD>355.00</TD><TD>360.00</TD><TD>1,777</TD><TD>360.00</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>377.98</TD><TD>377.99</TD><TD>352.00</TD><TD>352.00</TD><TD>734</TD><TD>352.00</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>375.00</TD><TD>380.00</TD><TD>366.20</TD><TD>371.00</TD><TD>710</TD><TD>371.00</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>373.51</TD><TD>385.00</TD><TD>370.00</TD><TD>378.40</TD><TD>1,140</TD><TD>378.40</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>380.02</TD><TD>399.00</TD><TD>368.04</TD><TD>385.02</TD><TD>729</TD><TD>385.02</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>390.10</TD><TD>404.99</TD><TD>380.01</TD><TD>380.01</TD><TD>688</TD><TD>380.01</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>398.99</TD><TD>412.00</TD><TD>394.00</TD><TD>407.00</TD><TD>607</TD><TD>407.00</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>398.99</TD><TD>402.00</TD><TD>395.00</TD><TD>399.99</TD><TD>387</TD><TD>399.99</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>387.11</TD><TD>397.00</TD><TD>387.00</TD><TD>388.01</TD><TD>596</TD><TD>388.01</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>385.00</TD><TD>400.00</TD><TD>380.01</TD><TD>387.11</TD><TD>1,194</TD><TD>387.11</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>392.00</TD><TD>392.00</TD><TD>380.00</TD><TD>382.10</TD><TD>615</TD><TD>382.10</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>391.00</TD><TD>395.90</TD><TD>385.01</TD><TD>387.10</TD><TD>542</TD><TD>387.10</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>380.00</TD><TD>397.99</TD><TD>379.00</TD><TD>397.99</TD><TD>1,263</TD><TD>397.99</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>388.99</TD><TD>389.80</TD><TD>381.01</TD><TD>382.01</TD><TD>463</TD><TD>382.01</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>389.00</TD><TD>393.98</TD><TD>379.00</TD><TD>379.00</TD><TD>277</TD><TD>379.00</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>397.95</TD><TD>397.95</TD><TD>380.00</TD><TD>380.06</TD><TD>923</TD><TD>380.06</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>393.99</TD><TD>393.99</TD><TD>385.00</TD><TD>387.01</TD><TD>450</TD><TD>387.01</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>387.00</TD><TD>399.89</TD><TD>375.00</TD><TD>382.00</TD><TD>1,190</TD><TD>382.00</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>385.01</TD><TD>397.99</TD><TD>385.00</TD><TD>391.00</TD><TD>492</TD><TD>391.00</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>398.99</TD><TD>398.99</TD><TD>385.00</TD><TD>389.00</TD><TD>798</TD><TD>389.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

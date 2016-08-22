@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRTP4.SA (BRASIL TELECOM PARTICIPACOES SA)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>25.00</TD><TD>25.40</TD><TD>23.80</TD><TD>24.10</TD><TD>1,664,440</TD><TD>23.02</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>25.90</TD><TD>25.90</TD><TD>25.00</TD><TD>25.30</TD><TD>738,812</TD><TD>24.22</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>26.00</TD><TD>26.00</TD><TD>25.39</TD><TD>25.40</TD><TD>777,842</TD><TD>24.32</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>25.85</TD><TD>26.20</TD><TD>25.40</TD><TD>26.00</TD><TD>1,159,000</TD><TD>24.92</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>25.10</TD><TD>25.90</TD><TD>25.00</TD><TD>25.85</TD><TD>1,204,420</TD><TD>24.77</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>24.66</TD><TD>25.60</TD><TD>24.66</TD><TD>25.29</TD><TD>1,719,930</TD><TD>24.21</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>23.30</TD><TD>24.88</TD><TD>23.30</TD><TD>24.66</TD><TD>1,059,530</TD><TD>23.58</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>24.00</TD><TD>24.00</TD><TD>22.90</TD><TD>23.48</TD><TD>467,149</TD><TD>22.40</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>23.90</TD><TD>24.50</TD><TD>23.40</TD><TD>23.58</TD><TD>680,339</TD><TD>22.50</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>23.40</TD><TD>23.98</TD><TD>23.15</TD><TD>23.80</TD><TD>848,901</TD><TD>22.72</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>22.82</TD><TD>23.39</TD><TD>22.50</TD><TD>23.30</TD><TD>885,246</TD><TD>22.22</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>24.00</TD><TD>24.29</TD><TD>22.03</TD><TD>22.60</TD><TD>1,722,370</TD><TD>21.52</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>23.40</TD><TD>24.10</TD><TD>23.40</TD><TD>23.80</TD><TD>435,359</TD><TD>22.72</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>24.20</TD><TD>24.60</TD><TD>23.27</TD><TD>23.30</TD><TD>1,447,870</TD><TD>22.22</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>23.70</TD><TD>24.20</TD><TD>23.30</TD><TD>24.10</TD><TD>750,043</TD><TD>23.02</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>23.81</TD><TD>24.30</TD><TD>23.50</TD><TD>23.80</TD><TD>929,294</TD><TD>22.72</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>23.70</TD><TD>24.50</TD><TD>23.10</TD><TD>24.39</TD><TD>1,752,910</TD><TD>23.31</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>23.01</TD><TD>23.60</TD><TD>23.01</TD><TD>23.47</TD><TD>581,843</TD><TD>22.39</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>24.20</TD><TD>24.40</TD><TD>23.40</TD><TD>23.50</TD><TD>821,743</TD><TD>22.42</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>23.90</TD><TD>24.49</TD><TD>23.70</TD><TD>24.30</TD><TD>1,055,220</TD><TD>23.22</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>22.03</TD><TD>23.98</TD><TD>21.00</TD><TD>23.90</TD><TD>1,039,820</TD><TD>22.82</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>22.00</TD><TD>22.70</TD><TD>22.00</TD><TD>22.30</TD><TD>408,341</TD><TD>21.22</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

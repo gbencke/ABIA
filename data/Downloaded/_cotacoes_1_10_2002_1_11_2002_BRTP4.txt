@@ -1,0 +1,140 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRTP4.SA (BRASIL TELECOM PARTICIPACOES SA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>20.50</TD><TD>20.95</TD><TD>20.20</TD><TD>20.26</TD><TD>731,532</TD><TD>19.90</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>20.15</TD><TD>20.94</TD><TD>20.15</TD><TD>20.65</TD><TD>811,217</TD><TD>20.29</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>19.50</TD><TD>20.40</TD><TD>19.50</TD><TD>20.15</TD><TD>885,649</TD><TD>19.79</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>19.05</TD><TD>19.62</TD><TD>18.90</TD><TD>19.25</TD><TD>723,795</TD><TD>18.89</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>19.90</TD><TD>20.20</TD><TD>19.60</TD><TD>19.64</TD><TD>452,655</TD><TD>19.28</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>19.50</TD><TD>20.20</TD><TD>18.91</TD><TD>19.96</TD><TD>653,557</TD><TD>19.60</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>19.00</TD><TD>20.40</TD><TD>18.90</TD><TD>19.70</TD><TD>1,861,960</TD><TD>19.34</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>17.81</TD><TD>19.16</TD><TD>17.80</TD><TD>19.16</TD><TD>2,256,260</TD><TD>18.80</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>17.73</TD><TD>18.10</TD><TD>17.65</TD><TD>17.81</TD><TD>1,011,350</TD><TD>17.45</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>17.80</TD><TD>18.16</TD><TD>17.73</TD><TD>18.00</TD><TD>384,973</TD><TD>17.64</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>18.20</TD><TD>18.50</TD><TD>17.80</TD><TD>17.80</TD><TD>735,248</TD><TD>17.44</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>17.80</TD><TD>18.20</TD><TD>17.65</TD><TD>18.17</TD><TD>892,550</TD><TD>17.81</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>17.35</TD><TD>17.49</TD><TD>16.90</TD><TD>17.40</TD><TD>635,946</TD><TD>17.04</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>17.01</TD><TD>17.70</TD><TD>17.01</TD><TD>17.45</TD><TD>517,220</TD><TD>17.09</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>17.70</TD><TD>17.70</TD><TD>17.02</TD><TD>17.02</TD><TD>666,517</TD><TD>16.66</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>17.86</TD><TD>18.45</TD><TD>17.70</TD><TD>17.75</TD><TD>447,175</TD><TD>17.39</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>17.50</TD><TD>18.20</TD><TD>17.50</TD><TD>18.00</TD><TD>697,331</TD><TD>17.64</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>16.90</TD><TD>17.79</TD><TD>16.72</TD><TD>17.41</TD><TD>581,221</TD><TD>17.05</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>17.00</TD><TD>17.49</TD><TD>16.75</TD><TD>17.30</TD><TD>768,019</TD><TD>16.94</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>17.50</TD><TD>17.62</TD><TD>16.85</TD><TD>17.00</TD><TD>473,256</TD><TD>16.64</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>18.50</TD><TD>18.70</TD><TD>17.70</TD><TD>17.70</TD><TD>593,807</TD><TD>17.34</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>17.11</TD><TD>18.30</TD><TD>17.11</TD><TD>18.21</TD><TD>411,025</TD><TD>17.85</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>18.00</TD><TD>18.20</TD><TD>17.05</TD><TD>17.05</TD><TD>715,421</TD><TD>16.69</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>16.75</TD><TD>18.70</TD><TD>16.75</TD><TD>18.00</TD><TD>455,237</TD><TD>17.64</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

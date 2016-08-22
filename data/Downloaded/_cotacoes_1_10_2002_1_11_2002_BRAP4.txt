@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRAP4.SA (BRADESPAR SA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>0.47</TD><TD>0.48</TD><TD>0.46</TD><TD>0.48</TD><TD>992,474</TD><TD>0.48</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>0.48</TD><TD>0.49</TD><TD>0.47</TD><TD>0.48</TD><TD>1,785,020</TD><TD>0.48</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>0.45</TD><TD>0.48</TD><TD>0.45</TD><TD>0.48</TD><TD>2,422,140</TD><TD>0.48</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>0.45</TD><TD>0.45</TD><TD>0.44</TD><TD>0.45</TD><TD>1,167,280</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>0.47</TD><TD>0.48</TD><TD>0.45</TD><TD>0.46</TD><TD>4,081,490</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>0.47</TD><TD>0.48</TD><TD>0.46</TD><TD>0.48</TD><TD>1,331,470</TD><TD>0.48</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>0.48</TD><TD>0.49</TD><TD>0.46</TD><TD>0.46</TD><TD>2,367,940</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>0.45</TD><TD>0.49</TD><TD>0.45</TD><TD>0.49</TD><TD>5,016,800</TD><TD>0.49</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>0.44</TD><TD>0.45</TD><TD>0.43</TD><TD>0.45</TD><TD>1,931,460</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>0.45</TD><TD>0.45</TD><TD>0.44</TD><TD>0.44</TD><TD>375,939</TD><TD>0.44</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>0.45</TD><TD>0.46</TD><TD>0.44</TD><TD>0.45</TD><TD>559,411</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>0.44</TD><TD>0.46</TD><TD>0.44</TD><TD>0.45</TD><TD>1,520,020</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>0.45</TD><TD>0.45</TD><TD>0.43</TD><TD>0.43</TD><TD>1,804,780</TD><TD>0.43</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>0.44</TD><TD>0.45</TD><TD>0.44</TD><TD>0.45</TD><TD>1,117,350</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>0.45</TD><TD>0.45</TD><TD>0.44</TD><TD>0.45</TD><TD>628,446</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>0.44</TD><TD>0.46</TD><TD>0.44</TD><TD>0.45</TD><TD>827,724</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>0.44</TD><TD>0.45</TD><TD>0.43</TD><TD>0.45</TD><TD>743,923</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>0.44</TD><TD>0.44</TD><TD>0.43</TD><TD>0.44</TD><TD>667,219</TD><TD>0.44</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>0.44</TD><TD>0.45</TD><TD>0.43</TD><TD>0.44</TD><TD>950,286</TD><TD>0.44</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>0.45</TD><TD>0.46</TD><TD>0.44</TD><TD>0.44</TD><TD>529,750</TD><TD>0.44</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>0.45</TD><TD>0.46</TD><TD>0.44</TD><TD>0.46</TD><TD>1,113,090</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>0.44</TD><TD>0.45</TD><TD>0.43</TD><TD>0.45</TD><TD>657,799</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>0.45</TD><TD>0.45</TD><TD>0.44</TD><TD>0.44</TD><TD>1,183,950</TD><TD>0.44</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>0.44</TD><TD>0.45</TD><TD>0.42</TD><TD>0.45</TD><TD>1,647,560</TD><TD>0.45</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

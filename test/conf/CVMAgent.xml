@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<agent Name="CVMAgent">
+    <Parameter Name="InitialDate" Value="31032002"/>
+</agent>

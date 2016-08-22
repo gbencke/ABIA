@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CPLE6.SA (COMPANHIA PARANAENSE DE ENERGIA)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>8.10</TD><TD>8.11</TD><TD>7.80</TD><TD>7.80</TD><TD>383,289</TD><TD>7.80</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>8.11</TD><TD>8.18</TD><TD>8.01</TD><TD>8.10</TD><TD>393,093</TD><TD>8.10</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>8.20</TD><TD>8.30</TD><TD>7.90</TD><TD>7.96</TD><TD>733,985</TD><TD>7.96</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>8.48</TD><TD>8.48</TD><TD>8.09</TD><TD>8.11</TD><TD>863,983</TD><TD>8.11</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>8.55</TD><TD>8.62</TD><TD>8.33</TD><TD>8.33</TD><TD>525,472</TD><TD>8.33</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>8.55</TD><TD>8.60</TD><TD>8.46</TD><TD>8.55</TD><TD>877,447</TD><TD>8.55</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>8.64</TD><TD>8.64</TD><TD>8.45</TD><TD>8.45</TD><TD>1,135,700</TD><TD>8.45</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>8.79</TD><TD>8.80</TD><TD>8.50</TD><TD>8.51</TD><TD>1,431,840</TD><TD>8.51</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>8.55</TD><TD>8.73</TD><TD>8.39</TD><TD>8.68</TD><TD>1,068,900</TD><TD>8.68</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>8.74</TD><TD>8.80</TD><TD>8.33</TD><TD>8.39</TD><TD>634,021</TD><TD>8.39</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>8.80</TD><TD>8.85</TD><TD>8.60</TD><TD>8.62</TD><TD>737,141</TD><TD>8.62</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>8.65</TD><TD>8.85</TD><TD>8.61</TD><TD>8.71</TD><TD>602,232</TD><TD>8.71</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>9.00</TD><TD>9.00</TD><TD>8.60</TD><TD>8.65</TD><TD>470,731</TD><TD>8.65</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>9.08</TD><TD>9.16</TD><TD>8.87</TD><TD>8.87</TD><TD>561,067</TD><TD>8.87</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>9.18</TD><TD>9.20</TD><TD>9.03</TD><TD>9.07</TD><TD>300,827</TD><TD>9.07</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>9.38</TD><TD>9.40</TD><TD>8.99</TD><TD>9.00</TD><TD>417,945</TD><TD>9.00</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>9.17</TD><TD>9.35</TD><TD>8.93</TD><TD>9.32</TD><TD>418,364</TD><TD>9.32</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>8.81</TD><TD>9.25</TD><TD>8.81</TD><TD>9.20</TD><TD>430,865</TD><TD>9.20</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>9.10</TD><TD>9.16</TD><TD>8.81</TD><TD>8.81</TD><TD>352,568</TD><TD>8.81</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>8.80</TD><TD>8.99</TD><TD>8.80</TD><TD>8.94</TD><TD>163,160</TD><TD>8.94</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>9.00</TD><TD>9.15</TD><TD>8.85</TD><TD>8.85</TD><TD>211,156</TD><TD>8.85</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>9.00</TD><TD>9.30</TD><TD>8.88</TD><TD>9.04</TD><TD>979,702</TD><TD>9.04</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>8.30</TD><TD>8.99</TD><TD>8.28</TD><TD>8.83</TD><TD>1,164,300</TD><TD>8.83</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

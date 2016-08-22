@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EMBR3.SA (EMBRAER SA)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>15.90</TD><TD>16.09</TD><TD>15.40</TD><TD>15.40</TD><TD>655</TD><TD>14.46</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>16.35</TD><TD>16.40</TD><TD>15.75</TD><TD>15.90</TD><TD>347</TD><TD>14.96</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>16.00</TD><TD>16.54</TD><TD>15.80</TD><TD>16.30</TD><TD>807</TD><TD>15.36</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>15.85</TD><TD>16.11</TD><TD>15.76</TD><TD>16.01</TD><TD>750</TD><TD>15.07</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>16.00</TD><TD>16.00</TD><TD>15.10</TD><TD>15.70</TD><TD>326</TD><TD>14.76</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>16.00</TD><TD>16.30</TD><TD>15.85</TD><TD>15.95</TD><TD>423</TD><TD>15.01</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>15.40</TD><TD>15.99</TD><TD>15.40</TD><TD>15.98</TD><TD>347</TD><TD>15.04</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>15.64</TD><TD>15.70</TD><TD>15.02</TD><TD>15.30</TD><TD>309</TD><TD>14.36</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>16.00</TD><TD>16.10</TD><TD>15.65</TD><TD>15.66</TD><TD>222</TD><TD>14.72</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>15.50</TD><TD>15.99</TD><TD>15.19</TD><TD>15.99</TD><TD>1,128</TD><TD>15.05</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>14.65</TD><TD>15.30</TD><TD>14.65</TD><TD>15.24</TD><TD>400</TD><TD>14.30</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>14.93</TD><TD>14.93</TD><TD>14.40</TD><TD>14.65</TD><TD>261</TD><TD>13.71</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>14.60</TD><TD>14.80</TD><TD>14.40</TD><TD>14.70</TD><TD>116</TD><TD>13.76</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>14.65</TD><TD>15.09</TD><TD>13.90</TD><TD>14.50</TD><TD>1,324</TD><TD>13.56</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>15.20</TD><TD>15.30</TD><TD>14.20</TD><TD>14.60</TD><TD>962</TD><TD>13.66</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>15.60</TD><TD>15.74</TD><TD>15.05</TD><TD>15.59</TD><TD>880</TD><TD>14.65</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>14.70</TD><TD>15.98</TD><TD>14.70</TD><TD>15.80</TD><TD>1,350</TD><TD>14.86</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>14.65</TD><TD>14.70</TD><TD>14.06</TD><TD>14.70</TD><TD>421</TD><TD>13.76</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>14.80</TD><TD>15.50</TD><TD>13.86</TD><TD>14.40</TD><TD>579</TD><TD>13.46</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>15.00</TD><TD>16.00</TD><TD>14.20</TD><TD>14.40</TD><TD>866</TD><TD>13.46</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>12.99</TD><TD>15.20</TD><TD>12.75</TD><TD>15.00</TD><TD>1,412</TD><TD>14.06</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>12.01</TD><TD>13.00</TD><TD>12.01</TD><TD>13.00</TD><TD>929</TD><TD>12.06</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

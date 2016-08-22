@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CPLE6.SA (COMPANHIA PARANAENSE DE ENERGIA)
+        </TD><TD>As of Mar-30-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-30-01</TD><TD>18.00</TD><TD>18.00</TD><TD>17.40</TD><TD>17.60</TD><TD>338,216</TD><TD>16.95</TD></TR>
+<TR>
+<TD>Mar-29-01</TD><TD>17.91</TD><TD>18.60</TD><TD>17.50</TD><TD>17.80</TD><TD>294,691</TD><TD>17.15</TD></TR>
+<TR>
+<TD>Mar-28-01</TD><TD>18.50</TD><TD>18.50</TD><TD>17.80</TD><TD>18.10</TD><TD>169,426</TD><TD>17.45</TD></TR>
+<TR>
+<TD>Mar-27-01</TD><TD>18.00</TD><TD>18.75</TD><TD>18.00</TD><TD>18.60</TD><TD>202,468</TD><TD>17.95</TD></TR>
+<TR>
+<TD>Mar-26-01</TD><TD>18.31</TD><TD>18.80</TD><TD>18.01</TD><TD>18.20</TD><TD>318,636</TD><TD>17.55</TD></TR>
+<TR>
+<TD>Mar-23-01</TD><TD>17.65</TD><TD>17.80</TD><TD>17.00</TD><TD>17.80</TD><TD>276,505</TD><TD>17.15</TD></TR>
+<TR>
+<TD>Mar-22-01</TD><TD>18.30</TD><TD>18.30</TD><TD>17.10</TD><TD>17.35</TD><TD>289,309</TD><TD>16.70</TD></TR>
+<TR>
+<TD>Mar-21-01</TD><TD>18.30</TD><TD>18.60</TD><TD>18.00</TD><TD>18.30</TD><TD>256,760</TD><TD>17.65</TD></TR>
+<TR>
+<TD>Mar-20-01</TD><TD>18.06</TD><TD>18.60</TD><TD>18.00</TD><TD>18.00</TD><TD>587,802</TD><TD>17.35</TD></TR>
+<TR>
+<TD>Mar-19-01</TD><TD>18.42</TD><TD>18.42</TD><TD>17.85</TD><TD>17.95</TD><TD>78,832</TD><TD>17.30</TD></TR>
+<TR>
+<TD>Mar-16-01</TD><TD>19.70</TD><TD>19.70</TD><TD>18.20</TD><TD>18.41</TD><TD>259,135</TD><TD>17.76</TD></TR>
+<TR>
+<TD>Mar-15-01</TD><TD>18.40</TD><TD>18.80</TD><TD>18.30</TD><TD>18.80</TD><TD>582,465</TD><TD>18.15</TD></TR>
+<TR>
+<TD>Mar-14-01</TD><TD>18.55</TD><TD>18.55</TD><TD>17.40</TD><TD>18.00</TD><TD>439,803</TD><TD>17.35</TD></TR>
+<TR>
+<TD>Mar-13-01</TD><TD>17.99</TD><TD>18.70</TD><TD>17.70</TD><TD>18.50</TD><TD>792,599</TD><TD>17.85</TD></TR>
+<TR>
+<TD>Mar-12-01</TD><TD>18.30</TD><TD>18.30</TD><TD>17.50</TD><TD>17.63</TD><TD>227,532</TD><TD>16.98</TD></TR>
+<TR>
+<TD>Mar-09-01</TD><TD>18.10</TD><TD>18.40</TD><TD>18.05</TD><TD>18.20</TD><TD>147,477</TD><TD>17.55</TD></TR>
+<TR>
+<TD>Mar-08-01</TD><TD>18.70</TD><TD>19.00</TD><TD>18.10</TD><TD>18.20</TD><TD>111,526</TD><TD>17.55</TD></TR>
+<TR>
+<TD>Mar-07-01</TD><TD>18.88</TD><TD>18.88</TD><TD>18.50</TD><TD>18.70</TD><TD>198,914</TD><TD>18.05</TD></TR>
+<TR>
+<TD>Mar-06-01</TD><TD>19.21</TD><TD>19.50</TD><TD>18.17</TD><TD>18.30</TD><TD>583,048</TD><TD>17.65</TD></TR>
+<TR>
+<TD>Mar-05-01</TD><TD>19.14</TD><TD>19.20</TD><TD>18.61</TD><TD>19.05</TD><TD>88,322</TD><TD>18.40</TD></TR>
+<TR>
+<TD>Mar-02-01</TD><TD>19.10</TD><TD>19.21</TD><TD>19.10</TD><TD>19.14</TD><TD>113,731</TD><TD>18.49</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>18.85</TD><TD>19.45</TD><TD>18.85</TD><TD>19.45</TD><TD>210,913</TD><TD>18.80</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

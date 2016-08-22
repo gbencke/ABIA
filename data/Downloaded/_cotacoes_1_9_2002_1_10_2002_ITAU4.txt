@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ITAU4.SA (BANCO ITAU HOLDING FINANCEIRA S)
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>$0.09 Cash Dividend</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>123.20</TD><TD>126.00</TD><TD>119.30</TD><TD>126.00</TD><TD>224,014</TD><TD>119.28</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>117.20</TD><TD>118.50</TD><TD>113.01</TD><TD>118.40</TD><TD>114,471</TD><TD>111.59</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>117.80</TD><TD>117.80</TD><TD>114.50</TD><TD>116.90</TD><TD>123,817</TD><TD>110.09</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>123.00</TD><TD>123.00</TD><TD>118.00</TD><TD>118.00</TD><TD>128,413</TD><TD>111.19</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>125.50</TD><TD>126.00</TD><TD>121.00</TD><TD>121.20</TD><TD>183,828</TD><TD>114.39</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>123.50</TD><TD>124.70</TD><TD>122.60</TD><TD>123.00</TD><TD>270,626</TD><TD>116.19</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>127.50</TD><TD>130.00</TD><TD>124.00</TD><TD>125.80</TD><TD>72,666</TD><TD>118.99</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>129.90</TD><TD>133.84</TD><TD>127.30</TD><TD>133.00</TD><TD>115,387</TD><TD>126.19</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>127.47</TD><TD>131.00</TD><TD>127.10</TD><TD>128.61</TD><TD>140,577</TD><TD>121.80</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>127.30</TD><TD>130.61</TD><TD>126.15</TD><TD>127.30</TD><TD>147,596</TD><TD>120.49</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>137.02</TD><TD>137.02</TD><TD>130.02</TD><TD>131.51</TD><TD>115,030</TD><TD>124.70</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>140.50</TD><TD>140.50</TD><TD>134.50</TD><TD>134.50</TD><TD>83,095</TD><TD>127.69</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>141.50</TD><TD>142.98</TD><TD>140.80</TD><TD>141.50</TD><TD>48,599</TD><TD>134.69</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>141.99</TD><TD>142.80</TD><TD>140.20</TD><TD>142.50</TD><TD>69,475</TD><TD>135.69</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>138.80</TD><TD>143.54</TD><TD>138.00</TD><TD>142.90</TD><TD>100,573</TD><TD>136.09</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>137.00</TD><TD>138.12</TD><TD>136.00</TD><TD>137.05</TD><TD>102,476</TD><TD>130.24</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>135.00</TD><TD>136.00</TD><TD>133.50</TD><TD>135.50</TD><TD>83,619</TD><TD>128.69</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>139.00</TD><TD>139.00</TD><TD>133.50</TD><TD>133.50</TD><TD>104,151</TD><TD>126.69</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>140.00</TD><TD>140.00</TD><TD>136.90</TD><TD>137.00</TD><TD>138,683</TD><TD>130.19</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>143.90</TD><TD>144.00</TD><TD>140.15</TD><TD>142.80</TD><TD>172,895</TD><TD>135.99</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>146.00</TD><TD>146.00</TD><TD>140.02</TD><TD>144.50</TD><TD>208,210</TD><TD>137.69</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>$0.09 Cash Dividend</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>147.00</TD><TD>147.45</TD><TD>144.50</TD><TD>146.00</TD><TD>44,835</TD><TD>139.19</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

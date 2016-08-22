@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VALE3.SA (COMPANHIA VALE DO RIO DOCE)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>103.10</TD><TD>105.30</TD><TD>102.90</TD><TD>103.80</TD><TD>73</TD><TD>102.18</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>100.10</TD><TD>103.39</TD><TD>100.10</TD><TD>102.90</TD><TD>235</TD><TD>101.28</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>99.05</TD><TD>101.00</TD><TD>98.70</TD><TD>101.00</TD><TD>396</TD><TD>99.38</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>98.50</TD><TD>99.60</TD><TD>98.20</TD><TD>98.99</TD><TD>246</TD><TD>97.37</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>97.30</TD><TD>99.00</TD><TD>96.90</TD><TD>98.30</TD><TD>223</TD><TD>96.68</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>95.00</TD><TD>97.30</TD><TD>95.00</TD><TD>97.30</TD><TD>203</TD><TD>95.68</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>91.50</TD><TD>95.10</TD><TD>91.00</TD><TD>94.71</TD><TD>117</TD><TD>93.09</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>91.50</TD><TD>91.70</TD><TD>90.01</TD><TD>91.35</TD><TD>150</TD><TD>89.73</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>91.34</TD><TD>91.69</TD><TD>90.91</TD><TD>90.91</TD><TD>150</TD><TD>89.29</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>91.69</TD><TD>91.76</TD><TD>91.00</TD><TD>91.00</TD><TD>108</TD><TD>89.38</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>91.40</TD><TD>92.00</TD><TD>91.00</TD><TD>91.79</TD><TD>79</TD><TD>90.17</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>90.30</TD><TD>91.70</TD><TD>90.30</TD><TD>91.30</TD><TD>91</TD><TD>89.68</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>91.90</TD><TD>91.90</TD><TD>90.30</TD><TD>90.30</TD><TD>62</TD><TD>88.68</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>90.00</TD><TD>91.98</TD><TD>90.00</TD><TD>90.80</TD><TD>45</TD><TD>89.18</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>91.20</TD><TD>91.50</TD><TD>90.00</TD><TD>90.00</TD><TD>70</TD><TD>88.38</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>92.50</TD><TD>92.65</TD><TD>91.20</TD><TD>91.28</TD><TD>69</TD><TD>89.66</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>90.70</TD><TD>93.80</TD><TD>90.70</TD><TD>92.47</TD><TD>161</TD><TD>90.85</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>89.53</TD><TD>90.95</TD><TD>89.53</TD><TD>90.70</TD><TD>129</TD><TD>89.08</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>87.60</TD><TD>90.20</TD><TD>87.60</TD><TD>89.80</TD><TD>78</TD><TD>88.18</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>87.00</TD><TD>87.90</TD><TD>87.00</TD><TD>87.90</TD><TD>27</TD><TD>86.28</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>85.50</TD><TD>87.50</TD><TD>85.50</TD><TD>86.71</TD><TD>33</TD><TD>85.09</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>85.00</TD><TD>86.01</TD><TD>84.02</TD><TD>85.10</TD><TD>189</TD><TD>83.48</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>84.00</TD><TD>85.50</TD><TD>84.00</TD><TD>85.50</TD><TD>75</TD><TD>83.88</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNLP3.SA (TELE NORTE LESTE PARTICIPACOES )
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>23.71</TD><TD>23.71</TD><TD>23.00</TD><TD>23.00</TD><TD>148,932</TD><TD>23.00</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>23.75</TD><TD>24.30</TD><TD>23.65</TD><TD>24.30</TD><TD>99,335</TD><TD>24.30</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>24.15</TD><TD>24.34</TD><TD>23.70</TD><TD>23.71</TD><TD>126,221</TD><TD>23.71</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>23.55</TD><TD>24.49</TD><TD>23.40</TD><TD>24.49</TD><TD>248,997</TD><TD>24.49</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>23.51</TD><TD>23.90</TD><TD>23.50</TD><TD>23.70</TD><TD>145,265</TD><TD>23.70</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>24.10</TD><TD>24.30</TD><TD>23.62</TD><TD>23.95</TD><TD>206,895</TD><TD>23.95</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>25.01</TD><TD>25.01</TD><TD>23.96</TD><TD>24.15</TD><TD>113,223</TD><TD>24.15</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>25.50</TD><TD>25.50</TD><TD>24.56</TD><TD>24.89</TD><TD>157,481</TD><TD>24.89</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>25.00</TD><TD>25.50</TD><TD>24.90</TD><TD>25.45</TD><TD>108,831</TD><TD>25.45</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>25.00</TD><TD>25.20</TD><TD>24.90</TD><TD>24.90</TD><TD>121,671</TD><TD>24.90</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>24.34</TD><TD>25.39</TD><TD>24.34</TD><TD>25.39</TD><TD>124,677</TD><TD>25.39</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>23.90</TD><TD>24.40</TD><TD>23.90</TD><TD>24.34</TD><TD>381,776</TD><TD>24.34</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>24.60</TD><TD>24.60</TD><TD>23.90</TD><TD>24.14</TD><TD>403,118</TD><TD>24.14</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>24.11</TD><TD>24.65</TD><TD>24.11</TD><TD>24.60</TD><TD>111,832</TD><TD>24.60</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>23.10</TD><TD>24.36</TD><TD>23.10</TD><TD>24.36</TD><TD>149,055</TD><TD>24.36</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>23.36</TD><TD>23.75</TD><TD>22.75</TD><TD>23.40</TD><TD>249,923</TD><TD>23.40</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>23.62</TD><TD>24.00</TD><TD>23.36</TD><TD>23.60</TD><TD>116,162</TD><TD>23.60</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>23.90</TD><TD>24.64</TD><TD>23.90</TD><TD>24.19</TD><TD>101,343</TD><TD>24.19</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>24.00</TD><TD>24.30</TD><TD>23.96</TD><TD>24.11</TD><TD>174,985</TD><TD>24.11</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>23.70</TD><TD>24.00</TD><TD>23.60</TD><TD>23.99</TD><TD>120,598</TD><TD>23.99</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>24.00</TD><TD>24.15</TD><TD>23.65</TD><TD>24.00</TD><TD>150,388</TD><TD>24.00</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>24.51</TD><TD>25.10</TD><TD>24.47</TD><TD>24.60</TD><TD>142,078</TD><TD>24.60</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>24.10</TD><TD>24.80</TD><TD>23.80</TD><TD>24.65</TD><TD>154,781</TD><TD>24.65</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

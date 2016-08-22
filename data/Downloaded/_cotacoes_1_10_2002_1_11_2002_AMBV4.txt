@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - AMBV4.SA (COMPANHIA DE BEBIDAS DAS AMERIC)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>529.00</TD><TD>538.99</TD><TD>522.00</TD><TD>536.00</TD><TD>31,303</TD><TD>522.36</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>520.00</TD><TD>545.00</TD><TD>509.00</TD><TD>533.00</TD><TD>47,626</TD><TD>519.36</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>495.00</TD><TD>520.04</TD><TD>495.00</TD><TD>517.99</TD><TD>26,271</TD><TD>504.35</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>487.01</TD><TD>494.90</TD><TD>487.00</TD><TD>490.01</TD><TD>24,399</TD><TD>476.37</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>504.49</TD><TD>510.00</TD><TD>490.00</TD><TD>495.00</TD><TD>19,259</TD><TD>481.36</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>490.00</TD><TD>509.00</TD><TD>480.00</TD><TD>508.99</TD><TD>22,987</TD><TD>495.35</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>481.00</TD><TD>515.21</TD><TD>467.00</TD><TD>490.00</TD><TD>83,651</TD><TD>476.36</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>442.00</TD><TD>470.00</TD><TD>441.25</TD><TD>464.00</TD><TD>41,853</TD><TD>450.36</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>441.00</TD><TD>442.00</TD><TD>438.34</TD><TD>441.22</TD><TD>17,127</TD><TD>427.58</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>448.00</TD><TD>448.00</TD><TD>441.00</TD><TD>441.00</TD><TD>11,472</TD><TD>427.36</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>449.99</TD><TD>455.01</TD><TD>448.00</TD><TD>448.00</TD><TD>28,868</TD><TD>434.36</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>421.00</TD><TD>450.01</TD><TD>421.00</TD><TD>450.00</TD><TD>31,324</TD><TD>436.36</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>434.32</TD><TD>434.32</TD><TD>416.02</TD><TD>420.50</TD><TD>19,167</TD><TD>406.86</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>438.00</TD><TD>444.99</TD><TD>430.02</TD><TD>433.24</TD><TD>21,428</TD><TD>419.60</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>450.00</TD><TD>450.00</TD><TD>430.00</TD><TD>435.00</TD><TD>15,833</TD><TD>421.36</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>447.00</TD><TD>453.50</TD><TD>444.88</TD><TD>450.00</TD><TD>15,006</TD><TD>436.36</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>427.50</TD><TD>442.00</TD><TD>427.50</TD><TD>441.00</TD><TD>25,082</TD><TD>427.36</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>430.00</TD><TD>435.00</TD><TD>425.10</TD><TD>428.99</TD><TD>6,935</TD><TD>415.35</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>430.00</TD><TD>439.15</TD><TD>421.00</TD><TD>436.00</TD><TD>20,894</TD><TD>422.36</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>438.00</TD><TD>439.90</TD><TD>432.50</TD><TD>432.50</TD><TD>12,896</TD><TD>418.86</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>440.00</TD><TD>442.00</TD><TD>436.00</TD><TD>438.00</TD><TD>10,820</TD><TD>424.36</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>430.00</TD><TD>440.00</TD><TD>427.00</TD><TD>439.00</TD><TD>36,200</TD><TD>425.36</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>431.00</TD><TD>435.14</TD><TD>425.51</TD><TD>426.62</TD><TD>25,293</TD><TD>412.98</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>418.00</TD><TD>432.00</TD><TD>415.00</TD><TD>432.00</TD><TD>20,450</TD><TD>418.36</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

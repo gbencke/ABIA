@@ -1,0 +1,114 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BBAS3.SA (BANCO DO BRASIL SA)
+        </TD><TD>As of Oct-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>7.06</TD><TD>7.27</TD><TD>7.00</TD><TD>7.01</TD><TD>20,212</TD><TD>5.49</TD></TR>
+<TR>
+<TD>Sep-28-01</TD><TD>7.48</TD><TD>7.48</TD><TD>7.13</TD><TD>7.38</TD><TD>22,993</TD><TD>5.86</TD></TR>
+<TR>
+<TD>Sep-27-01</TD><TD>7.34</TD><TD>7.36</TD><TD>6.80</TD><TD>7.35</TD><TD>41,283</TD><TD>5.83</TD></TR>
+<TR>
+<TD>Sep-26-01</TD><TD>7.40</TD><TD>7.44</TD><TD>7.02</TD><TD>7.44</TD><TD>26,145</TD><TD>5.92</TD></TR>
+<TR>
+<TD>Sep-25-01</TD><TD>7.40</TD><TD>7.55</TD><TD>7.30</TD><TD>7.50</TD><TD>11,828</TD><TD>5.98</TD></TR>
+<TR>
+<TD>Sep-24-01</TD><TD>7.60</TD><TD>7.80</TD><TD>7.32</TD><TD>7.32</TD><TD>59,718</TD><TD>5.80</TD></TR>
+<TR>
+<TD>Sep-21-01</TD><TD>7.40</TD><TD>7.70</TD><TD>7.14</TD><TD>7.46</TD><TD>67,235</TD><TD>5.94</TD></TR>
+<TR>
+<TD>Sep-20-01</TD><TD>7.70</TD><TD>7.89</TD><TD>7.40</TD><TD>7.74</TD><TD>65,903</TD><TD>6.22</TD></TR>
+<TR>
+<TD>Sep-19-01</TD><TD>7.52</TD><TD>7.69</TD><TD>7.27</TD><TD>7.65</TD><TD>59,270</TD><TD>6.13</TD></TR>
+<TR>
+<TD>Sep-18-01</TD><TD>7.11</TD><TD>7.80</TD><TD>6.91</TD><TD>7.80</TD><TD>107,179</TD><TD>6.28</TD></TR>
+<TR>
+<TD>Sep-17-01</TD><TD>7.50</TD><TD>7.80</TD><TD>7.11</TD><TD>7.45</TD><TD>62,021</TD><TD>5.93</TD></TR>
+<TR>
+<TD>Sep-10-01</TD><TD>9.39</TD><TD>9.50</TD><TD>9.20</TD><TD>9.25</TD><TD>48,358</TD><TD>7.73</TD></TR>
+<TR>
+<TD>Sep-06-01</TD><TD>9.40</TD><TD>9.60</TD><TD>9.27</TD><TD>9.27</TD><TD>65,838</TD><TD>7.75</TD></TR>
+<TR>
+<TD>Sep-05-01</TD><TD>9.19</TD><TD>9.40</TD><TD>9.00</TD><TD>9.33</TD><TD>73,592</TD><TD>7.81</TD></TR>
+<TR>
+<TD>Sep-04-01</TD><TD>9.11</TD><TD>9.22</TD><TD>9.00</TD><TD>9.09</TD><TD>136,010</TD><TD>7.57</TD></TR>
+<TR>
+<TD>Sep-03-01</TD><TD>8.95</TD><TD>9.10</TD><TD>8.90</TD><TD>9.00</TD><TD>75,355</TD><TD>7.48</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

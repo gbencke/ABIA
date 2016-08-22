@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TCSL3.SA (TELE CELULAR SUL PARTICIPACOES )
+        </TD><TD>As of Jan-31-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jan-31-03</TD><TD>1.83</TD><TD>1.88</TD><TD>1.83</TD><TD>1.87</TD><TD>106,326</TD><TD>1.84</TD></TR>
+<TR>
+<TD>Jan-30-03</TD><TD>1.85</TD><TD>1.87</TD><TD>1.81</TD><TD>1.82</TD><TD>179,994</TD><TD>1.79</TD></TR>
+<TR>
+<TD>Jan-29-03</TD><TD>1.76</TD><TD>1.82</TD><TD>1.76</TD><TD>1.81</TD><TD>347,118</TD><TD>1.78</TD></TR>
+<TR>
+<TD>Jan-28-03</TD><TD>1.78</TD><TD>1.80</TD><TD>1.75</TD><TD>1.76</TD><TD>203,365</TD><TD>1.73</TD></TR>
+<TR>
+<TD>Jan-27-03</TD><TD>1.80</TD><TD>1.85</TD><TD>1.76</TD><TD>1.78</TD><TD>222,141</TD><TD>1.75</TD></TR>
+<TR>
+<TD>Jan-23-03</TD><TD>1.97</TD><TD>2.00</TD><TD>1.85</TD><TD>1.91</TD><TD>232,802</TD><TD>1.88</TD></TR>
+<TR>
+<TD>Jan-22-03</TD><TD>1.96</TD><TD>1.99</TD><TD>1.92</TD><TD>1.94</TD><TD>273,353</TD><TD>1.91</TD></TR>
+<TR>
+<TD>Jan-21-03</TD><TD>2.03</TD><TD>2.04</TD><TD>1.98</TD><TD>2.00</TD><TD>179,071</TD><TD>1.97</TD></TR>
+<TR>
+<TD>Jan-20-03</TD><TD>2.01</TD><TD>2.07</TD><TD>2.01</TD><TD>2.06</TD><TD>85,326</TD><TD>2.03</TD></TR>
+<TR>
+<TD>Jan-17-03</TD><TD>2.06</TD><TD>2.08</TD><TD>2.03</TD><TD>2.06</TD><TD>153,572</TD><TD>2.03</TD></TR>
+<TR>
+<TD>Jan-16-03</TD><TD>2.05</TD><TD>2.15</TD><TD>2.04</TD><TD>2.10</TD><TD>413,883</TD><TD>2.07</TD></TR>
+<TR>
+<TD>Jan-15-03</TD><TD>2.05</TD><TD>2.07</TD><TD>1.98</TD><TD>2.02</TD><TD>336,036</TD><TD>1.99</TD></TR>
+<TR>
+<TD>Jan-14-03</TD><TD>2.07</TD><TD>2.10</TD><TD>2.04</TD><TD>2.06</TD><TD>306,152</TD><TD>2.03</TD></TR>
+<TR>
+<TD>Jan-13-03</TD><TD>2.10</TD><TD>2.15</TD><TD>2.05</TD><TD>2.06</TD><TD>255,249</TD><TD>2.03</TD></TR>
+<TR>
+<TD>Jan-10-03</TD><TD>2.06</TD><TD>2.13</TD><TD>2.05</TD><TD>2.13</TD><TD>351,517</TD><TD>2.10</TD></TR>
+<TR>
+<TD>Jan-09-03</TD><TD>2.04</TD><TD>2.06</TD><TD>2.02</TD><TD>2.04</TD><TD>124,589</TD><TD>2.01</TD></TR>
+<TR>
+<TD>Jan-08-03</TD><TD>2.06</TD><TD>2.06</TD><TD>2.00</TD><TD>2.01</TD><TD>217,988</TD><TD>1.98</TD></TR>
+<TR>
+<TD>Jan-07-03</TD><TD>2.06</TD><TD>2.10</TD><TD>2.04</TD><TD>2.05</TD><TD>208,460</TD><TD>2.02</TD></TR>
+<TR>
+<TD>Jan-06-03</TD><TD>2.03</TD><TD>2.10</TD><TD>2.03</TD><TD>2.10</TD><TD>598,269</TD><TD>2.07</TD></TR>
+<TR>
+<TD>Jan-03-03</TD><TD>1.98</TD><TD>2.06</TD><TD>1.98</TD><TD>2.00</TD><TD>380,893</TD><TD>1.97</TD></TR>
+<TR>
+<TD>Jan-02-03</TD><TD>1.96</TD><TD>1.97</TD><TD>1.93</TD><TD>1.93</TD><TD>138,739</TD><TD>1.90</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

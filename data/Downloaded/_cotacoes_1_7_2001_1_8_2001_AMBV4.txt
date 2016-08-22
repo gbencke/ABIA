@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - AMBV4.SA (COMPANHIA DE BEBIDAS DAS AMERIC)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>500.00</TD><TD>505.01</TD><TD>499.00</TD><TD>502.00</TD><TD>12,472</TD><TD>481.86</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>504.00</TD><TD>504.00</TD><TD>497.01</TD><TD>500.00</TD><TD>13,639</TD><TD>479.86</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>508.00</TD><TD>509.00</TD><TD>503.00</TD><TD>503.00</TD><TD>5,458</TD><TD>482.86</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>508.99</TD><TD>510.00</TD><TD>505.00</TD><TD>509.00</TD><TD>3,922</TD><TD>488.86</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>510.00</TD><TD>510.00</TD><TD>506.00</TD><TD>510.00</TD><TD>10,793</TD><TD>489.86</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>505.00</TD><TD>507.00</TD><TD>498.00</TD><TD>507.00</TD><TD>8,847</TD><TD>486.86</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>502.01</TD><TD>510.00</TD><TD>500.00</TD><TD>500.00</TD><TD>21,481</TD><TD>479.86</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>507.00</TD><TD>511.00</TD><TD>502.01</TD><TD>502.01</TD><TD>3,340</TD><TD>481.87</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>509.00</TD><TD>515.00</TD><TD>503.99</TD><TD>507.00</TD><TD>12,858</TD><TD>486.86</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>507.00</TD><TD>508.50</TD><TD>504.00</TD><TD>508.50</TD><TD>6,308</TD><TD>488.36</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>518.99</TD><TD>518.99</TD><TD>502.49</TD><TD>507.01</TD><TD>14,740</TD><TD>486.87</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>515.00</TD><TD>515.00</TD><TD>495.00</TD><TD>512.94</TD><TD>18,323</TD><TD>492.80</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>516.03</TD><TD>524.01</TD><TD>509.01</TD><TD>509.01</TD><TD>5,191</TD><TD>488.87</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>511.50</TD><TD>522.00</TD><TD>509.50</TD><TD>516.03</TD><TD>14,290</TD><TD>495.89</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>484.99</TD><TD>515.00</TD><TD>470.00</TD><TD>515.00</TD><TD>14,376</TD><TD>494.86</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>480.00</TD><TD>487.97</TD><TD>465.00</TD><TD>476.23</TD><TD>39,076</TD><TD>456.09</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>499.00</TD><TD>500.00</TD><TD>484.51</TD><TD>484.99</TD><TD>19,685</TD><TD>464.85</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>515.99</TD><TD>516.00</TD><TD>499.00</TD><TD>499.00</TD><TD>7,159</TD><TD>478.86</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>520.00</TD><TD>525.00</TD><TD>505.00</TD><TD>515.10</TD><TD>11,574</TD><TD>494.96</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>515.00</TD><TD>520.00</TD><TD>510.00</TD><TD>515.10</TD><TD>1,686</TD><TD>494.96</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>537.00</TD><TD>537.00</TD><TD>515.10</TD><TD>515.10</TD><TD>6,833</TD><TD>494.96</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>538.00</TD><TD>549.99</TD><TD>530.00</TD><TD>535.00</TD><TD>21,342</TD><TD>514.86</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

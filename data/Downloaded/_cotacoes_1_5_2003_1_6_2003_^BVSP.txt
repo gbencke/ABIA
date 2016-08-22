@@ -1,0 +1,120 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of May-30-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-30-03</TD><TD>13,413.00</TD><TD>13,541.00</TD><TD>13,312.00</TD><TD>13,422.00</TD><TD>0</TD><TD>13,422.00</TD></TR>
+<TR>
+<TD>May-29-03</TD><TD>13,303.00</TD><TD>13,507.00</TD><TD>13,301.00</TD><TD>13,405.00</TD><TD>0</TD><TD>13,405.00</TD></TR>
+<TR>
+<TD>May-28-03</TD><TD>13,257.00</TD><TD>13,427.00</TD><TD>13,257.00</TD><TD>13,294.00</TD><TD>0</TD><TD>13,294.00</TD></TR>
+<TR>
+<TD>May-27-03</TD><TD>12,861.00</TD><TD>13,321.00</TD><TD>12,859.00</TD><TD>13,246.00</TD><TD>0</TD><TD>13,246.00</TD></TR>
+<TR>
+<TD>May-26-03</TD><TD>13,149.00</TD><TD>13,239.00</TD><TD>12,852.00</TD><TD>12,852.00</TD><TD>0</TD><TD>12,852.00</TD></TR>
+<TR>
+<TD>May-23-03</TD><TD>13,101.00</TD><TD>13,246.00</TD><TD>13,029.00</TD><TD>13,143.00</TD><TD>0</TD><TD>13,143.00</TD></TR>
+<TR>
+<TD>May-22-03</TD><TD>13,031.00</TD><TD>13,173.00</TD><TD>12,971.00</TD><TD>13,101.00</TD><TD>0</TD><TD>13,101.00</TD></TR>
+<TR>
+<TD>May-21-03</TD><TD>12,749.00</TD><TD>13,077.00</TD><TD>12,711.00</TD><TD>13,034.00</TD><TD>0</TD><TD>13,034.00</TD></TR>
+<TR>
+<TD>May-20-03</TD><TD>12,753.00</TD><TD>12,753.00</TD><TD>12,576.00</TD><TD>12,745.00</TD><TD>0</TD><TD>12,745.00</TD></TR>
+<TR>
+<TD>May-19-03</TD><TD>13,179.00</TD><TD>13,182.00</TD><TD>12,732.00</TD><TD>12,746.00</TD><TD>0</TD><TD>12,746.00</TD></TR>
+<TR>
+<TD>May-16-03</TD><TD>13,143.00</TD><TD>13,225.00</TD><TD>12,877.00</TD><TD>13,225.00</TD><TD>0</TD><TD>13,225.00</TD></TR>
+<TR>
+<TD>May-15-03</TD><TD>13,465.00</TD><TD>13,465.00</TD><TD>13,092.00</TD><TD>13,130.00</TD><TD>0</TD><TD>13,130.00</TD></TR>
+<TR>
+<TD>May-14-03</TD><TD>13,428.00</TD><TD>13,483.00</TD><TD>13,336.00</TD><TD>13,459.00</TD><TD>0</TD><TD>13,459.00</TD></TR>
+<TR>
+<TD>May-13-03</TD><TD>13,322.00</TD><TD>13,565.00</TD><TD>13,316.00</TD><TD>13,421.00</TD><TD>0</TD><TD>13,421.00</TD></TR>
+<TR>
+<TD>May-12-03</TD><TD>13,206.00</TD><TD>13,345.00</TD><TD>13,096.00</TD><TD>13,320.00</TD><TD>0</TD><TD>13,320.00</TD></TR>
+<TR>
+<TD>May-09-03</TD><TD>12,950.00</TD><TD>13,247.00</TD><TD>12,950.00</TD><TD>13,214.00</TD><TD>0</TD><TD>13,214.00</TD></TR>
+<TR>
+<TD>May-08-03</TD><TD>12,969.00</TD><TD>13,028.00</TD><TD>12,864.00</TD><TD>12,921.00</TD><TD>0</TD><TD>12,921.00</TD></TR>
+<TR>
+<TD>May-07-03</TD><TD>12,669.00</TD><TD>12,981.00</TD><TD>12,664.00</TD><TD>12,956.00</TD><TD>0</TD><TD>12,956.00</TD></TR>
+<TR>
+<TD>May-05-03</TD><TD>12,829.00</TD><TD>12,870.00</TD><TD>12,717.00</TD><TD>12,833.00</TD><TD>0</TD><TD>12,833.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

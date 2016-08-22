@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - GGBR4.SA (GERDAU SA)
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>31.90</TD><TD>32.00</TD><TD>30.90</TD><TD>31.00</TD><TD>61,326</TD><TD>27.68</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>31.70</TD><TD>32.30</TD><TD>31.60</TD><TD>32.00</TD><TD>161,051</TD><TD>28.68</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>31.81</TD><TD>31.85</TD><TD>31.60</TD><TD>31.60</TD><TD>151,194</TD><TD>28.28</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>31.80</TD><TD>32.99</TD><TD>31.50</TD><TD>31.60</TD><TD>103,204</TD><TD>28.28</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>31.20</TD><TD>31.80</TD><TD>31.20</TD><TD>31.79</TD><TD>234,441</TD><TD>28.47</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>31.52</TD><TD>32.00</TD><TD>30.79</TD><TD>31.43</TD><TD>147,366</TD><TD>28.11</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>32.00</TD><TD>32.00</TD><TD>31.50</TD><TD>31.77</TD><TD>146,027</TD><TD>28.45</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>33.35</TD><TD>33.40</TD><TD>31.55</TD><TD>31.70</TD><TD>136,243</TD><TD>28.38</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>33.00</TD><TD>33.90</TD><TD>32.80</TD><TD>33.30</TD><TD>264,857</TD><TD>29.98</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>32.75</TD><TD>33.61</TD><TD>32.75</TD><TD>33.34</TD><TD>216,295</TD><TD>30.02</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>31.98</TD><TD>33.49</TD><TD>31.90</TD><TD>32.70</TD><TD>316,816</TD><TD>29.38</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>30.60</TD><TD>31.98</TD><TD>30.30</TD><TD>31.70</TD><TD>305,172</TD><TD>28.38</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>29.99</TD><TD>31.00</TD><TD>29.99</TD><TD>30.60</TD><TD>72,295</TD><TD>27.28</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>28.81</TD><TD>29.70</TD><TD>28.81</TD><TD>29.20</TD><TD>124,611</TD><TD>25.88</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>27.70</TD><TD>29.50</TD><TD>27.29</TD><TD>28.70</TD><TD>90,030</TD><TD>25.38</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>29.10</TD><TD>29.50</TD><TD>27.55</TD><TD>27.70</TD><TD>143,300</TD><TD>24.38</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>29.00</TD><TD>29.70</TD><TD>28.90</TD><TD>29.50</TD><TD>60,676</TD><TD>26.18</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>28.80</TD><TD>29.20</TD><TD>28.60</TD><TD>28.70</TD><TD>112,959</TD><TD>25.38</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>29.46</TD><TD>29.46</TD><TD>28.00</TD><TD>28.55</TD><TD>109,227</TD><TD>25.23</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>31.12</TD><TD>31.12</TD><TD>29.00</TD><TD>29.45</TD><TD>193,530</TD><TD>26.13</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>31.20</TD><TD>31.49</TD><TD>30.50</TD><TD>30.50</TD><TD>134,757</TD><TD>27.18</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

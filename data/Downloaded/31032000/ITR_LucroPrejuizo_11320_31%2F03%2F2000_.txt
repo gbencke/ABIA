@@ -1,0 +1,167 @@
+
+<html>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<title>02 - Lucro ou Prejuízo por Ação</title>
+<style type="text/css">  
+<!--
+a {text-decoration: none}
+a:hover {text-decoration: underline}
+.label{color: #CC0000; font-size: 9pt; font-weight: bold; font-family:  Arial;}
+.text{color: #000000; font-size: 8pt; font-weight: normal; font-family:  Arial;}
+.ScrollMaker{       
+       position=relative; 
+       top:0px; 
+       width:640px; 
+       left:0px; 
+       height:160px; 
+       overflow:auto;}
+DIV  {SCROLLBAR-FACE-COLOR: #CE3039; SCROLLBAR-HIGHLIGHT-COLOR:  #E76163; SCROLLBAR-SHADOW-COLOR: #A52021; SCROLLBAR-ARROW-COLOR:  #FFF7EF; SCROLLBAR-BASE-COLOR: #E79E9C; scrollbar-3d-light-color:  #FFF7EF; scrollbar-dark-shadow-color:  #A52021}
+-->
+</style>
+<link rel="stylesheet" type="text/css" href="ahover.css">
+<link rel="stylesheet" type="text/css" href="hover.css">
+</head>
+
+<body background="images/fundo_destaques.gif" bgProperties="fixed" bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#6A6A6A" alink="#CC0000" scroll="auto">
+
+<center>
+<table width="80%" border="0" cellspacing="2" cellpadding="1">
+  <tr>
+    <td>
+		<table border="0" cellspacing="0" cellpadding="2">
+	<tr>
+		<td valign="top">
+			<table border="0" cellspacing="0" cellpadding="2">
+			    <tr>
+					<td class="text"><font color="#CC0000"> 
+						
+								<b>Grupo 03 - Demonstração do Resultado</b> - 
+								02 - Lucro ou Prejuízo por Ação 
+			        </font>
+					</td>
+			    </tr>
+			    <tr>
+					<td height="1" width="540" bgcolor="#000000"></td>
+			    </tr>
+				<tr>
+					<td class="text">
+						
+								| <a href="DIVEXTDemonstracaoResultado.asp?TipoInfo=C" title="01 - Demonstração do Resultado">01 - Demonstração do Resultado</a>
+								| <a href="DIVEXTLucroPrejuizo.asp?TipoInfo=C" title="02 - Lucro ou Prejuízo por Ação"> 02 - Lucro ou Prejuízo por Ação</a> |<br>
+								
+					</td>
+				</tr>
+			</table>	
+		</td>
+		<td></td>
+	</tr>
+</table>
+    </td>
+  </tr>
+
+  <tr>
+    <td><div class="ScrollMaker">
+       <table border="0" cellspacing="1" cellpadding="2" bgcolor="#000000">
+		<tr align="left" valign="top" bgcolor="#E0E0E0">
+		
+						<td nowrap class="label"></td>
+						<td nowrap class="label">Trimestre Atual&nbsp;<br>01/01/2000 a 31/03/2000</td>
+						<td nowrap class="label">Acumul. Atual Exercício&nbsp;<br>01/01/2000 a 31/03/2000</td>
+							
+							<td nowrap class=label>Igual Trim. Exerc. Anterior&nbsp;<br>01/01/1999 a 31/03/1999</td>
+							<td nowrap class=label>Acumulado Exerc. Anterior&nbsp;<br>01/01/1999 a 31/03/1999</td>
+							
+		
+		</tr>
+		<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+
+		
+						<td nowrap align="center" bgcolor="#E0E0E0" align="left" class="text"><b>&nbsp;Nº Ações, Ex-Tesouraria (Mil)</b>
+						</td>
+						<td align="right" class="text">68.446.359</td>
+						<td align="right" class="text">68.446.359</td>
+									
+							<td align=right class=text>30.676.213</td>
+							<td align=right class=text>30.676.213</td>
+							
+
+		</tr>
+		<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+
+		
+						<td nowrap align="left" bgcolor="#E0E0E0" class="text"><b>&nbsp;Lucro por Ação (Reais)</b></td>
+						<td align="right" class="text">
+						
+						</td>
+						<td align=right class=text>
+						
+						</td>
+						
+							<td align=right class=text>
+							
+							</td>
+							<td align=right class=text>
+							
+							</td>
+							
+		</tr>
+		<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		
+					<td nowrap align="left" bgcolor="#E0E0E0" class="text"><b>&nbsp;Prejuízo por Ação (Reais)</b></td>
+					<td align="right" class="text">
+					(0,00040)
+					</td>
+					<td align=right class=text>
+					(0,00040)
+					</td>
+					
+						<td align=right class=text>
+						(0,00288)
+						</td>
+						<td align=right class=text>
+						(0,00288)
+						</td>
+						
+		</tr>
+		</table></div>
+    </td>
+  </tr>
+
+  <tr>
+      <td align="left"><table width="80%" border="0" cellspacing="2" cellpadding="1">
+  <tr>
+    <td align="right">
+      <p align="right">&nbsp;
+
+
+     <p align="right"><font class="text">&nbsp;</font><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0" width="44" height="44"></a>
+
+
+    </td>
+  </tr>
+  <tr>
+    <td><img src="images/fio.gif" width="640" height="1" vspace="5"></td>
+  </tr>
+  <tr>
+    
+
+      <td align="right"><font size="1" face="Arial">© <a href="copy.htm" target="_self">Copyright
+      Bovespa</a>. Todos os direitos reservados.</font></td>
+
+
+
+  </tr>
+</table></td>
+  </tr>
+</table>
+</center>
+</body>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+</head>
+</html>

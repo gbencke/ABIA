@@ -1,0 +1,117 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - LIGH3.SA (LIGHT-SERVICOS DE ELETRICIDADE )
+        </TD><TD>As of Nov-29-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-29-01</TD><TD>114.90</TD><TD>117.00</TD><TD>112.50</TD><TD>113.00</TD><TD>18,550</TD><TD>113.00</TD></TR>
+<TR>
+<TD>Nov-28-01</TD><TD>115.00</TD><TD>115.90</TD><TD>111.99</TD><TD>114.86</TD><TD>10,331</TD><TD>114.86</TD></TR>
+<TR>
+<TD>Nov-27-01</TD><TD>115.00</TD><TD>116.00</TD><TD>112.90</TD><TD>114.90</TD><TD>14,664</TD><TD>114.90</TD></TR>
+<TR>
+<TD>Nov-26-01</TD><TD>108.00</TD><TD>118.00</TD><TD>108.00</TD><TD>114.00</TD><TD>24,297</TD><TD>114.00</TD></TR>
+<TR>
+<TD>Nov-23-01</TD><TD>104.99</TD><TD>109.00</TD><TD>103.01</TD><TD>106.49</TD><TD>16,308</TD><TD>106.49</TD></TR>
+<TR>
+<TD>Nov-22-01</TD><TD>93.99</TD><TD>104.99</TD><TD>93.99</TD><TD>100.00</TD><TD>16,372</TD><TD>100.00</TD></TR>
+<TR>
+<TD>Nov-21-01</TD><TD>90.05</TD><TD>93.99</TD><TD>88.50</TD><TD>93.99</TD><TD>16,588</TD><TD>93.99</TD></TR>
+<TR>
+<TD>Nov-20-01</TD><TD>93.00</TD><TD>93.49</TD><TD>87.00</TD><TD>89.99</TD><TD>7,120</TD><TD>89.99</TD></TR>
+<TR>
+<TD>Nov-19-01</TD><TD>92.50</TD><TD>92.99</TD><TD>91.00</TD><TD>92.99</TD><TD>10,939</TD><TD>92.99</TD></TR>
+<TR>
+<TD>Nov-16-01</TD><TD>90.00</TD><TD>92.50</TD><TD>90.00</TD><TD>91.01</TD><TD>7,011</TD><TD>91.01</TD></TR>
+<TR>
+<TD>Nov-14-01</TD><TD>93.00</TD><TD>93.00</TD><TD>89.00</TD><TD>90.00</TD><TD>3,644</TD><TD>90.00</TD></TR>
+<TR>
+<TD>Nov-13-01</TD><TD>90.51</TD><TD>92.99</TD><TD>90.00</TD><TD>91.00</TD><TD>20,520</TD><TD>91.00</TD></TR>
+<TR>
+<TD>Nov-12-01</TD><TD>92.00</TD><TD>92.00</TD><TD>85.00</TD><TD>89.00</TD><TD>6,376</TD><TD>89.00</TD></TR>
+<TR>
+<TD>Nov-09-01</TD><TD>92.60</TD><TD>93.00</TD><TD>92.00</TD><TD>92.00</TD><TD>7,812</TD><TD>92.00</TD></TR>
+<TR>
+<TD>Nov-08-01</TD><TD>98.50</TD><TD>98.50</TD><TD>90.30</TD><TD>92.60</TD><TD>3,016</TD><TD>92.60</TD></TR>
+<TR>
+<TD>Nov-07-01</TD><TD>95.00</TD><TD>97.50</TD><TD>94.00</TD><TD>94.50</TD><TD>5,603</TD><TD>94.50</TD></TR>
+<TR>
+<TD>Nov-06-01</TD><TD>97.00</TD><TD>99.50</TD><TD>93.99</TD><TD>95.00</TD><TD>14,103</TD><TD>95.00</TD></TR>
+<TR>
+<TD>Nov-05-01</TD><TD>92.00</TD><TD>98.00</TD><TD>92.00</TD><TD>95.00</TD><TD>3,484</TD><TD>95.00</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>91.00</TD><TD>93.00</TD><TD>89.50</TD><TD>91.50</TD><TD>1,864</TD><TD>91.50</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

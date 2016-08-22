@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRKM5.SA (BRASKEM S.A.)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>230.00</TD><TD>232.00</TD><TD>225.03</TD><TD>232.00</TD><TD>1,505</TD><TD>232.00</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>220.00</TD><TD>231.00</TD><TD>220.00</TD><TD>222.00</TD><TD>1,452</TD><TD>222.00</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>215.00</TD><TD>231.00</TD><TD>215.00</TD><TD>231.00</TD><TD>2,744</TD><TD>231.00</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>208.00</TD><TD>215.99</TD><TD>208.00</TD><TD>211.01</TD><TD>1,567</TD><TD>211.01</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>221.00</TD><TD>223.00</TD><TD>208.00</TD><TD>208.00</TD><TD>2,483</TD><TD>208.00</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>220.00</TD><TD>223.99</TD><TD>212.00</TD><TD>220.00</TD><TD>1,736</TD><TD>220.00</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>222.00</TD><TD>222.00</TD><TD>212.10</TD><TD>214.00</TD><TD>4,984</TD><TD>214.00</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>221.00</TD><TD>222.00</TD><TD>205.00</TD><TD>218.00</TD><TD>4,309</TD><TD>218.00</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>215.00</TD><TD>227.99</TD><TD>215.00</TD><TD>220.03</TD><TD>1,694</TD><TD>220.03</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>223.00</TD><TD>230.00</TD><TD>220.00</TD><TD>225.00</TD><TD>410</TD><TD>225.00</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>217.70</TD><TD>223.99</TD><TD>217.00</TD><TD>223.99</TD><TD>1,045</TD><TD>223.99</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>217.80</TD><TD>217.80</TD><TD>213.99</TD><TD>217.60</TD><TD>2,544</TD><TD>217.60</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>215.00</TD><TD>219.00</TD><TD>203.01</TD><TD>207.50</TD><TD>5,875</TD><TD>207.50</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>220.00</TD><TD>224.98</TD><TD>218.26</TD><TD>218.26</TD><TD>732</TD><TD>218.26</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>220.00</TD><TD>222.50</TD><TD>215.00</TD><TD>215.00</TD><TD>533</TD><TD>215.00</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>243.00</TD><TD>243.00</TD><TD>210.00</TD><TD>225.00</TD><TD>4,005</TD><TD>225.00</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>242.99</TD><TD>242.99</TD><TD>235.99</TD><TD>235.99</TD><TD>1,694</TD><TD>235.99</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>226.01</TD><TD>246.00</TD><TD>226.01</TD><TD>236.00</TD><TD>680</TD><TD>236.00</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>228.50</TD><TD>244.99</TD><TD>228.50</TD><TD>235.00</TD><TD>6,411</TD><TD>235.00</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>242.00</TD><TD>244.00</TD><TD>235.00</TD><TD>240.00</TD><TD>280</TD><TD>240.00</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>238.00</TD><TD>249.90</TD><TD>236.00</TD><TD>242.10</TD><TD>1,002</TD><TD>242.10</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>219.01</TD><TD>233.00</TD><TD>219.01</TD><TD>230.00</TD><TD>755</TD><TD>230.00</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>237.99</TD><TD>245.00</TD><TD>218.00</TD><TD>219.06</TD><TD>1,565</TD><TD>219.06</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>238.00</TD><TD>241.00</TD><TD>230.00</TD><TD>236.00</TD><TD>1,081</TD><TD>236.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

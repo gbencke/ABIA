@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PLIM4.SA (NET SERVICOS DE COMUNICACAO SA)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>0.97</TD><TD>1.03</TD><TD>0.95</TD><TD>1.02</TD><TD>21,235</TD><TD>86.99</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>1.01</TD><TD>1.02</TD><TD>0.96</TD><TD>0.97</TD><TD>17,941</TD><TD>81.99</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>1.04</TD><TD>1.07</TD><TD>1.00</TD><TD>1.00</TD><TD>6,457</TD><TD>84.99</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>1.04</TD><TD>1.04</TD><TD>1.00</TD><TD>1.03</TD><TD>6,790</TD><TD>87.99</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>1.06</TD><TD>1.06</TD><TD>1.02</TD><TD>1.02</TD><TD>7,355</TD><TD>86.99</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>1.02</TD><TD>1.08</TD><TD>1.02</TD><TD>1.07</TD><TD>5,142</TD><TD>91.99</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>1.08</TD><TD>1.09</TD><TD>1.02</TD><TD>1.03</TD><TD>14,037</TD><TD>87.99</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>1.14</TD><TD>1.16</TD><TD>1.07</TD><TD>1.07</TD><TD>14,654</TD><TD>91.99</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>1.09</TD><TD>1.15</TD><TD>1.08</TD><TD>1.14</TD><TD>7,288</TD><TD>98.99</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>1.11</TD><TD>1.14</TD><TD>1.06</TD><TD>1.09</TD><TD>9,695</TD><TD>93.99</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>1.15</TD><TD>1.17</TD><TD>1.09</TD><TD>1.10</TD><TD>10,316</TD><TD>94.99</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>1.11</TD><TD>1.21</TD><TD>1.09</TD><TD>1.15</TD><TD>20,352</TD><TD>99.99</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>1.10</TD><TD>1.12</TD><TD>1.06</TD><TD>1.09</TD><TD>6,851</TD><TD>93.99</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>1.09</TD><TD>1.12</TD><TD>1.06</TD><TD>1.11</TD><TD>15,153</TD><TD>95.99</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>1.08</TD><TD>1.13</TD><TD>1.05</TD><TD>1.09</TD><TD>26,508</TD><TD>93.99</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>0.95</TD><TD>1.10</TD><TD>0.93</TD><TD>1.10</TD><TD>24,585</TD><TD>94.99</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>1.01</TD><TD>1.05</TD><TD>0.96</TD><TD>0.97</TD><TD>14,095</TD><TD>81.99</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>1.01</TD><TD>1.06</TD><TD>0.99</TD><TD>1.01</TD><TD>14,673</TD><TD>85.99</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>1.14</TD><TD>1.15</TD><TD>1.04</TD><TD>1.04</TD><TD>19,803</TD><TD>88.99</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>1.18</TD><TD>1.20</TD><TD>1.12</TD><TD>1.12</TD><TD>16,708</TD><TD>96.99</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>1.13</TD><TD>1.22</TD><TD>1.11</TD><TD>1.20</TD><TD>38,846</TD><TD>104.99</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>1.09</TD><TD>1.14</TD><TD>1.07</TD><TD>1.14</TD><TD>14,918</TD><TD>98.99</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

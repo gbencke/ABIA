@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VCPA4.SA (VOTORANTIM CELULOSE E PAPEL SA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>113.80</TD><TD>114.99</TD><TD>110.99</TD><TD>110.99</TD><TD>42,531</TD><TD>107.85</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>116.00</TD><TD>116.00</TD><TD>111.00</TD><TD>113.80</TD><TD>29,523</TD><TD>110.66</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>114.00</TD><TD>118.00</TD><TD>113.10</TD><TD>114.00</TD><TD>50,176</TD><TD>110.86</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>113.80</TD><TD>118.00</TD><TD>113.00</TD><TD>114.74</TD><TD>37,013</TD><TD>111.60</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>118.00</TD><TD>118.00</TD><TD>113.03</TD><TD>113.60</TD><TD>20,648</TD><TD>110.46</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>114.00</TD><TD>121.99</TD><TD>113.95</TD><TD>118.00</TD><TD>25,961</TD><TD>114.86</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>114.89</TD><TD>115.00</TD><TD>112.01</TD><TD>114.50</TD><TD>54,235</TD><TD>111.36</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>113.00</TD><TD>114.90</TD><TD>112.00</TD><TD>114.90</TD><TD>15,115</TD><TD>111.76</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>106.50</TD><TD>113.99</TD><TD>106.50</TD><TD>113.00</TD><TD>33,225</TD><TD>109.86</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>106.99</TD><TD>108.80</TD><TD>106.50</TD><TD>108.80</TD><TD>31,405</TD><TD>105.66</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>110.00</TD><TD>110.00</TD><TD>106.21</TD><TD>106.99</TD><TD>82,155</TD><TD>103.85</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>105.50</TD><TD>111.00</TD><TD>105.50</TD><TD>110.00</TD><TD>75,380</TD><TD>106.86</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>104.08</TD><TD>105.50</TD><TD>102.02</TD><TD>105.50</TD><TD>28,099</TD><TD>102.36</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>102.00</TD><TD>104.50</TD><TD>102.00</TD><TD>104.49</TD><TD>6,459</TD><TD>101.35</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>106.00</TD><TD>106.00</TD><TD>98.50</TD><TD>101.00</TD><TD>100,931</TD><TD>97.86</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>111.96</TD><TD>111.96</TD><TD>105.73</TD><TD>106.99</TD><TD>8,034</TD><TD>103.85</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>108.60</TD><TD>111.97</TD><TD>108.60</TD><TD>109.00</TD><TD>15,605</TD><TD>105.86</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>106.50</TD><TD>109.99</TD><TD>106.50</TD><TD>107.50</TD><TD>7,753</TD><TD>104.36</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>103.01</TD><TD>108.00</TD><TD>103.01</TD><TD>106.50</TD><TD>24,395</TD><TD>103.36</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>105.00</TD><TD>108.00</TD><TD>105.00</TD><TD>107.00</TD><TD>9,167</TD><TD>103.86</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>109.50</TD><TD>110.55</TD><TD>107.00</TD><TD>107.00</TD><TD>12,202</TD><TD>103.86</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>105.50</TD><TD>109.80</TD><TD>105.50</TD><TD>109.00</TD><TD>58,784</TD><TD>105.86</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>106.00</TD><TD>106.40</TD><TD>105.49</TD><TD>106.02</TD><TD>22,776</TD><TD>102.88</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>104.51</TD><TD>106.95</TD><TD>104.51</TD><TD>106.31</TD><TD>17,707</TD><TD>103.17</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

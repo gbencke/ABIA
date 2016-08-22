@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TMAR5.SA (TELEMAR NORTE LESTE SA)
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>54.00</TD><TD>54.50</TD><TD>53.86</TD><TD>53.99</TD><TD>37,368</TD><TD>50.74</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>53.00</TD><TD>54.00</TD><TD>53.00</TD><TD>54.00</TD><TD>262,188</TD><TD>50.75</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>52.01</TD><TD>53.60</TD><TD>52.01</TD><TD>53.00</TD><TD>301,982</TD><TD>49.75</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>51.10</TD><TD>52.01</TD><TD>51.00</TD><TD>52.00</TD><TD>297,800</TD><TD>48.75</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>51.50</TD><TD>51.80</TD><TD>50.75</TD><TD>51.00</TD><TD>107,824</TD><TD>47.75</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>50.02</TD><TD>51.30</TD><TD>49.50</TD><TD>51.30</TD><TD>181,771</TD><TD>48.05</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>51.60</TD><TD>52.20</TD><TD>49.70</TD><TD>49.77</TD><TD>162,990</TD><TD>46.52</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>51.40</TD><TD>51.60</TD><TD>51.20</TD><TD>51.46</TD><TD>128,598</TD><TD>48.21</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>52.90</TD><TD>52.90</TD><TD>51.10</TD><TD>51.25</TD><TD>104,892</TD><TD>48.00</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>52.40</TD><TD>53.00</TD><TD>51.80</TD><TD>52.01</TD><TD>106,376</TD><TD>48.76</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>51.65</TD><TD>52.59</TD><TD>51.65</TD><TD>52.59</TD><TD>170,121</TD><TD>49.34</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>50.50</TD><TD>51.50</TD><TD>50.45</TD><TD>51.20</TD><TD>285,470</TD><TD>47.95</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>49.50</TD><TD>51.00</TD><TD>49.50</TD><TD>50.50</TD><TD>217,251</TD><TD>47.25</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>49.70</TD><TD>49.70</TD><TD>49.00</TD><TD>49.05</TD><TD>122,543</TD><TD>45.80</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>50.00</TD><TD>50.05</TD><TD>49.40</TD><TD>49.70</TD><TD>316,162</TD><TD>46.45</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>49.61</TD><TD>51.29</TD><TD>49.61</TD><TD>50.30</TD><TD>176,030</TD><TD>47.05</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>50.00</TD><TD>51.90</TD><TD>50.00</TD><TD>51.90</TD><TD>188,471</TD><TD>48.65</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>49.80</TD><TD>51.00</TD><TD>49.50</TD><TD>49.50</TD><TD>320,536</TD><TD>46.25</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>49.60</TD><TD>50.90</TD><TD>48.90</TD><TD>49.70</TD><TD>149,930</TD><TD>46.45</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>50.70</TD><TD>51.10</TD><TD>49.60</TD><TD>50.03</TD><TD>399,669</TD><TD>46.78</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>52.00</TD><TD>52.00</TD><TD>49.55</TD><TD>50.50</TD><TD>238,765</TD><TD>47.25</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

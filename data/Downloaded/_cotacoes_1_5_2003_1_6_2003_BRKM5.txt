@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRKM5.SA (BRASKEM S.A.)
+        </TD><TD>As of May-30-03</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-30-03</TD><TD>367.00</TD><TD>372.77</TD><TD>360.00</TD><TD>360.00</TD><TD>4,872</TD><TD>360.00</TD></TR>
+<TR>
+<TD>May-29-03</TD><TD>363.01</TD><TD>373.00</TD><TD>363.01</TD><TD>371.00</TD><TD>2,197</TD><TD>371.00</TD></TR>
+<TR>
+<TD>May-28-03</TD><TD>373.00</TD><TD>373.00</TD><TD>364.00</TD><TD>368.00</TD><TD>2,164</TD><TD>368.00</TD></TR>
+<TR>
+<TD>May-27-03</TD><TD>360.00</TD><TD>373.98</TD><TD>355.01</TD><TD>373.00</TD><TD>4,620</TD><TD>373.00</TD></TR>
+<TR>
+<TD>May-26-03</TD><TD>365.00</TD><TD>370.00</TD><TD>360.30</TD><TD>363.01</TD><TD>856</TD><TD>363.01</TD></TR>
+<TR>
+<TD>May-23-03</TD><TD>370.00</TD><TD>370.00</TD><TD>360.01</TD><TD>368.01</TD><TD>4,230</TD><TD>368.01</TD></TR>
+<TR>
+<TD>May-22-03</TD><TD>371.22</TD><TD>374.98</TD><TD>366.00</TD><TD>370.00</TD><TD>1,685</TD><TD>370.00</TD></TR>
+<TR>
+<TD>May-21-03</TD><TD>368.17</TD><TD>379.98</TD><TD>366.00</TD><TD>371.20</TD><TD>2,985</TD><TD>371.20</TD></TR>
+<TR>
+<TD>May-20-03</TD><TD>355.01</TD><TD>372.00</TD><TD>355.00</TD><TD>370.02</TD><TD>1,864</TD><TD>370.02</TD></TR>
+<TR>
+<TD>May-19-03</TD><TD>370.00</TD><TD>373.00</TD><TD>357.00</TD><TD>362.00</TD><TD>2,054</TD><TD>362.00</TD></TR>
+<TR>
+<TD>May-16-03</TD><TD>361.50</TD><TD>374.98</TD><TD>357.01</TD><TD>373.00</TD><TD>7,014</TD><TD>373.00</TD></TR>
+<TR>
+<TD>May-15-03</TD><TD>383.01</TD><TD>383.01</TD><TD>350.00</TD><TD>361.00</TD><TD>7,633</TD><TD>361.00</TD></TR>
+<TR>
+<TD>May-14-03</TD><TD>400.00</TD><TD>400.00</TD><TD>380.50</TD><TD>383.00</TD><TD>6,296</TD><TD>383.00</TD></TR>
+<TR>
+<TD>May-13-03</TD><TD>419.00</TD><TD>425.50</TD><TD>400.00</TD><TD>400.00</TD><TD>6,558</TD><TD>400.00</TD></TR>
+<TR>
+<TD>May-12-03</TD><TD>409.00</TD><TD>415.00</TD><TD>390.12</TD><TD>415.00</TD><TD>8,051</TD><TD>415.00</TD></TR>
+<TR>
+<TD>May-09-03</TD><TD>389.99</TD><TD>409.98</TD><TD>385.10</TD><TD>409.00</TD><TD>9,897</TD><TD>409.00</TD></TR>
+<TR>
+<TD>May-08-03</TD><TD>384.99</TD><TD>409.00</TD><TD>373.00</TD><TD>375.03</TD><TD>10,913</TD><TD>375.03</TD></TR>
+<TR>
+<TD>May-07-03</TD><TD>345.51</TD><TD>380.01</TD><TD>345.51</TD><TD>380.01</TD><TD>5,851</TD><TD>380.01</TD></TR>
+<TR>
+<TD>May-06-03</TD><TD>337.00</TD><TD>350.00</TD><TD>331.00</TD><TD>340.00</TD><TD>4,125</TD><TD>340.00</TD></TR>
+<TR>
+<TD>May-05-03</TD><TD>343.00</TD><TD>349.00</TD><TD>332.00</TD><TD>337.31</TD><TD>2,333</TD><TD>337.31</TD></TR>
+<TR>
+<TD>May-02-03</TD><TD>338.00</TD><TD>345.00</TD><TD>338.00</TD><TD>341.02</TD><TD>4,460</TD><TD>341.02</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

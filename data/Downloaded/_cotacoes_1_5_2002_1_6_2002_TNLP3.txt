@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNLP3.SA (TELE NORTE LESTE PARTICIPACOES )
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>26.99</TD><TD>26.99</TD><TD>26.20</TD><TD>26.20</TD><TD>112,262</TD><TD>24.24</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>26.50</TD><TD>26.99</TD><TD>26.15</TD><TD>26.99</TD><TD>274,377</TD><TD>25.03</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>25.87</TD><TD>26.60</TD><TD>25.87</TD><TD>26.44</TD><TD>186,582</TD><TD>24.48</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>25.90</TD><TD>26.10</TD><TD>25.30</TD><TD>26.10</TD><TD>78,772</TD><TD>24.14</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>25.70</TD><TD>25.90</TD><TD>24.88</TD><TD>25.90</TD><TD>62,442</TD><TD>23.94</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>24.51</TD><TD>25.50</TD><TD>24.40</TD><TD>25.50</TD><TD>54,892</TD><TD>23.54</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>25.60</TD><TD>26.00</TD><TD>24.21</TD><TD>24.96</TD><TD>225,178</TD><TD>23.00</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>25.79</TD><TD>25.79</TD><TD>25.30</TD><TD>25.60</TD><TD>142,824</TD><TD>23.64</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>25.50</TD><TD>26.00</TD><TD>25.30</TD><TD>26.00</TD><TD>64,617</TD><TD>24.04</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>26.20</TD><TD>26.20</TD><TD>25.40</TD><TD>26.00</TD><TD>59,027</TD><TD>24.04</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>25.40</TD><TD>26.20</TD><TD>25.40</TD><TD>26.20</TD><TD>102,598</TD><TD>24.24</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>24.80</TD><TD>25.40</TD><TD>24.70</TD><TD>25.40</TD><TD>250,393</TD><TD>23.44</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>24.35</TD><TD>25.39</TD><TD>24.35</TD><TD>24.80</TD><TD>150,961</TD><TD>22.84</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>24.02</TD><TD>24.25</TD><TD>23.70</TD><TD>24.20</TD><TD>112,353</TD><TD>22.24</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>24.00</TD><TD>24.89</TD><TD>23.70</TD><TD>24.10</TD><TD>71,592</TD><TD>22.14</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>24.60</TD><TD>24.85</TD><TD>24.00</TD><TD>24.26</TD><TD>195,262</TD><TD>22.30</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>25.00</TD><TD>25.40</TD><TD>25.00</TD><TD>25.30</TD><TD>117,952</TD><TD>23.34</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>25.00</TD><TD>25.10</TD><TD>24.50</TD><TD>24.75</TD><TD>85,041</TD><TD>22.79</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>24.60</TD><TD>25.00</TD><TD>24.40</TD><TD>25.00</TD><TD>149,384</TD><TD>23.04</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>25.50</TD><TD>25.50</TD><TD>24.50</TD><TD>25.37</TD><TD>141,376</TD><TD>23.41</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>24.82</TD><TD>26.20</TD><TD>24.70</TD><TD>25.29</TD><TD>122,834</TD><TD>23.33</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

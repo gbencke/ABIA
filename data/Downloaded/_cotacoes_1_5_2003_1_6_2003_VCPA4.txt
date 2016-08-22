@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VCPA4.SA (VOTORANTIM CELULOSE E PAPEL SA)
+        </TD><TD>As of May-30-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-30-03</TD><TD>110.00</TD><TD>112.94</TD><TD>108.40</TD><TD>110.53</TD><TD>110,573</TD><TD>110.53</TD></TR>
+<TR>
+<TD>May-29-03</TD><TD>107.00</TD><TD>110.00</TD><TD>106.01</TD><TD>109.50</TD><TD>181,759</TD><TD>109.50</TD></TR>
+<TR>
+<TD>May-28-03</TD><TD>101.79</TD><TD>107.50</TD><TD>101.00</TD><TD>106.99</TD><TD>130,246</TD><TD>106.99</TD></TR>
+<TR>
+<TD>May-27-03</TD><TD>98.30</TD><TD>102.00</TD><TD>98.30</TD><TD>100.84</TD><TD>38,225</TD><TD>100.84</TD></TR>
+<TR>
+<TD>May-26-03</TD><TD>98.95</TD><TD>99.00</TD><TD>97.53</TD><TD>98.25</TD><TD>33,980</TD><TD>98.25</TD></TR>
+<TR>
+<TD>May-23-03</TD><TD>99.70</TD><TD>100.00</TD><TD>96.00</TD><TD>98.00</TD><TD>32,183</TD><TD>98.00</TD></TR>
+<TR>
+<TD>May-22-03</TD><TD>101.00</TD><TD>101.90</TD><TD>99.65</TD><TD>100.00</TD><TD>35,272</TD><TD>100.00</TD></TR>
+<TR>
+<TD>May-21-03</TD><TD>102.50</TD><TD>102.50</TD><TD>100.50</TD><TD>101.10</TD><TD>28,376</TD><TD>101.10</TD></TR>
+<TR>
+<TD>May-20-03</TD><TD>101.00</TD><TD>102.60</TD><TD>99.00</TD><TD>102.40</TD><TD>59,710</TD><TD>102.40</TD></TR>
+<TR>
+<TD>May-19-03</TD><TD>100.50</TD><TD>102.01</TD><TD>100.02</TD><TD>101.00</TD><TD>15,940</TD><TD>101.00</TD></TR>
+<TR>
+<TD>May-16-03</TD><TD>102.00</TD><TD>102.79</TD><TD>99.50</TD><TD>101.15</TD><TD>30,842</TD><TD>101.15</TD></TR>
+<TR>
+<TD>May-15-03</TD><TD>103.99</TD><TD>103.99</TD><TD>100.60</TD><TD>101.40</TD><TD>20,882</TD><TD>101.40</TD></TR>
+<TR>
+<TD>May-14-03</TD><TD>105.00</TD><TD>105.00</TD><TD>102.61</TD><TD>103.00</TD><TD>59,099</TD><TD>103.00</TD></TR>
+<TR>
+<TD>May-13-03</TD><TD>107.00</TD><TD>107.00</TD><TD>102.00</TD><TD>103.02</TD><TD>85,198</TD><TD>103.02</TD></TR>
+<TR>
+<TD>May-12-03</TD><TD>106.51</TD><TD>107.99</TD><TD>104.30</TD><TD>106.70</TD><TD>22,792</TD><TD>106.70</TD></TR>
+<TR>
+<TD>May-09-03</TD><TD>108.99</TD><TD>109.00</TD><TD>105.60</TD><TD>106.01</TD><TD>48,451</TD><TD>106.01</TD></TR>
+<TR>
+<TD>May-08-03</TD><TD>110.00</TD><TD>110.50</TD><TD>107.25</TD><TD>108.43</TD><TD>30,839</TD><TD>108.43</TD></TR>
+<TR>
+<TD>May-07-03</TD><TD>111.00</TD><TD>111.50</TD><TD>109.10</TD><TD>109.70</TD><TD>48,514</TD><TD>109.70</TD></TR>
+<TR>
+<TD>May-06-03</TD><TD>113.02</TD><TD>113.20</TD><TD>108.30</TD><TD>110.50</TD><TD>91,174</TD><TD>110.50</TD></TR>
+<TR>
+<TD>May-05-03</TD><TD>109.51</TD><TD>112.50</TD><TD>109.51</TD><TD>112.30</TD><TD>53,727</TD><TD>112.30</TD></TR>
+<TR>
+<TD>May-02-03</TD><TD>111.00</TD><TD>111.50</TD><TD>109.10</TD><TD>110.00</TD><TD>52,256</TD><TD>110.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

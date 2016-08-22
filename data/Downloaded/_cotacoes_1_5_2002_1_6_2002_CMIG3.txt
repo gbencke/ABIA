@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CMIG3.SA (COMPANHIA ENERGETICA DE MINAS G)
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>30.40</TD><TD>31.79</TD><TD>30.40</TD><TD>31.79</TD><TD>3,687</TD><TD>30.47</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>31.70</TD><TD>31.70</TD><TD>31.00</TD><TD>31.69</TD><TD>2,717</TD><TD>30.37</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>31.00</TD><TD>31.00</TD><TD>30.48</TD><TD>30.48</TD><TD>1,064</TD><TD>29.16</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>30.00</TD><TD>31.70</TD><TD>30.00</TD><TD>31.00</TD><TD>31,115</TD><TD>29.68</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>29.82</TD><TD>30.50</TD><TD>29.30</TD><TD>29.89</TD><TD>2,534</TD><TD>28.57</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>28.51</TD><TD>30.40</TD><TD>28.51</TD><TD>30.00</TD><TD>5,306</TD><TD>28.68</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>31.05</TD><TD>31.05</TD><TD>29.61</TD><TD>29.90</TD><TD>14,376</TD><TD>28.58</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>31.50</TD><TD>31.70</TD><TD>31.00</TD><TD>31.00</TD><TD>3,303</TD><TD>29.68</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>30.30</TD><TD>31.29</TD><TD>30.30</TD><TD>31.29</TD><TD>2,201</TD><TD>29.97</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>30.50</TD><TD>30.90</TD><TD>30.11</TD><TD>30.21</TD><TD>6,050</TD><TD>28.89</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>31.40</TD><TD>31.40</TD><TD>29.80</TD><TD>30.61</TD><TD>3,718</TD><TD>29.29</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>30.50</TD><TD>32.00</TD><TD>30.50</TD><TD>31.35</TD><TD>14,483</TD><TD>30.03</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>30.50</TD><TD>31.00</TD><TD>30.39</TD><TD>30.99</TD><TD>13,799</TD><TD>29.67</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>29.72</TD><TD>30.88</TD><TD>29.72</TD><TD>30.50</TD><TD>712</TD><TD>29.18</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>28.50</TD><TD>30.70</TD><TD>28.50</TD><TD>30.70</TD><TD>13,769</TD><TD>29.38</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>29.50</TD><TD>29.85</TD><TD>29.00</TD><TD>29.00</TD><TD>16,208</TD><TD>27.68</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>30.00</TD><TD>30.66</TD><TD>29.70</TD><TD>29.96</TD><TD>1,886</TD><TD>28.64</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>30.10</TD><TD>30.10</TD><TD>29.50</TD><TD>30.00</TD><TD>3,520</TD><TD>28.68</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>29.10</TD><TD>30.20</TD><TD>28.90</TD><TD>30.20</TD><TD>2,665</TD><TD>28.88</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>30.41</TD><TD>30.41</TD><TD>30.00</TD><TD>30.00</TD><TD>92,167</TD><TD>28.68</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>31.20</TD><TD>32.49</TD><TD>30.20</TD><TD>30.20</TD><TD>8,452</TD><TD>28.88</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

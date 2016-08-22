@@ -1,0 +1,138 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TMAR5.SA (TELEMAR NORTE LESTE SA)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>40.80</TD><TD>41.29</TD><TD>39.30</TD><TD>40.51</TD><TD>385,565</TD><TD>37.37</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>39.50</TD><TD>41.30</TD><TD>39.50</TD><TD>40.80</TD><TD>347,131</TD><TD>37.66</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>38.00</TD><TD>40.50</TD><TD>38.00</TD><TD>38.00</TD><TD>226,915</TD><TD>34.86</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>38.99</TD><TD>39.99</TD><TD>37.49</TD><TD>38.00</TD><TD>227,550</TD><TD>34.86</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>40.60</TD><TD>40.60</TD><TD>36.45</TD><TD>37.50</TD><TD>148,248</TD><TD>34.36</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>42.00</TD><TD>42.00</TD><TD>39.10</TD><TD>40.50</TD><TD>312,235</TD><TD>37.36</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>41.40</TD><TD>42.60</TD><TD>41.29</TD><TD>42.00</TD><TD>244,261</TD><TD>38.86</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>42.60</TD><TD>42.80</TD><TD>41.31</TD><TD>42.30</TD><TD>589,786</TD><TD>39.16</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>45.00</TD><TD>45.41</TD><TD>42.50</TD><TD>42.50</TD><TD>136,339</TD><TD>39.36</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>45.25</TD><TD>46.89</TD><TD>45.25</TD><TD>45.25</TD><TD>154,310</TD><TD>42.11</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>46.50</TD><TD>47.00</TD><TD>46.40</TD><TD>46.72</TD><TD>160,994</TD><TD>43.58</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>47.40</TD><TD>47.50</TD><TD>46.50</TD><TD>46.70</TD><TD>171,736</TD><TD>43.56</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>47.90</TD><TD>47.90</TD><TD>46.50</TD><TD>46.69</TD><TD>70,502</TD><TD>43.55</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>50.00</TD><TD>50.00</TD><TD>47.00</TD><TD>47.00</TD><TD>123,248</TD><TD>43.86</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>49.49</TD><TD>50.00</TD><TD>48.00</TD><TD>50.00</TD><TD>147,732</TD><TD>46.86</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>47.73</TD><TD>49.34</TD><TD>47.30</TD><TD>49.00</TD><TD>112,380</TD><TD>45.86</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>47.49</TD><TD>49.80</TD><TD>47.00</TD><TD>47.49</TD><TD>137,237</TD><TD>44.35</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>46.90</TD><TD>47.99</TD><TD>46.50</TD><TD>47.31</TD><TD>44,325</TD><TD>44.17</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>47.00</TD><TD>47.00</TD><TD>46.00</TD><TD>46.90</TD><TD>225,286</TD><TD>43.76</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>47.00</TD><TD>47.50</TD><TD>46.20</TD><TD>47.50</TD><TD>128,065</TD><TD>44.36</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>47.50</TD><TD>47.50</TD><TD>46.30</TD><TD>46.69</TD><TD>192,598</TD><TD>43.55</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>47.50</TD><TD>48.00</TD><TD>46.61</TD><TD>47.50</TD><TD>178,374</TD><TD>44.36</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>51.00</TD><TD>51.00</TD><TD>48.15</TD><TD>48.50</TD><TD>147,954</TD><TD>45.36</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,132 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EMBR4.SA (EMBRAER SA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>14.30</TD><TD>14.40</TD><TD>13.85</TD><TD>13.90</TD><TD>691</TD><TD>13.68</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>14.50</TD><TD>14.60</TD><TD>14.25</TD><TD>14.30</TD><TD>285</TD><TD>14.08</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>14.30</TD><TD>14.55</TD><TD>14.30</TD><TD>14.55</TD><TD>368</TD><TD>14.33</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>14.40</TD><TD>14.40</TD><TD>14.06</TD><TD>14.20</TD><TD>354</TD><TD>13.98</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>14.70</TD><TD>14.70</TD><TD>14.06</TD><TD>14.10</TD><TD>573</TD><TD>13.88</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>14.20</TD><TD>14.50</TD><TD>14.05</TD><TD>14.50</TD><TD>604</TD><TD>14.28</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>14.95</TD><TD>15.10</TD><TD>14.06</TD><TD>14.11</TD><TD>977</TD><TD>13.89</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>14.30</TD><TD>15.02</TD><TD>14.22</TD><TD>15.00</TD><TD>1,904</TD><TD>14.78</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>14.05</TD><TD>14.35</TD><TD>13.90</TD><TD>14.35</TD><TD>1,213</TD><TD>14.13</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>13.64</TD><TD>14.15</TD><TD>13.57</TD><TD>14.15</TD><TD>489</TD><TD>13.93</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>13.35</TD><TD>13.77</TD><TD>13.05</TD><TD>13.64</TD><TD>880</TD><TD>13.42</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>13.00</TD><TD>13.35</TD><TD>12.97</TD><TD>13.20</TD><TD>1,810</TD><TD>12.98</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>12.92</TD><TD>13.00</TD><TD>12.55</TD><TD>13.00</TD><TD>577</TD><TD>12.78</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>13.05</TD><TD>13.10</TD><TD>12.90</TD><TD>13.05</TD><TD>151</TD><TD>12.83</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>12.90</TD><TD>13.30</TD><TD>12.75</TD><TD>12.95</TD><TD>388</TD><TD>12.73</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>13.47</TD><TD>13.47</TD><TD>12.90</TD><TD>13.04</TD><TD>388</TD><TD>12.82</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>12.70</TD><TD>13.25</TD><TD>12.57</TD><TD>13.23</TD><TD>675</TD><TD>13.01</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>13.20</TD><TD>13.25</TD><TD>12.45</TD><TD>12.46</TD><TD>1,482</TD><TD>12.24</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>13.20</TD><TD>13.20</TD><TD>12.91</TD><TD>13.20</TD><TD>472</TD><TD>12.98</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>13.50</TD><TD>13.50</TD><TD>13.10</TD><TD>13.15</TD><TD>223</TD><TD>12.93</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>13.45</TD><TD>13.60</TD><TD>13.00</TD><TD>13.45</TD><TD>723</TD><TD>13.23</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>13.33</TD><TD>13.50</TD><TD>13.30</TD><TD>13.45</TD><TD>1,240</TD><TD>13.23</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>13.20</TD><TD>13.50</TD><TD>13.02</TD><TD>13.21</TD><TD>585</TD><TD>12.99</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>$0.10 Cash Dividend</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>13.10</TD><TD>13.20</TD><TD>12.85</TD><TD>13.20</TD><TD>775</TD><TD>12.98</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

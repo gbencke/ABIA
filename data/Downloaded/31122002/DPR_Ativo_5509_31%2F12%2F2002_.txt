@@ -1,0 +1,951 @@
+
+
+<html>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<title>Grupo 02 - Balanço Patrimonial - </title>
+<style type="text/css">  
+<!--
+a {text-decoration: none}
+a:hover {text-decoration: underline}
+.label{color: #CC0000; font-size: 9pt; font-weight: bold; font-family:  Arial;}
+.text{color: #000000; font-size: 8pt; font-weight: normal; font-family:  Arial;}
+.ScrollMaker{       
+       position=relative; 
+       top:0px; 
+       width:640px; 
+       left:0px; 
+       height:200px; 
+       overflow:auto;}
+DIV  {SCROLLBAR-FACE-COLOR: #CE3039; SCROLLBAR-HIGHLIGHT-COLOR:  #E76163; SCROLLBAR-SHADOW-COLOR: #A52021; SCROLLBAR-ARROW-COLOR:  #FFF7EF; SCROLLBAR-BASE-COLOR: #E79E9C; scrollbar-3d-light-color:  #FFF7EF; scrollbar-dark-shadow-color:  #A52021}
+-->
+</style>
+<link rel="stylesheet" type="text/css" href="ahover.css">
+<link rel="stylesheet" type="text/css" href="hover.css">
+</head>
+      
+
+<body background="images/fundo_destaques.gif" bgProperties="fixed" bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#6A6A6A" alink="#CC0000" scroll="auto">
+
+<center>
+
+<table width="80%" border="0" cellspacing="2" cellpadding="1">
+<tr>
+	<td><table border="0" cellspacing="0" cellpadding="2">
+	<tr>
+		<td valign="top">
+			<table border="0" cellspacing="0" cellpadding="2">
+				<tr>
+					<td class="text">
+						<font class="text"><font color="#CC0000"><b> Grupo 02 - Balanço Patrimonial - </b>01 - Ativo</font></font>
+					</td>
+				</tr>
+				<tr>
+					<td height="1" width="540" bgcolor="#000000">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font class="text">
+							
+								| <a href="DIVEXTBalancoPatrimonial.asp?TipoInfo=C&Tipo=01 - Ativo" title="01 - Ativo">01 - Ativo</a>
+								| <a href="DIVEXTBalancoPatrimonial.asp?TipoInfo=C&Tipo=02 - Passivo" title="02 - Passivo"> 02 - Passivo</a>
+								|
+								
+						</font>
+						<br>
+					</td>
+				</tr>
+			</table>	
+		</td>
+		<td></td>
+	</tr>
+</table></td>
+</tr>
+
+ 
+					<tr>
+					  <td>
+					      <table width="50" border="0" cellspacing="2" cellpadding="0">
+					        <tr>
+					          <td nowrap class="text"><b>(Reais&nbsp;Mil)</b></td>
+					        </tr>
+					      </table>
+					    <div class="ScrollMaker">
+					    <table border="0" cellspacing="1" cellpadding="2" bgcolor="#000000">
+						<tr align="left" valign="top" bgcolor="#E0E0E0">
+						<td nowrap width="105" class="label">Código da Conta</td>
+						<td nowrap width="207" class="label">Descrição da Conta</td>
+						<td align="right" nowrap width="134" class="label">31/12/2002</td>
+		      		
+		      			<td align="right" nowrap width="134" class="label"><!--Se nao tiver esta data a coluna nao pode aparecer -->31/12/2001</td>
+		      			
+		      			<td align="right" nowrap width="134" class="label"><!--Se nao tiver esta data a coluna nao pode aparecer -->31/12/2000</td>
+		      			
+		      			</tr>
+		      			 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1            </td>
+		      			<td nowrap align="left" class="text">Ativo Total                             </td>
+		      			<td width="134" align="right" class="text">11.939.468</td>
+		      				
+		      				<td width="134" align="right" class="text">7.761.978</td>
+							  
+		      				<td width="134" align="right" class="text">5.206.895</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01         </td>
+		      			<td nowrap align="left" class="text">Ativo Circulante                        </td>
+		      			<td width="134" align="right" class="text">6.750.288</td>
+		      				
+		      				<td width="134" align="right" class="text">5.178.041</td>
+							  
+		      				<td width="134" align="right" class="text">3.315.156</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.01      </td>
+		      			<td nowrap align="left" class="text">Disponibilidades                        </td>
+		      			<td width="134" align="right" class="text">1.307.675</td>
+		      				
+		      				<td width="134" align="right" class="text">1.340.010</td>
+							  
+		      				<td width="134" align="right" class="text">1.844.350</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.01.01   </td>
+		      			<td nowrap align="left" class="text">Caixa E Bancos                          </td>
+		      			<td width="134" align="right" class="text">12.457</td>
+		      				
+		      				<td width="134" align="right" class="text">14.277</td>
+							  
+		      				<td width="134" align="right" class="text">5.928</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.01.02   </td>
+		      			<td nowrap align="left" class="text">Aplicações Financeiras                  </td>
+		      			<td width="134" align="right" class="text">1.295.218</td>
+		      				
+		      				<td width="134" align="right" class="text">1.325.733</td>
+							  
+		      				<td width="134" align="right" class="text">1.838.422</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.02      </td>
+		      			<td nowrap align="left" class="text">Créditos                                </td>
+		      			<td width="134" align="right" class="text">2.152.198</td>
+		      				
+		      				<td width="134" align="right" class="text">1.391.994</td>
+							  
+		      				<td width="134" align="right" class="text">275.420</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.02.01   </td>
+		      			<td nowrap align="left" class="text">Clientes                                </td>
+		      			<td width="134" align="right" class="text">2.156.499</td>
+		      				
+		      				<td width="134" align="right" class="text">1.395.772</td>
+							  
+		      				<td width="134" align="right" class="text">278.664</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.02.02   </td>
+		      			<td nowrap align="left" class="text">Provisão P/créd.de Liquidação Duvidosa  </td>
+		      			<td width="134" align="right" class="text">(4.301)</td>
+		      				
+		      				<td width="134" align="right" class="text">(3.778)</td>
+							  
+		      				<td width="134" align="right" class="text">(3.244)</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.03      </td>
+		      			<td nowrap align="left" class="text">Estoques                                </td>
+		      			<td width="134" align="right" class="text">2.137.416</td>
+		      				
+		      				<td width="134" align="right" class="text">2.048.963</td>
+							  
+		      				<td width="134" align="right" class="text">924.826</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.03.01   </td>
+		      			<td nowrap align="left" class="text">Produtos Acabados                       </td>
+		      			<td width="134" align="right" class="text">181.860</td>
+		      				
+		      				<td width="134" align="right" class="text">157.052</td>
+							  
+		      				<td width="134" align="right" class="text">58.382</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.03.02   </td>
+		      			<td nowrap align="left" class="text">Produtos Em Elaboração                  </td>
+		      			<td width="134" align="right" class="text">745.816</td>
+		      				
+		      				<td width="134" align="right" class="text">812.515</td>
+							  
+		      				<td width="134" align="right" class="text">373.925</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.03.03   </td>
+		      			<td nowrap align="left" class="text">Matéria Prima                           </td>
+		      			<td width="134" align="right" class="text">528.641</td>
+		      				
+		      				<td width="134" align="right" class="text">662.963</td>
+							  
+		      				<td width="134" align="right" class="text">307.145</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.03.04   </td>
+		      			<td nowrap align="left" class="text">Peças De Reposição                      </td>
+		      			<td width="134" align="right" class="text">98.559</td>
+		      				
+		      				<td width="134" align="right" class="text">113.784</td>
+							  
+		      				<td width="134" align="right" class="text">52.237</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.03.05   </td>
+		      			<td nowrap align="left" class="text">Aviões Usados Para Venda                </td>
+		      			<td width="134" align="right" class="text">124.270</td>
+		      				
+		      				<td width="134" align="right" class="text">624</td>
+							  
+		      				<td width="134" align="right" class="text">637</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.03.06   </td>
+		      			<td nowrap align="left" class="text">Materiais De Consumo                    </td>
+		      			<td width="134" align="right" class="text">1.726</td>
+		      				
+		      				<td width="134" align="right" class="text">2.221</td>
+							  
+		      				<td width="134" align="right" class="text">1.733</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.03.07   </td>
+		      			<td nowrap align="left" class="text">Mercadorias Em Transito                 </td>
+		      			<td width="134" align="right" class="text">272.637</td>
+		      				
+		      				<td width="134" align="right" class="text">215.842</td>
+							  
+		      				<td width="134" align="right" class="text">106.022</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.03.08   </td>
+		      			<td nowrap align="left" class="text">Adiantamentos A Fornecedores            </td>
+		      			<td width="134" align="right" class="text">183.907</td>
+		      				
+		      				<td width="134" align="right" class="text">83.962</td>
+							  
+		      				<td width="134" align="right" class="text">24.745</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.04      </td>
+		      			<td nowrap align="left" class="text">Outros                                  </td>
+		      			<td width="134" align="right" class="text">1.152.999</td>
+		      				
+		      				<td width="134" align="right" class="text">397.074</td>
+							  
+		      				<td width="134" align="right" class="text">270.560</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.04.01   </td>
+		      			<td nowrap align="left" class="text">Impostos A Recuperar                    </td>
+		      			<td width="134" align="right" class="text">8.785</td>
+		      				
+		      				<td width="134" align="right" class="text">19.099</td>
+							  
+		      				<td width="134" align="right" class="text">1.888</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.04.02   </td>
+		      			<td nowrap align="left" class="text">Despesas Pagas Antecipadamente          </td>
+		      			<td width="134" align="right" class="text">208.822</td>
+		      				
+		      				<td width="134" align="right" class="text">54.204</td>
+							  
+		      				<td width="134" align="right" class="text">14.821</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.04.03   </td>
+		      			<td nowrap align="left" class="text">Contas A Receber                        </td>
+		      			<td width="134" align="right" class="text">645.112</td>
+		      				
+		      				<td width="134" align="right" class="text">100.555</td>
+							  
+		      				<td width="134" align="right" class="text">36.016</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.01.04.04   </td>
+		      			<td nowrap align="left" class="text">I.de Renda E Contr.social Diferidos     </td>
+		      			<td width="134" align="right" class="text">290.280</td>
+		      				
+		      				<td width="134" align="right" class="text">223.216</td>
+							  
+		      				<td width="134" align="right" class="text">217.835</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02         </td>
+		      			<td nowrap align="left" class="text">Ativo Realizável A Longo Prazo          </td>
+		      			<td width="134" align="right" class="text">3.492.656</td>
+		      				
+		      				<td width="134" align="right" class="text">1.347.330</td>
+							  
+		      				<td width="134" align="right" class="text">1.055.430</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.01      </td>
+		      			<td nowrap align="left" class="text">Créditos Diversos                       </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">31.860</td>
+							  
+		      				<td width="134" align="right" class="text">135</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.01.01   </td>
+		      			<td nowrap align="left" class="text">Clientes                                </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">31.860</td>
+							  
+		      				<td width="134" align="right" class="text">135</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02      </td>
+		      			<td nowrap align="left" class="text">Créditos Com Pessoas Ligadas            </td>
+		      			<td width="134" align="right" class="text">2.706.800</td>
+		      				
+		      				<td width="134" align="right" class="text">1.172.035</td>
+							  
+		      				<td width="134" align="right" class="text">881.516</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02.01   </td>
+		      			<td nowrap align="left" class="text">Com Coligadas                           </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02.02   </td>
+		      			<td nowrap align="left" class="text">Com Controladas                         </td>
+		      			<td width="134" align="right" class="text">2.706.800</td>
+		      				
+		      				<td width="134" align="right" class="text">1.172.035</td>
+							  
+		      				<td width="134" align="right" class="text">881.516</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02.02.01</td>
+		      			<td nowrap align="left" class="text">Embraer Credit Ltd - Ecl                </td>
+		      			<td width="134" align="right" class="text">243.673</td>
+		      				
+		      				<td width="134" align="right" class="text">40.500</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02.02.02</td>
+		      			<td nowrap align="left" class="text">Embraer Finance Ltd. - Efl              </td>
+		      			<td width="134" align="right" class="text">2.272.298</td>
+		      				
+		      				<td width="134" align="right" class="text">1.131.535</td>
+							  
+		      				<td width="134" align="right" class="text">880.539</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02.02.03</td>
+		      			<td nowrap align="left" class="text">Embraer Austrália Pty Ltd. - Eal        </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">977</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02.02.04</td>
+		      			<td nowrap align="left" class="text">Embraer Aircraft Customer Serv.inc.-eacs</td>
+		      			<td width="134" align="right" class="text">137.767</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02.02.05</td>
+		      			<td nowrap align="left" class="text">Embraer Aviation International - Eai    </td>
+		      			<td width="134" align="right" class="text">52.988</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02.02.06</td>
+		      			<td nowrap align="left" class="text">Embraer Representation Llc - Erl        </td>
+		      			<td width="134" align="right" class="text">74</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.02.03   </td>
+		      			<td nowrap align="left" class="text">Com Outras Pessoas Ligadas              </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.03      </td>
+		      			<td nowrap align="left" class="text">Outros                                  </td>
+		      			<td width="134" align="right" class="text">785.856</td>
+		      				
+		      				<td width="134" align="right" class="text">143.435</td>
+							  
+		      				<td width="134" align="right" class="text">173.779</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.03.01   </td>
+		      			<td nowrap align="left" class="text">Dep.empréstimos Compulsórios E Outros   </td>
+		      			<td width="134" align="right" class="text">63.240</td>
+		      				
+		      				<td width="134" align="right" class="text">30.211</td>
+							  
+		      				<td width="134" align="right" class="text">20.517</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.03.02   </td>
+		      			<td nowrap align="left" class="text">I.renda E Contrib.social Diferidos      </td>
+		      			<td width="134" align="right" class="text">99.019</td>
+		      				
+		      				<td width="134" align="right" class="text">91.840</td>
+							  
+		      				<td width="134" align="right" class="text">149.251</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.03.03   </td>
+		      			<td nowrap align="left" class="text">Impostos A Recuperar                    </td>
+		      			<td width="134" align="right" class="text">3.263</td>
+		      				
+		      				<td width="134" align="right" class="text">4.826</td>
+							  
+		      				<td width="134" align="right" class="text">4.011</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.02.03.04   </td>
+		      			<td nowrap align="left" class="text">Despesas Pagas Antecipadamente          </td>
+		      			<td width="134" align="right" class="text">620.334</td>
+		      				
+		      				<td width="134" align="right" class="text">16.558</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03         </td>
+		      			<td nowrap align="left" class="text">Ativo Permanente                        </td>
+		      			<td width="134" align="right" class="text">1.696.524</td>
+		      				
+		      				<td width="134" align="right" class="text">1.236.607</td>
+							  
+		      				<td width="134" align="right" class="text">836.309</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01      </td>
+		      			<td nowrap align="left" class="text">Investimentos                           </td>
+		      			<td width="134" align="right" class="text">384.825</td>
+		      				
+		      				<td width="134" align="right" class="text">217.408</td>
+							  
+		      				<td width="134" align="right" class="text">180.857</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.01   </td>
+		      			<td nowrap align="left" class="text">Participações Em Coligadas              </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02   </td>
+		      			<td nowrap align="left" class="text">Participações Em Controladas            </td>
+		      			<td width="134" align="right" class="text">384.825</td>
+		      				
+		      				<td width="134" align="right" class="text">217.408</td>
+							  
+		      				<td width="134" align="right" class="text">180.857</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.01</td>
+		      			<td nowrap align="left" class="text">Indústria Aeronáutica Neiva S/a         </td>
+		      			<td width="134" align="right" class="text">16.824</td>
+		      				
+		      				<td width="134" align="right" class="text">11.510</td>
+							  
+		      				<td width="134" align="right" class="text">11.965</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.02</td>
+		      			<td nowrap align="left" class="text">Embraer Aircraft Corporation - Eac      </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">101.290</td>
+							  
+		      				<td width="134" align="right" class="text">85.454</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.03</td>
+		      			<td nowrap align="left" class="text">Embraer Aviation International - Eai    </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">5.673</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.04</td>
+		      			<td nowrap align="left" class="text">Embraer Finance Ltd - Efl               </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">21.810</td>
+							  
+		      				<td width="134" align="right" class="text">28.956</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.05</td>
+		      			<td nowrap align="left" class="text">Embraer Service Inc. - Esi              </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">17.410</td>
+							  
+		      				<td width="134" align="right" class="text">15.084</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.06</td>
+		      			<td nowrap align="left" class="text">Trumpeter Inc.                          </td>
+		      			<td width="134" align="right" class="text">16.098</td>
+		      				
+		      				<td width="134" align="right" class="text">9.691</td>
+							  
+		      				<td width="134" align="right" class="text">7.620</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.07</td>
+		      			<td nowrap align="left" class="text">Eleb -embraer Liebherr Equip.brasil S/a.</td>
+		      			<td width="134" align="right" class="text">32.006</td>
+		      				
+		      				<td width="134" align="right" class="text">24.872</td>
+							  
+		      				<td width="134" align="right" class="text">22.354</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.08</td>
+		      			<td nowrap align="left" class="text">Embraer Austrália Pty Ltd. - Eal        </td>
+		      			<td width="134" align="right" class="text">831</td>
+		      				
+		      				<td width="134" align="right" class="text">4.409</td>
+							  
+		      				<td width="134" align="right" class="text">3.699</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.09</td>
+		      			<td nowrap align="left" class="text">Embraer Aviation Europe Sas - Eae       </td>
+		      			<td width="134" align="right" class="text">53.344</td>
+		      				
+		      				<td width="134" align="right" class="text">25.861</td>
+							  
+		      				<td width="134" align="right" class="text">37</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.10</td>
+		      			<td nowrap align="left" class="text">Embraer Europe Sarl - Ees               </td>
+		      			<td width="134" align="right" class="text">1.244</td>
+		      				
+		      				<td width="134" align="right" class="text">555</td>
+							  
+		      				<td width="134" align="right" class="text">15</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.11</td>
+		      			<td nowrap align="left" class="text">Embraer Aircraft Holding Inc. - Eah     </td>
+		      			<td width="134" align="right" class="text">260.050</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.02.12</td>
+		      			<td nowrap align="left" class="text">Embrfaer Spain Holding Co.sl - Esh      </td>
+		      			<td width="134" align="right" class="text">4.428</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.01.03   </td>
+		      			<td nowrap align="left" class="text">Outros Investimentos                    </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02      </td>
+		      			<td nowrap align="left" class="text">Imobilizado                             </td>
+		      			<td width="134" align="right" class="text">599.687</td>
+		      				
+		      				<td width="134" align="right" class="text">565.313</td>
+							  
+		      				<td width="134" align="right" class="text">390.172</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.01   </td>
+		      			<td nowrap align="left" class="text">Terrenos, Edif. E Benf.em Terrenos      </td>
+		      			<td width="134" align="right" class="text">259.145</td>
+		      				
+		      				<td width="134" align="right" class="text">217.920</td>
+							  
+		      				<td width="134" align="right" class="text">156.957</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.02   </td>
+		      			<td nowrap align="left" class="text">Instalações E Sistemas Industriais      </td>
+		      			<td width="134" align="right" class="text">63.793</td>
+		      				
+		      				<td width="134" align="right" class="text">50.770</td>
+							  
+		      				<td width="134" align="right" class="text">23.744</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.03   </td>
+		      			<td nowrap align="left" class="text">Máquinas E Equipamentos                 </td>
+		      			<td width="134" align="right" class="text">95.021</td>
+		      				
+		      				<td width="134" align="right" class="text">99.422</td>
+							  
+		      				<td width="134" align="right" class="text">84.340</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.04   </td>
+		      			<td nowrap align="left" class="text">Móveis E Utensilios                     </td>
+		      			<td width="134" align="right" class="text">12.755</td>
+		      				
+		      				<td width="134" align="right" class="text">8.999</td>
+							  
+		      				<td width="134" align="right" class="text">5.063</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.05   </td>
+		      			<td nowrap align="left" class="text">Computadores E Periféricos              </td>
+		      			<td width="134" align="right" class="text">30.753</td>
+		      				
+		      				<td width="134" align="right" class="text">31.719</td>
+							  
+		      				<td width="134" align="right" class="text">23.637</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.06   </td>
+		      			<td nowrap align="left" class="text">Veículos                                </td>
+		      			<td width="134" align="right" class="text">3.083</td>
+		      				
+		      				<td width="134" align="right" class="text">3.374</td>
+							  
+		      				<td width="134" align="right" class="text">2.264</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.07   </td>
+		      			<td nowrap align="left" class="text">Aeronaves                               </td>
+		      			<td width="134" align="right" class="text">603</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.08   </td>
+		      			<td nowrap align="left" class="text">Software                                </td>
+		      			<td width="134" align="right" class="text">53.851</td>
+		      				
+		      				<td width="134" align="right" class="text">50.210</td>
+							  
+		      				<td width="134" align="right" class="text">21.812</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.09   </td>
+		      			<td nowrap align="left" class="text">Outros                                  </td>
+		      			<td width="134" align="right" class="text">9.280</td>
+		      				
+		      				<td width="134" align="right" class="text">16.750</td>
+							  
+		      				<td width="134" align="right" class="text">11.785</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.10   </td>
+		      			<td nowrap align="left" class="text">Adiantamento A Fornecedores             </td>
+		      			<td width="134" align="right" class="text">922</td>
+		      				
+		      				<td width="134" align="right" class="text">12.403</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.02.11   </td>
+		      			<td nowrap align="left" class="text">Imobilizações Em Andamento              </td>
+		      			<td width="134" align="right" class="text">70.481</td>
+		      				
+		      				<td width="134" align="right" class="text">73.746</td>
+							  
+		      				<td width="134" align="right" class="text">60.570</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.03      </td>
+		      			<td nowrap align="left" class="text">Diferido                                </td>
+		      			<td width="134" align="right" class="text">712.012</td>
+		      				
+		      				<td width="134" align="right" class="text">453.886</td>
+							  
+		      				<td width="134" align="right" class="text">265.280</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.03.01   </td>
+		      			<td nowrap align="left" class="text">Erj 145/140/135                         </td>
+		      			<td width="134" align="right" class="text">201.349</td>
+		      				
+		      				<td width="134" align="right" class="text">184.670</td>
+							  
+		      				<td width="134" align="right" class="text">191.507</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.03.02   </td>
+		      			<td nowrap align="left" class="text">Emb 120  Brasília                       </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">1.277</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.03.03   </td>
+		      			<td nowrap align="left" class="text">Sikorsky                                </td>
+		      			<td width="134" align="right" class="text">0</td>
+		      				
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				<td width="134" align="right" class="text">11.463</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.03.04   </td>
+		      			<td nowrap align="left" class="text">Erj 170/190                             </td>
+		      			<td width="134" align="right" class="text">505.915</td>
+		      				
+		      				<td width="134" align="right" class="text">265.763</td>
+							  
+		      				<td width="134" align="right" class="text">61.033</td>
+							  
+		      				</tr>
+		      				 
+		      			<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+		      			<td width="105" align="left" class="text">1.03.03.05   </td>
+		      			<td nowrap align="left" class="text">Outros                                  </td>
+		      			<td width="134" align="right" class="text">4.748</td>
+		      				
+		      				<td width="134" align="right" class="text">3.453</td>
+							  
+		      				<td width="134" align="right" class="text">0</td>
+							  
+		      				</tr>
+		      				
+		      		</table></div>
+		          </td>
+		        </tr>
+		    
+<tr>
+	<td align="left"><table width="80%" border="0" cellspacing="2" cellpadding="1">
+  <tr>
+    <td align="right">
+      <p align="right">&nbsp;
+
+
+     <p align="right"><font class="text">&nbsp;</font><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0" width="44" height="44"></a>
+
+
+    </td>
+  </tr>
+  <tr>
+    <td><img src="images/fio.gif" width="640" height="1" vspace="5"></td>
+  </tr>
+  <tr>
+    
+
+      <td align="right"><font size="1" face="Arial">© <a href="copy.htm" target="_self">Copyright
+      Bovespa</a>. Todos os direitos reservados.</font></td>
+
+
+
+  </tr>
+</table><td>
+</tr>
+</table>
+</body>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+</head>
+</html>

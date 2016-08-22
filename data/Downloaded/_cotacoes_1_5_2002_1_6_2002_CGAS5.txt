@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CGAS5.SA (CIA DE GAS DE SAO PAULO)
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>74.00</TD><TD>74.00</TD><TD>71.09</TD><TD>71.09</TD><TD>6,355</TD><TD>68.71</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>74.99</TD><TD>75.00</TD><TD>71.53</TD><TD>75.00</TD><TD>5,644</TD><TD>72.62</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>75.50</TD><TD>75.50</TD><TD>72.50</TD><TD>73.00</TD><TD>2,403</TD><TD>70.62</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>73.80</TD><TD>74.51</TD><TD>73.51</TD><TD>73.51</TD><TD>2,748</TD><TD>71.13</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>75.80</TD><TD>75.80</TD><TD>71.80</TD><TD>72.80</TD><TD>5,660</TD><TD>70.42</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>72.00</TD><TD>73.80</TD><TD>70.50</TD><TD>73.60</TD><TD>5,331</TD><TD>71.22</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>73.50</TD><TD>73.99</TD><TD>70.21</TD><TD>72.00</TD><TD>22,889</TD><TD>69.62</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>74.11</TD><TD>74.11</TD><TD>73.01</TD><TD>73.35</TD><TD>1,220</TD><TD>70.97</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>76.00</TD><TD>77.00</TD><TD>74.03</TD><TD>74.50</TD><TD>7,811</TD><TD>72.12</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>77.00</TD><TD>77.60</TD><TD>76.00</TD><TD>76.20</TD><TD>9,160</TD><TD>73.82</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>77.70</TD><TD>77.99</TD><TD>77.49</TD><TD>77.50</TD><TD>9,141</TD><TD>75.12</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>$1.43 Cash Dividend</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>77.40</TD><TD>78.00</TD><TD>76.90</TD><TD>78.00</TD><TD>19,163</TD><TD>75.62</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>75.30</TD><TD>80.00</TD><TD>75.30</TD><TD>77.41</TD><TD>21,142</TD><TD>73.60</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>77.00</TD><TD>77.00</TD><TD>75.00</TD><TD>75.30</TD><TD>9,639</TD><TD>71.49</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>73.15</TD><TD>77.00</TD><TD>73.00</TD><TD>75.30</TD><TD>13,983</TD><TD>71.49</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>76.00</TD><TD>76.00</TD><TD>73.10</TD><TD>73.15</TD><TD>12,155</TD><TD>69.34</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>76.14</TD><TD>78.00</TD><TD>75.98</TD><TD>77.11</TD><TD>19,928</TD><TD>73.30</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>73.44</TD><TD>77.00</TD><TD>73.00</TD><TD>74.00</TD><TD>15,010</TD><TD>70.19</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>71.01</TD><TD>72.28</TD><TD>70.40</TD><TD>72.00</TD><TD>5,996</TD><TD>68.19</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>71.00</TD><TD>72.99</TD><TD>71.00</TD><TD>72.99</TD><TD>25,691</TD><TD>69.18</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>73.00</TD><TD>74.49</TD><TD>70.03</TD><TD>71.00</TD><TD>17,007</TD><TD>67.19</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

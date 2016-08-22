@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CRUZ3.SA (COMPANHIA SOUZA CRUZ INDUSTRIA )
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>13.90</TD><TD>13.95</TD><TD>13.56</TD><TD>13.56</TD><TD>514</TD><TD>10.07</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>13.52</TD><TD>14.10</TD><TD>13.50</TD><TD>13.66</TD><TD>549</TD><TD>10.17</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>14.10</TD><TD>14.10</TD><TD>13.11</TD><TD>13.11</TD><TD>358</TD><TD>9.62</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>13.91</TD><TD>14.00</TD><TD>13.85</TD><TD>13.88</TD><TD>317</TD><TD>10.39</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>14.50</TD><TD>14.50</TD><TD>13.90</TD><TD>13.90</TD><TD>257</TD><TD>10.41</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>14.95</TD><TD>15.00</TD><TD>14.25</TD><TD>14.40</TD><TD>743</TD><TD>10.91</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>14.70</TD><TD>15.15</TD><TD>14.50</TD><TD>14.95</TD><TD>376</TD><TD>11.46</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>15.00</TD><TD>15.10</TD><TD>14.75</TD><TD>14.90</TD><TD>282</TD><TD>11.41</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>15.80</TD><TD>16.10</TD><TD>15.80</TD><TD>16.06</TD><TD>222</TD><TD>12.57</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>15.10</TD><TD>16.39</TD><TD>15.10</TD><TD>15.96</TD><TD>546</TD><TD>12.47</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>14.90</TD><TD>15.10</TD><TD>14.89</TD><TD>15.10</TD><TD>253</TD><TD>11.61</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>14.99</TD><TD>15.00</TD><TD>14.80</TD><TD>14.99</TD><TD>43</TD><TD>11.50</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>14.70</TD><TD>15.10</TD><TD>14.51</TD><TD>15.00</TD><TD>76</TD><TD>11.51</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>14.90</TD><TD>15.00</TD><TD>14.50</TD><TD>14.69</TD><TD>52</TD><TD>11.20</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>14.80</TD><TD>15.10</TD><TD>14.79</TD><TD>15.10</TD><TD>70</TD><TD>11.61</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>14.51</TD><TD>14.90</TD><TD>14.49</TD><TD>14.80</TD><TD>88</TD><TD>11.31</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>14.45</TD><TD>14.81</TD><TD>14.37</TD><TD>14.37</TD><TD>207</TD><TD>10.88</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>14.49</TD><TD>14.49</TD><TD>14.33</TD><TD>14.33</TD><TD>112</TD><TD>10.84</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>14.20</TD><TD>14.20</TD><TD>14.00</TD><TD>14.15</TD><TD>88</TD><TD>10.66</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>14.30</TD><TD>14.35</TD><TD>14.30</TD><TD>14.30</TD><TD>6</TD><TD>10.81</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>14.00</TD><TD>14.30</TD><TD>14.00</TD><TD>14.22</TD><TD>166</TD><TD>10.73</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>13.91</TD><TD>14.27</TD><TD>13.85</TD><TD>14.25</TD><TD>19</TD><TD>10.76</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>14.70</TD><TD>14.70</TD><TD>14.00</TD><TD>14.10</TD><TD>139</TD><TD>10.61</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

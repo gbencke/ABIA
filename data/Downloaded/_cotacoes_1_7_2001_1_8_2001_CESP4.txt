@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CESP4.SA (COMPANHIA ENERGETICA DE SAO PAU)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>13.79</TD><TD>13.79</TD><TD>12.80</TD><TD>12.80</TD><TD>89,682</TD><TD>12.80</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>13.65</TD><TD>13.65</TD><TD>13.10</TD><TD>13.30</TD><TD>83,017</TD><TD>13.30</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>13.50</TD><TD>13.79</TD><TD>13.50</TD><TD>13.70</TD><TD>130,150</TD><TD>13.70</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>13.28</TD><TD>13.51</TD><TD>12.90</TD><TD>13.51</TD><TD>145,521</TD><TD>13.51</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>12.70</TD><TD>13.30</TD><TD>12.60</TD><TD>13.30</TD><TD>67,311</TD><TD>13.30</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>12.85</TD><TD>12.99</TD><TD>12.71</TD><TD>12.99</TD><TD>73,633</TD><TD>12.99</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>13.11</TD><TD>13.39</TD><TD>12.50</TD><TD>12.80</TD><TD>99,386</TD><TD>12.80</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>13.40</TD><TD>13.50</TD><TD>13.18</TD><TD>13.18</TD><TD>44,303</TD><TD>13.18</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>13.29</TD><TD>13.40</TD><TD>13.00</TD><TD>13.40</TD><TD>62,400</TD><TD>13.40</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>13.50</TD><TD>13.50</TD><TD>12.90</TD><TD>13.30</TD><TD>41,952</TD><TD>13.30</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>13.79</TD><TD>13.90</TD><TD>13.00</TD><TD>13.50</TD><TD>69,609</TD><TD>13.50</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>13.30</TD><TD>13.79</TD><TD>13.09</TD><TD>13.79</TD><TD>135,086</TD><TD>13.79</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>13.00</TD><TD>13.50</TD><TD>12.90</TD><TD>13.17</TD><TD>59,082</TD><TD>13.17</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>13.01</TD><TD>13.17</TD><TD>12.76</TD><TD>12.99</TD><TD>77,973</TD><TD>12.99</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>13.40</TD><TD>13.40</TD><TD>13.00</TD><TD>13.00</TD><TD>89,894</TD><TD>13.00</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>12.60</TD><TD>13.30</TD><TD>12.50</TD><TD>13.28</TD><TD>153,405</TD><TD>13.28</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>13.63</TD><TD>13.70</TD><TD>12.80</TD><TD>12.80</TD><TD>58,740</TD><TD>12.80</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>13.70</TD><TD>13.70</TD><TD>13.38</TD><TD>13.59</TD><TD>95,040</TD><TD>13.59</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>14.00</TD><TD>14.00</TD><TD>13.60</TD><TD>13.75</TD><TD>154,832</TD><TD>13.75</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>14.39</TD><TD>14.39</TD><TD>13.60</TD><TD>13.95</TD><TD>227,113</TD><TD>13.95</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>13.95</TD><TD>14.50</TD><TD>13.70</TD><TD>14.50</TD><TD>112,774</TD><TD>14.50</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>14.50</TD><TD>14.50</TD><TD>13.80</TD><TD>13.95</TD><TD>153,624</TD><TD>13.95</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

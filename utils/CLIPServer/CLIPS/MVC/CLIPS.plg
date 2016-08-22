@@ -1,0 +1,544 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CLIPS - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\gbencke\LOCALS~1\Temp\RSP2D.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fo"Objects/" /Fd"Objects/" /FD /GZ /c 
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\agenda.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\analysis.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\argacces.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\bload.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\bmathfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\bsave.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\classcom.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\classexm.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\classfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\classinf.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\classini.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\classpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\clsltpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\commline.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\conscomp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\constrct.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\constrnt.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\crstrtgy.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\cstrcbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\cstrccom.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\cstrcpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\cstrnbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\cstrnchk.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\cstrncmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\cstrnops.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\cstrnpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\cstrnutl.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\default.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\defins.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\developr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffctbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffctbsc.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffctcmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffctdef.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffctpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffnxbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffnxcmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffnxexe.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffnxfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dffnxpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dfinsbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\dfinscmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\drive.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\edbasic.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\edmain.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\edmisc.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\edstruct.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\edterm.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\emathfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\engine.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\envrnmnt.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\evaluatn.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\expressn.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\exprnbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\exprnops.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\exprnpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\extnfunc.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factbld.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factcmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factcom.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factgen.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\facthsh.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factlhs.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factmch.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factmngr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factprt.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factrete.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\factrhs.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\filecom.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\filertr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\generate.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\genrcbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\genrccmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\genrccom.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\genrcexe.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\genrcfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\genrcpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\globlbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\globlbsc.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\globlcmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\globlcom.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\globldef.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\globlpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\immthpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\incrrset.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\inherpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\inscom.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\insfile.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\insfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\insmngr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\insmoddp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\insmult.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\inspsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\insquery.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\insqypsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\iofun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\lgcldpnd.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\main.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\memalloc.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\miscfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\modulbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\modulbsc.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\modulcmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\moduldef.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\modulpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\modulutl.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\msgcom.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\msgfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\msgpass.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\msgpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\multifld.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\multifun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\objbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\objcmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\objrtbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\objrtbld.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\objrtcmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\objrtfnx.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\objrtgen.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\objrtmch.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\parsefun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\pattern.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\pprint.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\prccode.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\prcdrfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\prcdrpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\prdctfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\prntutil.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\proflfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\reorder.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\reteutil.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\retract.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\router.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\rulebin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\rulebld.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\rulebsc.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\rulecmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\rulecom.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\rulecstr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\ruledef.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\ruledlt.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\rulelhs.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\rulepsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\scanner.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\sortfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\strngfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\strngrtr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\symblbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\symblcmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\symbol.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\sysdep.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\textpro.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\tmpltbin.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\tmpltbsc.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\tmpltcmp.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\tmpltdef.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\tmpltfun.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\tmpltlhs.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\tmpltpsr.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\tmpltrhs.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\tmpltutl.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\userdata.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\utility.c"
+"C:\Documents and Settings\gbencke\Desktop\clips\clips\pc-prjct\CLIPS\MVC\Source\Clips\watch.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\gbencke\LOCALS~1\Temp\RSP2D.tmp" 
+Creating temporary file "C:\DOCUME~1\gbencke\LOCALS~1\Temp\RSP2E.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Objects/CLIPSWin.pdb" /debug /machine:I386 /out:"CLIPSWin.exe" /pdbtype:sept 
+".\Objects\agenda.obj"
+".\Objects\analysis.obj"
+".\Objects\argacces.obj"
+".\Objects\bload.obj"
+".\Objects\bmathfun.obj"
+".\Objects\bsave.obj"
+".\Objects\classcom.obj"
+".\Objects\classexm.obj"
+".\Objects\classfun.obj"
+".\Objects\classinf.obj"
+".\Objects\classini.obj"
+".\Objects\classpsr.obj"
+".\Objects\clsltpsr.obj"
+".\Objects\commline.obj"
+".\Objects\conscomp.obj"
+".\Objects\constrct.obj"
+".\Objects\constrnt.obj"
+".\Objects\crstrtgy.obj"
+".\Objects\cstrcbin.obj"
+".\Objects\cstrccom.obj"
+".\Objects\cstrcpsr.obj"
+".\Objects\cstrnbin.obj"
+".\Objects\cstrnchk.obj"
+".\Objects\cstrncmp.obj"
+".\Objects\cstrnops.obj"
+".\Objects\cstrnpsr.obj"
+".\Objects\cstrnutl.obj"
+".\Objects\default.obj"
+".\Objects\defins.obj"
+".\Objects\developr.obj"
+".\Objects\dffctbin.obj"
+".\Objects\dffctbsc.obj"
+".\Objects\dffctcmp.obj"
+".\Objects\dffctdef.obj"
+".\Objects\dffctpsr.obj"
+".\Objects\dffnxbin.obj"
+".\Objects\dffnxcmp.obj"
+".\Objects\dffnxexe.obj"
+".\Objects\dffnxfun.obj"
+".\Objects\dffnxpsr.obj"
+".\Objects\dfinsbin.obj"
+".\Objects\dfinscmp.obj"
+".\Objects\drive.obj"
+".\Objects\edbasic.obj"
+".\Objects\edmain.obj"
+".\Objects\edmisc.obj"
+".\Objects\edstruct.obj"
+".\Objects\edterm.obj"
+".\Objects\emathfun.obj"
+".\Objects\engine.obj"
+".\Objects\envrnmnt.obj"
+".\Objects\evaluatn.obj"
+".\Objects\expressn.obj"
+".\Objects\exprnbin.obj"
+".\Objects\exprnops.obj"
+".\Objects\exprnpsr.obj"
+".\Objects\extnfunc.obj"
+".\Objects\factbin.obj"
+".\Objects\factbld.obj"
+".\Objects\factcmp.obj"
+".\Objects\factcom.obj"
+".\Objects\factfun.obj"
+".\Objects\factgen.obj"
+".\Objects\facthsh.obj"
+".\Objects\factlhs.obj"
+".\Objects\factmch.obj"
+".\Objects\factmngr.obj"
+".\Objects\factprt.obj"
+".\Objects\factrete.obj"
+".\Objects\factrhs.obj"
+".\Objects\filecom.obj"
+".\Objects\filertr.obj"
+".\Objects\generate.obj"
+".\Objects\genrcbin.obj"
+".\Objects\genrccmp.obj"
+".\Objects\genrccom.obj"
+".\Objects\genrcexe.obj"
+".\Objects\genrcfun.obj"
+".\Objects\genrcpsr.obj"
+".\Objects\globlbin.obj"
+".\Objects\globlbsc.obj"
+".\Objects\globlcmp.obj"
+".\Objects\globlcom.obj"
+".\Objects\globldef.obj"
+".\Objects\globlpsr.obj"
+".\Objects\immthpsr.obj"
+".\Objects\incrrset.obj"
+".\Objects\inherpsr.obj"
+".\Objects\inscom.obj"
+".\Objects\insfile.obj"
+".\Objects\insfun.obj"
+".\Objects\insmngr.obj"
+".\Objects\insmoddp.obj"
+".\Objects\insmult.obj"
+".\Objects\inspsr.obj"
+".\Objects\insquery.obj"
+".\Objects\insqypsr.obj"
+".\Objects\iofun.obj"
+".\Objects\lgcldpnd.obj"
+".\Objects\main.obj"
+".\Objects\memalloc.obj"
+".\Objects\miscfun.obj"
+".\Objects\modulbin.obj"
+".\Objects\modulbsc.obj"
+".\Objects\modulcmp.obj"
+".\Objects\moduldef.obj"
+".\Objects\modulpsr.obj"
+".\Objects\modulutl.obj"
+".\Objects\msgcom.obj"
+".\Objects\msgfun.obj"
+".\Objects\msgpass.obj"
+".\Objects\msgpsr.obj"
+".\Objects\multifld.obj"
+".\Objects\multifun.obj"
+".\Objects\objbin.obj"
+".\Objects\objcmp.obj"
+".\Objects\objrtbin.obj"
+".\Objects\objrtbld.obj"
+".\Objects\objrtcmp.obj"
+".\Objects\objrtfnx.obj"
+".\Objects\objrtgen.obj"
+".\Objects\objrtmch.obj"
+".\Objects\parsefun.obj"
+".\Objects\pattern.obj"
+".\Objects\pprint.obj"
+".\Objects\prccode.obj"
+".\Objects\prcdrfun.obj"
+".\Objects\prcdrpsr.obj"
+".\Objects\prdctfun.obj"
+".\Objects\prntutil.obj"
+".\Objects\proflfun.obj"
+".\Objects\reorder.obj"
+".\Objects\reteutil.obj"
+".\Objects\retract.obj"
+".\Objects\router.obj"
+".\Objects\rulebin.obj"
+".\Objects\rulebld.obj"
+".\Objects\rulebsc.obj"
+".\Objects\rulecmp.obj"
+".\Objects\rulecom.obj"
+".\Objects\rulecstr.obj"
+".\Objects\ruledef.obj"
+".\Objects\ruledlt.obj"
+".\Objects\rulelhs.obj"
+".\Objects\rulepsr.obj"
+".\Objects\scanner.obj"
+".\Objects\sortfun.obj"
+".\Objects\strngfun.obj"
+".\Objects\strngrtr.obj"
+".\Objects\symblbin.obj"
+".\Objects\symblcmp.obj"
+".\Objects\symbol.obj"
+".\Objects\sysdep.obj"
+".\Objects\textpro.obj"
+".\Objects\tmpltbin.obj"
+".\Objects\tmpltbsc.obj"
+".\Objects\tmpltcmp.obj"
+".\Objects\tmpltdef.obj"
+".\Objects\tmpltfun.obj"
+".\Objects\tmpltlhs.obj"
+".\Objects\tmpltpsr.obj"
+".\Objects\tmpltrhs.obj"
+".\Objects\tmpltutl.obj"
+".\Objects\userdata.obj"
+".\Objects\utility.obj"
+".\Objects\watch.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\gbencke\LOCALS~1\Temp\RSP2E.tmp"
+<h3>Output Window</h3>
+Compiling...
+agenda.c
+analysis.c
+argacces.c
+bload.c
+bmathfun.c
+bsave.c
+classcom.c
+classexm.c
+classfun.c
+classinf.c
+classini.c
+classpsr.c
+clsltpsr.c
+commline.c
+conscomp.c
+constrct.c
+constrnt.c
+crstrtgy.c
+cstrcbin.c
+cstrccom.c
+Generating Code...
+Compiling...
+cstrcpsr.c
+cstrnbin.c
+cstrnchk.c
+cstrncmp.c
+cstrnops.c
+cstrnpsr.c
+cstrnutl.c
+default.c
+defins.c
+developr.c
+dffctbin.c
+dffctbsc.c
+dffctcmp.c
+dffctdef.c
+dffctpsr.c
+dffnxbin.c
+dffnxcmp.c
+dffnxexe.c
+dffnxfun.c
+dffnxpsr.c
+Generating Code...
+Compiling...
+dfinsbin.c
+dfinscmp.c
+drive.c
+edbasic.c
+edmain.c
+edmisc.c
+edstruct.c
+edterm.c
+emathfun.c
+engine.c
+envrnmnt.c
+evaluatn.c
+expressn.c
+exprnbin.c
+exprnops.c
+exprnpsr.c
+extnfunc.c
+factbin.c
+factbld.c
+factcmp.c
+Generating Code...
+Compiling...
+factcom.c
+factfun.c
+factgen.c
+facthsh.c
+factlhs.c
+factmch.c
+factmngr.c
+factprt.c
+factrete.c
+factrhs.c
+filecom.c
+filertr.c
+generate.c
+genrcbin.c
+genrccmp.c
+genrccom.c
+genrcexe.c
+genrcfun.c
+genrcpsr.c
+globlbin.c
+Generating Code...
+Compiling...
+globlbsc.c
+globlcmp.c
+globlcom.c
+globldef.c
+globlpsr.c
+immthpsr.c
+incrrset.c
+inherpsr.c
+inscom.c
+insfile.c
+insfun.c
+insmngr.c
+insmoddp.c
+insmult.c
+inspsr.c
+insquery.c
+insqypsr.c
+iofun.c
+lgcldpnd.c
+main.c
+Generating Code...
+Compiling...
+memalloc.c
+miscfun.c
+modulbin.c
+modulbsc.c
+modulcmp.c
+moduldef.c
+modulpsr.c
+modulutl.c
+msgcom.c
+msgfun.c
+msgpass.c
+msgpsr.c
+multifld.c
+multifun.c
+objbin.c
+objcmp.c
+objrtbin.c
+objrtbld.c
+objrtcmp.c
+objrtfnx.c
+Generating Code...
+Compiling...
+objrtgen.c
+objrtmch.c
+parsefun.c
+pattern.c
+pprint.c
+prccode.c
+prcdrfun.c
+prcdrpsr.c
+prdctfun.c
+prntutil.c
+proflfun.c
+reorder.c
+reteutil.c
+retract.c
+router.c
+rulebin.c
+rulebld.c
+rulebsc.c
+rulecmp.c
+rulecom.c
+Generating Code...
+Compiling...
+rulecstr.c
+ruledef.c
+ruledlt.c
+rulelhs.c
+rulepsr.c
+scanner.c
+sortfun.c
+strngfun.c
+strngrtr.c
+symblbin.c
+symblcmp.c
+symbol.c
+sysdep.c
+textpro.c
+tmpltbin.c
+tmpltbsc.c
+tmpltcmp.c
+tmpltdef.c
+tmpltfun.c
+tmpltlhs.c
+Generating Code...
+Compiling...
+tmpltpsr.c
+tmpltrhs.c
+tmpltutl.c
+userdata.c
+utility.c
+watch.c
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+CLIPSWin.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CPLE6.SA (COMPANHIA PARANAENSE DE ENERGIA)
+        </TD><TD>As of Aug-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-30-02</TD><TD>10.30</TD><TD>10.79</TD><TD>10.30</TD><TD>10.79</TD><TD>1,065,930</TD><TD>10.79</TD></TR>
+<TR>
+<TD>Aug-29-02</TD><TD>9.90</TD><TD>10.36</TD><TD>9.75</TD><TD>10.25</TD><TD>457,115</TD><TD>10.25</TD></TR>
+<TR>
+<TD>Aug-28-02</TD><TD>10.12</TD><TD>10.20</TD><TD>9.87</TD><TD>9.99</TD><TD>463,245</TD><TD>9.99</TD></TR>
+<TR>
+<TD>Aug-27-02</TD><TD>10.06</TD><TD>10.35</TD><TD>9.80</TD><TD>10.00</TD><TD>995,549</TD><TD>10.00</TD></TR>
+<TR>
+<TD>Aug-26-02</TD><TD>9.80</TD><TD>10.19</TD><TD>9.80</TD><TD>10.05</TD><TD>554,216</TD><TD>10.05</TD></TR>
+<TR>
+<TD>Aug-23-02</TD><TD>9.49</TD><TD>10.00</TD><TD>9.40</TD><TD>9.77</TD><TD>314,337</TD><TD>9.77</TD></TR>
+<TR>
+<TD>Aug-22-02</TD><TD>9.13</TD><TD>9.53</TD><TD>9.05</TD><TD>9.50</TD><TD>392,875</TD><TD>9.50</TD></TR>
+<TR>
+<TD>Aug-21-02</TD><TD>9.00</TD><TD>9.18</TD><TD>8.85</TD><TD>9.00</TD><TD>639,990</TD><TD>9.00</TD></TR>
+<TR>
+<TD>Aug-20-02</TD><TD>9.45</TD><TD>9.50</TD><TD>8.85</TD><TD>8.86</TD><TD>352,545</TD><TD>8.86</TD></TR>
+<TR>
+<TD>Aug-19-02</TD><TD>9.28</TD><TD>9.55</TD><TD>9.20</TD><TD>9.45</TD><TD>378,925</TD><TD>9.45</TD></TR>
+<TR>
+<TD>Aug-16-02</TD><TD>9.49</TD><TD>9.49</TD><TD>9.04</TD><TD>9.20</TD><TD>816,436</TD><TD>9.20</TD></TR>
+<TR>
+<TD>Aug-15-02</TD><TD>9.62</TD><TD>9.62</TD><TD>9.10</TD><TD>9.11</TD><TD>389,013</TD><TD>9.11</TD></TR>
+<TR>
+<TD>Aug-14-02</TD><TD>9.54</TD><TD>9.60</TD><TD>9.00</TD><TD>9.40</TD><TD>946,948</TD><TD>9.40</TD></TR>
+<TR>
+<TD>Aug-13-02</TD><TD>10.06</TD><TD>10.49</TD><TD>9.35</TD><TD>9.35</TD><TD>1,918,330</TD><TD>9.35</TD></TR>
+<TR>
+<TD>Aug-12-02</TD><TD>10.65</TD><TD>10.70</TD><TD>9.82</TD><TD>10.01</TD><TD>491,911</TD><TD>10.01</TD></TR>
+<TR>
+<TD>Aug-09-02</TD><TD>11.40</TD><TD>11.40</TD><TD>10.70</TD><TD>10.71</TD><TD>597,406</TD><TD>10.71</TD></TR>
+<TR>
+<TD>Aug-08-02</TD><TD>11.71</TD><TD>11.95</TD><TD>11.35</TD><TD>11.37</TD><TD>800,850</TD><TD>11.37</TD></TR>
+<TR>
+<TD>Aug-07-02</TD><TD>11.10</TD><TD>11.30</TD><TD>11.00</TD><TD>11.15</TD><TD>294,910</TD><TD>11.15</TD></TR>
+<TR>
+<TD>Aug-06-02</TD><TD>10.50</TD><TD>10.90</TD><TD>10.49</TD><TD>10.85</TD><TD>178,017</TD><TD>10.85</TD></TR>
+<TR>
+<TD>Aug-05-02</TD><TD>10.75</TD><TD>10.75</TD><TD>10.35</TD><TD>10.45</TD><TD>195,027</TD><TD>10.45</TD></TR>
+<TR>
+<TD>Aug-02-02</TD><TD>10.40</TD><TD>10.94</TD><TD>10.25</TD><TD>10.90</TD><TD>293,157</TD><TD>10.90</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>10.60</TD><TD>10.65</TD><TD>10.00</TD><TD>10.40</TD><TD>955,327</TD><TD>10.40</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

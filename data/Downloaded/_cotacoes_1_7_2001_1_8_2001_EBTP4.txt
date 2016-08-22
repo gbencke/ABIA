@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EBTP4.SA (EMBRATEL PARTICIPACOES SA)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>13.30</TD><TD>13.62</TD><TD>13.11</TD><TD>13.57</TD><TD>634,936</TD><TD>13.57</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>13.46</TD><TD>13.60</TD><TD>13.10</TD><TD>13.24</TD><TD>731,804</TD><TD>13.24</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>14.48</TD><TD>14.48</TD><TD>13.41</TD><TD>13.41</TD><TD>574,866</TD><TD>13.41</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>14.04</TD><TD>14.40</TD><TD>13.95</TD><TD>14.09</TD><TD>476,565</TD><TD>14.09</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>14.30</TD><TD>14.70</TD><TD>13.95</TD><TD>14.21</TD><TD>1,099,880</TD><TD>14.21</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>14.40</TD><TD>14.40</TD><TD>13.75</TD><TD>14.24</TD><TD>2,318,420</TD><TD>14.24</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>15.19</TD><TD>15.40</TD><TD>14.22</TD><TD>14.35</TD><TD>1,058,040</TD><TD>14.35</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>15.30</TD><TD>15.59</TD><TD>15.10</TD><TD>15.40</TD><TD>754,910</TD><TD>15.40</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>13.95</TD><TD>15.20</TD><TD>13.90</TD><TD>15.10</TD><TD>1,089,160</TD><TD>15.10</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>14.30</TD><TD>14.44</TD><TD>13.75</TD><TD>14.00</TD><TD>680,374</TD><TD>14.00</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>14.69</TD><TD>14.80</TD><TD>14.17</TD><TD>14.17</TD><TD>908,710</TD><TD>14.17</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>14.20</TD><TD>14.68</TD><TD>13.85</TD><TD>14.68</TD><TD>1,137,010</TD><TD>14.68</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>14.70</TD><TD>14.90</TD><TD>13.75</TD><TD>13.81</TD><TD>757,143</TD><TD>13.81</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>14.56</TD><TD>14.85</TD><TD>14.20</TD><TD>14.55</TD><TD>707,407</TD><TD>14.55</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>14.40</TD><TD>14.80</TD><TD>14.00</TD><TD>14.65</TD><TD>1,217,710</TD><TD>14.65</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>14.80</TD><TD>14.80</TD><TD>14.15</TD><TD>14.26</TD><TD>1,777,730</TD><TD>14.26</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>15.80</TD><TD>15.85</TD><TD>15.00</TD><TD>15.00</TD><TD>803,196</TD><TD>15.00</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>16.70</TD><TD>16.75</TD><TD>15.70</TD><TD>16.09</TD><TD>1,172,920</TD><TD>16.09</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>16.92</TD><TD>17.15</TD><TD>16.60</TD><TD>16.85</TD><TD>747,481</TD><TD>16.85</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>16.95</TD><TD>17.20</TD><TD>16.65</TD><TD>16.80</TD><TD>447,081</TD><TD>16.80</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>17.30</TD><TD>17.75</TD><TD>16.82</TD><TD>16.95</TD><TD>1,032,170</TD><TD>16.95</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>17.59</TD><TD>17.80</TD><TD>17.06</TD><TD>17.16</TD><TD>459,960</TD><TD>17.16</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

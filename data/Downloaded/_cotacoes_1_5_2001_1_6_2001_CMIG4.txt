@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CMIG4.SA (COMPANHIA ENERGETICA DE MINAS G)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>23.29</TD><TD>23.50</TD><TD>22.05</TD><TD>23.49</TD><TD>268,717</TD><TD>22.17</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>22.80</TD><TD>23.40</TD><TD>22.42</TD><TD>23.00</TD><TD>549,433</TD><TD>21.68</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>22.02</TD><TD>22.80</TD><TD>22.02</TD><TD>22.30</TD><TD>407,401</TD><TD>20.98</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>21.80</TD><TD>22.60</TD><TD>21.51</TD><TD>21.90</TD><TD>363,060</TD><TD>20.58</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>21.55</TD><TD>21.90</TD><TD>21.00</TD><TD>21.30</TD><TD>317,284</TD><TD>19.98</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>22.06</TD><TD>22.08</TD><TD>21.40</TD><TD>21.40</TD><TD>573,451</TD><TD>20.08</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>22.80</TD><TD>23.00</TD><TD>22.20</TD><TD>22.30</TD><TD>592,627</TD><TD>20.98</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>22.55</TD><TD>23.20</TD><TD>22.31</TD><TD>22.43</TD><TD>649,228</TD><TD>21.11</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>23.10</TD><TD>23.50</TD><TD>22.80</TD><TD>22.95</TD><TD>665,624</TD><TD>21.63</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>23.00</TD><TD>23.10</TD><TD>22.70</TD><TD>23.00</TD><TD>486,065</TD><TD>21.68</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>23.40</TD><TD>23.50</TD><TD>22.61</TD><TD>23.00</TD><TD>1,453,910</TD><TD>21.68</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>23.89</TD><TD>23.90</TD><TD>23.10</TD><TD>23.30</TD><TD>643,603</TD><TD>21.98</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>23.83</TD><TD>23.83</TD><TD>22.70</TD><TD>23.00</TD><TD>723,410</TD><TD>21.68</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>23.20</TD><TD>23.30</TD><TD>22.50</TD><TD>22.71</TD><TD>524,597</TD><TD>21.39</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>23.20</TD><TD>23.52</TD><TD>23.02</TD><TD>23.20</TD><TD>145,603</TD><TD>21.88</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>24.90</TD><TD>24.95</TD><TD>23.63</TD><TD>23.90</TD><TD>515,304</TD><TD>22.58</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>25.21</TD><TD>25.40</TD><TD>24.60</TD><TD>24.90</TD><TD>494,687</TD><TD>23.58</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>24.75</TD><TD>25.00</TD><TD>24.46</TD><TD>24.95</TD><TD>500,121</TD><TD>23.63</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>25.66</TD><TD>26.00</TD><TD>24.81</TD><TD>25.00</TD><TD>630,563</TD><TD>23.68</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>25.70</TD><TD>26.18</TD><TD>25.60</TD><TD>25.62</TD><TD>422,741</TD><TD>24.30</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>25.30</TD><TD>26.20</TD><TD>25.00</TD><TD>25.61</TD><TD>399,440</TD><TD>24.29</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>25.60</TD><TD>25.70</TD><TD>25.00</TD><TD>25.30</TD><TD>357,252</TD><TD>23.98</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>25.15</TD><TD>25.49</TD><TD>24.99</TD><TD>25.30</TD><TD>362,115</TD><TD>23.98</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,114 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CESP4.SA (COMPANHIA ENERGETICA DE SAO PAU)
+        </TD><TD>As of Oct-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>7.95</TD><TD>8.00</TD><TD>7.50</TD><TD>7.50</TD><TD>106,000</TD><TD>7.50</TD></TR>
+<TR>
+<TD>Sep-28-01</TD><TD>8.10</TD><TD>8.45</TD><TD>7.90</TD><TD>8.10</TD><TD>163,083</TD><TD>8.10</TD></TR>
+<TR>
+<TD>Sep-27-01</TD><TD>7.51</TD><TD>8.00</TD><TD>7.11</TD><TD>8.00</TD><TD>210,731</TD><TD>8.00</TD></TR>
+<TR>
+<TD>Sep-26-01</TD><TD>8.00</TD><TD>8.10</TD><TD>7.50</TD><TD>7.69</TD><TD>193,411</TD><TD>7.69</TD></TR>
+<TR>
+<TD>Sep-25-01</TD><TD>8.00</TD><TD>8.05</TD><TD>7.65</TD><TD>7.99</TD><TD>115,500</TD><TD>7.99</TD></TR>
+<TR>
+<TD>Sep-24-01</TD><TD>8.19</TD><TD>8.39</TD><TD>7.90</TD><TD>7.99</TD><TD>161,300</TD><TD>7.99</TD></TR>
+<TR>
+<TD>Sep-21-01</TD><TD>8.39</TD><TD>8.39</TD><TD>7.80</TD><TD>7.94</TD><TD>178,032</TD><TD>7.94</TD></TR>
+<TR>
+<TD>Sep-20-01</TD><TD>8.99</TD><TD>9.10</TD><TD>8.60</TD><TD>8.62</TD><TD>126,217</TD><TD>8.62</TD></TR>
+<TR>
+<TD>Sep-19-01</TD><TD>8.60</TD><TD>9.39</TD><TD>8.50</TD><TD>9.39</TD><TD>193,011</TD><TD>9.39</TD></TR>
+<TR>
+<TD>Sep-18-01</TD><TD>8.70</TD><TD>9.08</TD><TD>8.30</TD><TD>8.60</TD><TD>215,615</TD><TD>8.60</TD></TR>
+<TR>
+<TD>Sep-17-01</TD><TD>9.19</TD><TD>9.19</TD><TD>8.30</TD><TD>8.88</TD><TD>126,769</TD><TD>8.88</TD></TR>
+<TR>
+<TD>Sep-10-01</TD><TD>12.50</TD><TD>13.00</TD><TD>12.35</TD><TD>13.00</TD><TD>50,069</TD><TD>13.00</TD></TR>
+<TR>
+<TD>Sep-06-01</TD><TD>12.81</TD><TD>13.00</TD><TD>12.70</TD><TD>12.89</TD><TD>39,440</TD><TD>12.89</TD></TR>
+<TR>
+<TD>Sep-05-01</TD><TD>12.60</TD><TD>13.00</TD><TD>12.60</TD><TD>12.81</TD><TD>93,630</TD><TD>12.81</TD></TR>
+<TR>
+<TD>Sep-04-01</TD><TD>12.79</TD><TD>13.06</TD><TD>12.70</TD><TD>12.97</TD><TD>185,087</TD><TD>12.97</TD></TR>
+<TR>
+<TD>Sep-03-01</TD><TD>11.85</TD><TD>12.70</TD><TD>11.82</TD><TD>12.70</TD><TD>85,089</TD><TD>12.70</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

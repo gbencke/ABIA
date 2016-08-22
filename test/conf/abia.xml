@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<abia>
+   <blackboard classname="org.abia.Blackboard.PostgreSQL.PostgreSQLBlackboard">
+      <parameter Name="PostgreSQLHost" Value="127.0.0.1:5432"/>
+      <parameter Name="Database" Value="abia"/>
+      <parameter Name="UserName" Value="abia"/>
+      <parameter Name="Password" Value=""/>
+      <parameter Name="PoolConnection" Value="20"/>
+   </blackboard>
+   <agents PathToAgents="agents">     
+   </agents>
+   <listener>
+        <listenerThread port="7200" />
+        <listenerThread port="7201" />
+        <listenerThread port="7202" />
+        <listenerThread port="7203" />
+   </listener>
+</abia>

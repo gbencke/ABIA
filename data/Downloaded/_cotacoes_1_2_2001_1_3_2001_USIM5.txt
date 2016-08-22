@@ -1,0 +1,120 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - USIM5.SA (USINA SIDERURGICA DO MINAS GERA)
+        </TD><TD>As of Mar-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>10.41</TD><TD>11.10</TD><TD>10.41</TD><TD>11.10</TD><TD>441</TD><TD>10.22</TD></TR>
+<TR>
+<TD>Feb-28-01</TD><TD>11.00</TD><TD>11.00</TD><TD>10.40</TD><TD>10.40</TD><TD>223</TD><TD>9.52</TD></TR>
+<TR>
+<TD>Feb-23-01</TD><TD>10.65</TD><TD>11.20</TD><TD>10.65</TD><TD>11.20</TD><TD>236</TD><TD>10.32</TD></TR>
+<TR>
+<TD>Feb-22-01</TD><TD>10.60</TD><TD>11.40</TD><TD>10.45</TD><TD>11.01</TD><TD>206</TD><TD>10.13</TD></TR>
+<TR>
+<TD>Feb-21-01</TD><TD>10.61</TD><TD>10.80</TD><TD>10.40</TD><TD>10.60</TD><TD>160</TD><TD>9.72</TD></TR>
+<TR>
+<TD>Feb-20-01</TD><TD>11.10</TD><TD>11.20</TD><TD>10.50</TD><TD>10.80</TD><TD>328</TD><TD>9.92</TD></TR>
+<TR>
+<TD>Feb-19-01</TD><TD>11.20</TD><TD>11.22</TD><TD>11.05</TD><TD>11.10</TD><TD>344</TD><TD>10.22</TD></TR>
+<TR>
+<TD>Feb-16-01</TD><TD>11.30</TD><TD>11.30</TD><TD>10.50</TD><TD>11.20</TD><TD>357</TD><TD>10.32</TD></TR>
+<TR>
+<TD>Feb-15-01</TD><TD>11.30</TD><TD>11.60</TD><TD>11.30</TD><TD>11.49</TD><TD>220</TD><TD>10.61</TD></TR>
+<TR>
+<TD>Feb-14-01</TD><TD>11.30</TD><TD>11.80</TD><TD>11.30</TD><TD>11.50</TD><TD>360</TD><TD>10.62</TD></TR>
+<TR>
+<TD>Feb-13-01</TD><TD>11.25</TD><TD>11.45</TD><TD>11.25</TD><TD>11.35</TD><TD>265</TD><TD>10.47</TD></TR>
+<TR>
+<TD>Feb-12-01</TD><TD>11.26</TD><TD>11.35</TD><TD>11.15</TD><TD>11.20</TD><TD>346</TD><TD>10.32</TD></TR>
+<TR>
+<TD>Feb-09-01</TD><TD>11.50</TD><TD>11.60</TD><TD>11.20</TD><TD>11.20</TD><TD>488</TD><TD>10.32</TD></TR>
+<TR>
+<TD>Feb-08-01</TD><TD>11.50</TD><TD>11.80</TD><TD>11.40</TD><TD>11.70</TD><TD>211</TD><TD>10.82</TD></TR>
+<TR>
+<TD>Feb-07-01</TD><TD>11.40</TD><TD>11.40</TD><TD>11.16</TD><TD>11.30</TD><TD>347</TD><TD>10.42</TD></TR>
+<TR>
+<TD>Feb-06-01</TD><TD>11.18</TD><TD>11.59</TD><TD>11.05</TD><TD>11.59</TD><TD>568</TD><TD>10.71</TD></TR>
+<TR>
+<TD>Feb-05-01</TD><TD>11.20</TD><TD>11.23</TD><TD>10.99</TD><TD>11.03</TD><TD>441</TD><TD>10.15</TD></TR>
+<TR>
+<TD>Feb-02-01</TD><TD>11.60</TD><TD>11.60</TD><TD>11.15</TD><TD>11.20</TD><TD>985</TD><TD>10.32</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>11.52</TD><TD>11.78</TD><TD>11.50</TD><TD>11.55</TD><TD>1,460</TD><TD>10.67</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

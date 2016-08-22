@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EMBR3.SA (EMBRAER SA)
+        </TD><TD>As of Aug-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-30-02</TD><TD>12.30</TD><TD>12.34</TD><TD>11.82</TD><TD>11.82</TD><TD>342</TD><TD>11.54</TD></TR>
+<TR>
+<TD>Aug-29-02</TD><TD>12.45</TD><TD>12.45</TD><TD>12.00</TD><TD>12.00</TD><TD>238</TD><TD>11.72</TD></TR>
+<TR>
+<TD>Aug-28-02</TD><TD>12.95</TD><TD>12.95</TD><TD>12.40</TD><TD>12.56</TD><TD>180</TD><TD>12.28</TD></TR>
+<TR>
+<TD>Aug-27-02</TD><TD>13.00</TD><TD>13.06</TD><TD>12.80</TD><TD>12.83</TD><TD>232</TD><TD>12.55</TD></TR>
+<TR>
+<TD>Aug-26-02</TD><TD>12.60</TD><TD>12.90</TD><TD>12.60</TD><TD>12.80</TD><TD>163</TD><TD>12.52</TD></TR>
+<TR>
+<TD>Aug-23-02</TD><TD>12.94</TD><TD>12.94</TD><TD>12.40</TD><TD>12.76</TD><TD>156</TD><TD>12.48</TD></TR>
+<TR>
+<TD>Aug-22-02</TD><TD>12.85</TD><TD>12.95</TD><TD>12.65</TD><TD>12.90</TD><TD>103</TD><TD>12.62</TD></TR>
+<TR>
+<TD>Aug-21-02</TD><TD>12.65</TD><TD>12.75</TD><TD>12.50</TD><TD>12.75</TD><TD>137</TD><TD>12.47</TD></TR>
+<TR>
+<TD>Aug-20-02</TD><TD>12.60</TD><TD>12.65</TD><TD>12.41</TD><TD>12.60</TD><TD>276</TD><TD>12.32</TD></TR>
+<TR>
+<TD>Aug-19-02</TD><TD>12.51</TD><TD>12.67</TD><TD>12.26</TD><TD>12.66</TD><TD>74</TD><TD>12.38</TD></TR>
+<TR>
+<TD>Aug-16-02</TD><TD>11.40</TD><TD>12.32</TD><TD>11.40</TD><TD>12.23</TD><TD>331</TD><TD>11.95</TD></TR>
+<TR>
+<TD>Aug-15-02</TD><TD>11.49</TD><TD>11.50</TD><TD>11.03</TD><TD>11.22</TD><TD>131</TD><TD>10.94</TD></TR>
+<TR>
+<TD>Aug-14-02</TD><TD>12.00</TD><TD>12.10</TD><TD>11.00</TD><TD>11.15</TD><TD>461</TD><TD>10.87</TD></TR>
+<TR>
+<TD>Aug-13-02</TD><TD>12.70</TD><TD>13.00</TD><TD>12.10</TD><TD>12.10</TD><TD>263</TD><TD>11.82</TD></TR>
+<TR>
+<TD>Aug-12-02</TD><TD>12.50</TD><TD>12.89</TD><TD>12.50</TD><TD>12.83</TD><TD>72</TD><TD>12.55</TD></TR>
+<TR>
+<TD>Aug-09-02</TD><TD>13.36</TD><TD>13.36</TD><TD>12.65</TD><TD>12.85</TD><TD>193</TD><TD>12.57</TD></TR>
+<TR>
+<TD>Aug-08-02</TD><TD>13.64</TD><TD>13.65</TD><TD>12.91</TD><TD>13.15</TD><TD>151</TD><TD>12.87</TD></TR>
+<TR>
+<TD>Aug-07-02</TD><TD>13.58</TD><TD>13.59</TD><TD>13.00</TD><TD>13.35</TD><TD>139</TD><TD>13.07</TD></TR>
+<TR>
+<TD>Aug-06-02</TD><TD>12.90</TD><TD>13.45</TD><TD>12.90</TD><TD>13.45</TD><TD>171</TD><TD>13.17</TD></TR>
+<TR>
+<TD>Aug-05-02</TD><TD>13.39</TD><TD>13.39</TD><TD>12.70</TD><TD>12.80</TD><TD>73</TD><TD>12.52</TD></TR>
+<TR>
+<TD>Aug-02-02</TD><TD>13.25</TD><TD>13.35</TD><TD>12.76</TD><TD>12.80</TD><TD>134</TD><TD>12.52</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>13.73</TD><TD>13.73</TD><TD>13.10</TD><TD>13.12</TD><TD>184</TD><TD>12.84</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

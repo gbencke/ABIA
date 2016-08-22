@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TMCP4.SA (TELEMIG CELULAR PARTICIPACOES S)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>4.64</TD><TD>4.74</TD><TD>4.51</TD><TD>4.63</TD><TD>391,852</TD><TD>4.49</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>4.69</TD><TD>4.69</TD><TD>4.63</TD><TD>4.63</TD><TD>504,818</TD><TD>4.49</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>4.75</TD><TD>4.85</TD><TD>4.68</TD><TD>4.68</TD><TD>304,078</TD><TD>4.54</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>4.78</TD><TD>4.78</TD><TD>4.66</TD><TD>4.75</TD><TD>382,617</TD><TD>4.61</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>4.59</TD><TD>4.70</TD><TD>4.53</TD><TD>4.65</TD><TD>554,426</TD><TD>4.51</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>4.52</TD><TD>4.64</TD><TD>4.45</TD><TD>4.64</TD><TD>217,674</TD><TD>4.50</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>4.50</TD><TD>4.68</TD><TD>4.43</TD><TD>4.50</TD><TD>707,960</TD><TD>4.36</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>4.54</TD><TD>4.65</TD><TD>4.53</TD><TD>4.60</TD><TD>210,712</TD><TD>4.46</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>4.72</TD><TD>4.72</TD><TD>4.45</TD><TD>4.61</TD><TD>553,499</TD><TD>4.47</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>4.45</TD><TD>4.60</TD><TD>4.45</TD><TD>4.58</TD><TD>410,566</TD><TD>4.44</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>4.60</TD><TD>4.60</TD><TD>4.47</TD><TD>4.48</TD><TD>596,312</TD><TD>4.34</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>4.45</TD><TD>4.59</TD><TD>4.32</TD><TD>4.58</TD><TD>996,066</TD><TD>4.44</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>4.58</TD><TD>4.58</TD><TD>4.40</TD><TD>4.41</TD><TD>309,644</TD><TD>4.27</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>4.47</TD><TD>4.53</TD><TD>4.31</TD><TD>4.47</TD><TD>362,380</TD><TD>4.33</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>4.38</TD><TD>4.42</TD><TD>4.22</TD><TD>4.40</TD><TD>837,751</TD><TD>4.26</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>4.38</TD><TD>4.39</TD><TD>4.25</TD><TD>4.37</TD><TD>914,416</TD><TD>4.23</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>4.40</TD><TD>4.45</TD><TD>4.28</TD><TD>4.28</TD><TD>529,743</TD><TD>4.14</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>4.67</TD><TD>4.67</TD><TD>4.30</TD><TD>4.30</TD><TD>758,618</TD><TD>4.16</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>4.58</TD><TD>4.65</TD><TD>4.52</TD><TD>4.58</TD><TD>636,112</TD><TD>4.44</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>4.60</TD><TD>4.60</TD><TD>4.30</TD><TD>4.50</TD><TD>312,870</TD><TD>4.36</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>4.75</TD><TD>4.75</TD><TD>4.51</TD><TD>4.51</TD><TD>237,827</TD><TD>4.37</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>4.85</TD><TD>4.91</TD><TD>4.65</TD><TD>4.65</TD><TD>1,062,670</TD><TD>4.51</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,114 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CSTB4.SA (COMPANHIA SIDERURGICA DE TUBARA)
+        </TD><TD>As of Oct-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>15.28</TD><TD>15.50</TD><TD>15.28</TD><TD>15.49</TD><TD>10,480</TD><TD>9.29</TD></TR>
+<TR>
+<TD>Sep-28-01</TD><TD>16.00</TD><TD>16.50</TD><TD>15.00</TD><TD>15.80</TD><TD>40,494</TD><TD>9.60</TD></TR>
+<TR>
+<TD>Sep-27-01</TD><TD>15.30</TD><TD>16.00</TD><TD>14.81</TD><TD>16.00</TD><TD>31,167</TD><TD>9.80</TD></TR>
+<TR>
+<TD>Sep-26-01</TD><TD>15.30</TD><TD>15.49</TD><TD>15.00</TD><TD>15.49</TD><TD>25,100</TD><TD>9.29</TD></TR>
+<TR>
+<TD>Sep-25-01</TD><TD>15.50</TD><TD>15.50</TD><TD>14.90</TD><TD>15.40</TD><TD>45,138</TD><TD>9.20</TD></TR>
+<TR>
+<TD>Sep-24-01</TD><TD>15.11</TD><TD>15.90</TD><TD>15.11</TD><TD>15.40</TD><TD>102,956</TD><TD>9.20</TD></TR>
+<TR>
+<TD>Sep-21-01</TD><TD>15.80</TD><TD>15.80</TD><TD>14.52</TD><TD>15.00</TD><TD>134,654</TD><TD>8.80</TD></TR>
+<TR>
+<TD>Sep-20-01</TD><TD>16.69</TD><TD>16.70</TD><TD>15.80</TD><TD>16.00</TD><TD>97,039</TD><TD>9.80</TD></TR>
+<TR>
+<TD>Sep-19-01</TD><TD>18.18</TD><TD>18.20</TD><TD>16.69</TD><TD>16.69</TD><TD>82,610</TD><TD>10.49</TD></TR>
+<TR>
+<TD>Sep-18-01</TD><TD>18.00</TD><TD>18.00</TD><TD>17.00</TD><TD>17.90</TD><TD>93,600</TD><TD>11.70</TD></TR>
+<TR>
+<TD>Sep-17-01</TD><TD>17.99</TD><TD>18.50</TD><TD>17.00</TD><TD>18.50</TD><TD>55,100</TD><TD>12.30</TD></TR>
+<TR>
+<TD>Sep-10-01</TD><TD>19.41</TD><TD>19.80</TD><TD>19.41</TD><TD>19.75</TD><TD>26,817</TD><TD>13.55</TD></TR>
+<TR>
+<TD>Sep-06-01</TD><TD>19.89</TD><TD>19.90</TD><TD>19.41</TD><TD>19.80</TD><TD>39,825</TD><TD>13.60</TD></TR>
+<TR>
+<TD>Sep-05-01</TD><TD>19.80</TD><TD>19.99</TD><TD>19.50</TD><TD>19.50</TD><TD>43,454</TD><TD>13.30</TD></TR>
+<TR>
+<TD>Sep-04-01</TD><TD>19.60</TD><TD>19.90</TD><TD>19.05</TD><TD>19.50</TD><TD>128,586</TD><TD>13.30</TD></TR>
+<TR>
+<TD>Sep-03-01</TD><TD>20.37</TD><TD>20.37</TD><TD>19.30</TD><TD>19.55</TD><TD>88,847</TD><TD>13.35</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CLSC6.SA (CENTRAIS ELECTRICAS DE SANTA CA)
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>0.56</TD><TD>0.56</TD><TD>0.55</TD><TD>0.56</TD><TD>638</TD><TD>0.56</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>0.54</TD><TD>0.57</TD><TD>0.54</TD><TD>0.55</TD><TD>4,014</TD><TD>0.55</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>0.54</TD><TD>0.54</TD><TD>0.53</TD><TD>0.54</TD><TD>1,320</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>0.55</TD><TD>0.55</TD><TD>0.53</TD><TD>0.54</TD><TD>1,604</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>0.55</TD><TD>0.55</TD><TD>0.53</TD><TD>0.54</TD><TD>2,650</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>0.55</TD><TD>0.56</TD><TD>0.54</TD><TD>0.54</TD><TD>1,071</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>0.54</TD><TD>0.56</TD><TD>0.53</TD><TD>0.55</TD><TD>5,699</TD><TD>0.55</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>0.54</TD><TD>0.54</TD><TD>0.53</TD><TD>0.54</TD><TD>896</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>0.54</TD><TD>0.55</TD><TD>0.53</TD><TD>0.53</TD><TD>1,080</TD><TD>0.53</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>0.55</TD><TD>0.55</TD><TD>0.53</TD><TD>0.54</TD><TD>2,243</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>0.55</TD><TD>0.55</TD><TD>0.54</TD><TD>0.54</TD><TD>3,083</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>0.55</TD><TD>0.55</TD><TD>0.54</TD><TD>0.54</TD><TD>1,597</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>0.54</TD><TD>0.55</TD><TD>0.54</TD><TD>0.54</TD><TD>1,021</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>0.54</TD><TD>0.55</TD><TD>0.54</TD><TD>0.54</TD><TD>534</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>0.55</TD><TD>0.56</TD><TD>0.54</TD><TD>0.54</TD><TD>2,868</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>0.55</TD><TD>0.55</TD><TD>0.54</TD><TD>0.55</TD><TD>2,374</TD><TD>0.55</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>0.56</TD><TD>0.57</TD><TD>0.56</TD><TD>0.56</TD><TD>3,885</TD><TD>0.56</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>0.54</TD><TD>0.56</TD><TD>0.54</TD><TD>0.55</TD><TD>3,210</TD><TD>0.55</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>0.56</TD><TD>0.56</TD><TD>0.53</TD><TD>0.54</TD><TD>1,450</TD><TD>0.54</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>0.56</TD><TD>0.56</TD><TD>0.54</TD><TD>0.55</TD><TD>2,461</TD><TD>0.55</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>0.58</TD><TD>0.58</TD><TD>0.54</TD><TD>0.55</TD><TD>2,751</TD><TD>0.55</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

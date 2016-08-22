@@ -1,0 +1,132 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CGAS5.SA (CIA DE GAS DE SAO PAULO)
+        </TD><TD>As of Apr-30-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-30-01</TD><TD>132.99</TD><TD>132.99</TD><TD>127.00</TD><TD>130.00</TD><TD>11,763</TD><TD>126.19</TD></TR>
+<TR>
+<TD>Apr-27-01</TD><TD>133.01</TD><TD>135.00</TD><TD>124.00</TD><TD>127.00</TD><TD>51,874</TD><TD>123.19</TD></TR>
+<TR>
+<TD>Apr-26-01</TD><TD>122.00</TD><TD>133.95</TD><TD>121.99</TD><TD>133.95</TD><TD>14,109</TD><TD>130.14</TD></TR>
+<TR>
+<TD>Apr-25-01</TD><TD>118.65</TD><TD>122.50</TD><TD>114.10</TD><TD>121.99</TD><TD>42,617</TD><TD>118.18</TD></TR>
+<TR>
+<TD>Apr-24-01</TD><TD>124.94</TD><TD>124.94</TD><TD>115.20</TD><TD>115.20</TD><TD>22,415</TD><TD>111.39</TD></TR>
+<TR>
+<TD>Apr-23-01</TD><TD>124.00</TD><TD>129.89</TD><TD>117.00</TD><TD>119.00</TD><TD>38,984</TD><TD>115.19</TD></TR>
+<TR>
+<TD>Apr-20-01</TD><TD>141.89</TD><TD>141.89</TD><TD>119.00</TD><TD>126.50</TD><TD>41,292</TD><TD>122.69</TD></TR>
+<TR>
+<TD>Apr-19-01</TD><TD>146.00</TD><TD>146.00</TD><TD>139.50</TD><TD>141.98</TD><TD>3,163</TD><TD>138.17</TD></TR>
+<TR>
+<TD>Apr-18-01</TD><TD>142.50</TD><TD>145.00</TD><TD>137.00</TD><TD>144.00</TD><TD>53,740</TD><TD>140.19</TD></TR>
+<TR>
+<TD>Apr-17-01</TD><TD>147.99</TD><TD>147.99</TD><TD>135.20</TD><TD>142.50</TD><TD>44,073</TD><TD>138.69</TD></TR>
+<TR>
+<TD>Apr-16-01</TD><TD>151.98</TD><TD>151.98</TD><TD>142.00</TD><TD>145.00</TD><TD>17,600</TD><TD>141.19</TD></TR>
+<TR>
+<TD>Apr-12-01</TD><TD>150.00</TD><TD>151.98</TD><TD>148.30</TD><TD>151.98</TD><TD>82,483</TD><TD>148.17</TD></TR>
+<TR>
+<TD>Apr-11-01</TD><TD>142.00</TD><TD>150.48</TD><TD>142.00</TD><TD>150.00</TD><TD>72,190</TD><TD>146.19</TD></TR>
+<TR>
+<TD>Apr-10-01</TD><TD>135.00</TD><TD>142.00</TD><TD>132.00</TD><TD>142.00</TD><TD>93,596</TD><TD>138.19</TD></TR>
+<TR>
+<TD>Apr-09-01</TD><TD>136.49</TD><TD>140.00</TD><TD>132.00</TD><TD>134.99</TD><TD>164,590</TD><TD>131.18</TD></TR>
+<TR>
+<TD>Apr-06-01</TD><TD>135.50</TD><TD>136.00</TD><TD>122.29</TD><TD>134.90</TD><TD>173,495</TD><TD>131.09</TD></TR>
+<TR>
+<TD>Apr-05-01</TD><TD>147.00</TD><TD>147.00</TD><TD>131.00</TD><TD>137.00</TD><TD>122,213</TD><TD>133.19</TD></TR>
+<TR>
+<TD>Apr-04-01</TD><TD>169.99</TD><TD>169.99</TD><TD>163.50</TD><TD>163.50</TD><TD>18,501</TD><TD>159.69</TD></TR>
+<TR>
+<TD>Apr-03-01</TD><TD>167.00</TD><TD>167.00</TD><TD>160.01</TD><TD>166.00</TD><TD>37,251</TD><TD>162.19</TD></TR>
+<TR>
+<TD>Apr-02-01</TD><TD>170.12</TD><TD>171.00</TD><TD>165.00</TD><TD>167.01</TD><TD>46,699</TD><TD>163.20</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

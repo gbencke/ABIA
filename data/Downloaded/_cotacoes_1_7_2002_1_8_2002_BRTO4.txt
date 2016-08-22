@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRTO4.SA (BRASIL TELECOM SA)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>10.75</TD><TD>10.90</TD><TD>10.25</TD><TD>10.60</TD><TD>1,529,880</TD><TD>10.13</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>9.94</TD><TD>11.10</TD><TD>9.94</TD><TD>10.90</TD><TD>1,169,740</TD><TD>10.43</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>9.75</TD><TD>10.20</TD><TD>9.51</TD><TD>9.88</TD><TD>1,323,520</TD><TD>9.41</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>9.65</TD><TD>10.45</TD><TD>9.50</TD><TD>9.75</TD><TD>900,216</TD><TD>9.28</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>10.00</TD><TD>10.15</TD><TD>9.45</TD><TD>9.49</TD><TD>989,604</TD><TD>9.02</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>10.00</TD><TD>10.10</TD><TD>9.60</TD><TD>10.10</TD><TD>922,783</TD><TD>9.63</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>9.70</TD><TD>10.20</TD><TD>9.55</TD><TD>10.20</TD><TD>883,487</TD><TD>9.73</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>10.45</TD><TD>10.45</TD><TD>9.80</TD><TD>9.90</TD><TD>1,145,370</TD><TD>9.43</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>11.10</TD><TD>11.20</TD><TD>10.27</TD><TD>10.40</TD><TD>575,374</TD><TD>9.93</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>11.30</TD><TD>11.60</TD><TD>11.11</TD><TD>11.20</TD><TD>462,921</TD><TD>10.73</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>11.25</TD><TD>11.60</TD><TD>11.20</TD><TD>11.55</TD><TD>270,503</TD><TD>11.08</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>11.30</TD><TD>11.45</TD><TD>11.10</TD><TD>11.25</TD><TD>339,525</TD><TD>10.78</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>11.15</TD><TD>11.25</TD><TD>10.99</TD><TD>11.15</TD><TD>269,981</TD><TD>10.68</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>11.55</TD><TD>11.55</TD><TD>10.85</TD><TD>11.15</TD><TD>608,986</TD><TD>10.68</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>11.44</TD><TD>11.55</TD><TD>11.12</TD><TD>11.55</TD><TD>893,844</TD><TD>11.08</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>11.11</TD><TD>11.45</TD><TD>10.91</TD><TD>11.39</TD><TD>1,093,370</TD><TD>10.92</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>11.16</TD><TD>11.30</TD><TD>11.06</TD><TD>11.10</TD><TD>665,259</TD><TD>10.63</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>10.75</TD><TD>11.15</TD><TD>10.65</TD><TD>11.15</TD><TD>396,176</TD><TD>10.68</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>10.60</TD><TD>10.90</TD><TD>10.36</TD><TD>10.70</TD><TD>671,107</TD><TD>10.23</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>10.80</TD><TD>10.90</TD><TD>10.50</TD><TD>10.80</TD><TD>362,331</TD><TD>10.33</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>10.31</TD><TD>10.80</TD><TD>10.30</TD><TD>10.75</TD><TD>602,506</TD><TD>10.28</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>10.60</TD><TD>10.65</TD><TD>10.35</TD><TD>10.63</TD><TD>635,144</TD><TD>10.16</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>11.29</TD><TD>11.30</TD><TD>10.62</TD><TD>10.80</TD><TD>524,046</TD><TD>10.33</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,118 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CGAS5.SA (CIA DE GAS DE SAO PAULO)
+        </TD><TD>As of Dec-28-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Dec-28-01</TD><TD>90.50</TD><TD>91.50</TD><TD>90.00</TD><TD>91.50</TD><TD>26,636</TD><TD>87.69</TD></TR>
+<TR>
+<TD>Dec-27-01</TD><TD>87.99</TD><TD>91.50</TD><TD>86.60</TD><TD>90.50</TD><TD>39,960</TD><TD>86.69</TD></TR>
+<TR>
+<TD>Dec-26-01</TD><TD>87.99</TD><TD>88.00</TD><TD>86.60</TD><TD>86.60</TD><TD>15,304</TD><TD>82.79</TD></TR>
+<TR>
+<TD>Dec-21-01</TD><TD>89.00</TD><TD>89.00</TD><TD>86.99</TD><TD>88.00</TD><TD>17,624</TD><TD>84.19</TD></TR>
+<TR>
+<TD>Dec-20-01</TD><TD>89.90</TD><TD>90.50</TD><TD>86.50</TD><TD>87.40</TD><TD>10,891</TD><TD>83.59</TD></TR>
+<TR>
+<TD>Dec-19-01</TD><TD>93.99</TD><TD>94.00</TD><TD>90.00</TD><TD>91.00</TD><TD>12,677</TD><TD>87.19</TD></TR>
+<TR>
+<TD>Dec-18-01</TD><TD>89.00</TD><TD>92.99</TD><TD>89.00</TD><TD>92.99</TD><TD>11,710</TD><TD>89.18</TD></TR>
+<TR>
+<TD>Dec-17-01</TD><TD>90.00</TD><TD>90.99</TD><TD>89.00</TD><TD>89.00</TD><TD>2,292</TD><TD>85.19</TD></TR>
+<TR>
+<TD>Dec-14-01</TD><TD>90.00</TD><TD>93.00</TD><TD>87.00</TD><TD>90.00</TD><TD>12,496</TD><TD>86.19</TD></TR>
+<TR>
+<TD>Dec-13-01</TD><TD>93.99</TD><TD>94.00</TD><TD>89.00</TD><TD>91.00</TD><TD>6,812</TD><TD>87.19</TD></TR>
+<TR>
+<TD>Dec-12-01</TD><TD>93.20</TD><TD>95.99</TD><TD>93.00</TD><TD>94.00</TD><TD>46,823</TD><TD>90.19</TD></TR>
+<TR>
+<TD>Dec-11-01</TD><TD>90.50</TD><TD>93.75</TD><TD>90.50</TD><TD>93.75</TD><TD>18,260</TD><TD>89.94</TD></TR>
+<TR>
+<TD>Dec-10-01</TD><TD>89.00</TD><TD>90.50</TD><TD>88.10</TD><TD>90.50</TD><TD>7,563</TD><TD>86.69</TD></TR>
+<TR>
+<TD>Dec-07-01</TD><TD>90.00</TD><TD>90.00</TD><TD>86.00</TD><TD>88.02</TD><TD>19,483</TD><TD>84.21</TD></TR>
+<TR>
+<TD>Dec-06-01</TD><TD>88.50</TD><TD>90.50</TD><TD>88.00</TD><TD>90.50</TD><TD>8,287</TD><TD>86.69</TD></TR>
+<TR>
+<TD>Dec-05-01</TD><TD>88.00</TD><TD>88.99</TD><TD>87.40</TD><TD>88.50</TD><TD>63,325</TD><TD>84.69</TD></TR>
+<TR>
+<TD>Dec-04-01</TD><TD>92.00</TD><TD>92.00</TD><TD>86.90</TD><TD>87.60</TD><TD>9,577</TD><TD>83.79</TD></TR>
+<TR>
+<TD>Dec-03-01</TD><TD>90.00</TD><TD>91.50</TD><TD>90.00</TD><TD>91.50</TD><TD>5,680</TD><TD>87.69</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

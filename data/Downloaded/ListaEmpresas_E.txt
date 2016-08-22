@@ -1,0 +1,409 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BANDEIRANTE ENERGIA S.A.&ccvm=16985&site=B&pregao=EBE&mercado=1&pagina=itr_dfp_ian">EBE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BANDEIRANTE ENERGIA S.A.&ccvm=16985&site=B&pregao=EBE&mercado=1&pagina=itr_dfp_ian">BANDEIRANTE ENERGIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=BANDEIRANTE ENERGIA S.A.&ccvm=16985&site=B&pregao=EBE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EBERLE S.A.&ccvm=5312&site=B&pregao=EBERLE&mercado=1&pagina=itr_dfp_ian">EBERLE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EBERLE S.A.&ccvm=5312&site=B&pregao=EBERLE&mercado=1&pagina=itr_dfp_ian">EBERLE S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EBERLE S.A.&ccvm=5312&site=B&pregao=EBERLE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ECISA ENGENHARIA COM E IND S.A.&ccvm=5339&site=B&pregao=ECISA&mercado=1&pagina=itr_dfp_ian">ECISA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ECISA ENGENHARIA COM E IND S.A.&ccvm=5339&site=B&pregao=ECISA&mercado=1&pagina=itr_dfp_ian">ECISA ENGENHARIA COM E IND S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ECISA ENGENHARIA COM E IND S.A.&ccvm=5339&site=B&pregao=ECISA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ECONOMICO S.A. EMPREENDIMENTOS&ccvm=13536&site=B&pregao=ECONOMIC EMP&mercado=1&pagina=itr_dfp_ian">ECONOMIC EMP</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ECONOMICO S.A. EMPREENDIMENTOS&ccvm=13536&site=B&pregao=ECONOMIC EMP&mercado=1&pagina=itr_dfp_ian">ECONOMICO S.A. EMPREENDIMENTOS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ECONOMICO S.A. EMPREENDIMENTOS&ccvm=13536&site=B&pregao=ECONOMIC EMP&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA CONC RODOV DO NORTE S.A.ECONORTE&ccvm=19011&site=B&pregao=ECONORTE&mercado=1&pagina=itr_dfp_ian">ECONORTE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA CONC RODOV DO NORTE S.A.ECONORTE&ccvm=19011&site=B&pregao=ECONORTE&mercado=1&pagina=itr_dfp_ian">EMPRESA CONC RODOV DO NORTE S.A.ECONORTE</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EMPRESA CONC RODOV DO NORTE S.A.ECONORTE&ccvm=19011&site=B&pregao=ECONORTE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA CONC RODOV DO SUL S.A. - ECOSUL&ccvm=19283&site=B&pregao=ECOSUL&mercado=1&pagina=itr_dfp_ian">ECOSUL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA CONC RODOV DO SUL S.A. - ECOSUL&ccvm=19283&site=B&pregao=ECOSUL&mercado=1&pagina=itr_dfp_ian">EMPRESA CONC RODOV DO SUL S.A. - ECOSUL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EMPRESA CONC RODOV DO SUL S.A. - ECOSUL&ccvm=19283&site=B&pregao=ECOSUL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ELDORADO DE HOTEIS&ccvm=2763&site=B&pregao=ELDORADO&mercado=1&pagina=itr_dfp_ian">ELDORADO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ELDORADO DE HOTEIS&ccvm=2763&site=B&pregao=ELDORADO&mercado=1&pagina=itr_dfp_ian">CIA ELDORADO DE HOTEIS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ELDORADO DE HOTEIS&ccvm=2763&site=B&pregao=ELDORADO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELECTROLUX DO BRASIL S.A.&ccvm=10006&site=B&pregao=ELECTROLUX&mercado=1&pagina=itr_dfp_ian">ELECTROLUX</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELECTROLUX DO BRASIL S.A.&ccvm=10006&site=B&pregao=ELECTROLUX&mercado=1&pagina=itr_dfp_ian">ELECTROLUX DO BRASIL S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ELECTROLUX DO BRASIL S.A.&ccvm=10006&site=B&pregao=ELECTROLUX&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELEKEIROZ S.A.&ccvm=12556&site=B&pregao=ELEKEIROZ&mercado=1&pagina=itr_dfp_ian">ELEKEIROZ</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELEKEIROZ S.A.&ccvm=12556&site=B&pregao=ELEKEIROZ&mercado=1&pagina=itr_dfp_ian">ELEKEIROZ S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ELEKEIROZ S.A.&ccvm=12556&site=B&pregao=ELEKEIROZ&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELEKTRO - ELETRICIDADE E SERVICOS S.A.&ccvm=17485&site=B&pregao=ELEKTRO&mercado=1&pagina=itr_dfp_ian">ELEKTRO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELEKTRO - ELETRICIDADE E SERVICOS S.A.&ccvm=17485&site=B&pregao=ELEKTRO&mercado=1&pagina=itr_dfp_ian">ELEKTRO - ELETRICIDADE E SERVICOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ELEKTRO - ELETRICIDADE E SERVICOS S.A.&ccvm=17485&site=B&pregao=ELEKTRO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET BRAS S.A. - ELETROBRAS&ccvm=2437&site=B&pregao=ELETROBRAS&mercado=1&pagina=itr_dfp_ian">ELETROBRAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET BRAS S.A. - ELETROBRAS&ccvm=2437&site=B&pregao=ELETROBRAS&mercado=1&pagina=itr_dfp_ian">CENTRAIS ELET BRAS S.A. - ELETROBRAS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET BRAS S.A. - ELETROBRAS&ccvm=2437&site=B&pregao=ELETROBRAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELETROPAULO METROP. ELET. SAO PAULO S.A.&ccvm=14176&site=B&pregao=ELETROPAULO&mercado=1&pagina=itr_dfp_ian">ELETROPAULO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELETROPAULO METROP. ELET. SAO PAULO S.A.&ccvm=14176&site=B&pregao=ELETROPAULO&mercado=1&pagina=itr_dfp_ian">ELETROPAULO METROP. ELET. SAO PAULO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ELETROPAULO METROP. ELET. SAO PAULO S.A.&ccvm=14176&site=B&pregao=ELETROPAULO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELETROSILEX S.A.&ccvm=14974&site=B&pregao=ELETROSILEX&mercado=1&pagina=itr_dfp_ian">ELETROSILEX</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELETROSILEX S.A.&ccvm=14974&site=B&pregao=ELETROSILEX&mercado=1&pagina=itr_dfp_ian">ELETROSILEX S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ELETROSILEX S.A.&ccvm=14974&site=B&pregao=ELETROSILEX&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELEVADORES ATLAS SCHINDLER S.A.&ccvm=15598&site=B&pregao=ELEVAD ATLAS&mercado=1&pagina=itr_dfp_ian">ELEVAD ATLAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELEVADORES ATLAS SCHINDLER S.A.&ccvm=15598&site=B&pregao=ELEVAD ATLAS&mercado=1&pagina=itr_dfp_ian">ELEVADORES ATLAS SCHINDLER S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ELEVADORES ATLAS SCHINDLER S.A.&ccvm=15598&site=B&pregao=ELEVAD ATLAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELUMA S.A. INDUSTRIA E COMERCIO&ccvm=5479&site=B&pregao=ELUMA&mercado=1&pagina=itr_dfp_ian">ELUMA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELUMA S.A. INDUSTRIA E COMERCIO&ccvm=5479&site=B&pregao=ELUMA&mercado=1&pagina=itr_dfp_ian">ELUMA S.A. INDUSTRIA E COMERCIO</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ELUMA S.A. INDUSTRIA E COMERCIO&ccvm=5479&site=B&pregao=ELUMA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.&ccvm=16993&site=B&pregao=EMAE&mercado=1&pagina=itr_dfp_ian">EMAE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.&ccvm=16993&site=B&pregao=EMAE&mercado=1&pagina=itr_dfp_ian">EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.&ccvm=16993&site=B&pregao=EMAE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA BRAS DE COMPRESSORES S.A.EMBRACO&ccvm=5550&site=B&pregao=EMBRACO&mercado=1&pagina=itr_dfp_ian">EMBRACO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA BRAS DE COMPRESSORES S.A.EMBRACO&ccvm=5550&site=B&pregao=EMBRACO&mercado=1&pagina=itr_dfp_ian">EMPRESA BRAS DE COMPRESSORES S.A.EMBRACO</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EMPRESA BRAS DE COMPRESSORES S.A.EMBRACO&ccvm=5550&site=B&pregao=EMBRACO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMBRAER-EMPRESA BRAS DE AERONAUTICA S.A.&ccvm=5509&site=B&pregao=EMBRAER&mercado=1&pagina=itr_dfp_ian">EMBRAER</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMBRAER-EMPRESA BRAS DE AERONAUTICA S.A.&ccvm=5509&site=B&pregao=EMBRAER&mercado=1&pagina=itr_dfp_ian">EMBRAER-EMPRESA BRAS DE AERONAUTICA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EMBRAER-EMPRESA BRAS DE AERONAUTICA S.A.&ccvm=5509&site=B&pregao=EMBRAER&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMBRATEL PARTICIPACOES S.A.&ccvm=17647&site=B&pregao=EMBRATEL PAR&mercado=1&pagina=itr_dfp_ian">EMBRATEL PAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMBRATEL PARTICIPACOES S.A.&ccvm=17647&site=B&pregao=EMBRATEL PAR&mercado=1&pagina=itr_dfp_ian">EMBRATEL PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EMBRATEL PARTICIPACOES S.A.&ccvm=17647&site=B&pregao=EMBRATEL PAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA NAC COM REDITO PART S.A.ENCORPAR&ccvm=16497&site=B&pregao=ENCORPAR&mercado=1&pagina=itr_dfp_ian">ENCORPAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA NAC COM REDITO PART S.A.ENCORPAR&ccvm=16497&site=B&pregao=ENCORPAR&mercado=1&pagina=itr_dfp_ian">EMPRESA NAC COM REDITO PART S.A.ENCORPAR</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EMPRESA NAC COM REDITO PART S.A.ENCORPAR&ccvm=16497&site=B&pregao=ENCORPAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA MERIDIONAL&ccvm=16900&site=B&pregao=ENER MERID&mercado=1&pagina=itr_dfp_ian">ENER MERID</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA MERIDIONAL&ccvm=16900&site=B&pregao=ENER MERID&mercado=1&pagina=itr_dfp_ian">CIA ENERGETICA MERIDIONAL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA MERIDIONAL&ccvm=16900&site=B&pregao=ENER MERID&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ENERGIA PAULISTA PARTICIPACOES S.A.&ccvm=18970&site=B&pregao=ENER PAULIST&mercado=1&pagina=itr_dfp_ian">ENER PAULIST</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ENERGIA PAULISTA PARTICIPACOES S.A.&ccvm=18970&site=B&pregao=ENER PAULIST&mercado=1&pagina=itr_dfp_ian">ENERGIA PAULISTA PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ENERGIA PAULISTA PARTICIPACOES S.A.&ccvm=18970&site=B&pregao=ENER PAULIST&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA ENER. DE SERGIPE S.A. - ENERGIPE&ccvm=18996&site=B&pregao=ENERGIPE&mercado=1&pagina=itr_dfp_ian">ENERGIPE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA ENER. DE SERGIPE S.A. - ENERGIPE&ccvm=18996&site=B&pregao=ENERGIPE&mercado=1&pagina=itr_dfp_ian">EMPRESA ENER. DE SERGIPE S.A. - ENERGIPE</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EMPRESA ENER. DE SERGIPE S.A. - ENERGIPE&ccvm=18996&site=B&pregao=ENERGIPE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA ENERG MATO GROS.SUL S.A.-ENERSUL&ccvm=5576&site=B&pregao=ENERSUL&mercado=1&pagina=itr_dfp_ian">ENERSUL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EMPRESA ENERG MATO GROS.SUL S.A.-ENERSUL&ccvm=5576&site=B&pregao=ENERSUL&mercado=1&pagina=itr_dfp_ian">EMPRESA ENERG MATO GROS.SUL S.A.-ENERSUL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EMPRESA ENERG MATO GROS.SUL S.A.-ENERSUL&ccvm=5576&site=B&pregao=ENERSUL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ESPIRITO SANTO CENTR.ELETR. S.A.-ESCELSA&ccvm=15342&site=B&pregao=ESCELSA&mercado=1&pagina=itr_dfp_ian">ESCELSA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ESPIRITO SANTO CENTR.ELETR. S.A.-ESCELSA&ccvm=15342&site=B&pregao=ESCELSA&mercado=1&pagina=itr_dfp_ian">ESPIRITO SANTO CENTR.ELETR. S.A.-ESCELSA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ESPIRITO SANTO CENTR.ELETR. S.A.-ESCELSA&ccvm=15342&site=B&pregao=ESCELSA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BCO ESTADO DO CEARA S.A.&ccvm=1147&site=B&pregao=EST CEARA&mercado=1&pagina=itr_dfp_ian">EST CEARA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BCO ESTADO DO CEARA S.A.&ccvm=1147&site=B&pregao=EST CEARA&mercado=1&pagina=itr_dfp_ian">BCO ESTADO DO CEARA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=BCO ESTADO DO CEARA S.A.&ccvm=1147&site=B&pregao=EST CEARA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BCO ESTADO DO PIAUI S.A.&ccvm=1198&site=B&pregao=EST PIAUI&mercado=1&pagina=itr_dfp_ian">EST PIAUI</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BCO ESTADO DO PIAUI S.A.&ccvm=1198&site=B&pregao=EST PIAUI&mercado=1&pagina=itr_dfp_ian">BCO ESTADO DO PIAUI S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=BCO ESTADO DO PIAUI S.A.&ccvm=1198&site=B&pregao=EST PIAUI&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=MANUFATURA DE BRINQUEDOS ESTRELA S.A.&ccvm=8427&site=B&pregao=ESTRELA&mercado=1&pagina=itr_dfp_ian">ESTRELA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=MANUFATURA DE BRINQUEDOS ESTRELA S.A.&ccvm=8427&site=B&pregao=ESTRELA&mercado=1&pagina=itr_dfp_ian">MANUFATURA DE BRINQUEDOS ESTRELA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=MANUFATURA DE BRINQUEDOS ESTRELA S.A.&ccvm=8427&site=B&pregao=ESTRELA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ETERNIT S.A.&ccvm=5762&site=B&pregao=ETERNIT&mercado=1&pagina=itr_dfp_ian">ETERNIT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ETERNIT S.A.&ccvm=5762&site=B&pregao=ETERNIT&mercado=1&pagina=itr_dfp_ian">ETERNIT S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ETERNIT S.A.&ccvm=5762&site=B&pregao=ETERNIT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EUCATEX S.A. INDUSTRIA E COMERCIO&ccvm=5770&site=B&pregao=EUCATEX&mercado=1&pagina=itr_dfp_ian">EUCATEX</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EUCATEX S.A. INDUSTRIA E COMERCIO&ccvm=5770&site=B&pregao=EUCATEX&mercado=1&pagina=itr_dfp_ian">EUCATEX S.A. INDUSTRIA E COMERCIO</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EUCATEX S.A. INDUSTRIA E COMERCIO&ccvm=5770&site=B&pregao=EUCATEX&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EXCELSIOR ALIMENTOS S.A.&ccvm=1570&site=B&pregao=EXCELSIOR&mercado=1&pagina=itr_dfp_ian">EXCELSIOR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EXCELSIOR ALIMENTOS S.A.&ccvm=1570&site=B&pregao=EXCELSIOR&mercado=1&pagina=itr_dfp_ian">EXCELSIOR ALIMENTOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EXCELSIOR ALIMENTOS S.A.&ccvm=1570&site=B&pregao=EXCELSIOR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EXPRINTER LOSAN S.A. C.F.I.&ccvm=8176&site=B&pregao=EXPRINTER&mercado=1&pagina=itr_dfp_ian">EXPRINTER</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=EXPRINTER LOSAN S.A. C.F.I.&ccvm=8176&site=B&pregao=EXPRINTER&mercado=1&pagina=itr_dfp_ian">EXPRINTER LOSAN S.A. C.F.I.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=EXPRINTER LOSAN S.A. C.F.I.&ccvm=8176&site=B&pregao=EXPRINTER&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

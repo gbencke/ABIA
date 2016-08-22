@@ -1,0 +1,233 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GAFISA S.A.&ccvm=16101&site=B&pregao=GAFISA&mercado=1&pagina=itr_dfp_ian">GAFISA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GAFISA S.A.&ccvm=16101&site=B&pregao=GAFISA&mercado=1&pagina=itr_dfp_ian">GAFISA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GAFISA S.A.&ccvm=16101&site=B&pregao=GAFISA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GAZETA MERCANTIL S.A.&ccvm=14400&site=B&pregao=GAZETA MERC&mercado=1&pagina=itr_dfp_ian">GAZETA MERC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GAZETA MERCANTIL S.A.&ccvm=14400&site=B&pregao=GAZETA MERC&mercado=1&pagina=itr_dfp_ian">GAZETA MERCANTIL S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GAZETA MERCANTIL S.A.&ccvm=14400&site=B&pregao=GAZETA MERC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GAZOLA S.A. INDUSTRIA METALURGICA&ccvm=6378&site=B&pregao=GAZOLA&mercado=1&pagina=itr_dfp_ian">GAZOLA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GAZOLA S.A. INDUSTRIA METALURGICA&ccvm=6378&site=B&pregao=GAZOLA&mercado=1&pagina=itr_dfp_ian">GAZOLA S.A. INDUSTRIA METALURGICA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GAZOLA S.A. INDUSTRIA METALURGICA&ccvm=6378&site=B&pregao=GAZOLA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GEODEX COMMUNICATIONS S.A.&ccvm=18031&site=B&pregao=GEODEX&mercado=1&pagina=itr_dfp_ian">GEODEX</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GEODEX COMMUNICATIONS S.A.&ccvm=18031&site=B&pregao=GEODEX&mercado=1&pagina=itr_dfp_ian">GEODEX COMMUNICATIONS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GEODEX COMMUNICATIONS S.A.&ccvm=18031&site=B&pregao=GEODEX&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DUKE ENERGY INT. GER. PARANAPANEMA S.A.&ccvm=18368&site=B&pregao=GER PARANAP&mercado=1&pagina=itr_dfp_ian">GER PARANAP</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DUKE ENERGY INT. GER. PARANAPANEMA S.A.&ccvm=18368&site=B&pregao=GER PARANAP&mercado=1&pagina=itr_dfp_ian">DUKE ENERGY INT. GER. PARANAPANEMA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DUKE ENERGY INT. GER. PARANAPANEMA S.A.&ccvm=18368&site=B&pregao=GER PARANAP&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GERDAU S.A.&ccvm=3980&site=B&pregao=GERDAU&mercado=16&pagina=itr_dfp_ian">GERDAU</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GERDAU S.A.&ccvm=3980&site=B&pregao=GERDAU&mercado=16&pagina=itr_dfp_ian">GERDAU S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GERDAU S.A.&ccvm=3980&site=B&pregao=GERDAU&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=METALURGICA GERDAU S.A.&ccvm=8656&site=B&pregao=GERDAU MET&mercado=16&pagina=itr_dfp_ian">GERDAU MET</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=METALURGICA GERDAU S.A.&ccvm=8656&site=B&pregao=GERDAU MET&mercado=16&pagina=itr_dfp_ian">METALURGICA GERDAU S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=METALURGICA GERDAU S.A.&ccvm=8656&site=B&pregao=GERDAU MET&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GFTT S.A.&ccvm=16004&site=B&pregao=GFTT&mercado=1&pagina=itr_dfp_ian">GFTT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GFTT S.A.&ccvm=16004&site=B&pregao=GFTT&mercado=1&pagina=itr_dfp_ian">GFTT S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GFTT S.A.&ccvm=16004&site=B&pregao=GFTT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GLOBEX UTILIDADES S.A.&ccvm=6505&site=B&pregao=GLOBEX&mercado=1&pagina=itr_dfp_ian">GLOBEX</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GLOBEX UTILIDADES S.A.&ccvm=6505&site=B&pregao=GLOBEX&mercado=1&pagina=itr_dfp_ian">GLOBEX UTILIDADES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GLOBEX UTILIDADES S.A.&ccvm=6505&site=B&pregao=GLOBEX&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GPC PARTICIPACOES S.A.&ccvm=16632&site=B&pregao=GPC PART&mercado=1&pagina=itr_dfp_ian">GPC PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GPC PARTICIPACOES S.A.&ccvm=16632&site=B&pregao=GPC PART&mercado=1&pagina=itr_dfp_ian">GPC PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GPC PARTICIPACOES S.A.&ccvm=16632&site=B&pregao=GPC PART&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GRADIENTE ELETRONICA S.A.&ccvm=6815&site=B&pregao=GRADIENTE&mercado=1&pagina=itr_dfp_ian">GRADIENTE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GRADIENTE ELETRONICA S.A.&ccvm=6815&site=B&pregao=GRADIENTE&mercado=1&pagina=itr_dfp_ian">GRADIENTE ELETRONICA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GRADIENTE ELETRONICA S.A.&ccvm=6815&site=B&pregao=GRADIENTE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GRANOLEO S.A. COM IND SEM OLEAG DER&ccvm=6572&site=B&pregao=GRANOLEO&mercado=1&pagina=itr_dfp_ian">GRANOLEO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GRANOLEO S.A. COM IND SEM OLEAG DER&ccvm=6572&site=B&pregao=GRANOLEO&mercado=1&pagina=itr_dfp_ian">GRANOLEO S.A. COM IND SEM OLEAG DER</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GRANOLEO S.A. COM IND SEM OLEAG DER&ccvm=6572&site=B&pregao=GRANOLEO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GRAZZIOTIN S.A.&ccvm=4537&site=B&pregao=GRAZZIOTIN&mercado=1&pagina=itr_dfp_ian">GRAZZIOTIN</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GRAZZIOTIN S.A.&ccvm=4537&site=B&pregao=GRAZZIOTIN&mercado=1&pagina=itr_dfp_ian">GRAZZIOTIN S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GRAZZIOTIN S.A.&ccvm=4537&site=B&pregao=GRAZZIOTIN&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GRUCAI PARTICIPACOES S.A.&ccvm=15695&site=B&pregao=GRUCAI&mercado=1&pagina=itr_dfp_ian">GRUCAI</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GRUCAI PARTICIPACOES S.A.&ccvm=15695&site=B&pregao=GRUCAI&mercado=1&pagina=itr_dfp_ian">GRUCAI PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GRUCAI PARTICIPACOES S.A.&ccvm=15695&site=B&pregao=GRUCAI&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GTD PARTICIPACOES S.A.&ccvm=14915&site=B&pregao=GTD PART&mercado=1&pagina=itr_dfp_ian">GTD PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GTD PARTICIPACOES S.A.&ccvm=14915&site=B&pregao=GTD PART&mercado=1&pagina=itr_dfp_ian">GTD PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GTD PARTICIPACOES S.A.&ccvm=14915&site=B&pregao=GTD PART&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GUARARAPES CONFECCOES S.A.&ccvm=4669&site=B&pregao=GUARARAPES&mercado=1&pagina=itr_dfp_ian">GUARARAPES</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=GUARARAPES CONFECCOES S.A.&ccvm=4669&site=B&pregao=GUARARAPES&mercado=1&pagina=itr_dfp_ian">GUARARAPES CONFECCOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=GUARARAPES CONFECCOES S.A.&ccvm=4669&site=B&pregao=GUARARAPES&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

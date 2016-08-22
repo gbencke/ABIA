@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ACES4.SA (ACESITA SA)
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>0.57</TD><TD>0.60</TD><TD>0.57</TD><TD>0.60</TD><TD>1,052,440</TD><TD>0.60</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>0.59</TD><TD>0.59</TD><TD>0.56</TD><TD>0.56</TD><TD>1,345,760</TD><TD>0.56</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>0.62</TD><TD>0.62</TD><TD>0.59</TD><TD>0.59</TD><TD>661,318</TD><TD>0.59</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>0.61</TD><TD>0.62</TD><TD>0.61</TD><TD>0.62</TD><TD>433,500</TD><TD>0.62</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>0.61</TD><TD>0.64</TD><TD>0.60</TD><TD>0.60</TD><TD>1,795,640</TD><TD>0.60</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>0.60</TD><TD>0.61</TD><TD>0.59</TD><TD>0.61</TD><TD>541,140</TD><TD>0.61</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>0.60</TD><TD>0.60</TD><TD>0.59</TD><TD>0.60</TD><TD>654,980</TD><TD>0.60</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>0.61</TD><TD>0.63</TD><TD>0.61</TD><TD>0.61</TD><TD>787,900</TD><TD>0.61</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>0.61</TD><TD>0.63</TD><TD>0.60</TD><TD>0.60</TD><TD>1,381,210</TD><TD>0.60</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>0.59</TD><TD>0.62</TD><TD>0.59</TD><TD>0.62</TD><TD>763,861</TD><TD>0.62</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>0.63</TD><TD>0.63</TD><TD>0.60</TD><TD>0.60</TD><TD>1,126,470</TD><TD>0.60</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>0.63</TD><TD>0.64</TD><TD>0.60</TD><TD>0.62</TD><TD>1,396,810</TD><TD>0.62</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>0.64</TD><TD>0.64</TD><TD>0.63</TD><TD>0.63</TD><TD>1,463,630</TD><TD>0.63</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>0.64</TD><TD>0.65</TD><TD>0.63</TD><TD>0.64</TD><TD>569,600</TD><TD>0.64</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>0.64</TD><TD>0.66</TD><TD>0.64</TD><TD>0.64</TD><TD>974,281</TD><TD>0.64</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>0.65</TD><TD>0.65</TD><TD>0.63</TD><TD>0.63</TD><TD>750,492</TD><TD>0.63</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>0.63</TD><TD>0.65</TD><TD>0.63</TD><TD>0.65</TD><TD>490,579</TD><TD>0.65</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>0.65</TD><TD>0.65</TD><TD>0.62</TD><TD>0.63</TD><TD>1,167,040</TD><TD>0.63</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>0.64</TD><TD>0.65</TD><TD>0.63</TD><TD>0.65</TD><TD>1,677,420</TD><TD>0.65</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>0.67</TD><TD>0.67</TD><TD>0.65</TD><TD>0.65</TD><TD>915,681</TD><TD>0.65</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>0.67</TD><TD>0.68</TD><TD>0.65</TD><TD>0.67</TD><TD>1,318,470</TD><TD>0.67</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>0.68</TD><TD>0.68</TD><TD>0.67</TD><TD>0.67</TD><TD>1,206,290</TD><TD>0.67</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>17,670.00</TD><TD>17,673.00</TD><TD>16,977.00</TD><TD>17,039.00</TD><TD>0</TD><TD>17,039.00</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>17,725.00</TD><TD>17,921.00</TD><TD>17,637.00</TD><TD>17,673.00</TD><TD>0</TD><TD>17,673.00</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>17,882.00</TD><TD>17,898.00</TD><TD>17,668.00</TD><TD>17,723.00</TD><TD>0</TD><TD>17,723.00</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>17,906.00</TD><TD>18,023.00</TD><TD>17,704.00</TD><TD>17,883.00</TD><TD>0</TD><TD>17,883.00</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>17,776.00</TD><TD>17,933.00</TD><TD>17,591.00</TD><TD>17,889.00</TD><TD>0</TD><TD>17,889.00</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>17,849.00</TD><TD>18,022.00</TD><TD>17,698.00</TD><TD>17,772.00</TD><TD>0</TD><TD>17,772.00</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>17,381.00</TD><TD>17,864.00</TD><TD>17,376.00</TD><TD>17,832.00</TD><TD>0</TD><TD>17,832.00</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>17,548.00</TD><TD>17,578.00</TD><TD>17,297.00</TD><TD>17,392.00</TD><TD>0</TD><TD>17,392.00</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>17,525.00</TD><TD>17,816.00</TD><TD>17,512.00</TD><TD>17,530.00</TD><TD>0</TD><TD>17,530.00</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>17,204.00</TD><TD>17,642.00</TD><TD>17,151.00</TD><TD>17,521.00</TD><TD>0</TD><TD>17,521.00</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>16,748.00</TD><TD>17,255.00</TD><TD>16,745.00</TD><TD>17,191.00</TD><TD>0</TD><TD>17,191.00</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>16,973.00</TD><TD>17,035.00</TD><TD>16,662.00</TD><TD>16,721.00</TD><TD>0</TD><TD>16,721.00</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>16,858.00</TD><TD>17,038.00</TD><TD>16,858.00</TD><TD>16,963.00</TD><TD>0</TD><TD>16,963.00</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>17,034.00</TD><TD>17,212.00</TD><TD>16,821.00</TD><TD>16,850.00</TD><TD>0</TD><TD>16,850.00</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>16,908.00</TD><TD>17,045.00</TD><TD>16,797.00</TD><TD>17,024.00</TD><TD>0</TD><TD>17,024.00</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>16,964.00</TD><TD>17,093.00</TD><TD>16,701.00</TD><TD>16,919.00</TD><TD>0</TD><TD>16,919.00</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>16,566.00</TD><TD>17,096.00</TD><TD>16,566.00</TD><TD>16,976.00</TD><TD>0</TD><TD>16,976.00</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>16,398.00</TD><TD>16,623.00</TD><TD>16,226.00</TD><TD>16,562.00</TD><TD>0</TD><TD>16,562.00</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>16,679.00</TD><TD>16,888.00</TD><TD>16,380.00</TD><TD>16,410.00</TD><TD>0</TD><TD>16,410.00</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>16,597.00</TD><TD>16,933.00</TD><TD>16,587.00</TD><TD>16,675.00</TD><TD>0</TD><TD>16,675.00</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>15,425.00</TD><TD>16,599.00</TD><TD>15,251.00</TD><TD>16,599.00</TD><TD>0</TD><TD>16,599.00</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>15,242.00</TD><TD>15,621.00</TD><TD>15,174.00</TD><TD>15,425.00</TD><TD>0</TD><TD>15,425.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

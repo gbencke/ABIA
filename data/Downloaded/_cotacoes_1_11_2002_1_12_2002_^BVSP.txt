@@ -1,0 +1,122 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Nov-29-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-29-02</TD><TD>10,250.00</TD><TD>10,519.00</TD><TD>10,250.00</TD><TD>10,509.00</TD><TD>0</TD><TD>10,509.00</TD></TR>
+<TR>
+<TD>Nov-28-02</TD><TD>10,222.00</TD><TD>10,292.00</TD><TD>10,187.00</TD><TD>10,239.00</TD><TD>0</TD><TD>10,239.00</TD></TR>
+<TR>
+<TD>Nov-27-02</TD><TD>10,142.00</TD><TD>10,286.00</TD><TD>10,123.00</TD><TD>10,226.00</TD><TD>0</TD><TD>10,226.00</TD></TR>
+<TR>
+<TD>Nov-26-02</TD><TD>10,243.00</TD><TD>10,283.00</TD><TD>10,084.00</TD><TD>10,132.00</TD><TD>0</TD><TD>10,132.00</TD></TR>
+<TR>
+<TD>Nov-25-02</TD><TD>10,407.00</TD><TD>10,447.00</TD><TD>10,234.00</TD><TD>10,246.00</TD><TD>0</TD><TD>10,246.00</TD></TR>
+<TR>
+<TD>Nov-22-02</TD><TD>10,288.00</TD><TD>10,433.00</TD><TD>10,124.00</TD><TD>10,404.00</TD><TD>0</TD><TD>10,404.00</TD></TR>
+<TR>
+<TD>Nov-21-02</TD><TD>10,105.00</TD><TD>10,318.00</TD><TD>10,086.00</TD><TD>10,289.00</TD><TD>0</TD><TD>10,289.00</TD></TR>
+<TR>
+<TD>Nov-20-02</TD><TD>9,983.00</TD><TD>10,112.00</TD><TD>9,901.00</TD><TD>10,088.00</TD><TD>0</TD><TD>10,088.00</TD></TR>
+<TR>
+<TD>Nov-19-02</TD><TD>9,971.00</TD><TD>10,052.00</TD><TD>9,839.00</TD><TD>9,971.00</TD><TD>0</TD><TD>9,971.00</TD></TR>
+<TR>
+<TD>Nov-18-02</TD><TD>9,910.00</TD><TD>10,100.00</TD><TD>9,910.00</TD><TD>9,971.00</TD><TD>0</TD><TD>9,971.00</TD></TR>
+<TR>
+<TD>Nov-14-02</TD><TD>9,762.00</TD><TD>9,904.00</TD><TD>9,738.00</TD><TD>9,884.00</TD><TD>0</TD><TD>9,884.00</TD></TR>
+<TR>
+<TD>Nov-13-02</TD><TD>9,721.00</TD><TD>9,813.00</TD><TD>9,569.00</TD><TD>9,764.00</TD><TD>0</TD><TD>9,764.00</TD></TR>
+<TR>
+<TD>Nov-12-02</TD><TD>9,864.00</TD><TD>9,871.00</TD><TD>9,647.00</TD><TD>9,721.00</TD><TD>0</TD><TD>9,721.00</TD></TR>
+<TR>
+<TD>Nov-11-02</TD><TD>9,873.00</TD><TD>9,977.00</TD><TD>9,868.00</TD><TD>9,886.00</TD><TD>0</TD><TD>9,886.00</TD></TR>
+<TR>
+<TD>Nov-08-02</TD><TD>9,859.00</TD><TD>10,030.00</TD><TD>9,857.00</TD><TD>9,860.00</TD><TD>0</TD><TD>9,860.00</TD></TR>
+<TR>
+<TD>Nov-07-02</TD><TD>9,734.00</TD><TD>9,893.00</TD><TD>9,618.00</TD><TD>9,799.00</TD><TD>0</TD><TD>9,799.00</TD></TR>
+<TR>
+<TD>Nov-06-02</TD><TD>9,857.00</TD><TD>9,861.00</TD><TD>9,583.00</TD><TD>9,703.00</TD><TD>0</TD><TD>9,703.00</TD></TR>
+<TR>
+<TD>Nov-05-02</TD><TD>9,904.00</TD><TD>10,034.00</TD><TD>9,825.00</TD><TD>9,861.00</TD><TD>0</TD><TD>9,861.00</TD></TR>
+<TR>
+<TD>Nov-04-02</TD><TD>10,147.00</TD><TD>10,378.00</TD><TD>9,913.00</TD><TD>9,913.00</TD><TD>0</TD><TD>9,913.00</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>10,172.00</TD><TD>10,266.00</TD><TD>10,043.00</TD><TD>10,140.00</TD><TD>0</TD><TD>10,140.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CPLE6.SA (COMPANHIA PARANAENSE DE ENERGIA)
+        </TD><TD>As of Nov-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>13.16</TD><TD>13.35</TD><TD>12.75</TD><TD>12.96</TD><TD>723,389</TD><TD>12.61</TD></TR>
+<TR>
+<TD>Oct-31-01</TD><TD>13.60</TD><TD>14.20</TD><TD>13.00</TD><TD>13.40</TD><TD>1,165,570</TD><TD>13.05</TD></TR>
+<TR>
+<TD>Oct-30-01</TD><TD>$0.31 Cash Dividend</TD></TR>
+<TR>
+<TD>Oct-30-01</TD><TD>14.20</TD><TD>14.49</TD><TD>13.60</TD><TD>13.71</TD><TD>1,099,980</TD><TD>13.36</TD></TR>
+<TR>
+<TD>Oct-29-01</TD><TD>15.40</TD><TD>15.51</TD><TD>14.12</TD><TD>14.35</TD><TD>527,585</TD><TD>13.70</TD></TR>
+<TR>
+<TD>Oct-26-01</TD><TD>15.70</TD><TD>15.75</TD><TD>14.80</TD><TD>15.00</TD><TD>752,039</TD><TD>14.35</TD></TR>
+<TR>
+<TD>Oct-25-01</TD><TD>16.15</TD><TD>16.30</TD><TD>15.50</TD><TD>15.61</TD><TD>1,882,040</TD><TD>14.96</TD></TR>
+<TR>
+<TD>Oct-24-01</TD><TD>16.15</TD><TD>16.40</TD><TD>16.02</TD><TD>16.15</TD><TD>309,581</TD><TD>15.50</TD></TR>
+<TR>
+<TD>Oct-23-01</TD><TD>15.99</TD><TD>16.44</TD><TD>15.85</TD><TD>16.30</TD><TD>485,340</TD><TD>15.65</TD></TR>
+<TR>
+<TD>Oct-22-01</TD><TD>15.80</TD><TD>15.99</TD><TD>15.30</TD><TD>15.78</TD><TD>258,700</TD><TD>15.13</TD></TR>
+<TR>
+<TD>Oct-19-01</TD><TD>14.85</TD><TD>15.99</TD><TD>14.61</TD><TD>15.49</TD><TD>481,646</TD><TD>14.84</TD></TR>
+<TR>
+<TD>Oct-18-01</TD><TD>15.10</TD><TD>15.20</TD><TD>14.50</TD><TD>14.83</TD><TD>390,536</TD><TD>14.18</TD></TR>
+<TR>
+<TD>Oct-17-01</TD><TD>15.80</TD><TD>16.00</TD><TD>14.66</TD><TD>14.95</TD><TD>388,984</TD><TD>14.30</TD></TR>
+<TR>
+<TD>Oct-16-01</TD><TD>15.50</TD><TD>15.85</TD><TD>15.29</TD><TD>15.60</TD><TD>206,420</TD><TD>14.95</TD></TR>
+<TR>
+<TD>Oct-15-01</TD><TD>14.35</TD><TD>15.65</TD><TD>14.35</TD><TD>15.55</TD><TD>531,071</TD><TD>14.90</TD></TR>
+<TR>
+<TD>Oct-11-01</TD><TD>14.00</TD><TD>14.55</TD><TD>13.80</TD><TD>14.35</TD><TD>236,382</TD><TD>13.70</TD></TR>
+<TR>
+<TD>Oct-10-01</TD><TD>13.80</TD><TD>14.15</TD><TD>13.50</TD><TD>13.91</TD><TD>202,445</TD><TD>13.26</TD></TR>
+<TR>
+<TD>Oct-09-01</TD><TD>13.70</TD><TD>13.89</TD><TD>13.50</TD><TD>13.80</TD><TD>171,401</TD><TD>13.15</TD></TR>
+<TR>
+<TD>Oct-08-01</TD><TD>13.50</TD><TD>14.20</TD><TD>13.45</TD><TD>13.64</TD><TD>155,001</TD><TD>12.99</TD></TR>
+<TR>
+<TD>Oct-05-01</TD><TD>14.30</TD><TD>14.60</TD><TD>13.21</TD><TD>14.00</TD><TD>386,540</TD><TD>13.35</TD></TR>
+<TR>
+<TD>Oct-04-01</TD><TD>14.20</TD><TD>14.50</TD><TD>14.19</TD><TD>14.30</TD><TD>852,471</TD><TD>13.65</TD></TR>
+<TR>
+<TD>Oct-02-01</TD><TD>14.60</TD><TD>14.70</TD><TD>13.80</TD><TD>14.10</TD><TD>104,627</TD><TD>13.45</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>15.20</TD><TD>15.25</TD><TD>14.20</TD><TD>14.60</TD><TD>215,921</TD><TD>13.95</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

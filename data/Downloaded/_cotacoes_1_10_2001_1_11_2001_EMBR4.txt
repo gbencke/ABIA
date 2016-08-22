@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EMBR4.SA (EMBRAER SA)
+        </TD><TD>As of Nov-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>11.76</TD><TD>12.15</TD><TD>11.60</TD><TD>12.05</TD><TD>202</TD><TD>11.30</TD></TR>
+<TR>
+<TD>Oct-31-01</TD><TD>11.60</TD><TD>11.89</TD><TD>11.32</TD><TD>11.69</TD><TD>481</TD><TD>10.94</TD></TR>
+<TR>
+<TD>Oct-30-01</TD><TD>11.91</TD><TD>12.05</TD><TD>11.30</TD><TD>11.45</TD><TD>505</TD><TD>10.70</TD></TR>
+<TR>
+<TD>Oct-29-01</TD><TD>12.10</TD><TD>12.40</TD><TD>11.70</TD><TD>11.85</TD><TD>593</TD><TD>11.10</TD></TR>
+<TR>
+<TD>Oct-26-01</TD><TD>11.84</TD><TD>12.40</TD><TD>11.70</TD><TD>11.95</TD><TD>481</TD><TD>11.20</TD></TR>
+<TR>
+<TD>Oct-25-01</TD><TD>11.80</TD><TD>11.90</TD><TD>11.55</TD><TD>11.73</TD><TD>313</TD><TD>10.98</TD></TR>
+<TR>
+<TD>Oct-24-01</TD><TD>11.70</TD><TD>11.80</TD><TD>11.55</TD><TD>11.80</TD><TD>388</TD><TD>11.05</TD></TR>
+<TR>
+<TD>Oct-23-01</TD><TD>11.95</TD><TD>12.00</TD><TD>11.70</TD><TD>11.70</TD><TD>877</TD><TD>10.95</TD></TR>
+<TR>
+<TD>Oct-22-01</TD><TD>11.58</TD><TD>11.99</TD><TD>11.40</TD><TD>11.80</TD><TD>1,842</TD><TD>11.05</TD></TR>
+<TR>
+<TD>Oct-19-01</TD><TD>10.43</TD><TD>11.50</TD><TD>10.15</TD><TD>11.40</TD><TD>1,481</TD><TD>10.65</TD></TR>
+<TR>
+<TD>Oct-18-01</TD><TD>10.10</TD><TD>10.58</TD><TD>9.95</TD><TD>10.42</TD><TD>735</TD><TD>9.67</TD></TR>
+<TR>
+<TD>Oct-17-01</TD><TD>10.15</TD><TD>10.30</TD><TD>9.90</TD><TD>10.09</TD><TD>697</TD><TD>9.34</TD></TR>
+<TR>
+<TD>Oct-16-01</TD><TD>10.10</TD><TD>10.30</TD><TD>9.90</TD><TD>10.00</TD><TD>841</TD><TD>9.25</TD></TR>
+<TR>
+<TD>Oct-15-01</TD><TD>$0.08 Cash Dividend</TD></TR>
+<TR>
+<TD>Oct-15-01</TD><TD>9.85</TD><TD>10.05</TD><TD>9.60</TD><TD>10.05</TD><TD>382</TD><TD>9.30</TD></TR>
+<TR>
+<TD>Oct-11-01</TD><TD>9.10</TD><TD>10.05</TD><TD>9.10</TD><TD>9.94</TD><TD>663</TD><TD>9.11</TD></TR>
+<TR>
+<TD>Oct-09-01</TD><TD>8.57</TD><TD>8.70</TD><TD>8.45</TD><TD>8.70</TD><TD>980</TD><TD>7.87</TD></TR>
+<TR>
+<TD>Oct-08-01</TD><TD>8.45</TD><TD>8.90</TD><TD>8.35</TD><TD>8.40</TD><TD>535</TD><TD>7.57</TD></TR>
+<TR>
+<TD>Oct-05-01</TD><TD>9.00</TD><TD>9.00</TD><TD>8.55</TD><TD>8.60</TD><TD>838</TD><TD>7.77</TD></TR>
+<TR>
+<TD>Oct-04-01</TD><TD>8.20</TD><TD>9.20</TD><TD>8.20</TD><TD>8.70</TD><TD>1,961</TD><TD>7.87</TD></TR>
+<TR>
+<TD>Oct-02-01</TD><TD>7.65</TD><TD>8.19</TD><TD>7.65</TD><TD>8.12</TD><TD>874</TD><TD>7.29</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>7.88</TD><TD>8.09</TD><TD>7.51</TD><TD>7.65</TD><TD>1,279</TD><TD>6.82</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

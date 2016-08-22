@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PTIP4.SA (COMPANHIA BRASILEIRA DE PETROLE)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>16.05</TD><TD>16.20</TD><TD>16.05</TD><TD>16.20</TD><TD>17,330</TD><TD>15.20</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>16.09</TD><TD>16.10</TD><TD>16.05</TD><TD>16.05</TD><TD>20,106</TD><TD>15.05</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>16.00</TD><TD>16.10</TD><TD>16.00</TD><TD>16.05</TD><TD>28,840</TD><TD>15.05</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>16.00</TD><TD>16.05</TD><TD>15.90</TD><TD>16.05</TD><TD>16,282</TD><TD>15.05</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>16.24</TD><TD>16.24</TD><TD>16.00</TD><TD>16.07</TD><TD>23,276</TD><TD>15.07</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>16.48</TD><TD>16.48</TD><TD>15.90</TD><TD>16.17</TD><TD>13,916</TD><TD>15.17</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>16.00</TD><TD>16.00</TD><TD>15.90</TD><TD>15.90</TD><TD>13,000</TD><TD>14.90</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>16.05</TD><TD>16.10</TD><TD>16.00</TD><TD>16.00</TD><TD>51,000</TD><TD>15.00</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>16.10</TD><TD>16.10</TD><TD>16.00</TD><TD>16.05</TD><TD>56,806</TD><TD>15.05</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>16.05</TD><TD>16.05</TD><TD>16.00</TD><TD>16.00</TD><TD>46,780</TD><TD>15.00</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>16.01</TD><TD>16.20</TD><TD>16.00</TD><TD>16.05</TD><TD>33,200</TD><TD>15.05</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>16.00</TD><TD>16.10</TD><TD>16.00</TD><TD>16.05</TD><TD>24,560</TD><TD>15.05</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>16.10</TD><TD>16.29</TD><TD>16.02</TD><TD>16.29</TD><TD>6,813</TD><TD>15.29</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>16.05</TD><TD>16.25</TD><TD>16.05</TD><TD>16.05</TD><TD>19,173</TD><TD>15.05</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>16.00</TD><TD>16.01</TD><TD>16.00</TD><TD>16.01</TD><TD>3,450</TD><TD>15.01</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>16.00</TD><TD>16.39</TD><TD>16.00</TD><TD>16.01</TD><TD>16,100</TD><TD>15.01</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>16.00</TD><TD>16.40</TD><TD>16.00</TD><TD>16.00</TD><TD>38,033</TD><TD>15.00</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>16.38</TD><TD>16.38</TD><TD>16.00</TD><TD>16.00</TD><TD>17,824</TD><TD>15.00</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>16.20</TD><TD>16.49</TD><TD>16.00</TD><TD>16.00</TD><TD>36,226</TD><TD>15.00</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>16.20</TD><TD>16.44</TD><TD>16.20</TD><TD>16.39</TD><TD>3,199</TD><TD>15.39</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>16.40</TD><TD>16.70</TD><TD>16.11</TD><TD>16.60</TD><TD>43,808</TD><TD>15.60</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>16.40</TD><TD>16.50</TD><TD>16.03</TD><TD>16.49</TD><TD>15,829</TD><TD>15.49</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>16.01</TD><TD>16.39</TD><TD>15.80</TD><TD>16.39</TD><TD>56,555</TD><TD>15.39</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

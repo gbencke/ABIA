@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TCSL3.SA (TELE CELULAR SUL PARTICIPACOES )
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>2.03</TD><TD>2.06</TD><TD>1.95</TD><TD>2.00</TD><TD>266,983</TD><TD>1.97</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>2.00</TD><TD>2.00</TD><TD>1.92</TD><TD>1.96</TD><TD>145,620</TD><TD>1.93</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>2.09</TD><TD>2.10</TD><TD>2.00</TD><TD>2.00</TD><TD>130,687</TD><TD>1.97</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>2.20</TD><TD>2.22</TD><TD>2.08</TD><TD>2.08</TD><TD>167,459</TD><TD>2.05</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>2.20</TD><TD>2.20</TD><TD>2.10</TD><TD>2.15</TD><TD>303,659</TD><TD>2.12</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>2.08</TD><TD>2.19</TD><TD>2.05</TD><TD>2.12</TD><TD>93,114</TD><TD>2.09</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>2.03</TD><TD>2.12</TD><TD>2.01</TD><TD>2.12</TD><TD>144,811</TD><TD>2.09</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>2.14</TD><TD>2.14</TD><TD>2.04</TD><TD>2.14</TD><TD>72,497</TD><TD>2.11</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>2.14</TD><TD>2.14</TD><TD>2.05</TD><TD>2.08</TD><TD>53,383</TD><TD>2.05</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>2.14</TD><TD>2.14</TD><TD>2.04</TD><TD>2.10</TD><TD>173,761</TD><TD>2.07</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>2.22</TD><TD>2.22</TD><TD>2.08</TD><TD>2.08</TD><TD>113,942</TD><TD>2.05</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>2.24</TD><TD>2.25</TD><TD>2.14</TD><TD>2.17</TD><TD>117,024</TD><TD>2.14</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>2.13</TD><TD>2.28</TD><TD>2.13</TD><TD>2.28</TD><TD>123,535</TD><TD>2.25</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>2.09</TD><TD>2.23</TD><TD>2.09</TD><TD>2.20</TD><TD>123,836</TD><TD>2.17</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>2.13</TD><TD>2.24</TD><TD>2.13</TD><TD>2.13</TD><TD>409,465</TD><TD>2.10</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>2.13</TD><TD>2.13</TD><TD>2.07</TD><TD>2.12</TD><TD>84,886</TD><TD>2.09</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>2.07</TD><TD>2.13</TD><TD>2.07</TD><TD>2.10</TD><TD>77,704</TD><TD>2.07</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>2.16</TD><TD>2.16</TD><TD>2.03</TD><TD>2.05</TD><TD>156,568</TD><TD>2.02</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>2.08</TD><TD>2.18</TD><TD>2.06</TD><TD>2.08</TD><TD>181,246</TD><TD>2.05</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>2.08</TD><TD>2.17</TD><TD>2.06</TD><TD>2.16</TD><TD>171,259</TD><TD>2.13</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>2.05</TD><TD>2.15</TD><TD>2.05</TD><TD>2.13</TD><TD>315,464</TD><TD>2.10</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>2.23</TD><TD>2.23</TD><TD>2.11</TD><TD>2.13</TD><TD>182,022</TD><TD>2.10</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

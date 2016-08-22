@@ -1,0 +1,132 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELET3.SA (ELETROBRAS)
+        </TD><TD>As of Apr-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-01-03</TD><TD>18.50</TD><TD>19.48</TD><TD>18.50</TD><TD>18.90</TD><TD>149,654</TD><TD>18.35</TD></TR>
+<TR>
+<TD>Mar-31-03</TD><TD>18.26</TD><TD>18.26</TD><TD>17.91</TD><TD>18.23</TD><TD>107,107</TD><TD>17.68</TD></TR>
+<TR>
+<TD>Mar-28-03</TD><TD>17.95</TD><TD>18.46</TD><TD>17.95</TD><TD>18.46</TD><TD>130,970</TD><TD>17.91</TD></TR>
+<TR>
+<TD>Mar-27-03</TD><TD>17.89</TD><TD>18.25</TD><TD>17.72</TD><TD>17.95</TD><TD>33,274</TD><TD>17.40</TD></TR>
+<TR>
+<TD>Mar-26-03</TD><TD>18.15</TD><TD>18.48</TD><TD>18.05</TD><TD>18.30</TD><TD>64,437</TD><TD>17.75</TD></TR>
+<TR>
+<TD>Mar-25-03</TD><TD>17.90</TD><TD>18.35</TD><TD>17.63</TD><TD>18.10</TD><TD>85,490</TD><TD>17.55</TD></TR>
+<TR>
+<TD>Mar-24-03</TD><TD>17.81</TD><TD>17.95</TD><TD>17.50</TD><TD>17.65</TD><TD>150,045</TD><TD>17.10</TD></TR>
+<TR>
+<TD>Mar-21-03</TD><TD>18.20</TD><TD>18.55</TD><TD>18.02</TD><TD>18.12</TD><TD>166,704</TD><TD>17.57</TD></TR>
+<TR>
+<TD>Mar-20-03</TD><TD>17.60</TD><TD>18.30</TD><TD>17.56</TD><TD>18.05</TD><TD>181,020</TD><TD>17.50</TD></TR>
+<TR>
+<TD>Mar-19-03</TD><TD>18.20</TD><TD>18.60</TD><TD>17.86</TD><TD>17.86</TD><TD>199,355</TD><TD>17.31</TD></TR>
+<TR>
+<TD>Mar-18-03</TD><TD>18.10</TD><TD>18.81</TD><TD>18.10</TD><TD>18.40</TD><TD>152,845</TD><TD>17.85</TD></TR>
+<TR>
+<TD>Mar-17-03</TD><TD>17.15</TD><TD>18.55</TD><TD>17.15</TD><TD>18.08</TD><TD>116,165</TD><TD>17.53</TD></TR>
+<TR>
+<TD>Mar-14-03</TD><TD>17.90</TD><TD>18.20</TD><TD>17.50</TD><TD>18.04</TD><TD>254,472</TD><TD>17.49</TD></TR>
+<TR>
+<TD>Mar-13-03</TD><TD>18.60</TD><TD>18.60</TD><TD>17.70</TD><TD>17.90</TD><TD>272,206</TD><TD>17.35</TD></TR>
+<TR>
+<TD>Mar-12-03</TD><TD>15.00</TD><TD>15.00</TD><TD>15.00</TD><TD>15.00</TD><TD>0</TD><TD>14.45</TD></TR>
+<TR>
+<TD>Mar-11-03</TD><TD>17.40</TD><TD>18.10</TD><TD>17.02</TD><TD>17.70</TD><TD>207,361</TD><TD>17.15</TD></TR>
+<TR>
+<TD>Mar-10-03</TD><TD>18.18</TD><TD>18.29</TD><TD>17.35</TD><TD>17.35</TD><TD>114,911</TD><TD>16.80</TD></TR>
+<TR>
+<TD>Mar-07-03</TD><TD>18.11</TD><TD>19.51</TD><TD>17.90</TD><TD>18.80</TD><TD>159,412</TD><TD>18.25</TD></TR>
+<TR>
+<TD>Mar-06-03</TD><TD>18.00</TD><TD>18.50</TD><TD>17.70</TD><TD>18.30</TD><TD>150,023</TD><TD>17.75</TD></TR>
+<TR>
+<TD>Mar-05-03</TD><TD>16.99</TD><TD>17.45</TD><TD>16.70</TD><TD>17.21</TD><TD>74,275</TD><TD>16.66</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TCOC4.SA (TELE CENTRO OESTE CELULAR PARTI)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>6.72</TD><TD>6.99</TD><TD>6.60</TD><TD>6.82</TD><TD>902,994</TD><TD>6.50</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>6.84</TD><TD>6.84</TD><TD>6.70</TD><TD>6.70</TD><TD>500,874</TD><TD>6.38</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>6.80</TD><TD>6.85</TD><TD>6.60</TD><TD>6.70</TD><TD>478,036</TD><TD>6.38</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>6.70</TD><TD>6.95</TD><TD>6.69</TD><TD>6.80</TD><TD>261,415</TD><TD>6.48</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>6.89</TD><TD>6.90</TD><TD>6.50</TD><TD>6.69</TD><TD>247,938</TD><TD>6.37</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>6.90</TD><TD>7.00</TD><TD>6.62</TD><TD>6.68</TD><TD>242,384</TD><TD>6.36</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>7.10</TD><TD>7.10</TD><TD>6.80</TD><TD>6.90</TD><TD>636,103</TD><TD>6.58</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>7.00</TD><TD>7.10</TD><TD>6.80</TD><TD>7.00</TD><TD>982,926</TD><TD>6.68</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>7.35</TD><TD>7.40</TD><TD>7.00</TD><TD>7.00</TD><TD>1,414,930</TD><TD>6.68</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>6.69</TD><TD>7.60</TD><TD>6.60</TD><TD>7.21</TD><TD>2,800,400</TD><TD>6.89</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>6.76</TD><TD>6.80</TD><TD>6.54</TD><TD>6.70</TD><TD>1,048,960</TD><TD>6.38</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>6.48</TD><TD>6.80</TD><TD>6.20</TD><TD>6.65</TD><TD>1,448,750</TD><TD>6.33</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>6.22</TD><TD>6.50</TD><TD>6.06</TD><TD>6.42</TD><TD>1,049,140</TD><TD>6.10</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>5.73</TD><TD>6.20</TD><TD>5.73</TD><TD>6.09</TD><TD>775,348</TD><TD>5.77</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>5.85</TD><TD>5.90</TD><TD>5.50</TD><TD>5.85</TD><TD>150,132</TD><TD>5.53</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>6.00</TD><TD>6.23</TD><TD>5.85</TD><TD>5.94</TD><TD>317,104</TD><TD>5.62</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>6.20</TD><TD>6.29</TD><TD>6.10</TD><TD>6.16</TD><TD>400,716</TD><TD>5.84</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>6.01</TD><TD>6.10</TD><TD>5.85</TD><TD>6.02</TD><TD>389,521</TD><TD>5.70</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>6.11</TD><TD>6.20</TD><TD>5.92</TD><TD>6.01</TD><TD>286,926</TD><TD>5.69</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>6.28</TD><TD>6.28</TD><TD>5.95</TD><TD>6.11</TD><TD>311,077</TD><TD>5.79</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>6.10</TD><TD>6.19</TD><TD>6.03</TD><TD>6.10</TD><TD>460,123</TD><TD>5.78</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>6.00</TD><TD>6.20</TD><TD>5.86</TD><TD>6.04</TD><TD>361,753</TD><TD>5.72</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>6.20</TD><TD>6.35</TD><TD>5.90</TD><TD>5.91</TD><TD>481,797</TD><TD>5.59</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

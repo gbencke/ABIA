@@ -1,0 +1,510 @@
+
+<html>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<title>01 - Demonstração do Resultado</title>
+<style type="text/css">  
+<!--
+a {text-decoration: none}
+a:hover {text-decoration: underline}
+.label{color: #CC0000; font-size: 9pt; font-weight: bold; font-family:  Arial;}
+.text{color: #000000; font-size: 8pt; font-weight: normal; font-family:  Arial;}
+.ScrollMaker{       
+       position=relative; 
+       top:0px; 
+       width:640px; 
+       left:0px; 
+       height:200px; 
+       overflow:auto;}
+DIV  {SCROLLBAR-FACE-COLOR: #CE3039; SCROLLBAR-HIGHLIGHT-COLOR:  #E76163; SCROLLBAR-SHADOW-COLOR: #A52021; SCROLLBAR-ARROW-COLOR:  #FFF7EF; SCROLLBAR-BASE-COLOR: #E79E9C; scrollbar-3d-light-color:  #FFF7EF; scrollbar-dark-shadow-color:  #A52021}
+-->
+</style>
+<link rel="stylesheet" type="text/css" href="ahover.css">
+<link rel="stylesheet" type="text/css" href="hover.css">
+</head>
+
+
+<body background="images/fundo_destaques.gif" bgProperties="fixed" bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#6A6A6A" alink="#CC0000" scroll="auto">
+
+<center>
+<table width="80%" border="0" cellspacing="2" cellpadding="1">
+  <tr>
+    <td>
+		<table border="0" cellspacing="0" cellpadding="2">
+	<tr>
+		<td valign="top">
+			<table border="0" cellspacing="0" cellpadding="2">
+			    <tr>
+					<td class="text"><font color="#CC0000"> 
+						
+								<b>Grupo 03 - Demonstração do Resultado</b> - 
+								01 - Demonstração do Resultado 
+			        </font>
+					</td>
+			    </tr>
+			    <tr>
+					<td height="1" width="540" bgcolor="#000000"></td>
+			    </tr>
+				<tr>
+					<td class="text">
+						
+								| <a href="DIVEXTDemonstracaoResultado.asp?TipoInfo=C" title="01 - Demonstração do Resultado">01 - Demonstração do Resultado</a>
+								| <a href="DIVEXTLucroPrejuizo.asp?TipoInfo=C" title="02 - Lucro ou Prejuízo por Ação"> 02 - Lucro ou Prejuízo por Ação</a> |<br>
+								
+					</td>
+				</tr>
+			</table>	
+		</td>
+		<td></td>
+	</tr>
+</table>
+    </td>
+  </tr>
+
+		  <tr>
+		    <td>
+		        <table width="50" border="0" cellspacing="2" cellpadding="0">
+		          <tr>
+		            <td nowrap class="text">(<b>Reais&nbsp;Mil)</b></td>
+		          </tr>
+		        </table>
+		      <div class="ScrollMaker">
+		       <table border="0" cellspacing="1" cellpadding="2" bgcolor="#000000">
+				<tr align="left" valign="top" bgcolor="#E0E0E0">
+					<td nowrap class="label">Código da Conta</td>
+					<td nowrap class="label">Descrição da Conta</td>
+
+								
+						<td nowrap class="label">01/01/1999 a 31/12/1999</td>
+						
+							<td nowrap class=label>01/01/1998 a 31/12/1998</td>
+							
+							<td nowrap class=label>01/01/1997 a 31/12/1997</td>
+									
+						</tr>
+						
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.01         </td>
+								<td nowrap align=left class=text>Receitas Da Intermediação Financeira    </td>
+							
+								<td nowrap align=right class=text>24.770.664</td>
+								
+								<td nowrap align=right class=text>21.972.425</td>
+								
+								<td nowrap align=right class=text>14.089.265</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.01.01      </td>
+								<td nowrap align=left class=text>Operações De Crédito                    </td>
+							
+								<td nowrap align=right class=text>9.322.996</td>
+								
+								<td nowrap align=right class=text>11.041.343</td>
+								
+								<td nowrap align=right class=text>8.072.330</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.01.02      </td>
+								<td nowrap align=left class=text>Res. De Oper. C/titulos E Val.mobiliário</td>
+							
+								<td nowrap align=right class=text>7.303.258</td>
+								
+								<td nowrap align=right class=text>6.312.249</td>
+								
+								<td nowrap align=right class=text>3.474.481</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.01.03      </td>
+								<td nowrap align=left class=text>Resultado De Operações C/câmbio         </td>
+							
+								<td nowrap align=right class=text>4.000.451</td>
+								
+								<td nowrap align=right class=text>615.233</td>
+								
+								<td nowrap align=right class=text>345.337</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.01.04      </td>
+								<td nowrap align=left class=text>Resultado Das Aplicações Compulsorias   </td>
+							
+								<td nowrap align=right class=text>4.143.959</td>
+								
+								<td nowrap align=right class=text>4.003.600</td>
+								
+								<td nowrap align=right class=text>2.197.117</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.02         </td>
+								<td nowrap align=left class=text>Despesas Da Intermediação Financeira    </td>
+							
+								<td nowrap align=right class=text>(24.236.172)</td>
+								
+								<td nowrap align=right class=text>(19.329.235)</td>
+								
+								<td nowrap align=right class=text>(16.997.058)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.02.01      </td>
+								<td nowrap align=left class=text>Operações De Captação No Mercado        </td>
+							
+								<td nowrap align=right class=text>(9.849.215)</td>
+								
+								<td nowrap align=right class=text>(10.099.137)</td>
+								
+								<td nowrap align=right class=text>(7.645.983)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.02.02      </td>
+								<td nowrap align=left class=text>Op. De Emprestimos, Cessões E Repasses  </td>
+							
+								<td nowrap align=right class=text>(8.769.154)</td>
+								
+								<td nowrap align=right class=text>(4.237.063)</td>
+								
+								<td nowrap align=right class=text>(2.761.278)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.02.03      </td>
+								<td nowrap align=left class=text>Provisão P/créditos De Liq.duvidosa     </td>
+							
+								<td nowrap align=right class=text>(5.617.803)</td>
+								
+								<td nowrap align=right class=text>(4.993.035)</td>
+								
+								<td nowrap align=right class=text>(6.589.797)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.03         </td>
+								<td nowrap align=left class=text>Resultado Bruto Da Intermediação Finance</td>
+							
+								<td nowrap align=right class=text>534.492</td>
+								
+								<td nowrap align=right class=text>2.643.190</td>
+								
+								<td nowrap align=right class=text>(2.907.793)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04         </td>
+								<td nowrap align=left class=text>Outras Despesas/receitas Operacionais   </td>
+							
+								<td nowrap align=right class=text>(336.484)</td>
+								
+								<td nowrap align=right class=text>(1.396.697)</td>
+								
+								<td nowrap align=right class=text>(7.836.138)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04.01      </td>
+								<td nowrap align=left class=text>Receitas De Prestação De Serviços       </td>
+							
+								<td nowrap align=right class=text>2.879.678</td>
+								
+								<td nowrap align=right class=text>2.590.722</td>
+								
+								<td nowrap align=right class=text>2.482.428</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04.02      </td>
+								<td nowrap align=left class=text>Despesas De Pessoal                     </td>
+							
+								<td nowrap align=right class=text>(5.011.755)</td>
+								
+								<td nowrap align=right class=text>(5.089.689)</td>
+								
+								<td nowrap align=right class=text>(13.281.454)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04.03      </td>
+								<td nowrap align=left class=text>Outras Despesas Administrativas         </td>
+							
+								<td nowrap align=right class=text>(2.471.829)</td>
+								
+								<td nowrap align=right class=text>(2.149.612)</td>
+								
+								<td nowrap align=right class=text>(1.866.172)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04.04      </td>
+								<td nowrap align=left class=text>Despesas Tributárias                    </td>
+							
+								<td nowrap align=right class=text>(554.099)</td>
+								
+								<td nowrap align=right class=text>(238.733)</td>
+								
+								<td nowrap align=right class=text>(162.499)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04.05      </td>
+								<td nowrap align=left class=text>Outras Receitas Operacionais            </td>
+							
+								<td nowrap align=right class=text>3.977.027</td>
+								
+								<td nowrap align=right class=text>3.510.806</td>
+								
+								<td nowrap align=right class=text>4.220.715</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04.05.01   </td>
+								<td nowrap align=left class=text>Outras Receitas                         </td>
+							
+								<td nowrap align=right class=text>3.977.027</td>
+								
+								<td nowrap align=right class=text>3.510.806</td>
+								
+								<td nowrap align=right class=text>4.220.715</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04.05.02   </td>
+								<td nowrap align=left class=text>Result. De Correção Monetária De Balanço</td>
+							
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04.06      </td>
+								<td nowrap align=left class=text>Outras Despesas Operacionais            </td>
+							
+								<td nowrap align=right class=text>(2.605.841)</td>
+								
+								<td nowrap align=right class=text>(889.059)</td>
+								
+								<td nowrap align=right class=text>(384.714)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.04.07      </td>
+								<td nowrap align=left class=text>Resultado Da Equivalência Patrimonial   </td>
+							
+								<td nowrap align=right class=text>3.450.335</td>
+								
+								<td nowrap align=right class=text>868.868</td>
+								
+								<td nowrap align=right class=text>1.155.558</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.05         </td>
+								<td nowrap align=left class=text>Resultado Operacional                   </td>
+							
+								<td nowrap align=right class=text>198.008</td>
+								
+								<td nowrap align=right class=text>1.246.493</td>
+								
+								<td nowrap align=right class=text>(10.743.931)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.06         </td>
+								<td nowrap align=left class=text>Resultado Não Operacional               </td>
+							
+								<td nowrap align=right class=text>(14.593)</td>
+								
+								<td nowrap align=right class=text>(52.361)</td>
+								
+								<td nowrap align=right class=text>17.677</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.06.01      </td>
+								<td nowrap align=left class=text>Receitas                                </td>
+							
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.06.02      </td>
+								<td nowrap align=left class=text>Despesas                                </td>
+							
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.07         </td>
+								<td nowrap align=left class=text>Resultado Antes Tributação/participações</td>
+							
+								<td nowrap align=right class=text>183.415</td>
+								
+								<td nowrap align=right class=text>1.194.132</td>
+								
+								<td nowrap align=right class=text>(10.726.254)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.08         </td>
+								<td nowrap align=left class=text>Provisão Para Ir E Contribuição Social  </td>
+							
+								<td nowrap align=right class=text>711.458</td>
+								
+								<td nowrap align=right class=text>(263.474)</td>
+								
+								<td nowrap align=right class=text>11.332.798</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.09         </td>
+								<td nowrap align=left class=text>Ir Diferido                             </td>
+							
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.10         </td>
+								<td nowrap align=left class=text>Participações/contribuições Estatutárias</td>
+							
+								<td nowrap align=right class=text>(51.823)</td>
+								
+								<td nowrap align=right class=text>(60.765)</td>
+								
+								<td nowrap align=right class=text>(32.725)</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.10.01      </td>
+								<td nowrap align=left class=text>Participações                           </td>
+							
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.10.02      </td>
+								<td nowrap align=left class=text>Contribuições                           </td>
+							
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.11         </td>
+								<td nowrap align=left class=text>Reversão Dos Juros Sobre Capital Próprio</td>
+							
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+								
+								<td nowrap align=right class=text>0</td>
+							    
+							</tr>
+							
+							<tr align=right valign=bottom bgcolor=#FFFFFF>
+								<td nowrap align=left class=text>3.13         </td>
+								<td nowrap align=left class=text>Lucro/prejuízo Do Exercício             </td>
+							
+								<td nowrap align=right class=text>843.050</td>
+								
+								<td nowrap align=right class=text>869.893</td>
+								
+								<td nowrap align=right class=text>573.819</td>
+							    
+							</tr>
+							
+			</table></div>
+			</td>
+			</tr>
+			
+  <tr>
+    <td align="left"><table width="80%" border="0" cellspacing="2" cellpadding="1">
+  <tr>
+    <td align="right">
+      <p align="right">&nbsp;
+
+
+     <p align="right"><font class="text">&nbsp;</font><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0" width="44" height="44"></a>
+
+
+    </td>
+  </tr>
+  <tr>
+    <td><img src="images/fio.gif" width="640" height="1" vspace="5"></td>
+  </tr>
+  <tr>
+    
+
+      <td align="right"><font size="1" face="Arial">© <a href="copy.htm" target="_self">Copyright
+      Bovespa</a>. Todos os direitos reservados.</font></td>
+
+
+
+  </tr>
+</table></td>
+  </tr>
+</table>
+</center>
+</body>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+</head>
+</html>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<agent Name="FundamentalAnalisysAgent">
+     <CLIPServer RulesFile="FundamentalAnalisys.clp" Port="7203"/>
+</agent>

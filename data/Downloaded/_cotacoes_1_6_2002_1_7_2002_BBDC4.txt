@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BBDC4.SA (BANCO BRADESCO SA)
+        </TD><TD>As of Jul-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>11.08</TD><TD>11.18</TD><TD>10.98</TD><TD>11.10</TD><TD>942,016</TD><TD>10.33</TD></TR>
+<TR>
+<TD>Jun-28-02</TD><TD>11.20</TD><TD>11.41</TD><TD>11.10</TD><TD>11.10</TD><TD>1,154,540</TD><TD>10.32</TD></TR>
+<TR>
+<TD>Jun-27-02</TD><TD>11.05</TD><TD>11.18</TD><TD>11.00</TD><TD>11.11</TD><TD>990,874</TD><TD>10.33</TD></TR>
+<TR>
+<TD>Jun-26-02</TD><TD>10.80</TD><TD>10.97</TD><TD>10.70</TD><TD>10.90</TD><TD>1,001,030</TD><TD>10.12</TD></TR>
+<TR>
+<TD>Jun-25-02</TD><TD>11.00</TD><TD>11.30</TD><TD>10.80</TD><TD>10.97</TD><TD>2,121,320</TD><TD>10.19</TD></TR>
+<TR>
+<TD>Jun-24-02</TD><TD>10.82</TD><TD>10.99</TD><TD>10.45</TD><TD>10.75</TD><TD>2,318,420</TD><TD>9.97</TD></TR>
+<TR>
+<TD>Jun-21-02</TD><TD>11.08</TD><TD>11.20</TD><TD>10.59</TD><TD>10.65</TD><TD>7,162,740</TD><TD>9.87</TD></TR>
+<TR>
+<TD>Jun-20-02</TD><TD>11.70</TD><TD>11.70</TD><TD>11.00</TD><TD>11.00</TD><TD>4,118,750</TD><TD>10.22</TD></TR>
+<TR>
+<TD>Jun-19-02</TD><TD>11.90</TD><TD>12.00</TD><TD>11.45</TD><TD>11.45</TD><TD>1,466,990</TD><TD>10.67</TD></TR>
+<TR>
+<TD>Jun-18-02</TD><TD>11.89</TD><TD>12.05</TD><TD>11.83</TD><TD>11.85</TD><TD>852,315</TD><TD>11.07</TD></TR>
+<TR>
+<TD>Jun-17-02</TD><TD>11.60</TD><TD>11.87</TD><TD>11.53</TD><TD>11.75</TD><TD>1,004,970</TD><TD>10.97</TD></TR>
+<TR>
+<TD>Jun-14-02</TD><TD>11.97</TD><TD>11.97</TD><TD>11.35</TD><TD>11.56</TD><TD>2,293,420</TD><TD>10.78</TD></TR>
+<TR>
+<TD>Jun-13-02</TD><TD>12.20</TD><TD>12.21</TD><TD>11.85</TD><TD>11.90</TD><TD>1,879,550</TD><TD>11.12</TD></TR>
+<TR>
+<TD>Jun-12-02</TD><TD>12.30</TD><TD>12.35</TD><TD>11.91</TD><TD>11.92</TD><TD>2,031,120</TD><TD>11.14</TD></TR>
+<TR>
+<TD>Jun-11-02</TD><TD>12.60</TD><TD>12.60</TD><TD>12.27</TD><TD>12.28</TD><TD>1,729,130</TD><TD>11.50</TD></TR>
+<TR>
+<TD>Jun-10-02</TD><TD>12.40</TD><TD>12.65</TD><TD>12.35</TD><TD>12.60</TD><TD>2,005,670</TD><TD>11.82</TD></TR>
+<TR>
+<TD>Jun-07-02</TD><TD>12.09</TD><TD>12.29</TD><TD>11.89</TD><TD>12.21</TD><TD>2,992,970</TD><TD>11.43</TD></TR>
+<TR>
+<TD>Jun-06-02</TD><TD>12.53</TD><TD>12.53</TD><TD>12.00</TD><TD>12.10</TD><TD>2,669,110</TD><TD>11.32</TD></TR>
+<TR>
+<TD>Jun-05-02</TD><TD>12.70</TD><TD>12.80</TD><TD>12.48</TD><TD>12.55</TD><TD>1,682,730</TD><TD>11.77</TD></TR>
+<TR>
+<TD>Jun-04-02</TD><TD>13.00</TD><TD>13.00</TD><TD>12.81</TD><TD>12.86</TD><TD>1,204,100</TD><TD>12.08</TD></TR>
+<TR>
+<TD>Jun-03-02</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Jun-03-02</TD><TD>13.20</TD><TD>13.26</TD><TD>13.00</TD><TD>13.00</TD><TD>1,322,620</TD><TD>12.22</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

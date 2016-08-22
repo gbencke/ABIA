@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BBDC4.SA (BANCO BRADESCO SA)
+        </TD><TD>As of Feb-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-02</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Feb-01-02</TD><TD>12.00</TD><TD>12.05</TD><TD>11.73</TD><TD>11.73</TD><TD>1,104,890</TD><TD>10.91</TD></TR>
+<TR>
+<TD>Jan-31-02</TD><TD>12.29</TD><TD>12.29</TD><TD>12.00</TD><TD>12.05</TD><TD>858,404</TD><TD>11.22</TD></TR>
+<TR>
+<TD>Jan-30-02</TD><TD>12.00</TD><TD>12.00</TD><TD>11.80</TD><TD>11.91</TD><TD>1,587,300</TD><TD>11.08</TD></TR>
+<TR>
+<TD>Jan-29-02</TD><TD>12.26</TD><TD>12.40</TD><TD>11.96</TD><TD>12.00</TD><TD>1,394,510</TD><TD>11.17</TD></TR>
+<TR>
+<TD>Jan-28-02</TD><TD>12.34</TD><TD>12.40</TD><TD>12.28</TD><TD>12.35</TD><TD>1,276,630</TD><TD>11.52</TD></TR>
+<TR>
+<TD>Jan-24-02</TD><TD>12.53</TD><TD>12.53</TD><TD>12.30</TD><TD>12.30</TD><TD>576,627</TD><TD>11.47</TD></TR>
+<TR>
+<TD>Jan-23-02</TD><TD>12.42</TD><TD>12.65</TD><TD>12.35</TD><TD>12.55</TD><TD>992,112</TD><TD>11.72</TD></TR>
+<TR>
+<TD>Jan-22-02</TD><TD>12.50</TD><TD>12.58</TD><TD>12.36</TD><TD>12.50</TD><TD>831,516</TD><TD>11.67</TD></TR>
+<TR>
+<TD>Jan-21-02</TD><TD>12.39</TD><TD>12.55</TD><TD>12.22</TD><TD>12.41</TD><TD>325,833</TD><TD>11.58</TD></TR>
+<TR>
+<TD>Jan-18-02</TD><TD>12.34</TD><TD>12.45</TD><TD>12.29</TD><TD>12.45</TD><TD>1,367,580</TD><TD>11.62</TD></TR>
+<TR>
+<TD>Jan-17-02</TD><TD>12.25</TD><TD>12.40</TD><TD>12.22</TD><TD>12.40</TD><TD>1,004,570</TD><TD>11.57</TD></TR>
+<TR>
+<TD>Jan-16-02</TD><TD>12.27</TD><TD>12.30</TD><TD>12.10</TD><TD>12.25</TD><TD>1,823,920</TD><TD>11.42</TD></TR>
+<TR>
+<TD>Jan-15-02</TD><TD>12.32</TD><TD>12.45</TD><TD>12.15</TD><TD>12.31</TD><TD>1,599,190</TD><TD>11.48</TD></TR>
+<TR>
+<TD>Jan-14-02</TD><TD>12.43</TD><TD>12.43</TD><TD>12.00</TD><TD>12.30</TD><TD>1,941,800</TD><TD>11.47</TD></TR>
+<TR>
+<TD>Jan-11-02</TD><TD>11.99</TD><TD>12.50</TD><TD>11.99</TD><TD>12.38</TD><TD>1,547,250</TD><TD>11.55</TD></TR>
+<TR>
+<TD>Jan-10-02</TD><TD>12.31</TD><TD>12.44</TD><TD>12.04</TD><TD>12.05</TD><TD>1,076,120</TD><TD>11.22</TD></TR>
+<TR>
+<TD>Jan-09-02</TD><TD>12.70</TD><TD>12.70</TD><TD>12.25</TD><TD>12.47</TD><TD>2,221,930</TD><TD>11.64</TD></TR>
+<TR>
+<TD>Jan-08-02</TD><TD>12.55</TD><TD>12.70</TD><TD>12.45</TD><TD>12.70</TD><TD>1,461,820</TD><TD>11.87</TD></TR>
+<TR>
+<TD>Jan-07-02</TD><TD>12.50</TD><TD>12.65</TD><TD>12.32</TD><TD>12.65</TD><TD>1,288,990</TD><TD>11.82</TD></TR>
+<TR>
+<TD>Jan-04-02</TD><TD>12.68</TD><TD>12.68</TD><TD>12.35</TD><TD>12.59</TD><TD>1,135,190</TD><TD>11.76</TD></TR>
+<TR>
+<TD>Jan-03-02</TD><TD>12.46</TD><TD>12.69</TD><TD>12.45</TD><TD>12.69</TD><TD>1,244,050</TD><TD>11.86</TD></TR>
+<TR>
+<TD>Jan-02-02</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Jan-02-02</TD><TD>12.40</TD><TD>12.55</TD><TD>11.82</TD><TD>12.48</TD><TD>1,818,210</TD><TD>11.65</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,132 @@
+
+<html>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+
+<title>Grupo 1 - Dados da Empresa - 01 - Identificação </title>
+<style type="text/css">  
+<!--
+a {text-decoration: none}
+a:hover {text-decoration: underline}
+.label{color: #CC0000; font-size: 9pt; font-weight: bold; font-family: Arial;}
+.text{color: #000000; font-size: 8pt; font-weight: normal; font-family: Arial;}
+-->
+</style>
+<link rel="stylesheet" type="text/css" href="ahover.css">
+<link rel="stylesheet" type="text/css" href="hover.css">
+</head>
+
+
+<body background="images/fundo_destaques.gif" bgProperties="fixed" bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#6A6A6A" alink="#CC0000" scroll="auto">
+
+<center>
+<table width="80%" border="0" cellspacing="2" cellpadding="1">
+	<tr>
+	  <td><table border="0" cellspacing="0" cellpadding="2" width="645">
+    <tr>
+		<td class="text">
+        <font class="text"><font color="#CC0000"><b> Grupo 1 - Dados da Empresa -</b>&nbsp; 01 - Identificação</font></font>
+		</td>
+		<td class="text" rowspan="13" valign="top" align="right">
+        
+		</td>
+    </tr>
+    <tr>
+		<td height="1" bgcolor="#000000"></td>
+    </tr>
+	
+		<tr>
+			<td>
+			<font class="text">
+			| <a href="DIVEXTG1Identificacao.asp" title="01- Identificação">01- Identificação</a>
+			| <a href="DIVEXTG1Sede.asp" title="02 - Sede"> 02 - Sede</a> 
+			| <a href="DIVEXTG1DiretorRelacoesInvestidores.asp" title="03 - Diretor de Rel. com Investidores">03 - Diretor de Rel. com Investidores</a> 
+			| <a href="ITRG1ReferenciaAuditor.asp" title="04 - Referência/Auditor">04 - Referência/Auditor</a> |</font><br>
+			</td>
+		</tr>
+		<tr bgcolor="#000000">
+			<td height="1"></td>
+		</tr>
+		<tr>
+			<td><font class="text">
+			| <a href="DIVEXTG1ComposicaoCapital.asp" title="05 - Composição do Capital">05 - Composição do Capital</a>
+			| <a href="DIVEXTG1CaracteristicasEmpresa.asp" title="06 - Características da Empresa">06 - Características da Empresa</a>  
+			| <a href="DIVEXTG1SocsIncluidasConsolidadas.asp" title="07 - Socs. Não Incluídas nas DFs. Consolidadas">07 - Socs.Não Incluídas nas DFs.Consolidadas</a> |</font><br>
+			</td>
+		</tr>
+		<tr bgcolor="#000000">
+			<td height="1"></td>
+		</tr>
+		<tr>
+			<td><font class="text">
+			| <a href="DIVEXTG1ProventosDinheiro.asp" title="08 - Proventos em Dinheiro">08 - Proventos em Dinheiro</a>
+			| <a href="ITRG1CapitalSubscritoAlteracoes.asp" title="09 - Capital Subscrito e Alterações">09 - Capital Subscrito e Alterações</a> |</font><br>
+			</td>
+		</tr>
+		
+</table>
+</td>
+	</tr>
+	
+	<tr>
+		<td><br>
+		
+			<table width="90%" border="0" cellspacing="1" cellpadding="2" bgcolor="#000000">
+				<tr align="left" valign="top" bgcolor="#E0E0E0">
+					<td width="150" class="label">1 - Código CVM</td>
+					<td class="label">2 - Denominação Social</td>
+				</tr>
+				<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+					<td height="30" width="150" class="text">00090-6</td>
+					<td height="30" align="left" class="text">BANCO BRADESCO S.A.                     </td>
+				</tr>
+				<tr align="left" valign="top" bgcolor="#E0E0E0">
+					<td width="150" class="label">3 - CNPJ</td>
+					<td class="label">4 - NIRE</td>
+				</tr>
+				<tr align="right" valign="bottom" bgcolor="#FFFFFF">
+					<td height="30" width="150" class="text">60.746.948/0001-12</td>
+					<td height="30" align="left" class="text">000035300027795                                   </td>
+				</tr>
+			</table>				
+		
+		</td>
+	</tr>
+
+	<tr>
+	  <td align="left"><table width="80%" border="0" cellspacing="2" cellpadding="1">
+  <tr>
+    <td align="right">
+      <p align="right">&nbsp;
+
+
+     <p align="right"><font class="text">&nbsp;</font><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0" width="44" height="44"></a>
+
+
+    </td>
+  </tr>
+  <tr>
+    <td><img src="images/fio.gif" width="640" height="1" vspace="5"></td>
+  </tr>
+  <tr>
+    
+
+      <td align="right"><font size="1" face="Arial">© <a href="copy.htm" target="_self">Copyright
+      Bovespa</a>. Todos os direitos reservados.</font></td>
+
+
+
+  </tr>
+</table></td>
+	</tr>
+</table>
+</center>
+</body>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+</head>
+</html>

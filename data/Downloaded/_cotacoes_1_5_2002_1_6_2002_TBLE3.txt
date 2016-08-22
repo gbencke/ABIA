@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TBLE3.SA (TRACTBEL ENERGIA SA)
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>4.09</TD><TD>4.11</TD><TD>3.96</TD><TD>3.96</TD><TD>282,790</TD><TD>3.46</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>4.09</TD><TD>4.15</TD><TD>4.01</TD><TD>4.09</TD><TD>103,801</TD><TD>3.59</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>4.05</TD><TD>4.05</TD><TD>4.00</TD><TD>4.00</TD><TD>44,115</TD><TD>3.50</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>3.92</TD><TD>4.03</TD><TD>3.90</TD><TD>4.00</TD><TD>62,150</TD><TD>3.50</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>3.86</TD><TD>3.92</TD><TD>3.86</TD><TD>3.91</TD><TD>84,866</TD><TD>3.41</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>3.91</TD><TD>3.95</TD><TD>3.83</TD><TD>3.86</TD><TD>129,659</TD><TD>3.36</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>4.14</TD><TD>4.14</TD><TD>3.91</TD><TD>3.91</TD><TD>205,800</TD><TD>3.41</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>3.99</TD><TD>4.12</TD><TD>3.98</TD><TD>4.12</TD><TD>26,369</TD><TD>3.62</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>4.09</TD><TD>4.09</TD><TD>4.00</TD><TD>4.04</TD><TD>43,311</TD><TD>3.54</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>4.14</TD><TD>4.14</TD><TD>4.00</TD><TD>4.09</TD><TD>391,326</TD><TD>3.59</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>4.28</TD><TD>4.28</TD><TD>4.10</TD><TD>4.10</TD><TD>52,986</TD><TD>3.60</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>4.23</TD><TD>4.23</TD><TD>4.05</TD><TD>4.10</TD><TD>338,397</TD><TD>3.60</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>4.25</TD><TD>4.36</TD><TD>4.21</TD><TD>4.26</TD><TD>59,449</TD><TD>3.76</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>$0.03 Cash Dividend</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>4.38</TD><TD>4.38</TD><TD>4.15</TD><TD>4.18</TD><TD>17,039</TD><TD>3.68</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>4.06</TD><TD>4.26</TD><TD>4.00</TD><TD>4.25</TD><TD>125,740</TD><TD>3.72</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>4.17</TD><TD>4.17</TD><TD>4.10</TD><TD>4.10</TD><TD>158,433</TD><TD>3.57</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>4.10</TD><TD>4.22</TD><TD>4.10</TD><TD>4.22</TD><TD>74,528</TD><TD>3.69</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>4.11</TD><TD>4.14</TD><TD>4.04</TD><TD>4.10</TD><TD>200,379</TD><TD>3.57</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>4.25</TD><TD>4.26</TD><TD>4.08</TD><TD>4.10</TD><TD>197,956</TD><TD>3.57</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>4.19</TD><TD>4.29</TD><TD>4.15</TD><TD>4.25</TD><TD>224,108</TD><TD>3.72</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>4.47</TD><TD>4.52</TD><TD>4.12</TD><TD>4.12</TD><TD>228,206</TD><TD>3.59</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

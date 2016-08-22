@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - SBSP3.SA (COMPANHIA DE SANEAMENTO BASICO )
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>113.00</TD><TD>113.10</TD><TD>104.05</TD><TD>104.05</TD><TD>72,984</TD><TD>104.05</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>112.30</TD><TD>113.50</TD><TD>112.00</TD><TD>113.50</TD><TD>54,449</TD><TD>113.50</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>113.16</TD><TD>113.89</TD><TD>111.00</TD><TD>113.00</TD><TD>45,013</TD><TD>113.00</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>113.99</TD><TD>114.50</TD><TD>111.30</TD><TD>113.95</TD><TD>44,754</TD><TD>113.95</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>112.00</TD><TD>113.50</TD><TD>110.06</TD><TD>113.49</TD><TD>17,788</TD><TD>113.49</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>114.90</TD><TD>115.00</TD><TD>110.00</TD><TD>113.00</TD><TD>37,380</TD><TD>113.00</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>115.00</TD><TD>115.00</TD><TD>113.55</TD><TD>115.00</TD><TD>44,330</TD><TD>115.00</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>115.50</TD><TD>116.55</TD><TD>114.71</TD><TD>115.00</TD><TD>58,345</TD><TD>115.00</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>113.00</TD><TD>116.35</TD><TD>110.01</TD><TD>115.00</TD><TD>60,559</TD><TD>115.00</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>108.11</TD><TD>113.50</TD><TD>108.11</TD><TD>112.99</TD><TD>51,115</TD><TD>112.99</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>108.49</TD><TD>110.00</TD><TD>105.50</TD><TD>109.51</TD><TD>24,225</TD><TD>109.51</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>106.50</TD><TD>108.50</TD><TD>106.50</TD><TD>108.50</TD><TD>31,545</TD><TD>108.50</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>105.80</TD><TD>107.70</TD><TD>105.80</TD><TD>107.00</TD><TD>33,414</TD><TD>107.00</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>106.00</TD><TD>108.70</TD><TD>106.00</TD><TD>106.70</TD><TD>24,997</TD><TD>106.70</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>104.02</TD><TD>106.80</TD><TD>103.61</TD><TD>106.50</TD><TD>39,460</TD><TD>106.50</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>103.86</TD><TD>104.49</TD><TD>102.51</TD><TD>104.00</TD><TD>42,694</TD><TD>104.00</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>106.00</TD><TD>106.50</TD><TD>103.13</TD><TD>103.45</TD><TD>38,827</TD><TD>103.45</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>107.88</TD><TD>108.00</TD><TD>105.00</TD><TD>106.50</TD><TD>26,242</TD><TD>106.50</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>110.49</TD><TD>110.98</TD><TD>105.00</TD><TD>105.00</TD><TD>57,610</TD><TD>105.00</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>110.01</TD><TD>110.01</TD><TD>106.70</TD><TD>107.41</TD><TD>27,258</TD><TD>107.41</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>113.00</TD><TD>113.00</TD><TD>110.00</TD><TD>110.00</TD><TD>34,357</TD><TD>110.00</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>109.89</TD><TD>114.00</TD><TD>109.02</TD><TD>113.00</TD><TD>52,832</TD><TD>113.00</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>104.47</TD><TD>110.00</TD><TD>104.00</TD><TD>110.00</TD><TD>33,842</TD><TD>110.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

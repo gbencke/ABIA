@@ -1,0 +1,134 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BBDC4.SA (BANCO BRADESCO SA)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>12.03</TD><TD>12.03</TD><TD>11.71</TD><TD>11.72</TD><TD>2,476,850</TD><TD>11.69</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>$0.13 Cash Dividend</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>11.80</TD><TD>12.04</TD><TD>11.74</TD><TD>12.04</TD><TD>2,372,260</TD><TD>12.00</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>11.98</TD><TD>12.00</TD><TD>11.68</TD><TD>11.68</TD><TD>1,483,440</TD><TD>11.51</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>11.95</TD><TD>12.04</TD><TD>11.87</TD><TD>11.95</TD><TD>1,972,680</TD><TD>11.78</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>11.83</TD><TD>12.02</TD><TD>11.78</TD><TD>11.95</TD><TD>2,903,340</TD><TD>11.78</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>11.79</TD><TD>11.87</TD><TD>11.56</TD><TD>11.81</TD><TD>1,515,260</TD><TD>11.64</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>11.65</TD><TD>11.88</TD><TD>11.55</TD><TD>11.80</TD><TD>1,766,310</TD><TD>11.63</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>11.30</TD><TD>11.61</TD><TD>11.26</TD><TD>11.61</TD><TD>2,337,400</TD><TD>11.44</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>11.22</TD><TD>11.32</TD><TD>11.18</TD><TD>11.29</TD><TD>1,333,750</TD><TD>11.12</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>11.40</TD><TD>11.43</TD><TD>11.15</TD><TD>11.15</TD><TD>1,456,250</TD><TD>10.98</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>11.27</TD><TD>11.43</TD><TD>11.22</TD><TD>11.41</TD><TD>1,236,040</TD><TD>11.24</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>11.13</TD><TD>11.30</TD><TD>11.13</TD><TD>11.25</TD><TD>1,258,300</TD><TD>11.08</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>11.19</TD><TD>11.25</TD><TD>11.13</TD><TD>11.18</TD><TD>1,311,670</TD><TD>11.01</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>11.25</TD><TD>11.38</TD><TD>11.19</TD><TD>11.20</TD><TD>1,624,280</TD><TD>11.03</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>11.01</TD><TD>11.30</TD><TD>11.01</TD><TD>11.25</TD><TD>1,521,390</TD><TD>11.08</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>11.01</TD><TD>11.07</TD><TD>10.92</TD><TD>11.00</TD><TD>1,129,930</TD><TD>10.83</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>11.00</TD><TD>11.14</TD><TD>10.92</TD><TD>11.07</TD><TD>1,628,960</TD><TD>10.90</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>10.95</TD><TD>11.15</TD><TD>10.90</TD><TD>11.14</TD><TD>2,436,160</TD><TD>10.97</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>11.05</TD><TD>11.12</TD><TD>10.85</TD><TD>10.95</TD><TD>1,722,550</TD><TD>10.78</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>10.94</TD><TD>11.08</TD><TD>10.85</TD><TD>11.06</TD><TD>774,794</TD><TD>10.89</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>11.11</TD><TD>11.17</TD><TD>10.96</TD><TD>10.96</TD><TD>695,657</TD><TD>10.79</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>11.03</TD><TD>11.20</TD><TD>10.97</TD><TD>11.11</TD><TD>1,115,920</TD><TD>10.94</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>10.62</TD><TD>11.04</TD><TD>10.53</TD><TD>11.04</TD><TD>1,279,870</TD><TD>10.87</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

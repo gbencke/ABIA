@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNLP3.SA (TELE NORTE LESTE PARTICIPACOES )
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>18.10</TD><TD>19.15</TD><TD>18.10</TD><TD>18.40</TD><TD>400,014</TD><TD>17.26</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>18.21</TD><TD>18.70</TD><TD>18.21</TD><TD>18.60</TD><TD>156,316</TD><TD>17.46</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>17.71</TD><TD>18.50</TD><TD>17.50</TD><TD>18.21</TD><TD>259,902</TD><TD>17.07</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>17.00</TD><TD>17.85</TD><TD>16.61</TD><TD>17.20</TD><TD>182,055</TD><TD>16.06</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>18.10</TD><TD>18.50</TD><TD>16.90</TD><TD>16.90</TD><TD>121,957</TD><TD>15.76</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>17.90</TD><TD>18.85</TD><TD>17.80</TD><TD>18.40</TD><TD>190,716</TD><TD>17.26</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>18.40</TD><TD>18.98</TD><TD>17.66</TD><TD>18.30</TD><TD>248,821</TD><TD>17.16</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>16.59</TD><TD>18.55</TD><TD>16.59</TD><TD>18.55</TD><TD>187,994</TD><TD>17.41</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>15.89</TD><TD>16.45</TD><TD>15.89</TD><TD>16.40</TD><TD>256,882</TD><TD>15.26</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>16.40</TD><TD>16.40</TD><TD>16.05</TD><TD>16.25</TD><TD>189,711</TD><TD>15.11</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>16.30</TD><TD>16.35</TD><TD>15.60</TD><TD>16.10</TD><TD>213,875</TD><TD>14.96</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>15.62</TD><TD>16.40</TD><TD>15.40</TD><TD>16.28</TD><TD>202,315</TD><TD>15.14</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>15.10</TD><TD>15.40</TD><TD>14.65</TD><TD>15.40</TD><TD>189,456</TD><TD>14.26</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>15.50</TD><TD>15.52</TD><TD>15.10</TD><TD>15.50</TD><TD>22,210</TD><TD>14.36</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>15.90</TD><TD>16.00</TD><TD>15.00</TD><TD>15.20</TD><TD>34,533</TD><TD>14.06</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>16.99</TD><TD>16.99</TD><TD>16.00</TD><TD>16.12</TD><TD>118,367</TD><TD>14.98</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>15.80</TD><TD>16.10</TD><TD>15.75</TD><TD>16.00</TD><TD>126,729</TD><TD>14.86</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>15.85</TD><TD>15.85</TD><TD>15.33</TD><TD>15.69</TD><TD>96,753</TD><TD>14.55</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>16.16</TD><TD>16.24</TD><TD>15.70</TD><TD>15.90</TD><TD>177,229</TD><TD>14.76</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>16.50</TD><TD>16.65</TD><TD>16.11</TD><TD>16.11</TD><TD>61,131</TD><TD>14.97</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>16.80</TD><TD>17.26</TD><TD>16.61</TD><TD>17.05</TD><TD>112,734</TD><TD>15.91</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>16.15</TD><TD>16.80</TD><TD>16.00</TD><TD>16.69</TD><TD>127,337</TD><TD>15.55</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>16.80</TD><TD>16.90</TD><TD>15.90</TD><TD>16.00</TD><TD>217,115</TD><TD>14.86</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>16.30</TD><TD>16.65</TD><TD>15.91</TD><TD>16.65</TD><TD>338,373</TD><TD>15.51</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

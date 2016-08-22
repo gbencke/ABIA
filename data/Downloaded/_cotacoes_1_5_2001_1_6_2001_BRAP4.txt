@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRAP4.SA (BRADESPAR SA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>0.82</TD><TD>0.84</TD><TD>0.81</TD><TD>0.83</TD><TD>942,183</TD><TD>0.83</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>0.86</TD><TD>0.86</TD><TD>0.82</TD><TD>0.82</TD><TD>973,156</TD><TD>0.82</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>0.82</TD><TD>0.85</TD><TD>0.82</TD><TD>0.85</TD><TD>1,858,640</TD><TD>0.85</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>0.80</TD><TD>0.84</TD><TD>0.80</TD><TD>0.82</TD><TD>1,676,970</TD><TD>0.82</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>0.81</TD><TD>0.81</TD><TD>0.78</TD><TD>0.79</TD><TD>771,607</TD><TD>0.79</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>0.82</TD><TD>0.82</TD><TD>0.78</TD><TD>0.80</TD><TD>3,427,430</TD><TD>0.80</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>0.87</TD><TD>0.88</TD><TD>0.81</TD><TD>0.81</TD><TD>3,629,600</TD><TD>0.81</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>0.90</TD><TD>0.90</TD><TD>0.85</TD><TD>0.86</TD><TD>4,016,180</TD><TD>0.86</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>0.92</TD><TD>0.92</TD><TD>0.88</TD><TD>0.90</TD><TD>2,128,920</TD><TD>0.90</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>0.94</TD><TD>0.94</TD><TD>0.91</TD><TD>0.92</TD><TD>929,936</TD><TD>0.92</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>0.95</TD><TD>0.97</TD><TD>0.93</TD><TD>0.94</TD><TD>1,743,160</TD><TD>0.94</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>0.93</TD><TD>0.97</TD><TD>0.92</TD><TD>0.94</TD><TD>1,247,240</TD><TD>0.94</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>0.91</TD><TD>0.93</TD><TD>0.90</TD><TD>0.93</TD><TD>2,234,350</TD><TD>0.93</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>0.91</TD><TD>0.93</TD><TD>0.89</TD><TD>0.90</TD><TD>1,463,620</TD><TD>0.90</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>0.93</TD><TD>0.93</TD><TD>0.90</TD><TD>0.93</TD><TD>897,116</TD><TD>0.93</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>0.96</TD><TD>0.97</TD><TD>0.91</TD><TD>0.93</TD><TD>1,974,760</TD><TD>0.93</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>0.94</TD><TD>0.97</TD><TD>0.93</TD><TD>0.97</TD><TD>1,874,030</TD><TD>0.97</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>0.94</TD><TD>0.95</TD><TD>0.92</TD><TD>0.93</TD><TD>1,676,690</TD><TD>0.93</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>0.97</TD><TD>0.98</TD><TD>0.94</TD><TD>0.94</TD><TD>1,350,490</TD><TD>0.94</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>0.98</TD><TD>1.00</TD><TD>0.97</TD><TD>0.98</TD><TD>1,854,420</TD><TD>0.98</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>0.96</TD><TD>1.01</TD><TD>0.95</TD><TD>0.98</TD><TD>3,290,280</TD><TD>0.98</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>0.93</TD><TD>0.98</TD><TD>0.92</TD><TD>0.98</TD><TD>3,295,820</TD><TD>0.98</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>0.92</TD><TD>0.93</TD><TD>0.91</TD><TD>0.91</TD><TD>2,520,860</TD><TD>0.91</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

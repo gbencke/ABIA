@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CMIG4.SA (COMPANHIA ENERGETICA DE MINAS G)
+        </TD><TD>As of Apr-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-30-02</TD><TD>37.00</TD><TD>37.80</TD><TD>37.00</TD><TD>37.30</TD><TD>399,004</TD><TD>35.98</TD></TR>
+<TR>
+<TD>Apr-29-02</TD><TD>37.30</TD><TD>37.95</TD><TD>37.10</TD><TD>37.30</TD><TD>266,944</TD><TD>35.98</TD></TR>
+<TR>
+<TD>Apr-26-02</TD><TD>37.45</TD><TD>38.50</TD><TD>37.30</TD><TD>37.49</TD><TD>592,135</TD><TD>36.17</TD></TR>
+<TR>
+<TD>Apr-25-02</TD><TD>37.00</TD><TD>38.50</TD><TD>36.19</TD><TD>38.10</TD><TD>904,578</TD><TD>36.78</TD></TR>
+<TR>
+<TD>Apr-24-02</TD><TD>37.20</TD><TD>37.30</TD><TD>36.40</TD><TD>37.10</TD><TD>281,452</TD><TD>35.78</TD></TR>
+<TR>
+<TD>Apr-23-02</TD><TD>36.62</TD><TD>37.40</TD><TD>36.60</TD><TD>36.91</TD><TD>407,940</TD><TD>35.59</TD></TR>
+<TR>
+<TD>Apr-22-02</TD><TD>36.60</TD><TD>37.50</TD><TD>36.01</TD><TD>37.20</TD><TD>408,544</TD><TD>35.88</TD></TR>
+<TR>
+<TD>Apr-19-02</TD><TD>38.00</TD><TD>38.00</TD><TD>37.00</TD><TD>37.30</TD><TD>457,889</TD><TD>35.98</TD></TR>
+<TR>
+<TD>Apr-18-02</TD><TD>37.21</TD><TD>37.69</TD><TD>36.90</TD><TD>37.55</TD><TD>674,547</TD><TD>36.23</TD></TR>
+<TR>
+<TD>Apr-17-02</TD><TD>37.50</TD><TD>38.05</TD><TD>37.50</TD><TD>38.05</TD><TD>987,399</TD><TD>36.73</TD></TR>
+<TR>
+<TD>Apr-16-02</TD><TD>36.98</TD><TD>37.68</TD><TD>36.50</TD><TD>37.00</TD><TD>559,474</TD><TD>35.68</TD></TR>
+<TR>
+<TD>Apr-15-02</TD><TD>36.90</TD><TD>37.20</TD><TD>36.18</TD><TD>36.99</TD><TD>531,353</TD><TD>35.67</TD></TR>
+<TR>
+<TD>Apr-12-02</TD><TD>36.89</TD><TD>37.20</TD><TD>36.40</TD><TD>37.00</TD><TD>500,907</TD><TD>35.68</TD></TR>
+<TR>
+<TD>Apr-11-02</TD><TD>36.30</TD><TD>37.30</TD><TD>36.10</TD><TD>36.40</TD><TD>496,480</TD><TD>35.08</TD></TR>
+<TR>
+<TD>Apr-10-02</TD><TD>35.49</TD><TD>36.50</TD><TD>34.80</TD><TD>36.50</TD><TD>425,251</TD><TD>35.18</TD></TR>
+<TR>
+<TD>Apr-09-02</TD><TD>34.80</TD><TD>35.00</TD><TD>34.15</TD><TD>34.50</TD><TD>327,136</TD><TD>33.18</TD></TR>
+<TR>
+<TD>Apr-08-02</TD><TD>34.20</TD><TD>35.00</TD><TD>34.20</TD><TD>34.70</TD><TD>159,840</TD><TD>33.38</TD></TR>
+<TR>
+<TD>Apr-05-02</TD><TD>35.45</TD><TD>35.45</TD><TD>34.12</TD><TD>35.00</TD><TD>420,463</TD><TD>33.68</TD></TR>
+<TR>
+<TD>Apr-04-02</TD><TD>33.90</TD><TD>35.79</TD><TD>33.80</TD><TD>35.79</TD><TD>349,417</TD><TD>34.47</TD></TR>
+<TR>
+<TD>Apr-03-02</TD><TD>35.20</TD><TD>35.20</TD><TD>33.80</TD><TD>34.00</TD><TD>323,661</TD><TD>32.68</TD></TR>
+<TR>
+<TD>Apr-02-02</TD><TD>35.89</TD><TD>36.20</TD><TD>35.10</TD><TD>35.20</TD><TD>326,915</TD><TD>33.88</TD></TR>
+<TR>
+<TD>Apr-01-02</TD><TD>34.30</TD><TD>35.89</TD><TD>34.00</TD><TD>35.89</TD><TD>723,628</TD><TD>34.57</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

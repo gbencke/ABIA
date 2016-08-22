@@ -1,0 +1,123 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CSTB4.SA (COMPANHIA SIDERURGICA DE TUBARA)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>23.79</TD><TD>23.79</TD><TD>22.20</TD><TD>23.20</TD><TD>66,577</TD><TD>17.00</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>24.00</TD><TD>24.00</TD><TD>23.01</TD><TD>23.43</TD><TD>113,975</TD><TD>17.23</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>23.70</TD><TD>23.99</TD><TD>23.60</TD><TD>23.89</TD><TD>31,021</TD><TD>17.69</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>24.30</TD><TD>24.50</TD><TD>23.50</TD><TD>24.00</TD><TD>87,917</TD><TD>17.80</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>24.55</TD><TD>25.00</TD><TD>24.50</TD><TD>24.59</TD><TD>60,229</TD><TD>18.39</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>25.10</TD><TD>25.10</TD><TD>24.51</TD><TD>24.60</TD><TD>149,270</TD><TD>18.40</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>24.50</TD><TD>25.10</TD><TD>24.01</TD><TD>25.01</TD><TD>59,927</TD><TD>18.81</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>24.21</TD><TD>24.36</TD><TD>24.00</TD><TD>24.36</TD><TD>36,185</TD><TD>18.16</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>23.99</TD><TD>24.60</TD><TD>23.81</TD><TD>24.21</TD><TD>77,356</TD><TD>18.01</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>23.50</TD><TD>24.00</TD><TD>23.44</TD><TD>23.72</TD><TD>78,183</TD><TD>17.52</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>23.00</TD><TD>23.45</TD><TD>23.00</TD><TD>23.40</TD><TD>40,903</TD><TD>17.20</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>23.00</TD><TD>23.00</TD><TD>22.60</TD><TD>22.71</TD><TD>41,419</TD><TD>16.51</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>22.50</TD><TD>23.20</TD><TD>22.50</TD><TD>22.80</TD><TD>40,541</TD><TD>16.60</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>22.50</TD><TD>22.65</TD><TD>22.41</TD><TD>22.61</TD><TD>41,150</TD><TD>16.41</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>22.65</TD><TD>22.75</TD><TD>22.30</TD><TD>22.40</TD><TD>162,310</TD><TD>16.20</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>23.01</TD><TD>23.18</TD><TD>22.65</TD><TD>22.90</TD><TD>118,710</TD><TD>16.70</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>23.00</TD><TD>23.50</TD><TD>23.00</TD><TD>23.00</TD><TD>59,900</TD><TD>16.80</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>22.60</TD><TD>23.00</TD><TD>22.20</TD><TD>22.80</TD><TD>98,036</TD><TD>16.60</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>23.00</TD><TD>23.30</TD><TD>22.60</TD><TD>22.60</TD><TD>47,996</TD><TD>16.40</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>22.50</TD><TD>23.30</TD><TD>22.50</TD><TD>23.00</TD><TD>64,326</TD><TD>16.80</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>20.89</TD><TD>22.55</TD><TD>20.89</TD><TD>22.29</TD><TD>66,237</TD><TD>16.09</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>20.33</TD><TD>21.80</TD><TD>20.33</TD><TD>20.75</TD><TD>23,063</TD><TD>14.55</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

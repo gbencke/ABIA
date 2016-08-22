@@ -1,0 +1,118 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CRTP5.SA (CELULAR CRT PARTICIPACOES SA)
+        </TD><TD>As of Dec-28-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Dec-28-01</TD><TD>506.00</TD><TD>509.95</TD><TD>495.00</TD><TD>498.97</TD><TD>15,927</TD><TD>479.29</TD></TR>
+<TR>
+<TD>Dec-27-01</TD><TD>490.60</TD><TD>508.00</TD><TD>490.60</TD><TD>501.00</TD><TD>9,856</TD><TD>481.32</TD></TR>
+<TR>
+<TD>Dec-26-01</TD><TD>470.00</TD><TD>494.00</TD><TD>470.00</TD><TD>490.88</TD><TD>10,590</TD><TD>471.20</TD></TR>
+<TR>
+<TD>Dec-21-01</TD><TD>465.00</TD><TD>474.00</TD><TD>462.50</TD><TD>474.00</TD><TD>11,439</TD><TD>454.32</TD></TR>
+<TR>
+<TD>Dec-20-01</TD><TD>465.00</TD><TD>470.00</TD><TD>450.00</TD><TD>459.07</TD><TD>11,354</TD><TD>439.39</TD></TR>
+<TR>
+<TD>Dec-19-01</TD><TD>474.00</TD><TD>474.00</TD><TD>463.00</TD><TD>470.00</TD><TD>21,386</TD><TD>450.32</TD></TR>
+<TR>
+<TD>Dec-18-01</TD><TD>459.00</TD><TD>470.00</TD><TD>459.00</TD><TD>468.00</TD><TD>13,686</TD><TD>448.32</TD></TR>
+<TR>
+<TD>Dec-17-01</TD><TD>465.00</TD><TD>468.00</TD><TD>455.00</TD><TD>455.00</TD><TD>13,308</TD><TD>435.32</TD></TR>
+<TR>
+<TD>Dec-14-01</TD><TD>460.02</TD><TD>475.00</TD><TD>457.00</TD><TD>469.99</TD><TD>4,941</TD><TD>450.31</TD></TR>
+<TR>
+<TD>Dec-13-01</TD><TD>483.99</TD><TD>483.99</TD><TD>463.88</TD><TD>477.97</TD><TD>5,012</TD><TD>458.29</TD></TR>
+<TR>
+<TD>Dec-12-01</TD><TD>479.98</TD><TD>489.99</TD><TD>475.00</TD><TD>480.00</TD><TD>16,632</TD><TD>460.32</TD></TR>
+<TR>
+<TD>Dec-11-01</TD><TD>484.99</TD><TD>484.99</TD><TD>473.00</TD><TD>475.00</TD><TD>5,049</TD><TD>455.32</TD></TR>
+<TR>
+<TD>Dec-10-01</TD><TD>475.50</TD><TD>480.00</TD><TD>470.00</TD><TD>475.00</TD><TD>12,409</TD><TD>455.32</TD></TR>
+<TR>
+<TD>Dec-07-01</TD><TD>479.00</TD><TD>490.00</TD><TD>473.00</TD><TD>475.00</TD><TD>3,934</TD><TD>455.32</TD></TR>
+<TR>
+<TD>Dec-06-01</TD><TD>470.00</TD><TD>480.00</TD><TD>466.00</TD><TD>475.00</TD><TD>5,453</TD><TD>455.32</TD></TR>
+<TR>
+<TD>Dec-05-01</TD><TD>480.00</TD><TD>485.00</TD><TD>475.00</TD><TD>479.51</TD><TD>11,019</TD><TD>459.83</TD></TR>
+<TR>
+<TD>Dec-04-01</TD><TD>485.00</TD><TD>500.00</TD><TD>470.00</TD><TD>474.99</TD><TD>11,689</TD><TD>455.31</TD></TR>
+<TR>
+<TD>Dec-03-01</TD><TD>487.00</TD><TD>490.00</TD><TD>480.00</TD><TD>485.00</TD><TD>17,630</TD><TD>465.32</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

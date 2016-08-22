@@ -1,0 +1,138 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PLIM4.SA (NET SERVICOS DE COMUNICACAO SA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>0.82</TD><TD>0.88</TD><TD>0.80</TD><TD>0.87</TD><TD>9,487</TD><TD>71.99</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>0.84</TD><TD>0.85</TD><TD>0.81</TD><TD>0.82</TD><TD>11,265</TD><TD>66.99</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>0.83</TD><TD>0.86</TD><TD>0.80</TD><TD>0.83</TD><TD>13,065</TD><TD>67.99</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>0.80</TD><TD>0.85</TD><TD>0.77</TD><TD>0.85</TD><TD>8,789</TD><TD>69.99</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>0.78</TD><TD>0.80</TD><TD>0.78</TD><TD>0.80</TD><TD>5,048</TD><TD>64.99</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>0.82</TD><TD>0.83</TD><TD>0.76</TD><TD>0.77</TD><TD>9,999</TD><TD>61.99</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>0.87</TD><TD>0.90</TD><TD>0.81</TD><TD>0.82</TD><TD>8,726</TD><TD>66.99</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>0.93</TD><TD>0.93</TD><TD>0.83</TD><TD>0.86</TD><TD>14,903</TD><TD>70.99</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>1.00</TD><TD>1.01</TD><TD>0.90</TD><TD>0.92</TD><TD>7,996</TD><TD>76.99</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>0.97</TD><TD>1.01</TD><TD>0.97</TD><TD>0.99</TD><TD>4,559</TD><TD>83.99</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>1.05</TD><TD>1.06</TD><TD>0.99</TD><TD>1.01</TD><TD>5,975</TD><TD>85.99</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>1.05</TD><TD>1.08</TD><TD>1.01</TD><TD>1.02</TD><TD>5,799</TD><TD>86.99</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>0.98</TD><TD>1.05</TD><TD>0.97</TD><TD>1.04</TD><TD>9,242</TD><TD>88.99</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>1.03</TD><TD>1.05</TD><TD>0.96</TD><TD>0.96</TD><TD>10,708</TD><TD>80.99</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>1.10</TD><TD>1.10</TD><TD>1.05</TD><TD>1.08</TD><TD>3,463</TD><TD>92.99</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>1.18</TD><TD>1.18</TD><TD>1.09</TD><TD>1.09</TD><TD>10,213</TD><TD>93.99</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>1.18</TD><TD>1.20</TD><TD>1.17</TD><TD>1.17</TD><TD>6,623</TD><TD>101.99</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>1.18</TD><TD>1.18</TD><TD>1.15</TD><TD>1.17</TD><TD>8,388</TD><TD>101.99</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>1.24</TD><TD>1.25</TD><TD>1.19</TD><TD>1.19</TD><TD>7,547</TD><TD>103.99</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>1.26</TD><TD>1.28</TD><TD>1.23</TD><TD>1.24</TD><TD>10,467</TD><TD>108.99</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>1.25</TD><TD>1.30</TD><TD>1.24</TD><TD>1.25</TD><TD>7,054</TD><TD>109.99</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>1.25</TD><TD>1.28</TD><TD>1.21</TD><TD>1.28</TD><TD>8,498</TD><TD>112.99</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>1.22</TD><TD>1.26</TD><TD>1.21</TD><TD>1.26</TD><TD>11,027</TD><TD>110.99</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

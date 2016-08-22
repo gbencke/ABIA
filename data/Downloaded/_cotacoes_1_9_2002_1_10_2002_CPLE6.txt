@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CPLE6.SA (COMPANHIA PARANAENSE DE ENERGIA)
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>7.25</TD><TD>7.59</TD><TD>7.24</TD><TD>7.59</TD><TD>408,102</TD><TD>7.59</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>7.62</TD><TD>7.62</TD><TD>7.06</TD><TD>7.15</TD><TD>645,991</TD><TD>7.15</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>8.06</TD><TD>8.25</TD><TD>7.60</TD><TD>7.60</TD><TD>947,310</TD><TD>7.60</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>8.40</TD><TD>8.42</TD><TD>8.02</TD><TD>8.05</TD><TD>140,105</TD><TD>8.05</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>8.40</TD><TD>8.57</TD><TD>8.25</TD><TD>8.25</TD><TD>236,571</TD><TD>8.25</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>8.60</TD><TD>8.60</TD><TD>8.25</TD><TD>8.25</TD><TD>568,892</TD><TD>8.25</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>8.61</TD><TD>8.61</TD><TD>8.27</TD><TD>8.50</TD><TD>208,424</TD><TD>8.50</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>8.90</TD><TD>8.95</TD><TD>8.71</TD><TD>8.95</TD><TD>150,977</TD><TD>8.95</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>9.00</TD><TD>9.10</TD><TD>8.65</TD><TD>8.70</TD><TD>253,947</TD><TD>8.70</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>9.01</TD><TD>9.08</TD><TD>8.80</TD><TD>8.90</TD><TD>276,532</TD><TD>8.90</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>9.45</TD><TD>9.45</TD><TD>9.00</TD><TD>9.01</TD><TD>652,966</TD><TD>9.01</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>9.75</TD><TD>9.75</TD><TD>9.20</TD><TD>9.25</TD><TD>213,783</TD><TD>9.25</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>9.50</TD><TD>9.80</TD><TD>9.49</TD><TD>9.75</TD><TD>145,954</TD><TD>9.75</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>9.51</TD><TD>9.55</TD><TD>9.35</TD><TD>9.51</TD><TD>393,869</TD><TD>9.51</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>9.62</TD><TD>9.89</TD><TD>9.50</TD><TD>9.54</TD><TD>781,504</TD><TD>9.54</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>9.90</TD><TD>9.90</TD><TD>9.47</TD><TD>9.54</TD><TD>273,182</TD><TD>9.54</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>9.50</TD><TD>9.95</TD><TD>9.50</TD><TD>9.80</TD><TD>698,367</TD><TD>9.80</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>9.51</TD><TD>9.63</TD><TD>9.32</TD><TD>9.61</TD><TD>183,005</TD><TD>9.61</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>9.91</TD><TD>9.91</TD><TD>9.40</TD><TD>9.50</TD><TD>352,031</TD><TD>9.50</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>10.22</TD><TD>10.22</TD><TD>9.83</TD><TD>9.90</TD><TD>300,396</TD><TD>9.90</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>10.54</TD><TD>10.54</TD><TD>10.20</TD><TD>10.20</TD><TD>488,384</TD><TD>10.20</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>10.80</TD><TD>10.80</TD><TD>10.50</TD><TD>10.55</TD><TD>194,901</TD><TD>10.55</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

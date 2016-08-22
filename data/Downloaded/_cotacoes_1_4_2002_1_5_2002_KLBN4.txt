@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - KLBN4.SA (KLABIN SA)
+        </TD><TD>As of Apr-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-30-02</TD><TD>1.01</TD><TD>1.07</TD><TD>0.99</TD><TD>1.07</TD><TD>836</TD><TD>1.07</TD></TR>
+<TR>
+<TD>Apr-29-02</TD><TD>1.03</TD><TD>1.04</TD><TD>1.02</TD><TD>1.02</TD><TD>332</TD><TD>1.02</TD></TR>
+<TR>
+<TD>Apr-26-02</TD><TD>1.03</TD><TD>1.05</TD><TD>1.02</TD><TD>1.02</TD><TD>251</TD><TD>1.02</TD></TR>
+<TR>
+<TD>Apr-25-02</TD><TD>1.03</TD><TD>1.04</TD><TD>1.00</TD><TD>1.04</TD><TD>344</TD><TD>1.04</TD></TR>
+<TR>
+<TD>Apr-24-02</TD><TD>1.08</TD><TD>1.09</TD><TD>1.04</TD><TD>1.05</TD><TD>171</TD><TD>1.05</TD></TR>
+<TR>
+<TD>Apr-23-02</TD><TD>1.08</TD><TD>1.10</TD><TD>1.05</TD><TD>1.06</TD><TD>236</TD><TD>1.06</TD></TR>
+<TR>
+<TD>Apr-22-02</TD><TD>1.07</TD><TD>1.08</TD><TD>1.05</TD><TD>1.08</TD><TD>238</TD><TD>1.08</TD></TR>
+<TR>
+<TD>Apr-19-02</TD><TD>1.10</TD><TD>1.12</TD><TD>1.08</TD><TD>1.10</TD><TD>174</TD><TD>1.10</TD></TR>
+<TR>
+<TD>Apr-18-02</TD><TD>1.10</TD><TD>1.12</TD><TD>1.09</TD><TD>1.11</TD><TD>217</TD><TD>1.11</TD></TR>
+<TR>
+<TD>Apr-17-02</TD><TD>1.10</TD><TD>1.14</TD><TD>1.10</TD><TD>1.12</TD><TD>1,146</TD><TD>1.12</TD></TR>
+<TR>
+<TD>Apr-16-02</TD><TD>1.10</TD><TD>1.12</TD><TD>1.07</TD><TD>1.09</TD><TD>128</TD><TD>1.09</TD></TR>
+<TR>
+<TD>Apr-15-02</TD><TD>1.10</TD><TD>1.12</TD><TD>1.06</TD><TD>1.08</TD><TD>314</TD><TD>1.08</TD></TR>
+<TR>
+<TD>Apr-12-02</TD><TD>1.12</TD><TD>1.12</TD><TD>1.09</TD><TD>1.12</TD><TD>68</TD><TD>1.12</TD></TR>
+<TR>
+<TD>Apr-11-02</TD><TD>1.12</TD><TD>1.12</TD><TD>1.08</TD><TD>1.08</TD><TD>109</TD><TD>1.08</TD></TR>
+<TR>
+<TD>Apr-10-02</TD><TD>1.11</TD><TD>1.12</TD><TD>1.10</TD><TD>1.12</TD><TD>561</TD><TD>1.12</TD></TR>
+<TR>
+<TD>Apr-09-02</TD><TD>1.13</TD><TD>1.13</TD><TD>1.13</TD><TD>1.13</TD><TD>42</TD><TD>1.13</TD></TR>
+<TR>
+<TD>Apr-08-02</TD><TD>1.09</TD><TD>1.12</TD><TD>1.08</TD><TD>1.12</TD><TD>35</TD><TD>1.12</TD></TR>
+<TR>
+<TD>Apr-05-02</TD><TD>1.17</TD><TD>1.17</TD><TD>1.08</TD><TD>1.09</TD><TD>688</TD><TD>1.09</TD></TR>
+<TR>
+<TD>Apr-04-02</TD><TD>1.17</TD><TD>1.19</TD><TD>1.14</TD><TD>1.15</TD><TD>245</TD><TD>1.15</TD></TR>
+<TR>
+<TD>Apr-03-02</TD><TD>1.14</TD><TD>1.21</TD><TD>1.14</TD><TD>1.17</TD><TD>568</TD><TD>1.17</TD></TR>
+<TR>
+<TD>Apr-02-02</TD><TD>1.19</TD><TD>1.19</TD><TD>1.13</TD><TD>1.16</TD><TD>93</TD><TD>1.16</TD></TR>
+<TR>
+<TD>Apr-01-02</TD><TD>1.11</TD><TD>1.20</TD><TD>1.06</TD><TD>1.20</TD><TD>232</TD><TD>1.20</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

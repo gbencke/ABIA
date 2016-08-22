@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PLIM4.SA (NET SERVICOS DE COMUNICACAO SA)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>2.19</TD><TD>2.19</TD><TD>2.05</TD><TD>2.05</TD><TD>15,933</TD><TD>189.99</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>2.20</TD><TD>2.23</TD><TD>2.17</TD><TD>2.19</TD><TD>13,434</TD><TD>203.99</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>2.25</TD><TD>2.26</TD><TD>2.19</TD><TD>2.20</TD><TD>8,742</TD><TD>204.99</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>2.32</TD><TD>2.32</TD><TD>2.23</TD><TD>2.25</TD><TD>10,359</TD><TD>209.99</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>2.34</TD><TD>2.35</TD><TD>2.26</TD><TD>2.30</TD><TD>8,559</TD><TD>214.99</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>2.38</TD><TD>2.39</TD><TD>2.29</TD><TD>2.32</TD><TD>6,917</TD><TD>216.99</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>2.31</TD><TD>2.38</TD><TD>2.30</TD><TD>2.35</TD><TD>10,130</TD><TD>219.99</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>2.37</TD><TD>2.37</TD><TD>2.30</TD><TD>2.32</TD><TD>8,112</TD><TD>216.99</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>2.38</TD><TD>2.44</TD><TD>2.34</TD><TD>2.34</TD><TD>17,239</TD><TD>218.99</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>2.36</TD><TD>2.40</TD><TD>2.33</TD><TD>2.38</TD><TD>10,503</TD><TD>222.99</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>2.28</TD><TD>2.36</TD><TD>2.27</TD><TD>2.35</TD><TD>8,132</TD><TD>219.99</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>2.31</TD><TD>2.32</TD><TD>2.24</TD><TD>2.24</TD><TD>5,918</TD><TD>208.99</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>2.26</TD><TD>2.32</TD><TD>2.26</TD><TD>2.30</TD><TD>2,373</TD><TD>214.99</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>2.31</TD><TD>2.34</TD><TD>2.27</TD><TD>2.27</TD><TD>6,128</TD><TD>211.99</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>2.27</TD><TD>2.33</TD><TD>2.27</TD><TD>2.31</TD><TD>9,650</TD><TD>215.99</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>2.30</TD><TD>2.34</TD><TD>2.25</TD><TD>2.28</TD><TD>12,023</TD><TD>212.99</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>2.30</TD><TD>2.37</TD><TD>2.26</TD><TD>2.31</TD><TD>18,668</TD><TD>215.99</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>2.20</TD><TD>2.29</TD><TD>2.18</TD><TD>2.27</TD><TD>13,287</TD><TD>211.99</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>2.34</TD><TD>2.36</TD><TD>2.19</TD><TD>2.22</TD><TD>14,413</TD><TD>206.99</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>2.28</TD><TD>2.40</TD><TD>2.26</TD><TD>2.34</TD><TD>14,402</TD><TD>218.99</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>2.07</TD><TD>2.31</TD><TD>2.01</TD><TD>2.29</TD><TD>21,745</TD><TD>213.99</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>2.11</TD><TD>2.17</TD><TD>2.04</TD><TD>2.06</TD><TD>12,171</TD><TD>190.99</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

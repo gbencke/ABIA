@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<agent Name="PortfolioManagerAgent"> 
+    <CLIPServer RulesFile="PortfolioManager.clp" Port="7202"/>
+    <Parameter  Name="DataInicial" Value="20030101"/>
+    <Parameter  Name="PortfolioProfit" Value="5"/>    
+    <Parameter  Name="InicialCapital" Value="15000"/>
+    <Parameter  Name="MAXRisk" Value="5"/>
+</agent>

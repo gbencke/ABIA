@@ -1,0 +1,123 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - LIGH3.SA (LIGHT-SERVICOS DE ELETRICIDADE )
+        </TD><TD>As of Aug-31-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-31-01</TD><TD>116.50</TD><TD>116.50</TD><TD>113.00</TD><TD>115.99</TD><TD>4,006</TD><TD>115.99</TD></TR>
+<TR>
+<TD>Aug-30-01</TD><TD>115.99</TD><TD>117.75</TD><TD>113.00</TD><TD>114.00</TD><TD>1,208</TD><TD>114.00</TD></TR>
+<TR>
+<TD>Aug-29-01</TD><TD>114.50</TD><TD>115.99</TD><TD>114.50</TD><TD>115.00</TD><TD>311</TD><TD>115.00</TD></TR>
+<TR>
+<TD>Aug-28-01</TD><TD>112.50</TD><TD>113.00</TD><TD>112.50</TD><TD>112.51</TD><TD>922</TD><TD>112.51</TD></TR>
+<TR>
+<TD>Aug-27-01</TD><TD>115.00</TD><TD>115.00</TD><TD>111.07</TD><TD>112.50</TD><TD>2,161</TD><TD>112.50</TD></TR>
+<TR>
+<TD>Aug-24-01</TD><TD>111.00</TD><TD>116.99</TD><TD>111.00</TD><TD>116.50</TD><TD>2,953</TD><TD>116.50</TD></TR>
+<TR>
+<TD>Aug-23-01</TD><TD>113.00</TD><TD>114.00</TD><TD>110.00</TD><TD>111.09</TD><TD>1,590</TD><TD>111.09</TD></TR>
+<TR>
+<TD>Aug-22-01</TD><TD>118.00</TD><TD>118.00</TD><TD>111.50</TD><TD>112.50</TD><TD>9,762</TD><TD>112.50</TD></TR>
+<TR>
+<TD>Aug-21-01</TD><TD>120.00</TD><TD>120.00</TD><TD>112.50</TD><TD>113.97</TD><TD>5,210</TD><TD>113.97</TD></TR>
+<TR>
+<TD>Aug-20-01</TD><TD>119.08</TD><TD>124.00</TD><TD>119.08</TD><TD>122.00</TD><TD>592</TD><TD>122.00</TD></TR>
+<TR>
+<TD>Aug-17-01</TD><TD>123.24</TD><TD>125.10</TD><TD>121.50</TD><TD>121.50</TD><TD>4,643</TD><TD>121.50</TD></TR>
+<TR>
+<TD>Aug-15-01</TD><TD>130.00</TD><TD>133.00</TD><TD>126.75</TD><TD>130.51</TD><TD>9,230</TD><TD>130.51</TD></TR>
+<TR>
+<TD>Aug-14-01</TD><TD>126.70</TD><TD>127.76</TD><TD>126.00</TD><TD>127.76</TD><TD>2,629</TD><TD>127.76</TD></TR>
+<TR>
+<TD>Aug-13-01</TD><TD>130.00</TD><TD>130.00</TD><TD>128.00</TD><TD>128.99</TD><TD>5,551</TD><TD>128.99</TD></TR>
+<TR>
+<TD>Aug-10-01</TD><TD>124.00</TD><TD>130.75</TD><TD>123.50</TD><TD>130.75</TD><TD>7,062</TD><TD>130.75</TD></TR>
+<TR>
+<TD>Aug-09-01</TD><TD>121.20</TD><TD>124.00</TD><TD>120.10</TD><TD>124.00</TD><TD>7,865</TD><TD>124.00</TD></TR>
+<TR>
+<TD>Aug-08-01</TD><TD>117.99</TD><TD>123.50</TD><TD>117.99</TD><TD>121.25</TD><TD>10,691</TD><TD>121.25</TD></TR>
+<TR>
+<TD>Aug-07-01</TD><TD>114.50</TD><TD>118.90</TD><TD>114.00</TD><TD>118.00</TD><TD>4,284</TD><TD>118.00</TD></TR>
+<TR>
+<TD>Aug-06-01</TD><TD>114.50</TD><TD>116.00</TD><TD>114.50</TD><TD>115.00</TD><TD>1,970</TD><TD>115.00</TD></TR>
+<TR>
+<TD>Aug-03-01</TD><TD>116.96</TD><TD>116.98</TD><TD>113.03</TD><TD>114.49</TD><TD>1,199</TD><TD>114.49</TD></TR>
+<TR>
+<TD>Aug-02-01</TD><TD>113.90</TD><TD>115.80</TD><TD>113.89</TD><TD>115.80</TD><TD>2,413</TD><TD>115.80</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>111.25</TD><TD>114.00</TD><TD>111.00</TD><TD>114.00</TD><TD>1,086</TD><TD>114.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

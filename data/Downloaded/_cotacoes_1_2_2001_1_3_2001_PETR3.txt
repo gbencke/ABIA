@@ -1,0 +1,120 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PETR3.SA (PETROLEO BRASILEIRO SA)
+        </TD><TD>As of Mar-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>57.50</TD><TD>58.30</TD><TD>57.00</TD><TD>58.00</TD><TD>355</TD><TD>54.19</TD></TR>
+<TR>
+<TD>Feb-28-01</TD><TD>59.80</TD><TD>59.80</TD><TD>57.01</TD><TD>57.51</TD><TD>301</TD><TD>53.70</TD></TR>
+<TR>
+<TD>Feb-23-01</TD><TD>57.30</TD><TD>58.00</TD><TD>56.01</TD><TD>57.01</TD><TD>368</TD><TD>53.20</TD></TR>
+<TR>
+<TD>Feb-22-01</TD><TD>56.95</TD><TD>57.60</TD><TD>56.50</TD><TD>57.20</TD><TD>734</TD><TD>53.39</TD></TR>
+<TR>
+<TD>Feb-21-01</TD><TD>57.60</TD><TD>57.60</TD><TD>56.40</TD><TD>56.70</TD><TD>607</TD><TD>52.89</TD></TR>
+<TR>
+<TD>Feb-20-01</TD><TD>57.00</TD><TD>57.80</TD><TD>56.80</TD><TD>57.60</TD><TD>1,035</TD><TD>53.79</TD></TR>
+<TR>
+<TD>Feb-19-01</TD><TD>58.00</TD><TD>58.02</TD><TD>56.20</TD><TD>56.70</TD><TD>274</TD><TD>52.89</TD></TR>
+<TR>
+<TD>Feb-16-01</TD><TD>59.05</TD><TD>59.05</TD><TD>57.20</TD><TD>58.00</TD><TD>248</TD><TD>54.19</TD></TR>
+<TR>
+<TD>Feb-15-01</TD><TD>59.10</TD><TD>59.70</TD><TD>58.80</TD><TD>58.85</TD><TD>316</TD><TD>55.04</TD></TR>
+<TR>
+<TD>Feb-14-01</TD><TD>58.30</TD><TD>59.89</TD><TD>58.00</TD><TD>59.11</TD><TD>691</TD><TD>55.30</TD></TR>
+<TR>
+<TD>Feb-13-01</TD><TD>56.90</TD><TD>58.40</TD><TD>56.70</TD><TD>58.30</TD><TD>649</TD><TD>54.49</TD></TR>
+<TR>
+<TD>Feb-12-01</TD><TD>56.90</TD><TD>57.90</TD><TD>56.50</TD><TD>56.60</TD><TD>306</TD><TD>52.79</TD></TR>
+<TR>
+<TD>Feb-09-01</TD><TD>56.20</TD><TD>57.50</TD><TD>56.00</TD><TD>56.90</TD><TD>360</TD><TD>53.09</TD></TR>
+<TR>
+<TD>Feb-08-01</TD><TD>55.50</TD><TD>56.91</TD><TD>55.50</TD><TD>56.30</TD><TD>295</TD><TD>52.49</TD></TR>
+<TR>
+<TD>Feb-07-01</TD><TD>54.50</TD><TD>55.30</TD><TD>54.10</TD><TD>55.30</TD><TD>399</TD><TD>51.49</TD></TR>
+<TR>
+<TD>Feb-06-01</TD><TD>54.80</TD><TD>56.20</TD><TD>54.60</TD><TD>55.50</TD><TD>311</TD><TD>51.69</TD></TR>
+<TR>
+<TD>Feb-05-01</TD><TD>54.60</TD><TD>55.00</TD><TD>54.01</TD><TD>54.80</TD><TD>197</TD><TD>50.99</TD></TR>
+<TR>
+<TD>Feb-02-01</TD><TD>54.50</TD><TD>54.90</TD><TD>54.40</TD><TD>54.60</TD><TD>282</TD><TD>50.79</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>54.85</TD><TD>55.00</TD><TD>54.50</TD><TD>54.80</TD><TD>421</TD><TD>50.99</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

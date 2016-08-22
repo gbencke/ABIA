@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VALE5.SA (COMPANHIA VALE DO RIO DOCE)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>92.50</TD><TD>93.00</TD><TD>92.00</TD><TD>92.40</TD><TD>307</TD><TD>86.48</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>93.00</TD><TD>93.10</TD><TD>90.01</TD><TD>93.10</TD><TD>284</TD><TD>87.18</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>95.00</TD><TD>95.00</TD><TD>92.94</TD><TD>93.60</TD><TD>256</TD><TD>87.68</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>94.97</TD><TD>95.80</TD><TD>94.50</TD><TD>95.80</TD><TD>269</TD><TD>89.88</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>93.01</TD><TD>95.06</TD><TD>92.00</TD><TD>94.97</TD><TD>176</TD><TD>89.05</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>91.50</TD><TD>92.90</TD><TD>91.50</TD><TD>92.50</TD><TD>201</TD><TD>86.58</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>89.81</TD><TD>92.40</TD><TD>89.00</TD><TD>91.50</TD><TD>420</TD><TD>85.58</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>88.00</TD><TD>90.52</TD><TD>87.70</TD><TD>90.00</TD><TD>395</TD><TD>84.08</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>85.20</TD><TD>89.40</TD><TD>85.20</TD><TD>88.51</TD><TD>260</TD><TD>82.59</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>86.75</TD><TD>87.70</TD><TD>85.86</TD><TD>87.20</TD><TD>145</TD><TD>81.28</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>83.99</TD><TD>86.50</TD><TD>83.50</TD><TD>85.70</TD><TD>100</TD><TD>79.78</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>83.35</TD><TD>84.50</TD><TD>82.50</TD><TD>84.50</TD><TD>210</TD><TD>78.58</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>82.76</TD><TD>84.20</TD><TD>81.00</TD><TD>82.60</TD><TD>341</TD><TD>76.68</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>82.00</TD><TD>83.50</TD><TD>82.00</TD><TD>82.60</TD><TD>87</TD><TD>76.68</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>83.50</TD><TD>83.50</TD><TD>81.00</TD><TD>82.00</TD><TD>94</TD><TD>76.08</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>85.00</TD><TD>85.25</TD><TD>81.00</TD><TD>83.50</TD><TD>136</TD><TD>77.58</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>85.51</TD><TD>85.51</TD><TD>84.75</TD><TD>84.75</TD><TD>263</TD><TD>78.83</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>83.50</TD><TD>85.47</TD><TD>83.20</TD><TD>85.47</TD><TD>232</TD><TD>79.55</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>82.00</TD><TD>84.00</TD><TD>81.20</TD><TD>83.50</TD><TD>168</TD><TD>77.58</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>83.10</TD><TD>83.99</TD><TD>82.05</TD><TD>83.40</TD><TD>179</TD><TD>77.48</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>85.00</TD><TD>85.00</TD><TD>82.09</TD><TD>83.35</TD><TD>219</TD><TD>77.43</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>81.51</TD><TD>84.40</TD><TD>81.50</TD><TD>84.40</TD><TD>153</TD><TD>78.48</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>80.00</TD><TD>81.60</TD><TD>79.50</TD><TD>81.50</TD><TD>203</TD><TD>75.58</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>81.50</TD><TD>82.30</TD><TD>79.10</TD><TD>79.98</TD><TD>142</TD><TD>74.06</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

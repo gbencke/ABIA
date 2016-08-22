@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CMIG3.SA (COMPANHIA ENERGETICA DE MINAS G)
+        </TD><TD>As of Feb-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-02</TD><TD>30.00</TD><TD>30.80</TD><TD>29.99</TD><TD>30.11</TD><TD>7,955</TD><TD>28.79</TD></TR>
+<TR>
+<TD>Jan-31-02</TD><TD>30.00</TD><TD>30.50</TD><TD>29.00</TD><TD>30.30</TD><TD>25,530</TD><TD>28.98</TD></TR>
+<TR>
+<TD>Jan-30-02</TD><TD>27.95</TD><TD>29.10</TD><TD>27.02</TD><TD>28.50</TD><TD>13,400</TD><TD>27.18</TD></TR>
+<TR>
+<TD>Jan-29-02</TD><TD>29.00</TD><TD>29.10</TD><TD>27.95</TD><TD>27.95</TD><TD>7,143</TD><TD>26.63</TD></TR>
+<TR>
+<TD>Jan-28-02</TD><TD>29.51</TD><TD>29.80</TD><TD>29.01</TD><TD>29.01</TD><TD>16,869</TD><TD>27.69</TD></TR>
+<TR>
+<TD>Jan-24-02</TD><TD>30.00</TD><TD>30.50</TD><TD>30.00</TD><TD>30.50</TD><TD>14,984</TD><TD>29.18</TD></TR>
+<TR>
+<TD>Jan-23-02</TD><TD>30.00</TD><TD>30.10</TD><TD>29.50</TD><TD>30.10</TD><TD>17,200</TD><TD>28.78</TD></TR>
+<TR>
+<TD>Jan-22-02</TD><TD>30.00</TD><TD>30.00</TD><TD>29.00</TD><TD>29.20</TD><TD>12,200</TD><TD>27.88</TD></TR>
+<TR>
+<TD>Jan-21-02</TD><TD>29.30</TD><TD>30.00</TD><TD>29.10</TD><TD>29.95</TD><TD>11,643</TD><TD>28.63</TD></TR>
+<TR>
+<TD>Jan-18-02</TD><TD>28.80</TD><TD>30.00</TD><TD>28.80</TD><TD>30.00</TD><TD>23,443</TD><TD>28.68</TD></TR>
+<TR>
+<TD>Jan-17-02</TD><TD>29.00</TD><TD>29.30</TD><TD>28.60</TD><TD>28.80</TD><TD>5,100</TD><TD>27.48</TD></TR>
+<TR>
+<TD>Jan-16-02</TD><TD>27.06</TD><TD>29.50</TD><TD>27.06</TD><TD>28.80</TD><TD>36,023</TD><TD>27.48</TD></TR>
+<TR>
+<TD>Jan-15-02</TD><TD>29.00</TD><TD>29.00</TD><TD>27.50</TD><TD>27.50</TD><TD>21,600</TD><TD>26.18</TD></TR>
+<TR>
+<TD>Jan-14-02</TD><TD>29.50</TD><TD>29.50</TD><TD>28.36</TD><TD>28.36</TD><TD>10,570</TD><TD>27.04</TD></TR>
+<TR>
+<TD>Jan-11-02</TD><TD>30.00</TD><TD>31.00</TD><TD>29.51</TD><TD>29.70</TD><TD>8,790</TD><TD>28.38</TD></TR>
+<TR>
+<TD>Jan-10-02</TD><TD>30.50</TD><TD>30.50</TD><TD>30.00</TD><TD>30.00</TD><TD>28,500</TD><TD>28.68</TD></TR>
+<TR>
+<TD>Jan-09-02</TD><TD>31.51</TD><TD>32.00</TD><TD>31.00</TD><TD>31.60</TD><TD>24,244</TD><TD>30.28</TD></TR>
+<TR>
+<TD>Jan-08-02</TD><TD>32.00</TD><TD>32.50</TD><TD>31.51</TD><TD>32.38</TD><TD>13,949</TD><TD>31.06</TD></TR>
+<TR>
+<TD>Jan-07-02</TD><TD>32.00</TD><TD>32.64</TD><TD>32.00</TD><TD>32.51</TD><TD>20,185</TD><TD>31.19</TD></TR>
+<TR>
+<TD>Jan-04-02</TD><TD>32.01</TD><TD>32.50</TD><TD>31.62</TD><TD>32.00</TD><TD>17,815</TD><TD>30.68</TD></TR>
+<TR>
+<TD>Jan-03-02</TD><TD>31.80</TD><TD>33.00</TD><TD>31.70</TD><TD>32.71</TD><TD>30,133</TD><TD>31.39</TD></TR>
+<TR>
+<TD>Jan-02-02</TD><TD>31.00</TD><TD>31.80</TD><TD>30.81</TD><TD>31.80</TD><TD>14,030</TD><TD>30.48</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

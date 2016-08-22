@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EBTP3.SA (EMBRATEL PARTICIPACOES SA)
+        </TD><TD>As of Aug-31-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-31-01</TD><TD>11.28</TD><TD>11.98</TD><TD>11.28</TD><TD>11.70</TD><TD>564,722</TD><TD>11.70</TD></TR>
+<TR>
+<TD>Aug-30-01</TD><TD>11.95</TD><TD>11.95</TD><TD>11.20</TD><TD>11.28</TD><TD>212,801</TD><TD>11.28</TD></TR>
+<TR>
+<TD>Aug-29-01</TD><TD>11.46</TD><TD>11.80</TD><TD>11.40</TD><TD>11.65</TD><TD>504,971</TD><TD>11.65</TD></TR>
+<TR>
+<TD>Aug-28-01</TD><TD>11.39</TD><TD>11.44</TD><TD>10.96</TD><TD>11.44</TD><TD>283,379</TD><TD>11.44</TD></TR>
+<TR>
+<TD>Aug-27-01</TD><TD>10.48</TD><TD>11.15</TD><TD>10.30</TD><TD>10.96</TD><TD>273,293</TD><TD>10.96</TD></TR>
+<TR>
+<TD>Aug-24-01</TD><TD>10.60</TD><TD>10.60</TD><TD>10.02</TD><TD>10.55</TD><TD>542,392</TD><TD>10.55</TD></TR>
+<TR>
+<TD>Aug-23-01</TD><TD>11.38</TD><TD>11.50</TD><TD>10.65</TD><TD>10.89</TD><TD>354,247</TD><TD>10.89</TD></TR>
+<TR>
+<TD>Aug-22-01</TD><TD>11.95</TD><TD>11.95</TD><TD>10.90</TD><TD>11.37</TD><TD>376,928</TD><TD>11.37</TD></TR>
+<TR>
+<TD>Aug-21-01</TD><TD>12.02</TD><TD>12.05</TD><TD>11.50</TD><TD>11.60</TD><TD>250,749</TD><TD>11.60</TD></TR>
+<TR>
+<TD>Aug-20-01</TD><TD>12.00</TD><TD>12.29</TD><TD>11.90</TD><TD>12.07</TD><TD>173,992</TD><TD>12.07</TD></TR>
+<TR>
+<TD>Aug-17-01</TD><TD>12.05</TD><TD>12.30</TD><TD>11.90</TD><TD>12.04</TD><TD>337,788</TD><TD>12.04</TD></TR>
+<TR>
+<TD>Aug-15-01</TD><TD>12.50</TD><TD>12.50</TD><TD>12.01</TD><TD>12.40</TD><TD>518,852</TD><TD>12.40</TD></TR>
+<TR>
+<TD>Aug-14-01</TD><TD>12.06</TD><TD>12.50</TD><TD>12.00</TD><TD>12.37</TD><TD>478,441</TD><TD>12.37</TD></TR>
+<TR>
+<TD>Aug-13-01</TD><TD>12.25</TD><TD>12.40</TD><TD>12.05</TD><TD>12.15</TD><TD>202,566</TD><TD>12.15</TD></TR>
+<TR>
+<TD>Aug-10-01</TD><TD>12.80</TD><TD>12.80</TD><TD>12.20</TD><TD>12.20</TD><TD>452,429</TD><TD>12.20</TD></TR>
+<TR>
+<TD>Aug-09-01</TD><TD>12.75</TD><TD>12.90</TD><TD>12.51</TD><TD>12.60</TD><TD>444,534</TD><TD>12.60</TD></TR>
+<TR>
+<TD>Aug-08-01</TD><TD>13.80</TD><TD>13.80</TD><TD>12.50</TD><TD>12.70</TD><TD>475,806</TD><TD>12.70</TD></TR>
+<TR>
+<TD>Aug-07-01</TD><TD>14.00</TD><TD>14.00</TD><TD>13.50</TD><TD>13.51</TD><TD>250,278</TD><TD>13.51</TD></TR>
+<TR>
+<TD>Aug-06-01</TD><TD>14.10</TD><TD>14.20</TD><TD>13.75</TD><TD>13.90</TD><TD>168,422</TD><TD>13.90</TD></TR>
+<TR>
+<TD>Aug-03-01</TD><TD>14.30</TD><TD>14.44</TD><TD>13.70</TD><TD>14.00</TD><TD>93,840</TD><TD>14.00</TD></TR>
+<TR>
+<TD>Aug-02-01</TD><TD>14.15</TD><TD>14.45</TD><TD>14.00</TD><TD>14.30</TD><TD>291,795</TD><TD>14.30</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>13.81</TD><TD>14.21</TD><TD>13.60</TD><TD>14.10</TD><TD>241,548</TD><TD>14.10</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNLP4.SA (TELE NORTE LESTE PARTICIPACOES )
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>37.16</TD><TD>37.16</TD><TD>36.02</TD><TD>37.09</TD><TD>1,596,290</TD><TD>35.13</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>37.00</TD><TD>37.50</TD><TD>36.60</TD><TD>37.00</TD><TD>1,510,380</TD><TD>35.04</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>37.25</TD><TD>37.25</TD><TD>36.50</TD><TD>36.82</TD><TD>1,436,080</TD><TD>34.86</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>36.30</TD><TD>37.20</TD><TD>36.10</TD><TD>37.15</TD><TD>1,424,480</TD><TD>35.19</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>36.95</TD><TD>36.95</TD><TD>35.53</TD><TD>36.30</TD><TD>891,279</TD><TD>34.34</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>37.30</TD><TD>37.40</TD><TD>36.10</TD><TD>36.58</TD><TD>1,552,430</TD><TD>34.62</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>38.00</TD><TD>38.50</TD><TD>37.00</TD><TD>37.21</TD><TD>2,297,360</TD><TD>35.25</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>38.20</TD><TD>38.50</TD><TD>37.40</TD><TD>37.95</TD><TD>1,614,970</TD><TD>35.99</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>39.00</TD><TD>39.65</TD><TD>38.10</TD><TD>38.20</TD><TD>2,459,540</TD><TD>36.24</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>38.25</TD><TD>39.22</TD><TD>37.50</TD><TD>38.81</TD><TD>1,121,160</TD><TD>36.85</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>38.30</TD><TD>38.89</TD><TD>38.30</TD><TD>38.50</TD><TD>1,433,280</TD><TD>36.54</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>38.20</TD><TD>39.00</TD><TD>37.90</TD><TD>38.01</TD><TD>1,791,350</TD><TD>36.05</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>37.10</TD><TD>38.70</TD><TD>36.80</TD><TD>38.34</TD><TD>1,921,150</TD><TD>36.38</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>35.80</TD><TD>37.20</TD><TD>35.80</TD><TD>36.86</TD><TD>1,659,010</TD><TD>34.90</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>36.00</TD><TD>36.00</TD><TD>34.80</TD><TD>35.70</TD><TD>713,378</TD><TD>33.74</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>37.80</TD><TD>37.80</TD><TD>36.10</TD><TD>36.28</TD><TD>1,537,610</TD><TD>34.32</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>37.99</TD><TD>38.90</TD><TD>37.90</TD><TD>37.90</TD><TD>1,576,420</TD><TD>35.94</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>37.80</TD><TD>38.60</TD><TD>37.56</TD><TD>38.30</TD><TD>1,656,960</TD><TD>36.34</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>38.39</TD><TD>38.80</TD><TD>37.70</TD><TD>38.34</TD><TD>1,419,190</TD><TD>36.38</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>39.40</TD><TD>39.80</TD><TD>38.55</TD><TD>38.55</TD><TD>1,484,900</TD><TD>36.59</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>38.70</TD><TD>40.00</TD><TD>38.60</TD><TD>39.40</TD><TD>1,598,400</TD><TD>37.44</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>38.45</TD><TD>39.40</TD><TD>37.80</TD><TD>39.30</TD><TD>1,795,290</TD><TD>37.34</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>38.00</TD><TD>38.40</TD><TD>37.30</TD><TD>38.32</TD><TD>1,603,910</TD><TD>36.36</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

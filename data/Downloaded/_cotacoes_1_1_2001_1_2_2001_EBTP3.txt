@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EBTP3.SA (EMBRATEL PARTICIPACOES SA)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>26.30</TD><TD>26.40</TD><TD>25.10</TD><TD>25.40</TD><TD>234,204</TD><TD>25.40</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>26.80</TD><TD>27.10</TD><TD>26.25</TD><TD>26.70</TD><TD>265,132</TD><TD>26.70</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>26.90</TD><TD>27.00</TD><TD>26.50</TD><TD>26.60</TD><TD>166,548</TD><TD>26.60</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>26.60</TD><TD>27.20</TD><TD>26.30</TD><TD>26.91</TD><TD>177,203</TD><TD>26.91</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>26.00</TD><TD>27.00</TD><TD>25.80</TD><TD>26.80</TD><TD>408,294</TD><TD>26.80</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>27.20</TD><TD>27.60</TD><TD>25.50</TD><TD>25.96</TD><TD>545,245</TD><TD>25.96</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>27.20</TD><TD>27.35</TD><TD>27.00</TD><TD>27.01</TD><TD>176,621</TD><TD>27.01</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>27.06</TD><TD>27.11</TD><TD>26.60</TD><TD>27.00</TD><TD>151,585</TD><TD>27.00</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>27.48</TD><TD>27.80</TD><TD>27.06</TD><TD>27.06</TD><TD>109,803</TD><TD>27.06</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>26.40</TD><TD>27.47</TD><TD>26.10</TD><TD>27.39</TD><TD>375,277</TD><TD>27.39</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>25.30</TD><TD>26.50</TD><TD>25.30</TD><TD>26.38</TD><TD>303,221</TD><TD>26.38</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>26.30</TD><TD>26.50</TD><TD>25.33</TD><TD>25.33</TD><TD>161,415</TD><TD>25.33</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>26.80</TD><TD>26.80</TD><TD>26.20</TD><TD>26.33</TD><TD>68,366</TD><TD>26.33</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>27.50</TD><TD>27.90</TD><TD>26.50</TD><TD>26.79</TD><TD>310,230</TD><TD>26.79</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>26.40</TD><TD>27.30</TD><TD>25.50</TD><TD>27.30</TD><TD>405,326</TD><TD>27.30</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>25.40</TD><TD>26.50</TD><TD>25.11</TD><TD>26.21</TD><TD>238,817</TD><TD>26.21</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>25.01</TD><TD>26.50</TD><TD>25.01</TD><TD>25.35</TD><TD>364,096</TD><TD>25.35</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>24.50</TD><TD>25.50</TD><TD>24.02</TD><TD>25.30</TD><TD>210,095</TD><TD>25.30</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>24.21</TD><TD>26.00</TD><TD>24.20</TD><TD>24.49</TD><TD>192,832</TD><TD>24.49</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>24.60</TD><TD>26.30</TD><TD>24.50</TD><TD>24.72</TD><TD>207,563</TD><TD>24.72</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>21.70</TD><TD>25.00</TD><TD>21.50</TD><TD>24.92</TD><TD>252,910</TD><TD>24.92</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>21.55</TD><TD>23.20</TD><TD>21.55</TD><TD>21.81</TD><TD>112,949</TD><TD>21.81</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

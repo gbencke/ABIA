@@ -1,0 +1,138 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ITSA4.SA (ITAUSA INVESTIMENTOS ITAU SA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>2.03</TD><TD>2.04</TD><TD>1.99</TD><TD>2.02</TD><TD>3,777</TD><TD>1.76</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>2.05</TD><TD>2.07</TD><TD>2.05</TD><TD>2.05</TD><TD>1,999</TD><TD>1.79</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>2.03</TD><TD>2.06</TD><TD>2.03</TD><TD>2.04</TD><TD>3,162</TD><TD>1.78</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>2.00</TD><TD>2.05</TD><TD>1.99</TD><TD>2.03</TD><TD>3,094</TD><TD>1.77</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>2.06</TD><TD>2.06</TD><TD>1.99</TD><TD>1.99</TD><TD>1,569</TD><TD>1.73</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>2.03</TD><TD>2.07</TD><TD>2.00</TD><TD>2.05</TD><TD>5,590</TD><TD>1.79</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>2.03</TD><TD>2.03</TD><TD>2.01</TD><TD>2.02</TD><TD>6,514</TD><TD>1.76</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>1.97</TD><TD>2.05</TD><TD>1.97</TD><TD>2.03</TD><TD>5,852</TD><TD>1.77</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>1.93</TD><TD>2.01</TD><TD>1.93</TD><TD>1.97</TD><TD>5,238</TD><TD>1.71</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>1.97</TD><TD>1.97</TD><TD>1.90</TD><TD>1.94</TD><TD>2,307</TD><TD>1.68</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>1.99</TD><TD>2.01</TD><TD>1.95</TD><TD>1.97</TD><TD>4,626</TD><TD>1.71</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>1.94</TD><TD>2.02</TD><TD>1.94</TD><TD>1.99</TD><TD>6,005</TD><TD>1.73</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>1.91</TD><TD>1.98</TD><TD>1.89</TD><TD>1.97</TD><TD>7,364</TD><TD>1.71</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>1.84</TD><TD>1.92</TD><TD>1.82</TD><TD>1.89</TD><TD>3,844</TD><TD>1.63</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>1.91</TD><TD>1.91</TD><TD>1.87</TD><TD>1.87</TD><TD>574</TD><TD>1.61</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>1.95</TD><TD>1.95</TD><TD>1.89</TD><TD>1.91</TD><TD>1,348</TD><TD>1.65</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>1.93</TD><TD>1.95</TD><TD>1.93</TD><TD>1.94</TD><TD>3,250</TD><TD>1.68</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>1.92</TD><TD>1.95</TD><TD>1.90</TD><TD>1.93</TD><TD>2,662</TD><TD>1.67</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>1.95</TD><TD>1.95</TD><TD>1.91</TD><TD>1.92</TD><TD>5,157</TD><TD>1.66</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>1.96</TD><TD>1.97</TD><TD>1.93</TD><TD>1.95</TD><TD>1,485</TD><TD>1.69</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>1.94</TD><TD>1.99</TD><TD>1.92</TD><TD>1.97</TD><TD>3,217</TD><TD>1.71</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>1.89</TD><TD>1.94</TD><TD>1.88</TD><TD>1.94</TD><TD>2,876</TD><TD>1.68</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>1.88</TD><TD>1.89</TD><TD>1.84</TD><TD>1.89</TD><TD>4,429</TD><TD>1.63</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

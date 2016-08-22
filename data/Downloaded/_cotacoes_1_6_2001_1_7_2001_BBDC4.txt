@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BBDC4.SA (BANCO BRADESCO SA)
+        </TD><TD>As of Jun-29-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-29-01</TD><TD>12.00</TD><TD>12.15</TD><TD>11.95</TD><TD>12.10</TD><TD>974,805</TD><TD>11.22</TD></TR>
+<TR>
+<TD>Jun-28-01</TD><TD>12.00</TD><TD>12.15</TD><TD>11.89</TD><TD>12.00</TD><TD>1,381,930</TD><TD>11.12</TD></TR>
+<TR>
+<TD>Jun-27-01</TD><TD>11.95</TD><TD>12.10</TD><TD>11.90</TD><TD>11.95</TD><TD>1,021,900</TD><TD>11.07</TD></TR>
+<TR>
+<TD>Jun-26-01</TD><TD>11.93</TD><TD>12.15</TD><TD>11.75</TD><TD>11.90</TD><TD>1,026,190</TD><TD>11.02</TD></TR>
+<TR>
+<TD>Jun-25-01</TD><TD>12.29</TD><TD>12.35</TD><TD>12.05</TD><TD>12.16</TD><TD>1,172,690</TD><TD>11.28</TD></TR>
+<TR>
+<TD>Jun-22-01</TD><TD>12.20</TD><TD>12.33</TD><TD>12.02</TD><TD>12.20</TD><TD>1,559,840</TD><TD>11.32</TD></TR>
+<TR>
+<TD>Jun-21-01</TD><TD>11.90</TD><TD>12.10</TD><TD>11.90</TD><TD>12.00</TD><TD>2,278,210</TD><TD>11.12</TD></TR>
+<TR>
+<TD>Jun-20-01</TD><TD>11.99</TD><TD>11.99</TD><TD>11.75</TD><TD>11.96</TD><TD>1,114,040</TD><TD>11.08</TD></TR>
+<TR>
+<TD>Jun-19-01</TD><TD>12.00</TD><TD>12.10</TD><TD>11.65</TD><TD>11.80</TD><TD>2,130,100</TD><TD>10.92</TD></TR>
+<TR>
+<TD>Jun-18-01</TD><TD>12.30</TD><TD>12.30</TD><TD>11.80</TD><TD>11.82</TD><TD>1,475,500</TD><TD>10.94</TD></TR>
+<TR>
+<TD>Jun-15-01</TD><TD>12.70</TD><TD>12.70</TD><TD>12.35</TD><TD>12.40</TD><TD>747,786</TD><TD>11.52</TD></TR>
+<TR>
+<TD>Jun-13-01</TD><TD>12.90</TD><TD>13.16</TD><TD>12.70</TD><TD>12.70</TD><TD>1,722,340</TD><TD>11.82</TD></TR>
+<TR>
+<TD>Jun-12-01</TD><TD>12.40</TD><TD>12.99</TD><TD>12.27</TD><TD>12.95</TD><TD>1,377,830</TD><TD>12.07</TD></TR>
+<TR>
+<TD>Jun-11-01</TD><TD>12.60</TD><TD>12.89</TD><TD>12.41</TD><TD>12.50</TD><TD>861,370</TD><TD>11.62</TD></TR>
+<TR>
+<TD>Jun-08-01</TD><TD>12.93</TD><TD>13.10</TD><TD>12.70</TD><TD>12.70</TD><TD>1,445,120</TD><TD>11.82</TD></TR>
+<TR>
+<TD>Jun-07-01</TD><TD>12.50</TD><TD>13.00</TD><TD>12.40</TD><TD>12.93</TD><TD>3,924,820</TD><TD>12.05</TD></TR>
+<TR>
+<TD>Jun-06-01</TD><TD>12.50</TD><TD>12.50</TD><TD>12.30</TD><TD>12.50</TD><TD>1,339,050</TD><TD>11.62</TD></TR>
+<TR>
+<TD>Jun-05-01</TD><TD>12.40</TD><TD>12.57</TD><TD>12.27</TD><TD>12.40</TD><TD>2,215,240</TD><TD>11.52</TD></TR>
+<TR>
+<TD>Jun-04-01</TD><TD>12.01</TD><TD>12.40</TD><TD>12.01</TD><TD>12.35</TD><TD>1,983,240</TD><TD>11.47</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>11.95</TD><TD>12.10</TD><TD>11.84</TD><TD>12.10</TD><TD>2,642,150</TD><TD>11.22</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

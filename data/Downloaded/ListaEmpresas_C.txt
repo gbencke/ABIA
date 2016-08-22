@@ -1,0 +1,640 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CMA PARTICIPACOES S.A.&ccvm=13323&site=B&pregao=C M A PART&mercado=1&pagina=itr_dfp_ian">C M A PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CMA PARTICIPACOES S.A.&ccvm=13323&site=B&pregao=C M A PART&mercado=1&pagina=itr_dfp_ian">CMA PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CMA PARTICIPACOES S.A.&ccvm=13323&site=B&pregao=C M A PART&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA CACIQUE DE CAFE SOLUVEL&ccvm=2909&site=B&pregao=CACIQUE&mercado=1&pagina=itr_dfp_ian">CACIQUE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA CACIQUE DE CAFE SOLUVEL&ccvm=2909&site=B&pregao=CACIQUE&mercado=1&pagina=itr_dfp_ian">CIA CACIQUE DE CAFE SOLUVEL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA CACIQUE DE CAFE SOLUVEL&ccvm=2909&site=B&pregao=CACIQUE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAEMI MINERACAO E METALURGIA S.A.&ccvm=13552&site=B&pregao=CAEMI METAL&mercado=1&pagina=itr_dfp_ian">CAEMI METAL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAEMI MINERACAO E METALURGIA S.A.&ccvm=13552&site=B&pregao=CAEMI METAL&mercado=1&pagina=itr_dfp_ian">CAEMI MINERACAO E METALURGIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CAEMI MINERACAO E METALURGIA S.A.&ccvm=13552&site=B&pregao=CAEMI METAL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAFE SOLUVEL BRASILIA S.A.&ccvm=2062&site=B&pregao=CAF BRASILIA&mercado=1&pagina=itr_dfp_ian">CAF BRASILIA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAFE SOLUVEL BRASILIA S.A.&ccvm=2062&site=B&pregao=CAF BRASILIA&mercado=1&pagina=itr_dfp_ian">CAFE SOLUVEL BRASILIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CAFE SOLUVEL BRASILIA S.A.&ccvm=2062&site=B&pregao=CAF BRASILIA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAGECE - CIA DE AGUA E ESGOTO DO CEARA&ccvm=18546&site=B&pregao=CAGECE&mercado=1&pagina=itr_dfp_ian">CAGECE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAGECE - CIA DE AGUA E ESGOTO DO CEARA&ccvm=18546&site=B&pregao=CAGECE&mercado=1&pagina=itr_dfp_ian">CAGECE - CIA DE AGUA E ESGOTO DO CEARA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CAGECE - CIA DE AGUA E ESGOTO DO CEARA&ccvm=18546&site=B&pregao=CAGECE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAIUA SERVICOS DE ELETRICIDADE S.A.&ccvm=3190&site=B&pregao=CAIUA&mercado=1&pagina=itr_dfp_ian">CAIUA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAIUA SERVICOS DE ELETRICIDADE S.A.&ccvm=3190&site=B&pregao=CAIUA&mercado=1&pagina=itr_dfp_ian">CAIUA SERVICOS DE ELETRICIDADE S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CAIUA SERVICOS DE ELETRICIDADE S.A.&ccvm=3190&site=B&pregao=CAIUA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAMBUCI S.A.&ccvm=2100&site=B&pregao=CAMBUCI&mercado=1&pagina=itr_dfp_ian">CAMBUCI</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CAMBUCI S.A.&ccvm=2100&site=B&pregao=CAMBUCI&mercado=1&pagina=itr_dfp_ian">CAMBUCI S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CAMBUCI S.A.&ccvm=2100&site=B&pregao=CAMBUCI&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CARAIBA METAIS S.A.&ccvm=13722&site=B&pregao=CARAIBA MET&mercado=1&pagina=itr_dfp_ian">CARAIBA MET</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CARAIBA METAIS S.A.&ccvm=13722&site=B&pregao=CARAIBA MET&mercado=1&pagina=itr_dfp_ian">CARAIBA METAIS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CARAIBA METAIS S.A.&ccvm=13722&site=B&pregao=CARAIBA MET&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA CATARINENSE DE AGUAS E SANEAM.-CASAN&ccvm=16861&site=B&pregao=CASAN&mercado=1&pagina=itr_dfp_ian">CASAN</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA CATARINENSE DE AGUAS E SANEAM.-CASAN&ccvm=16861&site=B&pregao=CASAN&mercado=1&pagina=itr_dfp_ian">CIA CATARINENSE DE AGUAS E SANEAM.-CASAN</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA CATARINENSE DE AGUAS E SANEAM.-CASAN&ccvm=16861&site=B&pregao=CASAN&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA BRASILEIRA DE CARTUCHOS&ccvm=13315&site=B&pregao=CBC CARTUCHO&mercado=1&pagina=itr_dfp_ian">CBC CARTUCHO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA BRASILEIRA DE CARTUCHOS&ccvm=13315&site=B&pregao=CBC CARTUCHO&mercado=1&pagina=itr_dfp_ian">CIA BRASILEIRA DE CARTUCHOS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA BRASILEIRA DE CARTUCHOS&ccvm=13315&site=B&pregao=CBC CARTUCHO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CBCC - CIA BRASILEIRA DE CONTACT CENTER&ccvm=17728&site=B&pregao=CBCC&mercado=1&pagina=itr_dfp_ian">CBCC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CBCC - CIA BRASILEIRA DE CONTACT CENTER&ccvm=17728&site=B&pregao=CBCC&mercado=1&pagina=itr_dfp_ian">CBCC - CIA BRASILEIRA DE CONTACT CENTER</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CBCC - CIA BRASILEIRA DE CONTACT CENTER&ccvm=17728&site=B&pregao=CBCC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA CONCESSOES RODOVIARIAS&ccvm=18821&site=B&pregao=CCR RODOVIAS&mercado=18&pagina=itr_dfp_ian">CCR RODOVIAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA CONCESSOES RODOVIARIAS&ccvm=18821&site=B&pregao=CCR RODOVIAS&mercado=18&pagina=itr_dfp_ian">CIA CONCESSOES RODOVIARIAS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA CONCESSOES RODOVIARIAS&ccvm=18821&site=B&pregao=CCR RODOVIAS&mercado=18&pagina=itr_dfp_ian">NM</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE BRASILIA&ccvm=14451&site=B&pregao=CEB&mercado=1&pagina=itr_dfp_ian">CEB</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE BRASILIA&ccvm=14451&site=B&pregao=CEB&mercado=1&pagina=itr_dfp_ian">CIA ENERGETICA DE BRASILIA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE BRASILIA&ccvm=14451&site=B&pregao=CEB&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FIACAO TECIDOS CEDRO CACHOEIRA&ccvm=3077&site=B&pregao=CEDRO&mercado=1&pagina=itr_dfp_ian">CEDRO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FIACAO TECIDOS CEDRO CACHOEIRA&ccvm=3077&site=B&pregao=CEDRO&mercado=1&pagina=itr_dfp_ian">CIA FIACAO TECIDOS CEDRO CACHOEIRA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA FIACAO TECIDOS CEDRO CACHOEIRA&ccvm=3077&site=B&pregao=CEDRO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG&ccvm=16616&site=B&pregao=CEG&mercado=1&pagina=itr_dfp_ian">CEG</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG&ccvm=16616&site=B&pregao=CEG&mercado=1&pagina=itr_dfp_ian">CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG&ccvm=16616&site=B&pregao=CEG&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET DE SANTA CATARINA S.A.&ccvm=2461&site=B&pregao=CELESC&mercado=17&pagina=itr_dfp_ian">CELESC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET DE SANTA CATARINA S.A.&ccvm=2461&site=B&pregao=CELESC&mercado=17&pagina=itr_dfp_ian">CENTRAIS ELET DE SANTA CATARINA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET DE SANTA CATARINA S.A.&ccvm=2461&site=B&pregao=CELESC&mercado=17&pagina=itr_dfp_ian">N2</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE GOIAS - CELG&ccvm=2445&site=B&pregao=CELG&mercado=1&pagina=itr_dfp_ian">CELG</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE GOIAS - CELG&ccvm=2445&site=B&pregao=CELG&mercado=1&pagina=itr_dfp_ian">CIA ENERGETICA DE GOIAS - CELG</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE GOIAS - CELG&ccvm=2445&site=B&pregao=CELG&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CELM CIA EQUIP LABORATOR MODERNOS&ccvm=2402&site=B&pregao=CELM&mercado=1&pagina=itr_dfp_ian">CELM</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CELM CIA EQUIP LABORATOR MODERNOS&ccvm=2402&site=B&pregao=CELM&mercado=1&pagina=itr_dfp_ian">CELM CIA EQUIP LABORATOR MODERNOS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CELM CIA EQUIP LABORATOR MODERNOS&ccvm=2402&site=B&pregao=CELM&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET DO PARA S.A. - CELPA&ccvm=18309&site=B&pregao=CELPA&mercado=1&pagina=itr_dfp_ian">CELPA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET DO PARA S.A. - CELPA&ccvm=18309&site=B&pregao=CELPA&mercado=1&pagina=itr_dfp_ian">CENTRAIS ELET DO PARA S.A. - CELPA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET DO PARA S.A. - CELPA&ccvm=18309&site=B&pregao=CELPA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE PERNAMBUCO - CELPE&ccvm=14362&site=B&pregao=CELPE&mercado=1&pagina=itr_dfp_ian">CELPE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE PERNAMBUCO - CELPE&ccvm=14362&site=B&pregao=CELPE&mercado=1&pagina=itr_dfp_ian">CIA ENERGETICA DE PERNAMBUCO - CELPE</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE PERNAMBUCO - CELPE&ccvm=14362&site=B&pregao=CELPE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CELULOSE IRANI S.A.&ccvm=2429&site=B&pregao=CELUL IRANI&mercado=1&pagina=itr_dfp_ian">CELUL IRANI</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CELULOSE IRANI S.A.&ccvm=2429&site=B&pregao=CELUL IRANI&mercado=1&pagina=itr_dfp_ian">CELULOSE IRANI S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CELULOSE IRANI S.A.&ccvm=2429&site=B&pregao=CELUL IRANI&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET MATOGROSSENSES S.A.- CEMAT&ccvm=14605&site=B&pregao=CEMAT&mercado=1&pagina=itr_dfp_ian">CEMAT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET MATOGROSSENSES S.A.- CEMAT&ccvm=14605&site=B&pregao=CEMAT&mercado=1&pagina=itr_dfp_ian">CENTRAIS ELET MATOGROSSENSES S.A.- CEMAT</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CENTRAIS ELET MATOGROSSENSES S.A.- CEMAT&ccvm=14605&site=B&pregao=CEMAT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CEMEPE INVESTIMENTOS S.A.&ccvm=13854&site=B&pregao=CEMEPE&mercado=1&pagina=itr_dfp_ian">CEMEPE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CEMEPE INVESTIMENTOS S.A.&ccvm=13854&site=B&pregao=CEMEPE&mercado=1&pagina=itr_dfp_ian">CEMEPE INVESTIMENTOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CEMEPE INVESTIMENTOS S.A.&ccvm=13854&site=B&pregao=CEMEPE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE MINAS GERAIS - CEMIG&ccvm=2453&site=B&pregao=CEMIG&mercado=16&pagina=itr_dfp_ian">CEMIG</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE MINAS GERAIS - CEMIG&ccvm=2453&site=B&pregao=CEMIG&mercado=16&pagina=itr_dfp_ian">CIA ENERGETICA DE MINAS GERAIS - CEMIG</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DE MINAS GERAIS - CEMIG&ccvm=2453&site=B&pregao=CEMIG&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ELETRICIDADE DO RIO DE JANEIRO- CERJ&ccvm=3050&site=B&pregao=CERJ&mercado=1&pagina=itr_dfp_ian">CERJ</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ELETRICIDADE DO RIO DE JANEIRO- CERJ&ccvm=3050&site=B&pregao=CERJ&mercado=1&pagina=itr_dfp_ian">CIA ELETRICIDADE DO RIO DE JANEIRO- CERJ</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ELETRICIDADE DO RIO DE JANEIRO- CERJ&ccvm=3050&site=B&pregao=CERJ&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CESP - CIA ENERGETICA DE SAO PAULO&ccvm=2577&site=B&pregao=CESP&mercado=1&pagina=itr_dfp_ian">CESP</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CESP - CIA ENERGETICA DE SAO PAULO&ccvm=2577&site=B&pregao=CESP&mercado=1&pagina=itr_dfp_ian">CESP - CIA ENERGETICA DE SAO PAULO</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CESP - CIA ENERGETICA DE SAO PAULO&ccvm=2577&site=B&pregao=CESP&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=S.A. INDUSTRIA E COMERCIO CHAPECO&ccvm=10243&site=B&pregao=CHAPECO&mercado=1&pagina=itr_dfp_ian">CHAPECO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=S.A. INDUSTRIA E COMERCIO CHAPECO&ccvm=10243&site=B&pregao=CHAPECO&mercado=1&pagina=itr_dfp_ian">S.A. INDUSTRIA E COMERCIO CHAPECO</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=S.A. INDUSTRIA E COMERCIO CHAPECO&ccvm=10243&site=B&pregao=CHAPECO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CERAMICA CHIARELLI S.A.&ccvm=2488&site=B&pregao=CHIARELLI&mercado=1&pagina=itr_dfp_ian">CHIARELLI</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CERAMICA CHIARELLI S.A.&ccvm=2488&site=B&pregao=CHIARELLI&mercado=1&pagina=itr_dfp_ian">CERAMICA CHIARELLI S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CERAMICA CHIARELLI S.A.&ccvm=2488&site=B&pregao=CHIARELLI&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA HERING&ccvm=14761&site=B&pregao=CIA HERING&mercado=16&pagina=itr_dfp_ian">CIA HERING</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA HERING&ccvm=14761&site=B&pregao=CIA HERING&mercado=16&pagina=itr_dfp_ian">CIA HERING</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA HERING&ccvm=14761&site=B&pregao=CIA HERING&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIBRASEC - CIA BRAS DE SECURITIZACAO&ccvm=18287&site=B&pregao=CIBRASEC&mercado=8&pagina=itr_dfp_ian">CIBRASEC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIBRASEC - CIA BRAS DE SECURITIZACAO&ccvm=18287&site=B&pregao=CIBRASEC&mercado=8&pagina=itr_dfp_ian">CIBRASEC - CIA BRAS DE SECURITIZACAO</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIBRASEC - CIA BRAS DE SECURITIZACAO&ccvm=18287&site=B&pregao=CIBRASEC&mercado=8&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA CIMENTO PORTLAND ITAU&ccvm=2933&site=B&pregao=CIM ITAU&mercado=1&pagina=itr_dfp_ian">CIM ITAU</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA CIMENTO PORTLAND ITAU&ccvm=2933&site=B&pregao=CIM ITAU&mercado=1&pagina=itr_dfp_ian">CIA CIMENTO PORTLAND ITAU</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA CIMENTO PORTLAND ITAU&ccvm=2933&site=B&pregao=CIM ITAU&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIMOB PARTICIPACOES S.A.&ccvm=6513&site=B&pregao=CIMOB PART&mercado=1&pagina=itr_dfp_ian">CIMOB PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIMOB PARTICIPACOES S.A.&ccvm=6513&site=B&pregao=CIMOB PART&mercado=1&pagina=itr_dfp_ian">CIMOB PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIMOB PARTICIPACOES S.A.&ccvm=6513&site=B&pregao=CIMOB PART&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIMS S.A.&ccvm=14818&site=B&pregao=CIMS&mercado=1&pagina=itr_dfp_ian">CIMS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIMS S.A.&ccvm=14818&site=B&pregao=CIMS&mercado=1&pagina=itr_dfp_ian">CIMS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIMS S.A.&ccvm=14818&site=B&pregao=CIMS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIQUINE CIA PETROQUIMICA&ccvm=4359&site=B&pregao=CIQUINE PETR&mercado=1&pagina=itr_dfp_ian">CIQUINE PETR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIQUINE CIA PETROQUIMICA&ccvm=4359&site=B&pregao=CIQUINE PETR&mercado=1&pagina=itr_dfp_ian">CIQUINE CIA PETROQUIMICA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIQUINE CIA PETROQUIMICA&ccvm=4359&site=B&pregao=CIQUINE PETR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=COBRASMA S.A.&ccvm=4448&site=B&pregao=COBRASMA&mercado=1&pagina=itr_dfp_ian">COBRASMA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=COBRASMA S.A.&ccvm=4448&site=B&pregao=COBRASMA&mercado=1&pagina=itr_dfp_ian">COBRASMA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=COBRASMA S.A.&ccvm=4448&site=B&pregao=COBRASMA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ELETRICIDADE EST. DA BAHIA - COELBA&ccvm=14524&site=B&pregao=COELBA&mercado=1&pagina=itr_dfp_ian">COELBA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ELETRICIDADE EST. DA BAHIA - COELBA&ccvm=14524&site=B&pregao=COELBA&mercado=1&pagina=itr_dfp_ian">CIA ELETRICIDADE EST. DA BAHIA - COELBA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ELETRICIDADE EST. DA BAHIA - COELBA&ccvm=14524&site=B&pregao=COELBA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DO CEARA - COELCE&ccvm=14869&site=B&pregao=COELCE&mercado=1&pagina=itr_dfp_ian">COELCE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DO CEARA - COELCE&ccvm=14869&site=B&pregao=COELCE&mercado=1&pagina=itr_dfp_ian">CIA ENERGETICA DO CEARA - COELCE</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DO CEARA - COELCE&ccvm=14869&site=B&pregao=COELCE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=COINVEST CIA DE INVESTIMENTOS INTERLAGOS&ccvm=7552&site=B&pregao=COINVEST&mercado=1&pagina=itr_dfp_ian">COINVEST</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=COINVEST CIA DE INVESTIMENTOS INTERLAGOS&ccvm=7552&site=B&pregao=COINVEST&mercado=1&pagina=itr_dfp_ian">COINVEST CIA DE INVESTIMENTOS INTERLAGOS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=COINVEST CIA DE INVESTIMENTOS INTERLAGOS&ccvm=7552&site=B&pregao=COINVEST&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA GAS DE SAO PAULO - COMGAS&ccvm=15636&site=B&pregao=COMGAS&mercado=1&pagina=itr_dfp_ian">COMGAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA GAS DE SAO PAULO - COMGAS&ccvm=15636&site=B&pregao=COMGAS&mercado=1&pagina=itr_dfp_ian">CIA GAS DE SAO PAULO - COMGAS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA GAS DE SAO PAULO - COMGAS&ccvm=15636&site=B&pregao=COMGAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CONFAB INDUSTRIAL S.A.&ccvm=4650&site=B&pregao=CONFAB&mercado=1&pagina=itr_dfp_ian">CONFAB</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CONFAB INDUSTRIAL S.A.&ccvm=4650&site=B&pregao=CONFAB&mercado=1&pagina=itr_dfp_ian">CONFAB INDUSTRIAL S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CONFAB INDUSTRIAL S.A.&ccvm=4650&site=B&pregao=CONFAB&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CONSTRUTORA ADOLPHO LINDENBERG S.A.&ccvm=4723&site=B&pregao=CONST A LIND&mercado=1&pagina=itr_dfp_ian">CONST A LIND</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CONSTRUTORA ADOLPHO LINDENBERG S.A.&ccvm=4723&site=B&pregao=CONST A LIND&mercado=1&pagina=itr_dfp_ian">CONSTRUTORA ADOLPHO LINDENBERG S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CONSTRUTORA ADOLPHO LINDENBERG S.A.&ccvm=4723&site=B&pregao=CONST A LIND&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA PARANAENSE DE ENERGIA - COPEL&ccvm=14311&site=B&pregao=COPEL&mercado=1&pagina=itr_dfp_ian">COPEL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA PARANAENSE DE ENERGIA - COPEL&ccvm=14311&site=B&pregao=COPEL&mercado=1&pagina=itr_dfp_ian">CIA PARANAENSE DE ENERGIA - COPEL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA PARANAENSE DE ENERGIA - COPEL&ccvm=14311&site=B&pregao=COPEL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=COPESUL - CIA PETROQUIMICA DO SUL&ccvm=14044&site=B&pregao=COPESUL&mercado=1&pagina=itr_dfp_ian">COPESUL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=COPESUL - CIA PETROQUIMICA DO SUL&ccvm=14044&site=B&pregao=COPESUL&mercado=1&pagina=itr_dfp_ian">COPESUL - CIA PETROQUIMICA DO SUL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=COPESUL - CIA PETROQUIMICA DO SUL&ccvm=14044&site=B&pregao=COPESUL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA&ccvm=4863&site=B&pregao=COR RIBEIRO&mercado=1&pagina=itr_dfp_ian">COR RIBEIRO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA&ccvm=4863&site=B&pregao=COR RIBEIRO&mercado=1&pagina=itr_dfp_ian">CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA&ccvm=4863&site=B&pregao=COR RIBEIRO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DO RIO GDE NORTE - COSERN&ccvm=18139&site=B&pregao=COSERN&mercado=1&pagina=itr_dfp_ian">COSERN</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DO RIO GDE NORTE - COSERN&ccvm=18139&site=B&pregao=COSERN&mercado=1&pagina=itr_dfp_ian">CIA ENERGETICA DO RIO GDE NORTE - COSERN</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA ENERGETICA DO RIO GDE NORTE - COSERN&ccvm=18139&site=B&pregao=COSERN&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA SIDERURGICA PAULISTA - COSIPA&ccvm=18317&site=B&pregao=COSIPA&mercado=1&pagina=itr_dfp_ian">COSIPA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA SIDERURGICA PAULISTA - COSIPA&ccvm=18317&site=B&pregao=COSIPA&mercado=1&pagina=itr_dfp_ian">CIA SIDERURGICA PAULISTA - COSIPA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA SIDERURGICA PAULISTA - COSIPA&ccvm=18317&site=B&pregao=COSIPA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA TECIDOS NORTE DE MINAS COTEMINAS&ccvm=3158&site=B&pregao=COTEMINAS&mercado=1&pagina=itr_dfp_ian">COTEMINAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA TECIDOS NORTE DE MINAS COTEMINAS&ccvm=3158&site=B&pregao=COTEMINAS&mercado=1&pagina=itr_dfp_ian">CIA TECIDOS NORTE DE MINAS COTEMINAS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA TECIDOS NORTE DE MINAS COTEMINAS&ccvm=3158&site=B&pregao=COTEMINAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CPFL ENERGIA S.A.&ccvm=18660&site=B&pregao=CPFL ENERGIA&mercado=1&pagina=itr_dfp_ian">CPFL ENERGIA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CPFL ENERGIA S.A.&ccvm=18660&site=B&pregao=CPFL ENERGIA&mercado=1&pagina=itr_dfp_ian">CPFL ENERGIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CPFL ENERGIA S.A.&ccvm=18660&site=B&pregao=CPFL ENERGIA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CPFL GERACAO DE ENERGIA S.A.&ccvm=18953&site=B&pregao=CPFL GERACAO&mercado=1&pagina=itr_dfp_ian">CPFL GERACAO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CPFL GERACAO DE ENERGIA S.A.&ccvm=18953&site=B&pregao=CPFL GERACAO&mercado=1&pagina=itr_dfp_ian">CPFL GERACAO DE ENERGIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CPFL GERACAO DE ENERGIA S.A.&ccvm=18953&site=B&pregao=CPFL GERACAO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA PIRATININGA DE FORCA E LUZ&ccvm=19275&site=B&pregao=CPFL PIRATIN&mercado=1&pagina=itr_dfp_ian">CPFL PIRATIN</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA PIRATININGA DE FORCA E LUZ&ccvm=19275&site=B&pregao=CPFL PIRATIN&mercado=1&pagina=itr_dfp_ian">CIA PIRATININGA DE FORCA E LUZ</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA PIRATININGA DE FORCA E LUZ&ccvm=19275&site=B&pregao=CPFL PIRATIN&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CREMER S.A.&ccvm=4960&site=B&pregao=CREMER&mercado=1&pagina=itr_dfp_ian">CREMER</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CREMER S.A.&ccvm=4960&site=B&pregao=CREMER&mercado=1&pagina=itr_dfp_ian">CREMER S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CREMER S.A.&ccvm=4960&site=B&pregao=CREMER&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CELULAR CRT PARTICIPACOES S.A.&ccvm=18210&site=B&pregao=CRT CELULAR&mercado=1&pagina=itr_dfp_ian">CRT CELULAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CELULAR CRT PARTICIPACOES S.A.&ccvm=18210&site=B&pregao=CRT CELULAR&mercado=1&pagina=itr_dfp_ian">CELULAR CRT PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CELULAR CRT PARTICIPACOES S.A.&ccvm=18210&site=B&pregao=CRT CELULAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CTM CITRUS S.A.&ccvm=12181&site=B&pregao=CTM CITRUS&mercado=1&pagina=itr_dfp_ian">CTM CITRUS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CTM CITRUS S.A.&ccvm=12181&site=B&pregao=CTM CITRUS&mercado=1&pagina=itr_dfp_ian">CTM CITRUS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CTM CITRUS S.A.&ccvm=12181&site=B&pregao=CTM CITRUS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

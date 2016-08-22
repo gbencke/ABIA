@@ -1,0 +1,122 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TSPP4.SA (TELESP CELULAR PARTICIPACOES SA)
+        </TD><TD>As of Apr-30-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-30-03</TD><TD>4.77</TD><TD>4.77</TD><TD>4.43</TD><TD>4.46</TD><TD>7,324,520</TD><TD>4.46</TD></TR>
+<TR>
+<TD>Apr-29-03</TD><TD>4.65</TD><TD>4.78</TD><TD>4.64</TD><TD>4.70</TD><TD>5,348,240</TD><TD>4.70</TD></TR>
+<TR>
+<TD>Apr-28-03</TD><TD>4.56</TD><TD>4.61</TD><TD>4.35</TD><TD>4.60</TD><TD>5,901,360</TD><TD>4.60</TD></TR>
+<TR>
+<TD>Apr-25-03</TD><TD>4.57</TD><TD>4.71</TD><TD>4.45</TD><TD>4.53</TD><TD>5,368,980</TD><TD>4.53</TD></TR>
+<TR>
+<TD>Apr-24-03</TD><TD>4.67</TD><TD>4.77</TD><TD>4.51</TD><TD>4.51</TD><TD>4,819,930</TD><TD>4.51</TD></TR>
+<TR>
+<TD>Apr-23-03</TD><TD>4.58</TD><TD>4.78</TD><TD>4.56</TD><TD>4.72</TD><TD>5,280,880</TD><TD>4.72</TD></TR>
+<TR>
+<TD>Apr-22-03</TD><TD>4.49</TD><TD>4.69</TD><TD>4.41</TD><TD>4.58</TD><TD>4,460,990</TD><TD>4.58</TD></TR>
+<TR>
+<TD>Apr-17-03</TD><TD>4.25</TD><TD>4.52</TD><TD>4.25</TD><TD>4.51</TD><TD>8,046,600</TD><TD>4.51</TD></TR>
+<TR>
+<TD>Apr-16-03</TD><TD>4.32</TD><TD>4.44</TD><TD>4.16</TD><TD>4.19</TD><TD>7,773,430</TD><TD>4.19</TD></TR>
+<TR>
+<TD>Apr-15-03</TD><TD>4.30</TD><TD>4.33</TD><TD>4.16</TD><TD>4.25</TD><TD>5,353,570</TD><TD>4.25</TD></TR>
+<TR>
+<TD>Apr-14-03</TD><TD>4.40</TD><TD>4.41</TD><TD>4.26</TD><TD>4.31</TD><TD>2,666,390</TD><TD>4.31</TD></TR>
+<TR>
+<TD>Apr-11-03</TD><TD>4.41</TD><TD>4.43</TD><TD>4.19</TD><TD>4.29</TD><TD>4,406,430</TD><TD>4.29</TD></TR>
+<TR>
+<TD>Apr-10-03</TD><TD>4.59</TD><TD>4.59</TD><TD>4.31</TD><TD>4.31</TD><TD>3,469,900</TD><TD>4.31</TD></TR>
+<TR>
+<TD>Apr-09-03</TD><TD>4.50</TD><TD>4.65</TD><TD>4.49</TD><TD>4.55</TD><TD>4,073,430</TD><TD>4.55</TD></TR>
+<TR>
+<TD>Apr-08-03</TD><TD>4.62</TD><TD>4.66</TD><TD>4.44</TD><TD>4.51</TD><TD>4,442,460</TD><TD>4.51</TD></TR>
+<TR>
+<TD>Apr-07-03</TD><TD>4.75</TD><TD>4.81</TD><TD>4.60</TD><TD>4.60</TD><TD>3,874,440</TD><TD>4.60</TD></TR>
+<TR>
+<TD>Apr-04-03</TD><TD>4.70</TD><TD>4.77</TD><TD>4.59</TD><TD>4.61</TD><TD>3,161,540</TD><TD>4.61</TD></TR>
+<TR>
+<TD>Apr-03-03</TD><TD>4.73</TD><TD>4.82</TD><TD>4.66</TD><TD>4.66</TD><TD>5,521,980</TD><TD>4.66</TD></TR>
+<TR>
+<TD>Apr-02-03</TD><TD>4.63</TD><TD>4.75</TD><TD>4.63</TD><TD>4.70</TD><TD>4,764,850</TD><TD>4.70</TD></TR>
+<TR>
+<TD>Apr-01-03</TD><TD>4.34</TD><TD>4.59</TD><TD>4.34</TD><TD>4.54</TD><TD>4,467,510</TD><TD>4.54</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

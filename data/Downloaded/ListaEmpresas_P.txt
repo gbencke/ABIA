@@ -1,0 +1,376 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA BRASILEIRA DE DISTRIBUICAO&ccvm=14826&site=B&pregao=P.ACUCAR-CBD&mercado=16&pagina=itr_dfp_ian">P.ACUCAR-CBD</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA BRASILEIRA DE DISTRIBUICAO&ccvm=14826&site=B&pregao=P.ACUCAR-CBD&mercado=16&pagina=itr_dfp_ian">CIA BRASILEIRA DE DISTRIBUICAO</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA BRASILEIRA DE DISTRIBUICAO&ccvm=14826&site=B&pregao=P.ACUCAR-CBD&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PANATLANTICA S.A.&ccvm=94&site=B&pregao=PANATLANTICA&mercado=1&pagina=itr_dfp_ian">PANATLANTICA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PANATLANTICA S.A.&ccvm=94&site=B&pregao=PANATLANTICA&mercado=1&pagina=itr_dfp_ian">PANATLANTICA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PANATLANTICA S.A.&ccvm=94&site=B&pregao=PANATLANTICA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA PARTICIPACOES ALIANCA DA BAHIA&ccvm=18708&site=B&pregao=PAR AL BAHIA&mercado=1&pagina=itr_dfp_ian">PAR AL BAHIA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA PARTICIPACOES ALIANCA DA BAHIA&ccvm=18708&site=B&pregao=PAR AL BAHIA&mercado=1&pagina=itr_dfp_ian">CIA PARTICIPACOES ALIANCA DA BAHIA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA PARTICIPACOES ALIANCA DA BAHIA&ccvm=18708&site=B&pregao=PAR AL BAHIA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FIACAO TECELAGEM PARA DE MINAS&ccvm=3255&site=B&pregao=PARA DEMINAS&mercado=1&pagina=itr_dfp_ian">PARA DEMINAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FIACAO TECELAGEM PARA DE MINAS&ccvm=3255&site=B&pregao=PARA DEMINAS&mercado=1&pagina=itr_dfp_ian">CIA FIACAO TECELAGEM PARA DE MINAS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA FIACAO TECELAGEM PARA DE MINAS&ccvm=3255&site=B&pregao=PARA DEMINAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PARANAPANEMA S.A.&ccvm=9393&site=B&pregao=PARANAPANEMA&mercado=1&pagina=itr_dfp_ian">PARANAPANEMA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PARANAPANEMA S.A.&ccvm=9393&site=B&pregao=PARANAPANEMA&mercado=1&pagina=itr_dfp_ian">PARANAPANEMA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PARANAPANEMA S.A.&ccvm=9393&site=B&pregao=PARANAPANEMA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PARMALAT BRASIL S.A. IND DE ALIMENTOS&ccvm=12580&site=B&pregao=PARMALAT&mercado=1&pagina=itr_dfp_ian">PARMALAT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PARMALAT BRASIL S.A. IND DE ALIMENTOS&ccvm=12580&site=B&pregao=PARMALAT&mercado=1&pagina=itr_dfp_ian">PARMALAT BRASIL S.A. IND DE ALIMENTOS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PARMALAT BRASIL S.A. IND DE ALIMENTOS&ccvm=12580&site=B&pregao=PARMALAT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PARTICIPACOES INDUSTRIAIS DO NE S.A.&ccvm=1597&site=B&pregao=PART INDS NE&mercado=1&pagina=itr_dfp_ian">PART INDS NE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PARTICIPACOES INDUSTRIAIS DO NE S.A.&ccvm=1597&site=B&pregao=PART INDS NE&mercado=1&pagina=itr_dfp_ian">PARTICIPACOES INDUSTRIAIS DO NE S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PARTICIPACOES INDUSTRIAIS DO NE S.A.&ccvm=1597&site=B&pregao=PART INDS NE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA PAULISTA DE FORCA E LUZ&ccvm=3824&site=B&pregao=PAUL F LUZ&mercado=1&pagina=itr_dfp_ian">PAUL F LUZ</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA PAULISTA DE FORCA E LUZ&ccvm=3824&site=B&pregao=PAUL F LUZ&mercado=1&pagina=itr_dfp_ian">CIA PAULISTA DE FORCA E LUZ</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA PAULISTA DE FORCA E LUZ&ccvm=3824&site=B&pregao=PAUL F LUZ&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PERDIGAO S.A.&ccvm=16292&site=B&pregao=PERDIGAO S/A&mercado=16&pagina=itr_dfp_ian">PERDIGAO S/A</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PERDIGAO S.A.&ccvm=16292&site=B&pregao=PERDIGAO S/A&mercado=16&pagina=itr_dfp_ian">PERDIGAO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PERDIGAO S.A.&ccvm=16292&site=B&pregao=PERDIGAO S/A&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=REFINARIA DE PETROLEOS MANGUINHOS S.A.&ccvm=9989&site=B&pregao=PET MANGUINH&mercado=1&pagina=itr_dfp_ian">PET MANGUINH</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=REFINARIA DE PETROLEOS MANGUINHOS S.A.&ccvm=9989&site=B&pregao=PET MANGUINH&mercado=1&pagina=itr_dfp_ian">REFINARIA DE PETROLEOS MANGUINHOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=REFINARIA DE PETROLEOS MANGUINHOS S.A.&ccvm=9989&site=B&pregao=PET MANGUINH&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROLEO BRASILEIRO S.A. PETROBRAS&ccvm=9512&site=B&pregao=PETROBRAS&mercado=1&pagina=itr_dfp_ian">PETROBRAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROLEO BRASILEIRO S.A. PETROBRAS&ccvm=9512&site=B&pregao=PETROBRAS&mercado=1&pagina=itr_dfp_ian">PETROLEO BRASILEIRO S.A. PETROBRAS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PETROLEO BRASILEIRO S.A. PETROBRAS&ccvm=9512&site=B&pregao=PETROBRAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROFLEX INDUSTRIA E COMERCIO S.A.&ccvm=13994&site=B&pregao=PETROFLEX&mercado=1&pagina=itr_dfp_ian">PETROFLEX</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROFLEX INDUSTRIA E COMERCIO S.A.&ccvm=13994&site=B&pregao=PETROFLEX&mercado=1&pagina=itr_dfp_ian">PETROFLEX INDUSTRIA E COMERCIO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PETROFLEX INDUSTRIA E COMERCIO S.A.&ccvm=13994&site=B&pregao=PETROFLEX&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROPAR S.A.&ccvm=13412&site=B&pregao=PETROPAR&mercado=1&pagina=itr_dfp_ian">PETROPAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROPAR S.A.&ccvm=13412&site=B&pregao=PETROPAR&mercado=1&pagina=itr_dfp_ian">PETROPAR S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PETROPAR S.A.&ccvm=13412&site=B&pregao=PETROPAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROQUIMICA UNIAO S.A.&ccvm=14494&site=B&pregao=PETROQ UNIAO&mercado=1&pagina=itr_dfp_ian">PETROQ UNIAO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROQUIMICA UNIAO S.A.&ccvm=14494&site=B&pregao=PETROQ UNIAO&mercado=1&pagina=itr_dfp_ian">PETROQUIMICA UNIAO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PETROQUIMICA UNIAO S.A.&ccvm=14494&site=B&pregao=PETROQ UNIAO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROBRAS QUIMICA S.A. - PETROQUISA&ccvm=13595&site=B&pregao=PETROQUISA&mercado=1&pagina=itr_dfp_ian">PETROQUISA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETROBRAS QUIMICA S.A. - PETROQUISA&ccvm=13595&site=B&pregao=PETROQUISA&mercado=1&pagina=itr_dfp_ian">PETROBRAS QUIMICA S.A. - PETROQUISA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PETROBRAS QUIMICA S.A. - PETROQUISA&ccvm=13595&site=B&pregao=PETROQUISA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETTENATI S.A. INDUSTRIA TEXTIL&ccvm=9539&site=B&pregao=PETTENATI&mercado=1&pagina=itr_dfp_ian">PETTENATI</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PETTENATI S.A. INDUSTRIA TEXTIL&ccvm=9539&site=B&pregao=PETTENATI&mercado=1&pagina=itr_dfp_ian">PETTENATI S.A. INDUSTRIA TEXTIL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PETTENATI S.A. INDUSTRIA TEXTIL&ccvm=9539&site=B&pregao=PETTENATI&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PEVE-FINASA PARTICIPACOES E PREDIOS S.A.&ccvm=19038&site=B&pregao=PEVE FINASA&mercado=1&pagina=itr_dfp_ian">PEVE FINASA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PEVE-FINASA PARTICIPACOES E PREDIOS S.A.&ccvm=19038&site=B&pregao=PEVE FINASA&mercado=1&pagina=itr_dfp_ian">PEVE-FINASA PARTICIPACOES E PREDIOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PEVE-FINASA PARTICIPACOES E PREDIOS S.A.&ccvm=19038&site=B&pregao=PEVE FINASA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PEVE PREDIOS S.A.&ccvm=9555&site=B&pregao=PEVE PREDIOS&mercado=1&pagina=itr_dfp_ian">PEVE PREDIOS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PEVE PREDIOS S.A.&ccvm=9555&site=B&pregao=PEVE PREDIOS&mercado=1&pagina=itr_dfp_ian">PEVE PREDIOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PEVE PREDIOS S.A.&ccvm=9555&site=B&pregao=PEVE PREDIOS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PLASCAR PARTICIPACOES INDUSTRIAIS S.A.&ccvm=13471&site=B&pregao=PLASCAR PART&mercado=1&pagina=itr_dfp_ian">PLASCAR PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PLASCAR PARTICIPACOES INDUSTRIAIS S.A.&ccvm=13471&site=B&pregao=PLASCAR PART&mercado=1&pagina=itr_dfp_ian">PLASCAR PARTICIPACOES INDUSTRIAIS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PLASCAR PARTICIPACOES INDUSTRIAIS S.A.&ccvm=13471&site=B&pregao=PLASCAR PART&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLIALDEN PETROQUIMICA S.A.&ccvm=9636&site=B&pregao=POLIALDEN&mercado=1&pagina=itr_dfp_ian">POLIALDEN</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLIALDEN PETROQUIMICA S.A.&ccvm=9636&site=B&pregao=POLIALDEN&mercado=1&pagina=itr_dfp_ian">POLIALDEN PETROQUIMICA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=POLIALDEN PETROQUIMICA S.A.&ccvm=9636&site=B&pregao=POLIALDEN&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLIPROPILENO PARTICIPACOES S.A.&ccvm=15997&site=B&pregao=POLIPR PART&mercado=1&pagina=itr_dfp_ian">POLIPR PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLIPROPILENO PARTICIPACOES S.A.&ccvm=15997&site=B&pregao=POLIPR PART&mercado=1&pagina=itr_dfp_ian">POLIPROPILENO PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=POLIPROPILENO PARTICIPACOES S.A.&ccvm=15997&site=B&pregao=POLIPR PART&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLIPROPILENO S.A.&ccvm=9679&site=B&pregao=POLIPROPILEN&mercado=1&pagina=itr_dfp_ian">POLIPROPILEN</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLIPROPILENO S.A.&ccvm=9679&site=B&pregao=POLIPROPILEN&mercado=1&pagina=itr_dfp_ian">POLIPROPILENO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=POLIPROPILENO S.A.&ccvm=9679&site=B&pregao=POLIPROPILEN&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLITENO INDUSTRIA E COMERCIO S.A.&ccvm=9687&site=B&pregao=POLITENO&mercado=1&pagina=itr_dfp_ian">POLITENO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLITENO INDUSTRIA E COMERCIO S.A.&ccvm=9687&site=B&pregao=POLITENO&mercado=1&pagina=itr_dfp_ian">POLITENO INDUSTRIA E COMERCIO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=POLITENO INDUSTRIA E COMERCIO S.A.&ccvm=9687&site=B&pregao=POLITENO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLPAR S.A.&ccvm=13447&site=B&pregao=POLPAR&mercado=1&pagina=itr_dfp_ian">POLPAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLPAR S.A.&ccvm=13447&site=B&pregao=POLPAR&mercado=1&pagina=itr_dfp_ian">POLPAR S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=POLPAR S.A.&ccvm=13447&site=B&pregao=POLPAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLYNOR S.A. IND COM FIBRAS SINT PAR&ccvm=9695&site=B&pregao=POLYNOR&mercado=1&pagina=itr_dfp_ian">POLYNOR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=POLYNOR S.A. IND COM FIBRAS SINT PAR&ccvm=9695&site=B&pregao=POLYNOR&mercado=1&pagina=itr_dfp_ian">POLYNOR S.A. IND COM FIBRAS SINT PAR</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=POLYNOR S.A. IND COM FIBRAS SINT PAR&ccvm=9695&site=B&pregao=POLYNOR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PORTO SEGURO S.A.&ccvm=16659&site=B&pregao=PORTO SEGURO&mercado=1&pagina=itr_dfp_ian">PORTO SEGURO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PORTO SEGURO S.A.&ccvm=16659&site=B&pregao=PORTO SEGURO&mercado=1&pagina=itr_dfp_ian">PORTO SEGURO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PORTO SEGURO S.A.&ccvm=16659&site=B&pregao=PORTO SEGURO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PORTOBELLO S.A.&ccvm=13773&site=B&pregao=PORTOBELLO&mercado=1&pagina=itr_dfp_ian">PORTOBELLO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PORTOBELLO S.A.&ccvm=13773&site=B&pregao=PORTOBELLO&mercado=1&pagina=itr_dfp_ian">PORTOBELLO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PORTOBELLO S.A.&ccvm=13773&site=B&pregao=PORTOBELLO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=HOPI HARI S.A.&ccvm=15377&site=B&pregao=PQ HOPI HARI&mercado=1&pagina=itr_dfp_ian">PQ HOPI HARI</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=HOPI HARI S.A.&ccvm=15377&site=B&pregao=PQ HOPI HARI&mercado=1&pagina=itr_dfp_ian">HOPI HARI S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=HOPI HARI S.A.&ccvm=15377&site=B&pregao=PQ HOPI HARI&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PRONOR PETROQUIMICA S.A.&ccvm=9784&site=B&pregao=PRONOR&mercado=1&pagina=itr_dfp_ian">PRONOR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=PRONOR PETROQUIMICA S.A.&ccvm=9784&site=B&pregao=PRONOR&mercado=1&pagina=itr_dfp_ian">PRONOR PETROQUIMICA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=PRONOR PETROQUIMICA S.A.&ccvm=9784&site=B&pregao=PRONOR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

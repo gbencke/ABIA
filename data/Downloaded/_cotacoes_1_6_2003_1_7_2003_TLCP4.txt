@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TLCP4.SA (TELE LESTE CELULAR PARTICIPACOE)
+        </TD><TD>As of Jul-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>0.44</TD><TD>0.45</TD><TD>0.43</TD><TD>0.45</TD><TD>919,963</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Jun-30-03</TD><TD>0.44</TD><TD>0.44</TD><TD>0.43</TD><TD>0.44</TD><TD>589,607</TD><TD>0.44</TD></TR>
+<TR>
+<TD>Jun-27-03</TD><TD>0.45</TD><TD>0.45</TD><TD>0.43</TD><TD>0.44</TD><TD>1,208,610</TD><TD>0.44</TD></TR>
+<TR>
+<TD>Jun-26-03</TD><TD>0.44</TD><TD>0.46</TD><TD>0.44</TD><TD>0.45</TD><TD>771,178</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Jun-25-03</TD><TD>0.44</TD><TD>0.45</TD><TD>0.44</TD><TD>0.44</TD><TD>1,044,300</TD><TD>0.44</TD></TR>
+<TR>
+<TD>Jun-24-03</TD><TD>0.46</TD><TD>0.46</TD><TD>0.44</TD><TD>0.45</TD><TD>1,278,690</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Jun-23-03</TD><TD>0.45</TD><TD>0.46</TD><TD>0.44</TD><TD>0.46</TD><TD>868,380</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Jun-20-03</TD><TD>0.45</TD><TD>0.45</TD><TD>0.44</TD><TD>0.44</TD><TD>1,700,870</TD><TD>0.44</TD></TR>
+<TR>
+<TD>Jun-18-03</TD><TD>0.46</TD><TD>0.47</TD><TD>0.44</TD><TD>0.45</TD><TD>3,783,030</TD><TD>0.45</TD></TR>
+<TR>
+<TD>Jun-17-03</TD><TD>0.48</TD><TD>0.48</TD><TD>0.46</TD><TD>0.46</TD><TD>1,026,090</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Jun-16-03</TD><TD>0.47</TD><TD>0.48</TD><TD>0.46</TD><TD>0.48</TD><TD>414,105</TD><TD>0.48</TD></TR>
+<TR>
+<TD>Jun-13-03</TD><TD>0.47</TD><TD>0.47</TD><TD>0.45</TD><TD>0.47</TD><TD>1,157,700</TD><TD>0.47</TD></TR>
+<TR>
+<TD>Jun-12-03</TD><TD>0.47</TD><TD>0.47</TD><TD>0.46</TD><TD>0.46</TD><TD>943,219</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Jun-11-03</TD><TD>0.48</TD><TD>0.48</TD><TD>0.46</TD><TD>0.46</TD><TD>1,049,240</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Jun-10-03</TD><TD>0.46</TD><TD>0.49</TD><TD>0.46</TD><TD>0.48</TD><TD>5,031,580</TD><TD>0.48</TD></TR>
+<TR>
+<TD>Jun-09-03</TD><TD>0.46</TD><TD>0.47</TD><TD>0.45</TD><TD>0.46</TD><TD>697,795</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Jun-06-03</TD><TD>0.46</TD><TD>0.47</TD><TD>0.45</TD><TD>0.47</TD><TD>1,662,850</TD><TD>0.47</TD></TR>
+<TR>
+<TD>Jun-05-03</TD><TD>0.47</TD><TD>0.47</TD><TD>0.45</TD><TD>0.46</TD><TD>1,617,440</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Jun-04-03</TD><TD>0.45</TD><TD>0.47</TD><TD>0.45</TD><TD>0.47</TD><TD>1,311,730</TD><TD>0.47</TD></TR>
+<TR>
+<TD>Jun-03-03</TD><TD>0.44</TD><TD>0.46</TD><TD>0.44</TD><TD>0.46</TD><TD>790,398</TD><TD>0.46</TD></TR>
+<TR>
+<TD>Jun-02-03</TD><TD>0.44</TD><TD>0.45</TD><TD>0.44</TD><TD>0.44</TD><TD>1,187,140</TD><TD>0.44</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

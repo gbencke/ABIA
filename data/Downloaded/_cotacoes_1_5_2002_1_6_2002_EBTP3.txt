@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EBTP3.SA (EMBRATEL PARTICIPACOES SA)
+        </TD><TD>As of May-31-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-31-02</TD><TD>6.30</TD><TD>6.39</TD><TD>6.20</TD><TD>6.20</TD><TD>106,491</TD><TD>6.20</TD></TR>
+<TR>
+<TD>May-29-02</TD><TD>6.32</TD><TD>6.32</TD><TD>6.00</TD><TD>6.30</TD><TD>241,581</TD><TD>6.30</TD></TR>
+<TR>
+<TD>May-28-02</TD><TD>6.50</TD><TD>6.50</TD><TD>6.00</TD><TD>6.05</TD><TD>212,408</TD><TD>6.05</TD></TR>
+<TR>
+<TD>May-27-02</TD><TD>6.37</TD><TD>6.49</TD><TD>6.21</TD><TD>6.32</TD><TD>231,026</TD><TD>6.32</TD></TR>
+<TR>
+<TD>May-24-02</TD><TD>6.10</TD><TD>6.30</TD><TD>6.00</TD><TD>6.30</TD><TD>80,486</TD><TD>6.30</TD></TR>
+<TR>
+<TD>May-23-02</TD><TD>6.17</TD><TD>6.30</TD><TD>5.86</TD><TD>6.00</TD><TD>435,831</TD><TD>6.00</TD></TR>
+<TR>
+<TD>May-22-02</TD><TD>6.50</TD><TD>7.05</TD><TD>6.05</TD><TD>6.05</TD><TD>907,199</TD><TD>6.05</TD></TR>
+<TR>
+<TD>May-21-02</TD><TD>6.30</TD><TD>6.69</TD><TD>6.30</TD><TD>6.50</TD><TD>556,061</TD><TD>6.50</TD></TR>
+<TR>
+<TD>May-20-02</TD><TD>6.00</TD><TD>6.25</TD><TD>6.00</TD><TD>6.15</TD><TD>450,058</TD><TD>6.15</TD></TR>
+<TR>
+<TD>May-17-02</TD><TD>5.80</TD><TD>5.98</TD><TD>5.72</TD><TD>5.89</TD><TD>286,567</TD><TD>5.89</TD></TR>
+<TR>
+<TD>May-16-02</TD><TD>5.50</TD><TD>5.90</TD><TD>5.30</TD><TD>5.72</TD><TD>505,432</TD><TD>5.72</TD></TR>
+<TR>
+<TD>May-15-02</TD><TD>5.80</TD><TD>5.85</TD><TD>5.40</TD><TD>5.45</TD><TD>814,036</TD><TD>5.45</TD></TR>
+<TR>
+<TD>May-14-02</TD><TD>6.60</TD><TD>6.60</TD><TD>5.90</TD><TD>5.90</TD><TD>846,190</TD><TD>5.90</TD></TR>
+<TR>
+<TD>May-13-02</TD><TD>6.68</TD><TD>6.68</TD><TD>6.30</TD><TD>6.40</TD><TD>214,692</TD><TD>6.40</TD></TR>
+<TR>
+<TD>May-10-02</TD><TD>6.50</TD><TD>6.70</TD><TD>6.15</TD><TD>6.50</TD><TD>279,485</TD><TD>6.50</TD></TR>
+<TR>
+<TD>May-09-02</TD><TD>7.14</TD><TD>7.30</TD><TD>6.36</TD><TD>6.38</TD><TD>457,121</TD><TD>6.38</TD></TR>
+<TR>
+<TD>May-08-02</TD><TD>7.25</TD><TD>7.35</TD><TD>6.70</TD><TD>7.16</TD><TD>297,448</TD><TD>7.16</TD></TR>
+<TR>
+<TD>May-07-02</TD><TD>7.55</TD><TD>7.55</TD><TD>7.10</TD><TD>7.10</TD><TD>421,681</TD><TD>7.10</TD></TR>
+<TR>
+<TD>May-06-02</TD><TD>7.30</TD><TD>7.45</TD><TD>7.10</TD><TD>7.35</TD><TD>144,273</TD><TD>7.35</TD></TR>
+<TR>
+<TD>May-03-02</TD><TD>7.48</TD><TD>7.55</TD><TD>7.32</TD><TD>7.46</TD><TD>97,637</TD><TD>7.46</TD></TR>
+<TR>
+<TD>May-02-02</TD><TD>8.00</TD><TD>8.00</TD><TD>7.30</TD><TD>7.50</TD><TD>331,774</TD><TD>7.50</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRTP3.SA (BRASIL TELECOM PARTICIPACOES SA)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>12.75</TD><TD>12.79</TD><TD>11.85</TD><TD>12.30</TD><TD>438,745</TD><TD>11.90</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>12.70</TD><TD>12.99</TD><TD>12.30</TD><TD>12.70</TD><TD>199,410</TD><TD>12.30</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>12.54</TD><TD>13.85</TD><TD>12.04</TD><TD>12.04</TD><TD>177,210</TD><TD>11.64</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>12.10</TD><TD>13.40</TD><TD>12.10</TD><TD>12.50</TD><TD>125,707</TD><TD>12.10</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>12.50</TD><TD>13.00</TD><TD>12.35</TD><TD>12.45</TD><TD>156,797</TD><TD>12.05</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>12.50</TD><TD>12.75</TD><TD>12.40</TD><TD>12.69</TD><TD>131,876</TD><TD>12.29</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>12.79</TD><TD>13.05</TD><TD>12.50</TD><TD>13.05</TD><TD>165,452</TD><TD>12.65</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>12.12</TD><TD>13.05</TD><TD>12.10</TD><TD>12.99</TD><TD>181,688</TD><TD>12.59</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>13.75</TD><TD>13.75</TD><TD>12.30</TD><TD>12.74</TD><TD>100,829</TD><TD>12.34</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>13.85</TD><TD>13.85</TD><TD>13.50</TD><TD>13.69</TD><TD>70,443</TD><TD>13.29</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>13.50</TD><TD>14.09</TD><TD>13.36</TD><TD>13.95</TD><TD>119,634</TD><TD>13.55</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>13.31</TD><TD>13.70</TD><TD>13.30</TD><TD>13.70</TD><TD>345,822</TD><TD>13.30</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>13.70</TD><TD>13.70</TD><TD>13.12</TD><TD>13.28</TD><TD>227,538</TD><TD>12.88</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>14.60</TD><TD>14.60</TD><TD>13.40</TD><TD>13.45</TD><TD>106,588</TD><TD>13.05</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>14.21</TD><TD>14.70</TD><TD>14.00</TD><TD>14.63</TD><TD>123,182</TD><TD>14.23</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>14.32</TD><TD>14.90</TD><TD>14.24</TD><TD>14.51</TD><TD>61,055</TD><TD>14.11</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>14.50</TD><TD>14.90</TD><TD>14.10</TD><TD>14.28</TD><TD>86,613</TD><TD>13.88</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>$0.28 Cash Dividend</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>14.15</TD><TD>14.40</TD><TD>13.95</TD><TD>14.30</TD><TD>66,828</TD><TD>13.90</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>13.70</TD><TD>14.00</TD><TD>13.30</TD><TD>13.80</TD><TD>42,016</TD><TD>13.12</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>13.94</TD><TD>14.04</TD><TD>13.70</TD><TD>13.70</TD><TD>14,825</TD><TD>13.02</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>13.50</TD><TD>14.30</TD><TD>13.40</TD><TD>13.94</TD><TD>92,736</TD><TD>13.26</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>13.06</TD><TD>14.00</TD><TD>13.06</TD><TD>13.72</TD><TD>43,159</TD><TD>13.04</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>14.26</TD><TD>14.94</TD><TD>14.10</TD><TD>14.30</TD><TD>69,881</TD><TD>13.62</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

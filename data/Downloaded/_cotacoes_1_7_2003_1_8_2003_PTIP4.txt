@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PTIP4.SA (COMPANHIA BRASILEIRA DE PETROLE)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>10.75</TD><TD>10.80</TD><TD>10.30</TD><TD>10.49</TD><TD>34,086</TD><TD>9.86</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>10.80</TD><TD>11.05</TD><TD>10.75</TD><TD>10.75</TD><TD>45,100</TD><TD>10.12</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>10.80</TD><TD>10.95</TD><TD>10.55</TD><TD>10.74</TD><TD>40,444</TD><TD>10.11</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>10.82</TD><TD>10.99</TD><TD>10.74</TD><TD>10.75</TD><TD>45,416</TD><TD>10.12</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>10.81</TD><TD>11.00</TD><TD>10.73</TD><TD>11.00</TD><TD>31,000</TD><TD>10.37</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>11.01</TD><TD>11.01</TD><TD>10.76</TD><TD>10.96</TD><TD>28,174</TD><TD>10.33</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>10.83</TD><TD>11.00</TD><TD>10.80</TD><TD>11.00</TD><TD>36,582</TD><TD>10.37</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>11.03</TD><TD>11.18</TD><TD>10.80</TD><TD>10.80</TD><TD>39,370</TD><TD>10.17</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>10.88</TD><TD>11.03</TD><TD>10.66</TD><TD>11.03</TD><TD>77,741</TD><TD>10.40</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>11.17</TD><TD>11.17</TD><TD>10.65</TD><TD>10.65</TD><TD>62,811</TD><TD>10.02</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>10.75</TD><TD>11.20</TD><TD>10.75</TD><TD>11.17</TD><TD>97,771</TD><TD>10.54</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>10.86</TD><TD>10.98</TD><TD>10.70</TD><TD>10.85</TD><TD>38,488</TD><TD>10.22</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>10.82</TD><TD>11.10</TD><TD>10.80</TD><TD>11.00</TD><TD>37,018</TD><TD>10.37</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>11.00</TD><TD>11.27</TD><TD>10.60</TD><TD>10.82</TD><TD>166,063</TD><TD>10.19</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>11.20</TD><TD>11.50</TD><TD>10.87</TD><TD>11.09</TD><TD>233,415</TD><TD>10.46</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>10.80</TD><TD>11.15</TD><TD>10.75</TD><TD>11.07</TD><TD>305,476</TD><TD>10.44</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>10.10</TD><TD>10.95</TD><TD>10.10</TD><TD>10.81</TD><TD>245,441</TD><TD>10.18</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>9.60</TD><TD>10.43</TD><TD>9.60</TD><TD>10.43</TD><TD>501,874</TD><TD>9.80</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>9.55</TD><TD>9.75</TD><TD>9.50</TD><TD>9.60</TD><TD>306,841</TD><TD>8.97</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>9.25</TD><TD>9.60</TD><TD>9.25</TD><TD>9.55</TD><TD>114,440</TD><TD>8.92</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>9.52</TD><TD>9.52</TD><TD>9.35</TD><TD>9.35</TD><TD>27,230</TD><TD>8.72</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>9.36</TD><TD>9.67</TD><TD>9.36</TD><TD>9.60</TD><TD>83,160</TD><TD>8.97</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>9.20</TD><TD>9.45</TD><TD>9.15</TD><TD>9.36</TD><TD>68,028</TD><TD>8.73</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

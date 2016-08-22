@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNLP3.SA (TELE NORTE LESTE PARTICIPACOES )
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>39.40</TD><TD>39.40</TD><TD>37.00</TD><TD>37.20</TD><TD>230,153</TD><TD>35.24</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>39.80</TD><TD>40.00</TD><TD>39.50</TD><TD>40.00</TD><TD>134,931</TD><TD>38.04</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>39.60</TD><TD>39.70</TD><TD>39.10</TD><TD>39.30</TD><TD>118,261</TD><TD>37.34</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>40.00</TD><TD>40.30</TD><TD>39.19</TD><TD>39.60</TD><TD>56,145</TD><TD>37.64</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>39.50</TD><TD>40.10</TD><TD>38.60</TD><TD>39.60</TD><TD>195,544</TD><TD>37.64</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>40.00</TD><TD>40.30</TD><TD>39.00</TD><TD>39.90</TD><TD>129,360</TD><TD>37.94</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>38.96</TD><TD>40.00</TD><TD>38.80</TD><TD>39.81</TD><TD>128,989</TD><TD>37.85</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>39.18</TD><TD>39.18</TD><TD>38.49</TD><TD>39.00</TD><TD>69,583</TD><TD>37.04</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>39.50</TD><TD>40.00</TD><TD>38.60</TD><TD>39.60</TD><TD>82,343</TD><TD>37.64</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>38.00</TD><TD>39.89</TD><TD>37.50</TD><TD>39.02</TD><TD>437,481</TD><TD>37.06</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>37.00</TD><TD>39.00</TD><TD>36.85</TD><TD>38.00</TD><TD>171,868</TD><TD>36.04</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>37.25</TD><TD>37.25</TD><TD>36.10</TD><TD>36.60</TD><TD>173,299</TD><TD>34.64</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>37.70</TD><TD>37.70</TD><TD>36.63</TD><TD>36.82</TD><TD>44,601</TD><TD>34.86</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>37.20</TD><TD>37.80</TD><TD>36.90</TD><TD>37.10</TD><TD>150,264</TD><TD>35.14</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>36.10</TD><TD>37.30</TD><TD>35.99</TD><TD>37.20</TD><TD>250,632</TD><TD>35.24</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>36.69</TD><TD>36.75</TD><TD>35.50</TD><TD>36.10</TD><TD>146,435</TD><TD>34.14</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>35.50</TD><TD>36.95</TD><TD>35.50</TD><TD>36.95</TD><TD>310,463</TD><TD>34.99</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>34.50</TD><TD>35.65</TD><TD>34.20</TD><TD>35.20</TD><TD>105,459</TD><TD>33.24</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>36.00</TD><TD>36.00</TD><TD>34.80</TD><TD>35.10</TD><TD>73,276</TD><TD>33.14</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>35.00</TD><TD>35.70</TD><TD>34.89</TD><TD>35.55</TD><TD>291,629</TD><TD>33.59</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>34.90</TD><TD>35.00</TD><TD>31.80</TD><TD>34.90</TD><TD>216,619</TD><TD>32.94</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>32.00</TD><TD>32.70</TD><TD>32.00</TD><TD>32.50</TD><TD>122,171</TD><TD>30.54</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

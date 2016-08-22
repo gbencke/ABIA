@@ -1,0 +1,114 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CSNA3.SA (COMPANHIA SIDERURGICA NACIONAL)
+        </TD><TD>As of Oct-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>28.00</TD><TD>28.00</TD><TD>26.70</TD><TD>26.70</TD><TD>78,309</TD><TD>21.54</TD></TR>
+<TR>
+<TD>Sep-28-01</TD><TD>29.00</TD><TD>29.00</TD><TD>26.57</TD><TD>27.02</TD><TD>205,728</TD><TD>21.86</TD></TR>
+<TR>
+<TD>Sep-27-01</TD><TD>27.32</TD><TD>28.50</TD><TD>26.80</TD><TD>27.99</TD><TD>83,365</TD><TD>22.83</TD></TR>
+<TR>
+<TD>Sep-26-01</TD><TD>28.50</TD><TD>28.51</TD><TD>27.50</TD><TD>27.50</TD><TD>47,220</TD><TD>22.34</TD></TR>
+<TR>
+<TD>Sep-25-01</TD><TD>29.00</TD><TD>29.70</TD><TD>28.50</TD><TD>28.50</TD><TD>107,773</TD><TD>23.34</TD></TR>
+<TR>
+<TD>Sep-24-01</TD><TD>29.50</TD><TD>29.98</TD><TD>28.41</TD><TD>28.89</TD><TD>14,485</TD><TD>23.73</TD></TR>
+<TR>
+<TD>Sep-21-01</TD><TD>29.60</TD><TD>29.60</TD><TD>28.00</TD><TD>28.77</TD><TD>157,327</TD><TD>23.61</TD></TR>
+<TR>
+<TD>Sep-20-01</TD><TD>30.70</TD><TD>31.30</TD><TD>29.60</TD><TD>29.80</TD><TD>146,411</TD><TD>24.64</TD></TR>
+<TR>
+<TD>Sep-19-01</TD><TD>32.60</TD><TD>32.60</TD><TD>30.70</TD><TD>30.98</TD><TD>248,513</TD><TD>25.82</TD></TR>
+<TR>
+<TD>Sep-18-01</TD><TD>32.97</TD><TD>33.00</TD><TD>31.81</TD><TD>31.81</TD><TD>59,331</TD><TD>26.65</TD></TR>
+<TR>
+<TD>Sep-17-01</TD><TD>30.01</TD><TD>33.00</TD><TD>30.00</TD><TD>33.00</TD><TD>52,199</TD><TD>27.84</TD></TR>
+<TR>
+<TD>Sep-10-01</TD><TD>35.70</TD><TD>36.00</TD><TD>35.50</TD><TD>35.51</TD><TD>19,905</TD><TD>30.35</TD></TR>
+<TR>
+<TD>Sep-06-01</TD><TD>36.60</TD><TD>36.90</TD><TD>35.50</TD><TD>35.50</TD><TD>44,966</TD><TD>30.34</TD></TR>
+<TR>
+<TD>Sep-05-01</TD><TD>34.81</TD><TD>36.70</TD><TD>34.81</TD><TD>36.60</TD><TD>69,546</TD><TD>31.44</TD></TR>
+<TR>
+<TD>Sep-04-01</TD><TD>35.10</TD><TD>36.00</TD><TD>35.10</TD><TD>35.30</TD><TD>37,270</TD><TD>30.14</TD></TR>
+<TR>
+<TD>Sep-03-01</TD><TD>35.10</TD><TD>35.10</TD><TD>34.81</TD><TD>34.99</TD><TD>31,508</TD><TD>29.83</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

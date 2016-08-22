@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<agent Name="BovespaAgent">
+    <Parameter Name="InitialDate" Value="20030102"/>
+    <DataToVerify Name="BDI"      CheckOnStartup="true"  TimeBetweenChecks="20" /> 
+    <DataToVerify Name="Empresas" CheckOnStartup="true"  TimeBetweenChecks="60000" /> 
+    <DataToVerify Name="Indices"  CheckOnStartup="true"  TimeBetweenChecks="60000" /> 
+</agent>

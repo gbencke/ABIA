@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VCPA4.SA (VOTORANTIM CELULOSE E PAPEL SA)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>137.00</TD><TD>137.45</TD><TD>135.11</TD><TD>137.00</TD><TD>42,625</TD><TD>137.00</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>138.00</TD><TD>138.00</TD><TD>136.20</TD><TD>137.00</TD><TD>66,773</TD><TD>137.00</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>138.50</TD><TD>138.60</TD><TD>136.51</TD><TD>137.50</TD><TD>17,090</TD><TD>137.50</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>135.00</TD><TD>139.10</TD><TD>135.00</TD><TD>138.50</TD><TD>56,204</TD><TD>138.50</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>133.30</TD><TD>136.00</TD><TD>132.00</TD><TD>135.01</TD><TD>58,297</TD><TD>135.01</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>129.90</TD><TD>133.90</TD><TD>129.05</TD><TD>133.90</TD><TD>125,897</TD><TD>133.90</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>129.00</TD><TD>130.00</TD><TD>128.80</TD><TD>129.99</TD><TD>30,496</TD><TD>129.99</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>126.57</TD><TD>129.00</TD><TD>126.40</TD><TD>128.94</TD><TD>49,275</TD><TD>128.94</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>126.00</TD><TD>126.70</TD><TD>124.00</TD><TD>126.70</TD><TD>29,960</TD><TD>126.70</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>124.00</TD><TD>126.50</TD><TD>123.60</TD><TD>125.21</TD><TD>34,713</TD><TD>125.21</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>124.00</TD><TD>124.00</TD><TD>121.11</TD><TD>124.00</TD><TD>18,930</TD><TD>124.00</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>122.30</TD><TD>125.00</TD><TD>122.00</TD><TD>123.95</TD><TD>23,476</TD><TD>123.95</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>126.76</TD><TD>129.00</TD><TD>125.26</TD><TD>125.30</TD><TD>36,406</TD><TD>125.30</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>126.00</TD><TD>126.50</TD><TD>123.71</TD><TD>126.49</TD><TD>32,699</TD><TD>126.49</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>123.50</TD><TD>126.01</TD><TD>123.00</TD><TD>125.96</TD><TD>20,270</TD><TD>125.96</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>122.40</TD><TD>124.80</TD><TD>122.00</TD><TD>123.50</TD><TD>26,109</TD><TD>123.50</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>124.50</TD><TD>124.50</TD><TD>121.30</TD><TD>123.00</TD><TD>59,635</TD><TD>123.00</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>120.99</TD><TD>124.50</TD><TD>120.71</TD><TD>124.50</TD><TD>145,425</TD><TD>124.50</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>120.35</TD><TD>122.50</TD><TD>120.00</TD><TD>121.00</TD><TD>88,230</TD><TD>121.00</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>114.98</TD><TD>120.50</TD><TD>114.50</TD><TD>120.00</TD><TD>61,293</TD><TD>120.00</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>112.49</TD><TD>115.94</TD><TD>112.49</TD><TD>114.50</TD><TD>53,651</TD><TD>114.50</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>110.10</TD><TD>112.50</TD><TD>109.80</TD><TD>112.50</TD><TD>9,831</TD><TD>112.50</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>110.01</TD><TD>110.60</TD><TD>109.00</TD><TD>110.50</TD><TD>18,604</TD><TD>110.50</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

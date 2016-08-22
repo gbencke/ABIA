@@ -1,0 +1,222 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LA FONTE PARTICIPACOES S.A.&ccvm=8672&site=B&pregao=LA FONTE PAR&mercado=1&pagina=itr_dfp_ian">LA FONTE PAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LA FONTE PARTICIPACOES S.A.&ccvm=8672&site=B&pregao=LA FONTE PAR&mercado=1&pagina=itr_dfp_ian">LA FONTE PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LA FONTE PARTICIPACOES S.A.&ccvm=8672&site=B&pregao=LA FONTE PAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LA FONTE TELECOM S.A.&ccvm=12262&site=B&pregao=LA FONTE TEL&mercado=1&pagina=itr_dfp_ian">LA FONTE TEL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LA FONTE TELECOM S.A.&ccvm=12262&site=B&pregao=LA FONTE TEL&mercado=1&pagina=itr_dfp_ian">LA FONTE TELECOM S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LA FONTE TELECOM S.A.&ccvm=12262&site=B&pregao=LA FONTE TEL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LABO ELETRONICA S.A.&ccvm=12688&site=B&pregao=LABO&mercado=1&pagina=itr_dfp_ian">LABO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LABO ELETRONICA S.A.&ccvm=12688&site=B&pregao=LABO&mercado=1&pagina=itr_dfp_ian">LABO ELETRONICA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LABO ELETRONICA S.A.&ccvm=12688&site=B&pregao=LABO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LARK S.A. MAQUINAS E EQUIPAMENTOS&ccvm=7978&site=B&pregao=LARK MAQS&mercado=1&pagina=itr_dfp_ian">LARK MAQS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LARK S.A. MAQUINAS E EQUIPAMENTOS&ccvm=7978&site=B&pregao=LARK MAQS&mercado=1&pagina=itr_dfp_ian">LARK S.A. MAQUINAS E EQUIPAMENTOS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LARK S.A. MAQUINAS E EQUIPAMENTOS&ccvm=7978&site=B&pregao=LARK MAQS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LATASA S.A.&ccvm=16250&site=B&pregao=LATASA&mercado=1&pagina=itr_dfp_ian">LATASA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LATASA S.A.&ccvm=16250&site=B&pregao=LATASA&mercado=1&pagina=itr_dfp_ian">LATASA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LATASA S.A.&ccvm=16250&site=B&pregao=LATASA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA LECO DE PRODUTOS ALIMENTICIOS&ccvm=3603&site=B&pregao=LECO&mercado=1&pagina=itr_dfp_ian">LECO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA LECO DE PRODUTOS ALIMENTICIOS&ccvm=3603&site=B&pregao=LECO&mercado=1&pagina=itr_dfp_ian">CIA LECO DE PRODUTOS ALIMENTICIOS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA LECO DE PRODUTOS ALIMENTICIOS&ccvm=3603&site=B&pregao=LECO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LF TEL S.A.&ccvm=17442&site=B&pregao=LF TEL&mercado=1&pagina=itr_dfp_ian">LF TEL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LF TEL S.A.&ccvm=17442&site=B&pregao=LF TEL&mercado=1&pagina=itr_dfp_ian">LF TEL S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LF TEL S.A.&ccvm=17442&site=B&pregao=LF TEL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LIGHT SERVICOS DE ELETRICIDADE S.A.&ccvm=8036&site=B&pregao=LIGHT&mercado=1&pagina=itr_dfp_ian">LIGHT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LIGHT SERVICOS DE ELETRICIDADE S.A.&ccvm=8036&site=B&pregao=LIGHT&mercado=1&pagina=itr_dfp_ian">LIGHT SERVICOS DE ELETRICIDADE S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LIGHT SERVICOS DE ELETRICIDADE S.A.&ccvm=8036&site=B&pregao=LIGHT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LIGHT PARTICIPACOES S.A. - LIGHTPAR&ccvm=15784&site=B&pregao=LIGHTPAR&mercado=1&pagina=itr_dfp_ian">LIGHTPAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LIGHT PARTICIPACOES S.A. - LIGHTPAR&ccvm=15784&site=B&pregao=LIGHTPAR&mercado=1&pagina=itr_dfp_ian">LIGHT PARTICIPACOES S.A. - LIGHTPAR</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LIGHT PARTICIPACOES S.A. - LIGHTPAR&ccvm=15784&site=B&pregao=LIGHTPAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIRCULO S.A.&ccvm=7056&site=B&pregao=LINH CIRCULO&mercado=1&pagina=itr_dfp_ian">LINH CIRCULO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIRCULO S.A.&ccvm=7056&site=B&pregao=LINH CIRCULO&mercado=1&pagina=itr_dfp_ian">CIRCULO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIRCULO S.A.&ccvm=7056&site=B&pregao=LINH CIRCULO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LIVRARIA DO GLOBO S.A.&ccvm=8060&site=B&pregao=LIVR GLOBO&mercado=1&pagina=itr_dfp_ian">LIVR GLOBO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LIVRARIA DO GLOBO S.A.&ccvm=8060&site=B&pregao=LIVR GLOBO&mercado=1&pagina=itr_dfp_ian">LIVRARIA DO GLOBO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LIVRARIA DO GLOBO S.A.&ccvm=8060&site=B&pregao=LIVR GLOBO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CONSTRUTORA LIX DA CUNHA S.A.&ccvm=4774&site=B&pregao=LIX DA CUNHA&mercado=1&pagina=itr_dfp_ian">LIX DA CUNHA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CONSTRUTORA LIX DA CUNHA S.A.&ccvm=4774&site=B&pregao=LIX DA CUNHA&mercado=1&pagina=itr_dfp_ian">CONSTRUTORA LIX DA CUNHA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CONSTRUTORA LIX DA CUNHA S.A.&ccvm=4774&site=B&pregao=LIX DA CUNHA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LOJAS AMERICANAS S.A.&ccvm=8087&site=B&pregao=LOJAS AMERIC&mercado=1&pagina=itr_dfp_ian">LOJAS AMERIC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LOJAS AMERICANAS S.A.&ccvm=8087&site=B&pregao=LOJAS AMERIC&mercado=1&pagina=itr_dfp_ian">LOJAS AMERICANAS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LOJAS AMERICANAS S.A.&ccvm=8087&site=B&pregao=LOJAS AMERIC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LOJAS HERING S.A.&ccvm=8117&site=B&pregao=LOJAS HERING&mercado=1&pagina=itr_dfp_ian">LOJAS HERING</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LOJAS HERING S.A.&ccvm=8117&site=B&pregao=LOJAS HERING&mercado=1&pagina=itr_dfp_ian">LOJAS HERING S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LOJAS HERING S.A.&ccvm=8117&site=B&pregao=LOJAS HERING&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LOJAS RENNER S.A.&ccvm=8133&site=B&pregao=LOJAS RENNER&mercado=1&pagina=itr_dfp_ian">LOJAS RENNER</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=LOJAS RENNER S.A.&ccvm=8133&site=B&pregao=LOJAS RENNER&mercado=1&pagina=itr_dfp_ian">LOJAS RENNER S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=LOJAS RENNER S.A.&ccvm=8133&site=B&pregao=LOJAS RENNER&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

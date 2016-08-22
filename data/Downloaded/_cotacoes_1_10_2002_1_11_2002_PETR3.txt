@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PETR3.SA (PETROLEO BRASILEIRO SA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>48.00</TD><TD>49.98</TD><TD>47.80</TD><TD>47.90</TD><TD>688</TD><TD>46.34</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>47.90</TD><TD>48.74</TD><TD>47.50</TD><TD>48.60</TD><TD>376</TD><TD>47.04</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>46.73</TD><TD>47.90</TD><TD>46.20</TD><TD>47.61</TD><TD>469</TD><TD>46.05</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>46.00</TD><TD>47.30</TD><TD>45.30</TD><TD>45.50</TD><TD>500</TD><TD>43.94</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>47.50</TD><TD>48.50</TD><TD>46.50</TD><TD>46.80</TD><TD>650</TD><TD>45.24</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>48.00</TD><TD>48.80</TD><TD>46.00</TD><TD>47.80</TD><TD>376</TD><TD>46.24</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>46.21</TD><TD>49.90</TD><TD>45.30</TD><TD>47.51</TD><TD>763</TD><TD>45.95</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>43.11</TD><TD>46.20</TD><TD>43.10</TD><TD>46.20</TD><TD>514</TD><TD>44.64</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>41.00</TD><TD>43.11</TD><TD>41.00</TD><TD>43.11</TD><TD>456</TD><TD>41.55</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>42.30</TD><TD>43.19</TD><TD>41.60</TD><TD>42.90</TD><TD>240</TD><TD>41.34</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>41.80</TD><TD>42.80</TD><TD>41.49</TD><TD>42.30</TD><TD>363</TD><TD>40.74</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>39.00</TD><TD>41.50</TD><TD>38.80</TD><TD>41.50</TD><TD>710</TD><TD>39.94</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>38.25</TD><TD>38.25</TD><TD>37.20</TD><TD>37.89</TD><TD>1,062</TD><TD>36.33</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>39.30</TD><TD>39.50</TD><TD>38.00</TD><TD>38.02</TD><TD>1,284</TD><TD>36.46</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>39.80</TD><TD>40.20</TD><TD>37.99</TD><TD>37.99</TD><TD>598</TD><TD>36.43</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>42.26</TD><TD>44.00</TD><TD>40.80</TD><TD>40.89</TD><TD>670</TD><TD>39.33</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>43.00</TD><TD>44.00</TD><TD>42.10</TD><TD>42.11</TD><TD>718</TD><TD>40.55</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>43.00</TD><TD>43.30</TD><TD>41.90</TD><TD>43.20</TD><TD>239</TD><TD>41.64</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>42.40</TD><TD>44.00</TD><TD>41.80</TD><TD>43.61</TD><TD>408</TD><TD>42.05</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>44.50</TD><TD>46.00</TD><TD>43.10</TD><TD>43.22</TD><TD>162</TD><TD>41.66</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>45.50</TD><TD>46.30</TD><TD>45.30</TD><TD>45.50</TD><TD>241</TD><TD>43.94</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>43.80</TD><TD>46.20</TD><TD>43.30</TD><TD>45.50</TD><TD>266</TD><TD>43.94</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>45.00</TD><TD>45.25</TD><TD>43.50</TD><TD>43.65</TD><TD>330</TD><TD>42.09</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>41.00</TD><TD>45.25</TD><TD>40.80</TD><TD>44.29</TD><TD>657</TD><TD>42.73</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

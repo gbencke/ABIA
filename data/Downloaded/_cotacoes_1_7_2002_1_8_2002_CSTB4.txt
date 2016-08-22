@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CSTB4.SA (COMPANHIA SIDERURGICA DE TUBARA)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>27.60</TD><TD>28.50</TD><TD>27.50</TD><TD>28.50</TD><TD>152,311</TD><TD>23.40</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>27.00</TD><TD>28.50</TD><TD>26.80</TD><TD>28.50</TD><TD>286,771</TD><TD>23.40</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>27.00</TD><TD>28.00</TD><TD>27.00</TD><TD>27.00</TD><TD>252,858</TD><TD>21.90</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>27.22</TD><TD>27.35</TD><TD>26.00</TD><TD>27.18</TD><TD>58,024</TD><TD>22.08</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>26.50</TD><TD>26.90</TD><TD>25.60</TD><TD>26.00</TD><TD>123,580</TD><TD>20.90</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>26.70</TD><TD>27.30</TD><TD>26.30</TD><TD>26.85</TD><TD>98,700</TD><TD>21.75</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>26.48</TD><TD>27.05</TD><TD>26.20</TD><TD>27.00</TD><TD>63,610</TD><TD>21.90</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>25.98</TD><TD>27.00</TD><TD>24.75</TD><TD>26.80</TD><TD>98,200</TD><TD>21.70</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>28.30</TD><TD>28.30</TD><TD>25.51</TD><TD>26.00</TD><TD>71,202</TD><TD>20.90</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>27.99</TD><TD>28.38</TD><TD>27.50</TD><TD>27.60</TD><TD>109,366</TD><TD>22.50</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>27.80</TD><TD>28.29</TD><TD>27.40</TD><TD>28.20</TD><TD>78,616</TD><TD>23.10</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>27.51</TD><TD>28.30</TD><TD>27.50</TD><TD>27.59</TD><TD>55,298</TD><TD>22.49</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>26.50</TD><TD>27.50</TD><TD>26.50</TD><TD>27.50</TD><TD>92,321</TD><TD>22.40</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>26.58</TD><TD>26.98</TD><TD>26.40</TD><TD>26.70</TD><TD>27,587</TD><TD>21.60</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>26.61</TD><TD>26.80</TD><TD>26.30</TD><TD>26.59</TD><TD>34,651</TD><TD>21.49</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>26.31</TD><TD>27.50</TD><TD>26.31</TD><TD>27.00</TD><TD>109,110</TD><TD>21.90</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>27.00</TD><TD>27.00</TD><TD>26.01</TD><TD>26.05</TD><TD>67,903</TD><TD>20.95</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>27.02</TD><TD>27.02</TD><TD>26.80</TD><TD>27.00</TD><TD>10,989</TD><TD>21.90</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>27.10</TD><TD>27.10</TD><TD>26.62</TD><TD>26.80</TD><TD>59,939</TD><TD>21.70</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>27.96</TD><TD>27.96</TD><TD>27.02</TD><TD>27.10</TD><TD>133,452</TD><TD>22.00</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>28.20</TD><TD>28.30</TD><TD>27.02</TD><TD>27.20</TD><TD>83,765</TD><TD>22.10</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>27.77</TD><TD>28.30</TD><TD>27.53</TD><TD>28.30</TD><TD>10,228</TD><TD>23.20</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>28.50</TD><TD>28.51</TD><TD>27.34</TD><TD>28.00</TD><TD>39,201</TD><TD>22.90</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

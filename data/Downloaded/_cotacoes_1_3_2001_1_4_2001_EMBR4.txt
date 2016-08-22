@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EMBR4.SA (EMBRAER SA)
+        </TD><TD>As of Mar-30-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-30-01</TD><TD>20.75</TD><TD>21.50</TD><TD>19.41</TD><TD>21.50</TD><TD>154</TD><TD>20.47</TD></TR>
+<TR>
+<TD>Mar-29-01</TD><TD>20.70</TD><TD>20.80</TD><TD>20.12</TD><TD>20.79</TD><TD>188</TD><TD>19.76</TD></TR>
+<TR>
+<TD>Mar-28-01</TD><TD>20.80</TD><TD>20.80</TD><TD>20.11</TD><TD>20.70</TD><TD>116</TD><TD>19.67</TD></TR>
+<TR>
+<TD>Mar-27-01</TD><TD>20.20</TD><TD>20.90</TD><TD>20.10</TD><TD>20.70</TD><TD>127</TD><TD>19.67</TD></TR>
+<TR>
+<TD>Mar-26-01</TD><TD>20.90</TD><TD>21.55</TD><TD>20.30</TD><TD>20.30</TD><TD>63</TD><TD>19.27</TD></TR>
+<TR>
+<TD>Mar-23-01</TD><TD>19.79</TD><TD>20.88</TD><TD>19.30</TD><TD>20.88</TD><TD>416</TD><TD>19.85</TD></TR>
+<TR>
+<TD>Mar-22-01</TD><TD>19.40</TD><TD>19.80</TD><TD>16.70</TD><TD>19.80</TD><TD>281</TD><TD>18.77</TD></TR>
+<TR>
+<TD>Mar-21-01</TD><TD>20.20</TD><TD>20.20</TD><TD>19.22</TD><TD>19.30</TD><TD>213</TD><TD>18.27</TD></TR>
+<TR>
+<TD>Mar-20-01</TD><TD>20.45</TD><TD>20.89</TD><TD>20.00</TD><TD>20.00</TD><TD>318</TD><TD>18.97</TD></TR>
+<TR>
+<TD>Mar-19-01</TD><TD>20.94</TD><TD>20.94</TD><TD>20.00</TD><TD>20.65</TD><TD>219</TD><TD>19.62</TD></TR>
+<TR>
+<TD>Mar-16-01</TD><TD>20.68</TD><TD>20.70</TD><TD>19.53</TD><TD>20.57</TD><TD>85</TD><TD>19.54</TD></TR>
+<TR>
+<TD>Mar-15-01</TD><TD>20.20</TD><TD>20.70</TD><TD>19.86</TD><TD>20.56</TD><TD>224</TD><TD>19.53</TD></TR>
+<TR>
+<TD>Mar-14-01</TD><TD>19.01</TD><TD>20.10</TD><TD>19.01</TD><TD>20.10</TD><TD>194</TD><TD>19.07</TD></TR>
+<TR>
+<TD>Mar-13-01</TD><TD>19.92</TD><TD>19.92</TD><TD>19.50</TD><TD>19.80</TD><TD>79</TD><TD>18.77</TD></TR>
+<TR>
+<TD>Mar-12-01</TD><TD>20.40</TD><TD>20.50</TD><TD>19.66</TD><TD>19.92</TD><TD>83</TD><TD>18.89</TD></TR>
+<TR>
+<TD>Mar-09-01</TD><TD>20.95</TD><TD>21.00</TD><TD>20.40</TD><TD>20.45</TD><TD>156</TD><TD>19.42</TD></TR>
+<TR>
+<TD>Mar-08-01</TD><TD>20.30</TD><TD>21.00</TD><TD>20.29</TD><TD>21.00</TD><TD>511</TD><TD>19.97</TD></TR>
+<TR>
+<TD>Mar-07-01</TD><TD>19.21</TD><TD>20.58</TD><TD>19.20</TD><TD>20.30</TD><TD>314</TD><TD>19.27</TD></TR>
+<TR>
+<TD>Mar-06-01</TD><TD>19.35</TD><TD>19.51</TD><TD>19.00</TD><TD>19.20</TD><TD>89</TD><TD>18.17</TD></TR>
+<TR>
+<TD>Mar-05-01</TD><TD>19.36</TD><TD>19.36</TD><TD>18.55</TD><TD>19.20</TD><TD>141</TD><TD>18.17</TD></TR>
+<TR>
+<TD>Mar-02-01</TD><TD>19.50</TD><TD>19.50</TD><TD>19.15</TD><TD>19.33</TD><TD>89</TD><TD>18.30</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>19.30</TD><TD>19.54</TD><TD>19.00</TD><TD>19.30</TD><TD>425</TD><TD>18.27</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

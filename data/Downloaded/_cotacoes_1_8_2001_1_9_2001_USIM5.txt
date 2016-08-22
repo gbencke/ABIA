@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - USIM5.SA (USINA SIDERURGICA DO MINAS GERA)
+        </TD><TD>As of Aug-31-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-31-01</TD><TD>5.92</TD><TD>6.06</TD><TD>5.70</TD><TD>5.70</TD><TD>887</TD><TD>4.82</TD></TR>
+<TR>
+<TD>Aug-30-01</TD><TD>5.94</TD><TD>5.94</TD><TD>5.85</TD><TD>5.85</TD><TD>313</TD><TD>4.97</TD></TR>
+<TR>
+<TD>Aug-29-01</TD><TD>6.02</TD><TD>6.02</TD><TD>5.80</TD><TD>5.92</TD><TD>185</TD><TD>5.04</TD></TR>
+<TR>
+<TD>Aug-28-01</TD><TD>6.00</TD><TD>6.06</TD><TD>5.81</TD><TD>5.90</TD><TD>291</TD><TD>5.02</TD></TR>
+<TR>
+<TD>Aug-27-01</TD><TD>6.00</TD><TD>6.00</TD><TD>5.86</TD><TD>5.99</TD><TD>303</TD><TD>5.11</TD></TR>
+<TR>
+<TD>Aug-24-01</TD><TD>6.00</TD><TD>6.14</TD><TD>6.00</TD><TD>6.11</TD><TD>374</TD><TD>5.23</TD></TR>
+<TR>
+<TD>Aug-23-01</TD><TD>6.02</TD><TD>6.18</TD><TD>5.95</TD><TD>6.09</TD><TD>418</TD><TD>5.21</TD></TR>
+<TR>
+<TD>Aug-22-01</TD><TD>5.99</TD><TD>6.20</TD><TD>5.81</TD><TD>6.00</TD><TD>979</TD><TD>5.12</TD></TR>
+<TR>
+<TD>Aug-21-01</TD><TD>6.00</TD><TD>6.00</TD><TD>5.80</TD><TD>5.85</TD><TD>409</TD><TD>4.97</TD></TR>
+<TR>
+<TD>Aug-20-01</TD><TD>5.94</TD><TD>6.09</TD><TD>5.94</TD><TD>5.95</TD><TD>162</TD><TD>5.07</TD></TR>
+<TR>
+<TD>Aug-17-01</TD><TD>6.16</TD><TD>6.20</TD><TD>5.92</TD><TD>5.97</TD><TD>509</TD><TD>5.09</TD></TR>
+<TR>
+<TD>Aug-15-01</TD><TD>6.40</TD><TD>6.47</TD><TD>6.25</TD><TD>6.32</TD><TD>382</TD><TD>5.44</TD></TR>
+<TR>
+<TD>Aug-14-01</TD><TD>6.25</TD><TD>6.40</TD><TD>6.20</TD><TD>6.40</TD><TD>263</TD><TD>5.52</TD></TR>
+<TR>
+<TD>Aug-13-01</TD><TD>6.40</TD><TD>6.40</TD><TD>6.17</TD><TD>6.21</TD><TD>130</TD><TD>5.33</TD></TR>
+<TR>
+<TD>Aug-10-01</TD><TD>6.44</TD><TD>6.44</TD><TD>6.30</TD><TD>6.39</TD><TD>119</TD><TD>5.51</TD></TR>
+<TR>
+<TD>Aug-09-01</TD><TD>6.45</TD><TD>6.45</TD><TD>6.25</TD><TD>6.32</TD><TD>143</TD><TD>5.44</TD></TR>
+<TR>
+<TD>Aug-08-01</TD><TD>6.44</TD><TD>6.48</TD><TD>6.31</TD><TD>6.40</TD><TD>196</TD><TD>5.52</TD></TR>
+<TR>
+<TD>Aug-07-01</TD><TD>6.45</TD><TD>6.55</TD><TD>6.35</TD><TD>6.40</TD><TD>424</TD><TD>5.52</TD></TR>
+<TR>
+<TD>Aug-06-01</TD><TD>6.45</TD><TD>6.49</TD><TD>6.40</TD><TD>6.46</TD><TD>461</TD><TD>5.58</TD></TR>
+<TR>
+<TD>Aug-03-01</TD><TD>6.29</TD><TD>6.40</TD><TD>6.29</TD><TD>6.33</TD><TD>151</TD><TD>5.45</TD></TR>
+<TR>
+<TD>Aug-02-01</TD><TD>6.31</TD><TD>6.31</TD><TD>6.22</TD><TD>6.27</TD><TD>171</TD><TD>5.39</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>6.23</TD><TD>6.27</TD><TD>6.16</TD><TD>6.17</TD><TD>254</TD><TD>5.29</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

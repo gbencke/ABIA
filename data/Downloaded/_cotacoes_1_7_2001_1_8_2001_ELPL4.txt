@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELPL4.SA (ELETROPAULO - ELETRICIDADE DE S)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>60.90</TD><TD>62.99</TD><TD>59.01</TD><TD>60.05</TD><TD>13,333</TD><TD>56.93</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>60.50</TD><TD>61.98</TD><TD>60.02</TD><TD>61.50</TD><TD>25,421</TD><TD>58.38</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>63.50</TD><TD>63.50</TD><TD>60.36</TD><TD>60.36</TD><TD>5,125</TD><TD>57.24</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>63.00</TD><TD>63.00</TD><TD>61.50</TD><TD>62.45</TD><TD>20,727</TD><TD>59.33</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>63.00</TD><TD>64.50</TD><TD>61.98</TD><TD>64.00</TD><TD>12,892</TD><TD>60.88</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>62.24</TD><TD>64.00</TD><TD>62.00</TD><TD>64.00</TD><TD>24,967</TD><TD>60.88</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>67.40</TD><TD>67.40</TD><TD>60.10</TD><TD>62.49</TD><TD>4,615</TD><TD>59.37</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>66.00</TD><TD>66.50</TD><TD>64.01</TD><TD>64.97</TD><TD>4,652</TD><TD>61.85</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>64.00</TD><TD>66.00</TD><TD>63.99</TD><TD>64.99</TD><TD>15,500</TD><TD>61.87</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>64.80</TD><TD>65.99</TD><TD>62.71</TD><TD>63.39</TD><TD>12,220</TD><TD>60.27</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>68.00</TD><TD>68.00</TD><TD>63.99</TD><TD>64.80</TD><TD>9,551</TD><TD>61.68</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>62.82</TD><TD>68.99</TD><TD>62.82</TD><TD>67.00</TD><TD>50,651</TD><TD>63.88</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>64.40</TD><TD>65.00</TD><TD>63.19</TD><TD>64.00</TD><TD>66,420</TD><TD>60.88</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>62.00</TD><TD>64.90</TD><TD>62.00</TD><TD>64.40</TD><TD>95,809</TD><TD>61.28</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>62.00</TD><TD>63.99</TD><TD>58.51</TD><TD>61.30</TD><TD>41,277</TD><TD>58.18</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>61.99</TD><TD>62.00</TD><TD>58.50</TD><TD>62.00</TD><TD>50,578</TD><TD>58.88</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>62.00</TD><TD>66.00</TD><TD>59.50</TD><TD>59.50</TD><TD>18,231</TD><TD>56.38</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>66.00</TD><TD>66.00</TD><TD>60.99</TD><TD>61.99</TD><TD>181,238</TD><TD>58.87</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>72.99</TD><TD>74.50</TD><TD>64.50</TD><TD>65.02</TD><TD>148,344</TD><TD>61.90</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>74.99</TD><TD>75.00</TD><TD>69.00</TD><TD>70.50</TD><TD>11,912</TD><TD>67.38</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>75.99</TD><TD>76.20</TD><TD>70.50</TD><TD>73.00</TD><TD>47,917</TD><TD>69.88</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>72.44</TD><TD>78.00</TD><TD>70.00</TD><TD>73.50</TD><TD>31,143</TD><TD>70.38</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

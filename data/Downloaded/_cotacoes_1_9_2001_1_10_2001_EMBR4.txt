@@ -1,0 +1,113 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EMBR4.SA (EMBRAER SA)
+        </TD><TD>As of Oct-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>7.88</TD><TD>8.09</TD><TD>7.51</TD><TD>7.65</TD><TD>1,279</TD><TD>6.82</TD></TR>
+<TR>
+<TD>Sep-28-01</TD><TD>8.70</TD><TD>9.28</TD><TD>8.20</TD><TD>8.40</TD><TD>2,305</TD><TD>7.57</TD></TR>
+<TR>
+<TD>Sep-27-01</TD><TD>$0.21 Cash Dividend</TD></TR>
+<TR>
+<TD>Sep-27-01</TD><TD>8.66</TD><TD>8.89</TD><TD>8.14</TD><TD>8.60</TD><TD>630</TD><TD>7.77</TD></TR>
+<TR>
+<TD>Sep-26-01</TD><TD>8.80</TD><TD>8.90</TD><TD>8.14</TD><TD>8.65</TD><TD>1,272</TD><TD>7.62</TD></TR>
+<TR>
+<TD>Sep-25-01</TD><TD>9.10</TD><TD>9.20</TD><TD>8.50</TD><TD>8.84</TD><TD>834</TD><TD>7.81</TD></TR>
+<TR>
+<TD>Sep-24-01</TD><TD>9.10</TD><TD>9.25</TD><TD>8.80</TD><TD>9.00</TD><TD>737</TD><TD>7.97</TD></TR>
+<TR>
+<TD>Sep-21-01</TD><TD>7.99</TD><TD>9.05</TD><TD>7.50</TD><TD>8.75</TD><TD>1,602</TD><TD>7.72</TD></TR>
+<TR>
+<TD>Sep-20-01</TD><TD>10.05</TD><TD>10.10</TD><TD>7.90</TD><TD>8.30</TD><TD>3,454</TD><TD>7.27</TD></TR>
+<TR>
+<TD>Sep-19-01</TD><TD>10.85</TD><TD>10.95</TD><TD>9.89</TD><TD>9.89</TD><TD>685</TD><TD>8.86</TD></TR>
+<TR>
+<TD>Sep-18-01</TD><TD>10.61</TD><TD>10.91</TD><TD>10.41</TD><TD>10.45</TD><TD>779</TD><TD>9.42</TD></TR>
+<TR>
+<TD>Sep-17-01</TD><TD>11.01</TD><TD>11.10</TD><TD>8.20</TD><TD>10.78</TD><TD>3,258</TD><TD>9.75</TD></TR>
+<TR>
+<TD>Sep-10-01</TD><TD>16.50</TD><TD>16.50</TD><TD>15.42</TD><TD>15.42</TD><TD>340</TD><TD>14.39</TD></TR>
+<TR>
+<TD>Sep-06-01</TD><TD>16.65</TD><TD>17.79</TD><TD>16.65</TD><TD>17.15</TD><TD>216</TD><TD>16.12</TD></TR>
+<TR>
+<TD>Sep-05-01</TD><TD>16.70</TD><TD>16.85</TD><TD>16.25</TD><TD>16.50</TD><TD>272</TD><TD>15.47</TD></TR>
+<TR>
+<TD>Sep-04-01</TD><TD>16.50</TD><TD>16.80</TD><TD>16.50</TD><TD>16.50</TD><TD>157</TD><TD>15.47</TD></TR>
+<TR>
+<TD>Sep-03-01</TD><TD>16.90</TD><TD>16.90</TD><TD>16.30</TD><TD>16.49</TD><TD>148</TD><TD>15.46</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

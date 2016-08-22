@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PETR3.SA (PETROLEO BRASILEIRO SA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>66.99</TD><TD>68.00</TD><TD>66.40</TD><TD>67.10</TD><TD>297</TD><TD>63.29</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>65.00</TD><TD>67.20</TD><TD>65.00</TD><TD>67.00</TD><TD>338</TD><TD>63.19</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>64.00</TD><TD>65.00</TD><TD>64.00</TD><TD>64.69</TD><TD>636</TD><TD>60.88</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>63.00</TD><TD>64.40</TD><TD>63.00</TD><TD>64.30</TD><TD>569</TD><TD>60.49</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>63.20</TD><TD>63.50</TD><TD>62.10</TD><TD>62.75</TD><TD>79</TD><TD>58.94</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>64.90</TD><TD>65.00</TD><TD>63.00</TD><TD>63.18</TD><TD>216</TD><TD>59.37</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>65.50</TD><TD>65.50</TD><TD>63.91</TD><TD>64.80</TD><TD>687</TD><TD>60.99</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>65.01</TD><TD>66.30</TD><TD>64.20</TD><TD>65.50</TD><TD>268</TD><TD>61.69</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>64.20</TD><TD>65.50</TD><TD>64.20</TD><TD>64.80</TD><TD>342</TD><TD>60.99</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>63.90</TD><TD>64.50</TD><TD>63.60</TD><TD>64.20</TD><TD>443</TD><TD>60.39</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>63.00</TD><TD>64.20</TD><TD>63.00</TD><TD>63.90</TD><TD>268</TD><TD>60.09</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>61.50</TD><TD>63.00</TD><TD>61.50</TD><TD>62.40</TD><TD>261</TD><TD>58.59</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>61.00</TD><TD>62.00</TD><TD>60.00</TD><TD>61.50</TD><TD>286</TD><TD>57.69</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>61.20</TD><TD>61.70</TD><TD>60.00</TD><TD>60.00</TD><TD>161</TD><TD>56.19</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>60.60</TD><TD>61.30</TD><TD>60.00</TD><TD>61.20</TD><TD>127</TD><TD>57.39</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>61.90</TD><TD>62.00</TD><TD>60.01</TD><TD>61.01</TD><TD>397</TD><TD>57.20</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>60.20</TD><TD>62.10</TD><TD>60.20</TD><TD>61.80</TD><TD>379</TD><TD>57.99</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>57.90</TD><TD>60.20</TD><TD>57.90</TD><TD>60.20</TD><TD>323</TD><TD>56.39</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>58.90</TD><TD>59.00</TD><TD>58.30</TD><TD>58.70</TD><TD>333</TD><TD>54.89</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>60.00</TD><TD>60.70</TD><TD>58.50</TD><TD>58.90</TD><TD>187</TD><TD>55.09</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>59.10</TD><TD>61.70</TD><TD>59.10</TD><TD>60.80</TD><TD>531</TD><TD>56.99</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>59.70</TD><TD>60.90</TD><TD>59.10</TD><TD>60.90</TD><TD>951</TD><TD>57.09</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>58.90</TD><TD>59.84</TD><TD>58.10</TD><TD>59.50</TD><TD>734</TD><TD>55.69</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

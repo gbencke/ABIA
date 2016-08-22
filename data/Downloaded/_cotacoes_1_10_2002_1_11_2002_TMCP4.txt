@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TMCP4.SA (TELEMIG CELULAR PARTICIPACOES S)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>2.92</TD><TD>3.10</TD><TD>2.92</TD><TD>2.93</TD><TD>1,255,620</TD><TD>2.86</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>2.91</TD><TD>3.02</TD><TD>2.85</TD><TD>2.95</TD><TD>1,310,780</TD><TD>2.88</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>2.79</TD><TD>2.91</TD><TD>2.78</TD><TD>2.90</TD><TD>1,047,540</TD><TD>2.83</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>2.67</TD><TD>2.78</TD><TD>2.62</TD><TD>2.75</TD><TD>827,309</TD><TD>2.68</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>2.75</TD><TD>2.82</TD><TD>2.58</TD><TD>2.75</TD><TD>1,562,370</TD><TD>2.68</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>2.67</TD><TD>2.77</TD><TD>2.65</TD><TD>2.76</TD><TD>662,035</TD><TD>2.69</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>2.70</TD><TD>2.83</TD><TD>2.64</TD><TD>2.71</TD><TD>1,766,810</TD><TD>2.64</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>2.62</TD><TD>2.75</TD><TD>2.55</TD><TD>2.75</TD><TD>1,358,030</TD><TD>2.68</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>2.48</TD><TD>2.61</TD><TD>2.47</TD><TD>2.60</TD><TD>1,345,460</TD><TD>2.53</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>2.41</TD><TD>2.58</TD><TD>2.40</TD><TD>2.54</TD><TD>813,286</TD><TD>2.47</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>2.36</TD><TD>2.53</TD><TD>2.35</TD><TD>2.45</TD><TD>1,434,440</TD><TD>2.38</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>2.40</TD><TD>2.45</TD><TD>2.32</TD><TD>2.35</TD><TD>2,672,090</TD><TD>2.28</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>2.49</TD><TD>2.50</TD><TD>2.30</TD><TD>2.32</TD><TD>1,538,690</TD><TD>2.25</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>2.37</TD><TD>2.50</TD><TD>2.35</TD><TD>2.50</TD><TD>934,780</TD><TD>2.43</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>2.46</TD><TD>2.46</TD><TD>2.33</TD><TD>2.34</TD><TD>676,948</TD><TD>2.27</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>2.47</TD><TD>2.57</TD><TD>2.45</TD><TD>2.45</TD><TD>797,844</TD><TD>2.38</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>2.34</TD><TD>2.45</TD><TD>2.33</TD><TD>2.45</TD><TD>711,221</TD><TD>2.38</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>2.33</TD><TD>2.39</TD><TD>2.31</TD><TD>2.32</TD><TD>468,214</TD><TD>2.25</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>2.45</TD><TD>2.49</TD><TD>2.32</TD><TD>2.33</TD><TD>1,193,660</TD><TD>2.26</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>2.55</TD><TD>2.55</TD><TD>2.36</TD><TD>2.38</TD><TD>651,431</TD><TD>2.31</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>2.58</TD><TD>2.66</TD><TD>2.47</TD><TD>2.50</TD><TD>1,302,460</TD><TD>2.43</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>2.55</TD><TD>2.60</TD><TD>2.50</TD><TD>2.56</TD><TD>959,547</TD><TD>2.49</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>2.60</TD><TD>2.66</TD><TD>2.49</TD><TD>2.50</TD><TD>1,403,990</TD><TD>2.43</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>2.64</TD><TD>2.64</TD><TD>2.52</TD><TD>2.60</TD><TD>1,060,580</TD><TD>2.53</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

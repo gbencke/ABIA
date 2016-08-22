@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BBDC4.SA (BANCO BRADESCO SA)
+        </TD><TD>As of Nov-29-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-29-02</TD><TD>9.32</TD><TD>9.59</TD><TD>9.31</TD><TD>9.59</TD><TD>1,789,700</TD><TD>8.93</TD></TR>
+<TR>
+<TD>Nov-28-02</TD><TD>9.35</TD><TD>9.39</TD><TD>9.27</TD><TD>9.30</TD><TD>509,087</TD><TD>8.64</TD></TR>
+<TR>
+<TD>Nov-27-02</TD><TD>9.41</TD><TD>9.46</TD><TD>9.32</TD><TD>9.35</TD><TD>1,059,960</TD><TD>8.69</TD></TR>
+<TR>
+<TD>Nov-26-02</TD><TD>9.25</TD><TD>9.38</TD><TD>9.22</TD><TD>9.35</TD><TD>2,324,860</TD><TD>8.69</TD></TR>
+<TR>
+<TD>Nov-25-02</TD><TD>9.23</TD><TD>9.40</TD><TD>9.12</TD><TD>9.26</TD><TD>1,539,100</TD><TD>8.60</TD></TR>
+<TR>
+<TD>Nov-22-02</TD><TD>9.34</TD><TD>9.37</TD><TD>9.16</TD><TD>9.16</TD><TD>1,570,390</TD><TD>8.50</TD></TR>
+<TR>
+<TD>Nov-21-02</TD><TD>9.32</TD><TD>9.47</TD><TD>9.21</TD><TD>9.44</TD><TD>1,746,390</TD><TD>8.78</TD></TR>
+<TR>
+<TD>Nov-20-02</TD><TD>9.18</TD><TD>9.29</TD><TD>9.01</TD><TD>9.26</TD><TD>1,847,780</TD><TD>8.60</TD></TR>
+<TR>
+<TD>Nov-19-02</TD><TD>9.15</TD><TD>9.18</TD><TD>8.93</TD><TD>9.18</TD><TD>1,496,140</TD><TD>8.52</TD></TR>
+<TR>
+<TD>Nov-18-02</TD><TD>9.11</TD><TD>9.35</TD><TD>9.09</TD><TD>9.16</TD><TD>1,758,310</TD><TD>8.50</TD></TR>
+<TR>
+<TD>Nov-14-02</TD><TD>8.96</TD><TD>9.12</TD><TD>8.94</TD><TD>9.00</TD><TD>1,593,230</TD><TD>8.34</TD></TR>
+<TR>
+<TD>Nov-13-02</TD><TD>8.98</TD><TD>9.08</TD><TD>8.80</TD><TD>9.03</TD><TD>2,112,830</TD><TD>8.37</TD></TR>
+<TR>
+<TD>Nov-12-02</TD><TD>9.10</TD><TD>9.15</TD><TD>8.94</TD><TD>8.95</TD><TD>2,265,230</TD><TD>8.29</TD></TR>
+<TR>
+<TD>Nov-11-02</TD><TD>9.05</TD><TD>9.23</TD><TD>9.05</TD><TD>9.15</TD><TD>906,407</TD><TD>8.49</TD></TR>
+<TR>
+<TD>Nov-08-02</TD><TD>9.20</TD><TD>9.24</TD><TD>9.00</TD><TD>9.00</TD><TD>1,679,130</TD><TD>8.34</TD></TR>
+<TR>
+<TD>Nov-07-02</TD><TD>9.20</TD><TD>9.25</TD><TD>8.90</TD><TD>9.08</TD><TD>2,649,820</TD><TD>8.42</TD></TR>
+<TR>
+<TD>Nov-06-02</TD><TD>9.07</TD><TD>9.12</TD><TD>8.95</TD><TD>9.08</TD><TD>3,916,780</TD><TD>8.42</TD></TR>
+<TR>
+<TD>Nov-05-02</TD><TD>9.24</TD><TD>9.40</TD><TD>9.10</TD><TD>9.16</TD><TD>1,391,740</TD><TD>8.50</TD></TR>
+<TR>
+<TD>Nov-04-02</TD><TD>9.70</TD><TD>9.89</TD><TD>9.17</TD><TD>9.24</TD><TD>2,234,660</TD><TD>8.58</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>9.60</TD><TD>9.69</TD><TD>9.45</TD><TD>9.55</TD><TD>2,780,100</TD><TD>8.89</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

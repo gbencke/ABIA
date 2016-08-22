@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - SBSP3.SA (COMPANHIA DE SANEAMENTO BASICO )
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>163.00</TD><TD>167.00</TD><TD>160.25</TD><TD>165.50</TD><TD>12,922</TD><TD>138.94</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>163.40</TD><TD>166.03</TD><TD>163.40</TD><TD>165.50</TD><TD>22,705</TD><TD>138.94</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>167.49</TD><TD>167.49</TD><TD>163.05</TD><TD>163.05</TD><TD>15,976</TD><TD>136.49</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>162.50</TD><TD>164.50</TD><TD>161.00</TD><TD>164.50</TD><TD>6,296</TD><TD>137.94</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>164.90</TD><TD>164.90</TD><TD>161.00</TD><TD>162.50</TD><TD>7,199</TD><TD>135.94</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>162.00</TD><TD>165.00</TD><TD>155.11</TD><TD>163.00</TD><TD>20,327</TD><TD>136.44</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>163.99</TD><TD>163.99</TD><TD>159.11</TD><TD>159.50</TD><TD>19,121</TD><TD>132.94</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>167.00</TD><TD>168.50</TD><TD>161.00</TD><TD>163.99</TD><TD>6,204</TD><TD>137.43</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>155.00</TD><TD>165.50</TD><TD>155.00</TD><TD>165.00</TD><TD>21,634</TD><TD>138.44</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>149.20</TD><TD>155.00</TD><TD>149.20</TD><TD>152.00</TD><TD>5,672</TD><TD>125.44</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>152.10</TD><TD>155.00</TD><TD>148.00</TD><TD>148.01</TD><TD>5,640</TD><TD>121.45</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>150.00</TD><TD>153.00</TD><TD>149.00</TD><TD>151.90</TD><TD>17,762</TD><TD>125.34</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>149.20</TD><TD>152.00</TD><TD>149.00</TD><TD>150.00</TD><TD>3,350</TD><TD>123.44</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>152.00</TD><TD>152.50</TD><TD>147.01</TD><TD>150.00</TD><TD>10,952</TD><TD>123.44</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>152.00</TD><TD>152.00</TD><TD>149.99</TD><TD>151.01</TD><TD>23,661</TD><TD>124.45</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>145.59</TD><TD>150.00</TD><TD>144.00</TD><TD>149.00</TD><TD>13,890</TD><TD>122.44</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>150.00</TD><TD>150.01</TD><TD>144.40</TD><TD>145.60</TD><TD>13,504</TD><TD>119.04</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>149.00</TD><TD>149.99</TD><TD>145.20</TD><TD>149.40</TD><TD>21,803</TD><TD>122.84</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>158.99</TD><TD>158.99</TD><TD>148.00</TD><TD>149.80</TD><TD>27,912</TD><TD>123.24</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>154.01</TD><TD>157.10</TD><TD>154.01</TD><TD>154.60</TD><TD>13,160</TD><TD>128.04</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>165.00</TD><TD>165.00</TD><TD>155.00</TD><TD>157.10</TD><TD>9,250</TD><TD>130.54</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>166.00</TD><TD>166.00</TD><TD>162.01</TD><TD>162.01</TD><TD>5,696</TD><TD>135.45</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

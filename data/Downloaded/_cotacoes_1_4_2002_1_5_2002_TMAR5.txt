@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TMAR5.SA (TELEMAR NORTE LESTE SA)
+        </TD><TD>As of Apr-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-30-02</TD><TD>54.00</TD><TD>54.00</TD><TD>51.70</TD><TD>51.90</TD><TD>366,685</TD><TD>48.65</TD></TR>
+<TR>
+<TD>Apr-29-02</TD><TD>52.65</TD><TD>53.50</TD><TD>52.40</TD><TD>52.50</TD><TD>191,395</TD><TD>49.25</TD></TR>
+<TR>
+<TD>Apr-26-02</TD><TD>53.20</TD><TD>53.30</TD><TD>52.00</TD><TD>52.58</TD><TD>207,991</TD><TD>49.33</TD></TR>
+<TR>
+<TD>Apr-25-02</TD><TD>53.10</TD><TD>54.29</TD><TD>52.90</TD><TD>53.10</TD><TD>199,329</TD><TD>49.85</TD></TR>
+<TR>
+<TD>Apr-24-02</TD><TD>53.00</TD><TD>53.81</TD><TD>52.40</TD><TD>53.80</TD><TD>473,701</TD><TD>50.55</TD></TR>
+<TR>
+<TD>Apr-23-02</TD><TD>51.00</TD><TD>52.70</TD><TD>50.50</TD><TD>51.95</TD><TD>187,279</TD><TD>48.70</TD></TR>
+<TR>
+<TD>Apr-22-02</TD><TD>51.61</TD><TD>51.80</TD><TD>51.00</TD><TD>51.22</TD><TD>162,569</TD><TD>47.97</TD></TR>
+<TR>
+<TD>Apr-19-02</TD><TD>54.00</TD><TD>54.00</TD><TD>52.50</TD><TD>52.89</TD><TD>202,942</TD><TD>49.64</TD></TR>
+<TR>
+<TD>Apr-18-02</TD><TD>52.51</TD><TD>53.20</TD><TD>51.61</TD><TD>53.00</TD><TD>227,564</TD><TD>49.75</TD></TR>
+<TR>
+<TD>Apr-17-02</TD><TD>53.50</TD><TD>54.30</TD><TD>53.20</TD><TD>53.51</TD><TD>445,451</TD><TD>50.26</TD></TR>
+<TR>
+<TD>Apr-16-02</TD><TD>53.50</TD><TD>54.01</TD><TD>52.30</TD><TD>53.50</TD><TD>203,938</TD><TD>50.25</TD></TR>
+<TR>
+<TD>Apr-15-02</TD><TD>53.49</TD><TD>53.70</TD><TD>52.50</TD><TD>53.30</TD><TD>215,737</TD><TD>50.05</TD></TR>
+<TR>
+<TD>Apr-12-02</TD><TD>52.88</TD><TD>53.99</TD><TD>52.50</TD><TD>53.49</TD><TD>148,930</TD><TD>50.24</TD></TR>
+<TR>
+<TD>Apr-11-02</TD><TD>51.99</TD><TD>52.90</TD><TD>51.70</TD><TD>52.00</TD><TD>220,438</TD><TD>48.75</TD></TR>
+<TR>
+<TD>Apr-10-02</TD><TD>51.00</TD><TD>52.30</TD><TD>50.50</TD><TD>52.00</TD><TD>180,505</TD><TD>48.75</TD></TR>
+<TR>
+<TD>Apr-09-02</TD><TD>50.45</TD><TD>51.30</TD><TD>49.90</TD><TD>50.90</TD><TD>680,944</TD><TD>47.65</TD></TR>
+<TR>
+<TD>Apr-08-02</TD><TD>50.90</TD><TD>50.90</TD><TD>49.60</TD><TD>49.90</TD><TD>316,041</TD><TD>46.65</TD></TR>
+<TR>
+<TD>Apr-05-02</TD><TD>52.29</TD><TD>52.50</TD><TD>50.50</TD><TD>50.90</TD><TD>211,025</TD><TD>47.65</TD></TR>
+<TR>
+<TD>Apr-04-02</TD><TD>51.80</TD><TD>52.49</TD><TD>51.30</TD><TD>52.49</TD><TD>141,091</TD><TD>49.24</TD></TR>
+<TR>
+<TD>Apr-03-02</TD><TD>52.90</TD><TD>52.90</TD><TD>51.06</TD><TD>51.98</TD><TD>292,850</TD><TD>48.73</TD></TR>
+<TR>
+<TD>Apr-02-02</TD><TD>52.49</TD><TD>53.00</TD><TD>51.60</TD><TD>52.15</TD><TD>522,445</TD><TD>48.90</TD></TR>
+<TR>
+<TD>Apr-01-02</TD><TD>50.50</TD><TD>52.00</TD><TD>49.30</TD><TD>51.80</TD><TD>130,910</TD><TD>48.55</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CRTP5.SA (CELULAR CRT PARTICIPACOES SA)
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>315.00</TD><TD>324.00</TD><TD>312.05</TD><TD>324.00</TD><TD>2,368</TD><TD>315.18</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>320.00</TD><TD>323.00</TD><TD>300.00</TD><TD>323.00</TD><TD>825</TD><TD>314.18</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>$4.34 Cash Dividend</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>335.00</TD><TD>335.00</TD><TD>320.03</TD><TD>325.00</TD><TD>2,835</TD><TD>316.18</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>341.50</TD><TD>341.50</TD><TD>334.00</TD><TD>340.00</TD><TD>1,173</TD><TD>326.85</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>340.00</TD><TD>345.00</TD><TD>336.00</TD><TD>339.99</TD><TD>2,183</TD><TD>326.84</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>334.00</TD><TD>341.00</TD><TD>333.00</TD><TD>341.00</TD><TD>1,811</TD><TD>327.85</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>340.00</TD><TD>345.00</TD><TD>326.00</TD><TD>345.00</TD><TD>2,621</TD><TD>331.85</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>348.00</TD><TD>350.00</TD><TD>344.10</TD><TD>348.00</TD><TD>1,799</TD><TD>334.85</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>351.66</TD><TD>351.66</TD><TD>340.01</TD><TD>348.00</TD><TD>2,794</TD><TD>334.85</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>353.00</TD><TD>356.00</TD><TD>336.03</TD><TD>356.00</TD><TD>1,305</TD><TD>342.85</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>370.00</TD><TD>370.00</TD><TD>355.00</TD><TD>356.21</TD><TD>2,518</TD><TD>343.06</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>355.99</TD><TD>363.00</TD><TD>351.13</TD><TD>363.00</TD><TD>1,667</TD><TD>349.85</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>358.00</TD><TD>367.00</TD><TD>355.00</TD><TD>367.00</TD><TD>2,920</TD><TD>353.85</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>350.00</TD><TD>360.00</TD><TD>345.00</TD><TD>360.00</TD><TD>1,459</TD><TD>346.85</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>360.00</TD><TD>363.99</TD><TD>359.00</TD><TD>360.00</TD><TD>2,797</TD><TD>346.85</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>350.00</TD><TD>350.00</TD><TD>338.00</TD><TD>349.00</TD><TD>3,221</TD><TD>335.85</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>350.00</TD><TD>355.00</TD><TD>343.00</TD><TD>349.00</TD><TD>9,469</TD><TD>335.85</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>$6.53 Cash Dividend</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>356.04</TD><TD>356.04</TD><TD>342.10</TD><TD>350.00</TD><TD>5,289</TD><TD>336.85</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>346.00</TD><TD>364.99</TD><TD>346.00</TD><TD>355.00</TD><TD>9,139</TD><TD>335.32</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>360.00</TD><TD>364.90</TD><TD>351.00</TD><TD>359.00</TD><TD>2,374</TD><TD>339.32</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>370.00</TD><TD>370.00</TD><TD>352.00</TD><TD>365.00</TD><TD>3,386</TD><TD>345.32</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>370.00</TD><TD>376.00</TD><TD>370.00</TD><TD>374.00</TD><TD>4,583</TD><TD>354.32</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

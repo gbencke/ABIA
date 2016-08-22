@@ -1,0 +1,120 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Mar-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Mar-01-01</TD><TD>15,891.00</TD><TD>16,439.00</TD><TD>15,875.00</TD><TD>16,417.00</TD><TD>0</TD><TD>16,417.00</TD></TR>
+<TR>
+<TD>Feb-28-01</TD><TD>16,158.00</TD><TD>16,274.00</TD><TD>15,891.00</TD><TD>15,891.00</TD><TD>0</TD><TD>15,891.00</TD></TR>
+<TR>
+<TD>Feb-23-01</TD><TD>15,920.00</TD><TD>16,223.00</TD><TD>15,831.00</TD><TD>16,158.00</TD><TD>0</TD><TD>16,158.00</TD></TR>
+<TR>
+<TD>Feb-22-01</TD><TD>15,604.00</TD><TD>15,914.00</TD><TD>15,558.00</TD><TD>15,910.00</TD><TD>0</TD><TD>15,910.00</TD></TR>
+<TR>
+<TD>Feb-21-01</TD><TD>15,909.00</TD><TD>15,909.00</TD><TD>15,568.00</TD><TD>15,594.00</TD><TD>0</TD><TD>15,594.00</TD></TR>
+<TR>
+<TD>Feb-20-01</TD><TD>16,066.00</TD><TD>16,242.00</TD><TD>15,783.00</TD><TD>15,911.00</TD><TD>0</TD><TD>15,911.00</TD></TR>
+<TR>
+<TD>Feb-19-01</TD><TD>16,263.00</TD><TD>16,392.00</TD><TD>16,023.00</TD><TD>16,061.00</TD><TD>0</TD><TD>16,061.00</TD></TR>
+<TR>
+<TD>Feb-16-01</TD><TD>16,934.00</TD><TD>16,950.00</TD><TD>16,100.00</TD><TD>16,259.00</TD><TD>0</TD><TD>16,259.00</TD></TR>
+<TR>
+<TD>Feb-15-01</TD><TD>17,121.00</TD><TD>17,262.00</TD><TD>16,922.00</TD><TD>16,937.00</TD><TD>0</TD><TD>16,937.00</TD></TR>
+<TR>
+<TD>Feb-14-01</TD><TD>17,078.00</TD><TD>17,286.00</TD><TD>16,890.00</TD><TD>17,120.00</TD><TD>0</TD><TD>17,120.00</TD></TR>
+<TR>
+<TD>Feb-13-01</TD><TD>16,922.00</TD><TD>17,174.00</TD><TD>16,883.00</TD><TD>17,096.00</TD><TD>0</TD><TD>17,096.00</TD></TR>
+<TR>
+<TD>Feb-12-01</TD><TD>17,163.00</TD><TD>17,234.00</TD><TD>16,883.00</TD><TD>16,917.00</TD><TD>0</TD><TD>16,917.00</TD></TR>
+<TR>
+<TD>Feb-09-01</TD><TD>17,257.00</TD><TD>17,270.00</TD><TD>17,050.00</TD><TD>17,138.00</TD><TD>0</TD><TD>17,138.00</TD></TR>
+<TR>
+<TD>Feb-08-01</TD><TD>16,814.00</TD><TD>17,279.00</TD><TD>16,814.00</TD><TD>17,243.00</TD><TD>0</TD><TD>17,243.00</TD></TR>
+<TR>
+<TD>Feb-07-01</TD><TD>17,003.00</TD><TD>17,003.00</TD><TD>16,630.00</TD><TD>16,812.00</TD><TD>0</TD><TD>16,812.00</TD></TR>
+<TR>
+<TD>Feb-06-01</TD><TD>16,734.00</TD><TD>17,017.00</TD><TD>16,734.00</TD><TD>17,007.00</TD><TD>0</TD><TD>17,007.00</TD></TR>
+<TR>
+<TD>Feb-05-01</TD><TD>16,914.00</TD><TD>16,941.00</TD><TD>16,539.00</TD><TD>16,731.00</TD><TD>0</TD><TD>16,731.00</TD></TR>
+<TR>
+<TD>Feb-02-01</TD><TD>17,027.00</TD><TD>17,206.00</TD><TD>16,781.00</TD><TD>16,915.00</TD><TD>0</TD><TD>16,915.00</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>17,670.00</TD><TD>17,673.00</TD><TD>16,977.00</TD><TD>17,039.00</TD><TD>0</TD><TD>17,039.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

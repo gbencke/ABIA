@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VALE5.SA (COMPANHIA VALE DO RIO DOCE)
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>81.50</TD><TD>82.30</TD><TD>79.10</TD><TD>79.98</TD><TD>142</TD><TD>74.06</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>83.50</TD><TD>84.00</TD><TD>80.90</TD><TD>82.98</TD><TD>180</TD><TD>77.06</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>84.50</TD><TD>84.90</TD><TD>83.40</TD><TD>84.00</TD><TD>295</TD><TD>78.08</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>83.00</TD><TD>84.90</TD><TD>83.00</TD><TD>84.20</TD><TD>330</TD><TD>78.28</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>83.88</TD><TD>85.10</TD><TD>82.00</TD><TD>82.72</TD><TD>239</TD><TD>76.80</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>80.90</TD><TD>84.85</TD><TD>80.50</TD><TD>84.00</TD><TD>229</TD><TD>78.08</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>78.12</TD><TD>81.00</TD><TD>78.10</TD><TD>81.00</TD><TD>110</TD><TD>75.08</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>78.00</TD><TD>78.35</TD><TD>77.20</TD><TD>78.05</TD><TD>586</TD><TD>72.13</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>76.60</TD><TD>78.40</TD><TD>76.60</TD><TD>78.40</TD><TD>1,269</TD><TD>72.48</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>74.60</TD><TD>77.47</TD><TD>74.40</TD><TD>77.44</TD><TD>360</TD><TD>71.52</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>74.50</TD><TD>75.00</TD><TD>73.51</TD><TD>75.00</TD><TD>106</TD><TD>69.08</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>73.95</TD><TD>74.75</TD><TD>73.95</TD><TD>74.49</TD><TD>212</TD><TD>68.57</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>73.01</TD><TD>74.03</TD><TD>73.00</TD><TD>74.00</TD><TD>166</TD><TD>68.08</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>73.90</TD><TD>73.90</TD><TD>73.01</TD><TD>73.30</TD><TD>284</TD><TD>67.38</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>73.75</TD><TD>73.89</TD><TD>73.00</TD><TD>73.89</TD><TD>41</TD><TD>67.97</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>73.55</TD><TD>73.95</TD><TD>72.71</TD><TD>73.45</TD><TD>94</TD><TD>67.53</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>72.85</TD><TD>73.90</TD><TD>72.79</TD><TD>73.50</TD><TD>359</TD><TD>67.58</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>72.97</TD><TD>73.10</TD><TD>70.60</TD><TD>72.85</TD><TD>420</TD><TD>66.93</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>70.00</TD><TD>71.37</TD><TD>69.20</TD><TD>71.20</TD><TD>154</TD><TD>65.28</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>69.85</TD><TD>70.00</TD><TD>69.21</TD><TD>70.00</TD><TD>273</TD><TD>64.08</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>68.40</TD><TD>69.59</TD><TD>68.40</TD><TD>69.59</TD><TD>200</TD><TD>63.67</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>70.00</TD><TD>70.00</TD><TD>68.35</TD><TD>69.00</TD><TD>238</TD><TD>63.08</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

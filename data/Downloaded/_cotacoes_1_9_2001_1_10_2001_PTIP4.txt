@@ -1,0 +1,114 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PTIP4.SA (COMPANHIA BRASILEIRA DE PETROLE)
+        </TD><TD>As of Oct-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>11.20</TD><TD>11.60</TD><TD>11.20</TD><TD>11.60</TD><TD>1,600</TD><TD>10.76</TD></TR>
+<TR>
+<TD>Sep-28-01</TD><TD>11.39</TD><TD>11.95</TD><TD>11.00</TD><TD>11.95</TD><TD>21,115</TD><TD>11.11</TD></TR>
+<TR>
+<TD>Sep-27-01</TD><TD>10.20</TD><TD>11.00</TD><TD>10.20</TD><TD>11.00</TD><TD>20,790</TD><TD>10.16</TD></TR>
+<TR>
+<TD>Sep-26-01</TD><TD>10.11</TD><TD>10.50</TD><TD>10.11</TD><TD>10.28</TD><TD>12,200</TD><TD>9.44</TD></TR>
+<TR>
+<TD>Sep-25-01</TD><TD>10.81</TD><TD>10.81</TD><TD>10.00</TD><TD>10.00</TD><TD>18,500</TD><TD>9.16</TD></TR>
+<TR>
+<TD>Sep-24-01</TD><TD>11.00</TD><TD>11.19</TD><TD>10.80</TD><TD>10.80</TD><TD>5,900</TD><TD>9.96</TD></TR>
+<TR>
+<TD>Sep-21-01</TD><TD>10.01</TD><TD>10.51</TD><TD>10.01</TD><TD>10.50</TD><TD>9,140</TD><TD>9.66</TD></TR>
+<TR>
+<TD>Sep-20-01</TD><TD>10.78</TD><TD>11.50</TD><TD>10.78</TD><TD>10.92</TD><TD>6,000</TD><TD>10.08</TD></TR>
+<TR>
+<TD>Sep-19-01</TD><TD>10.30</TD><TD>11.78</TD><TD>10.30</TD><TD>11.74</TD><TD>12,193</TD><TD>10.90</TD></TR>
+<TR>
+<TD>Sep-18-01</TD><TD>10.20</TD><TD>10.40</TD><TD>10.00</TD><TD>10.20</TD><TD>11,832</TD><TD>9.36</TD></TR>
+<TR>
+<TD>Sep-17-01</TD><TD>10.31</TD><TD>10.60</TD><TD>10.15</TD><TD>10.37</TD><TD>7,637</TD><TD>9.53</TD></TR>
+<TR>
+<TD>Sep-10-01</TD><TD>12.00</TD><TD>12.00</TD><TD>11.00</TD><TD>11.30</TD><TD>10,659</TD><TD>10.46</TD></TR>
+<TR>
+<TD>Sep-06-01</TD><TD>12.50</TD><TD>12.50</TD><TD>12.10</TD><TD>12.11</TD><TD>3,609</TD><TD>11.27</TD></TR>
+<TR>
+<TD>Sep-05-01</TD><TD>12.95</TD><TD>13.01</TD><TD>12.10</TD><TD>12.35</TD><TD>6,467</TD><TD>11.51</TD></TR>
+<TR>
+<TD>Sep-04-01</TD><TD>13.00</TD><TD>13.28</TD><TD>12.95</TD><TD>12.95</TD><TD>5,000</TD><TD>12.11</TD></TR>
+<TR>
+<TD>Sep-03-01</TD><TD>13.60</TD><TD>13.60</TD><TD>12.91</TD><TD>12.93</TD><TD>15,353</TD><TD>12.09</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

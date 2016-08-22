@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRTP4.SA (BRASIL TELECOM PARTICIPACOES SA)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>19.60</TD><TD>19.60</TD><TD>18.80</TD><TD>18.80</TD><TD>599,831</TD><TD>18.80</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>20.05</TD><TD>20.23</TD><TD>19.60</TD><TD>19.70</TD><TD>493,943</TD><TD>19.70</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>20.10</TD><TD>20.10</TD><TD>19.80</TD><TD>19.95</TD><TD>322,758</TD><TD>19.95</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>20.00</TD><TD>20.10</TD><TD>19.80</TD><TD>19.95</TD><TD>526,794</TD><TD>19.95</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>20.70</TD><TD>20.70</TD><TD>19.85</TD><TD>19.98</TD><TD>702,222</TD><TD>19.98</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>21.20</TD><TD>21.30</TD><TD>20.60</TD><TD>20.65</TD><TD>573,239</TD><TD>20.65</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>21.34</TD><TD>21.49</TD><TD>21.00</TD><TD>21.00</TD><TD>361,733</TD><TD>21.00</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>21.40</TD><TD>21.55</TD><TD>21.10</TD><TD>21.20</TD><TD>360,658</TD><TD>21.20</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>21.30</TD><TD>21.40</TD><TD>21.21</TD><TD>21.30</TD><TD>289,215</TD><TD>21.30</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>21.50</TD><TD>21.50</TD><TD>21.23</TD><TD>21.26</TD><TD>451,327</TD><TD>21.26</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>21.25</TD><TD>21.50</TD><TD>21.20</TD><TD>21.50</TD><TD>460,638</TD><TD>21.50</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>20.75</TD><TD>21.29</TD><TD>20.75</TD><TD>21.22</TD><TD>609,190</TD><TD>21.22</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>21.31</TD><TD>21.32</TD><TD>21.00</TD><TD>21.10</TD><TD>231,300</TD><TD>21.10</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>21.41</TD><TD>21.80</TD><TD>21.25</TD><TD>21.30</TD><TD>425,172</TD><TD>21.30</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>21.73</TD><TD>21.99</TD><TD>21.48</TD><TD>21.68</TD><TD>312,952</TD><TD>21.68</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>22.50</TD><TD>22.50</TD><TD>21.32</TD><TD>21.40</TD><TD>229,629</TD><TD>21.40</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>21.41</TD><TD>21.80</TD><TD>21.41</TD><TD>21.65</TD><TD>270,689</TD><TD>21.65</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>21.60</TD><TD>22.10</TD><TD>21.60</TD><TD>22.10</TD><TD>422,466</TD><TD>22.10</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>20.91</TD><TD>21.93</TD><TD>20.90</TD><TD>21.60</TD><TD>533,692</TD><TD>21.60</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>20.79</TD><TD>21.39</TD><TD>20.79</TD><TD>20.90</TD><TD>68,372</TD><TD>20.90</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>21.18</TD><TD>21.40</TD><TD>20.79</TD><TD>20.80</TD><TD>394,128</TD><TD>20.80</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>21.50</TD><TD>21.64</TD><TD>21.23</TD><TD>21.40</TD><TD>150,729</TD><TD>21.40</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>21.20</TD><TD>21.80</TD><TD>21.05</TD><TD>21.50</TD><TD>254,801</TD><TD>21.50</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

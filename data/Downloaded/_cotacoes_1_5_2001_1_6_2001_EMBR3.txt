@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EMBR3.SA (EMBRAER SA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>19.00</TD><TD>19.10</TD><TD>18.70</TD><TD>18.99</TD><TD>196</TD><TD>18.05</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>18.78</TD><TD>19.00</TD><TD>18.39</TD><TD>19.00</TD><TD>177</TD><TD>18.06</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>19.09</TD><TD>19.09</TD><TD>18.20</TD><TD>18.30</TD><TD>155</TD><TD>17.36</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>18.50</TD><TD>18.85</TD><TD>18.40</TD><TD>18.79</TD><TD>86</TD><TD>17.85</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>19.10</TD><TD>19.10</TD><TD>18.10</TD><TD>18.60</TD><TD>124</TD><TD>17.66</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>19.40</TD><TD>19.50</TD><TD>18.63</TD><TD>18.98</TD><TD>129</TD><TD>18.04</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>19.40</TD><TD>19.40</TD><TD>18.85</TD><TD>19.02</TD><TD>143</TD><TD>18.08</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>19.08</TD><TD>19.50</TD><TD>19.00</TD><TD>19.07</TD><TD>161</TD><TD>18.13</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>19.43</TD><TD>19.44</TD><TD>18.95</TD><TD>19.10</TD><TD>103</TD><TD>18.16</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>18.75</TD><TD>19.39</TD><TD>18.60</TD><TD>19.35</TD><TD>158</TD><TD>18.41</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>18.99</TD><TD>19.00</TD><TD>18.61</TD><TD>18.78</TD><TD>218</TD><TD>17.84</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>19.04</TD><TD>19.30</TD><TD>18.61</TD><TD>18.87</TD><TD>127</TD><TD>17.93</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>19.20</TD><TD>19.48</TD><TD>18.99</TD><TD>19.05</TD><TD>165</TD><TD>18.11</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>18.88</TD><TD>19.24</TD><TD>18.70</TD><TD>19.15</TD><TD>328</TD><TD>18.21</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>19.07</TD><TD>19.07</TD><TD>18.80</TD><TD>18.90</TD><TD>123</TD><TD>17.96</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>19.15</TD><TD>19.45</TD><TD>18.81</TD><TD>18.89</TD><TD>301</TD><TD>17.95</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>19.00</TD><TD>19.38</TD><TD>18.30</TD><TD>19.15</TD><TD>440</TD><TD>18.21</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>17.90</TD><TD>19.00</TD><TD>17.65</TD><TD>18.72</TD><TD>531</TD><TD>17.78</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>17.60</TD><TD>17.98</TD><TD>17.50</TD><TD>17.98</TD><TD>205</TD><TD>17.04</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>18.00</TD><TD>18.20</TD><TD>17.30</TD><TD>17.48</TD><TD>141</TD><TD>16.54</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>18.54</TD><TD>18.54</TD><TD>17.21</TD><TD>17.67</TD><TD>532</TD><TD>16.73</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>20.00</TD><TD>20.00</TD><TD>18.30</TD><TD>18.51</TD><TD>526</TD><TD>17.57</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>19.20</TD><TD>19.80</TD><TD>19.09</TD><TD>19.70</TD><TD>309</TD><TD>18.76</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRAP4.SA (BRADESPAR SA)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>0.81</TD><TD>0.81</TD><TD>0.79</TD><TD>0.79</TD><TD>2,118,130</TD><TD>0.79</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>0.80</TD><TD>0.81</TD><TD>0.80</TD><TD>0.81</TD><TD>731,689</TD><TD>0.81</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>0.83</TD><TD>0.84</TD><TD>0.80</TD><TD>0.80</TD><TD>999,030</TD><TD>0.80</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>0.81</TD><TD>0.83</TD><TD>0.80</TD><TD>0.83</TD><TD>414,783</TD><TD>0.83</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>0.83</TD><TD>0.83</TD><TD>0.80</TD><TD>0.81</TD><TD>1,445,680</TD><TD>0.81</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>0.81</TD><TD>0.83</TD><TD>0.80</TD><TD>0.83</TD><TD>1,523,880</TD><TD>0.83</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>0.83</TD><TD>0.84</TD><TD>0.80</TD><TD>0.80</TD><TD>1,153,010</TD><TD>0.80</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>0.85</TD><TD>0.86</TD><TD>0.82</TD><TD>0.83</TD><TD>2,222,640</TD><TD>0.83</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>0.82</TD><TD>0.85</TD><TD>0.82</TD><TD>0.85</TD><TD>1,567,210</TD><TD>0.85</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>0.83</TD><TD>0.83</TD><TD>0.80</TD><TD>0.82</TD><TD>641,477</TD><TD>0.82</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>0.84</TD><TD>0.85</TD><TD>0.80</TD><TD>0.83</TD><TD>1,100,380</TD><TD>0.83</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>0.85</TD><TD>0.86</TD><TD>0.82</TD><TD>0.84</TD><TD>2,381,800</TD><TD>0.84</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>0.82</TD><TD>0.86</TD><TD>0.82</TD><TD>0.85</TD><TD>930,968</TD><TD>0.85</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>0.84</TD><TD>0.85</TD><TD>0.82</TD><TD>0.83</TD><TD>1,210,290</TD><TD>0.83</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>0.84</TD><TD>0.85</TD><TD>0.81</TD><TD>0.82</TD><TD>2,141,530</TD><TD>0.82</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>0.78</TD><TD>0.84</TD><TD>0.77</TD><TD>0.84</TD><TD>3,400,210</TD><TD>0.84</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>0.83</TD><TD>0.83</TD><TD>0.78</TD><TD>0.78</TD><TD>1,708,900</TD><TD>0.78</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>0.79</TD><TD>0.82</TD><TD>0.79</TD><TD>0.82</TD><TD>2,131,860</TD><TD>0.82</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>0.82</TD><TD>0.82</TD><TD>0.79</TD><TD>0.79</TD><TD>2,605,530</TD><TD>0.79</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>0.84</TD><TD>0.84</TD><TD>0.79</TD><TD>0.80</TD><TD>5,587,840</TD><TD>0.80</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>0.86</TD><TD>0.90</TD><TD>0.83</TD><TD>0.84</TD><TD>3,451,160</TD><TD>0.84</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>0.88</TD><TD>0.89</TD><TD>0.85</TD><TD>0.86</TD><TD>820,222</TD><TD>0.86</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

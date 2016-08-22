@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELPL4.SA (ELETROPAULO - ELETRICIDADE DE S)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>111.01</TD><TD>115.00</TD><TD>108.00</TD><TD>115.00</TD><TD>22,491</TD><TD>111.88</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>115.00</TD><TD>116.90</TD><TD>113.03</TD><TD>114.00</TD><TD>38,804</TD><TD>110.88</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>115.00</TD><TD>115.00</TD><TD>113.00</TD><TD>115.00</TD><TD>45,847</TD><TD>111.88</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>114.50</TD><TD>115.00</TD><TD>113.50</TD><TD>115.00</TD><TD>19,285</TD><TD>111.88</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>116.01</TD><TD>116.01</TD><TD>114.52</TD><TD>114.52</TD><TD>37,025</TD><TD>111.40</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>120.00</TD><TD>120.00</TD><TD>115.00</TD><TD>116.01</TD><TD>18,010</TD><TD>112.89</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>116.00</TD><TD>117.99</TD><TD>114.99</TD><TD>117.00</TD><TD>53,644</TD><TD>113.88</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>117.00</TD><TD>117.00</TD><TD>113.10</TD><TD>115.01</TD><TD>8,357</TD><TD>111.89</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>120.00</TD><TD>120.00</TD><TD>115.00</TD><TD>117.00</TD><TD>59,584</TD><TD>113.88</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>113.00</TD><TD>122.00</TD><TD>110.00</TD><TD>115.00</TD><TD>35,532</TD><TD>111.88</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>108.00</TD><TD>110.00</TD><TD>108.00</TD><TD>109.00</TD><TD>17,489</TD><TD>105.88</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>105.10</TD><TD>108.00</TD><TD>105.10</TD><TD>108.00</TD><TD>22,244</TD><TD>104.88</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>107.00</TD><TD>110.00</TD><TD>107.00</TD><TD>109.99</TD><TD>9,186</TD><TD>106.87</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>110.00</TD><TD>111.00</TD><TD>104.50</TD><TD>106.99</TD><TD>33,034</TD><TD>103.87</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>101.02</TD><TD>109.00</TD><TD>101.02</TD><TD>109.00</TD><TD>94,027</TD><TD>105.88</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>98.02</TD><TD>105.00</TD><TD>98.02</TD><TD>103.97</TD><TD>33,390</TD><TD>100.85</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>100.00</TD><TD>101.00</TD><TD>98.99</TD><TD>100.50</TD><TD>142,794</TD><TD>97.38</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>95.00</TD><TD>99.00</TD><TD>95.00</TD><TD>98.00</TD><TD>11,898</TD><TD>94.88</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>91.00</TD><TD>99.00</TD><TD>91.00</TD><TD>96.95</TD><TD>13,494</TD><TD>93.83</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>95.98</TD><TD>100.00</TD><TD>95.50</TD><TD>95.50</TD><TD>42,731</TD><TD>92.38</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>89.90</TD><TD>97.00</TD><TD>89.00</TD><TD>95.99</TD><TD>25,751</TD><TD>92.87</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>88.01</TD><TD>90.00</TD><TD>87.01</TD><TD>90.00</TD><TD>7,495</TD><TD>86.88</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Apr-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-30-02</TD><TD>13,096.00</TD><TD>13,267.00</TD><TD>13,065.00</TD><TD>13,085.00</TD><TD>0</TD><TD>13,085.00</TD></TR>
+<TR>
+<TD>Apr-29-02</TD><TD>13,076.00</TD><TD>13,142.00</TD><TD>13,032.00</TD><TD>13,090.00</TD><TD>0</TD><TD>13,090.00</TD></TR>
+<TR>
+<TD>Apr-26-02</TD><TD>13,273.00</TD><TD>13,367.00</TD><TD>13,037.00</TD><TD>13,076.00</TD><TD>0</TD><TD>13,076.00</TD></TR>
+<TR>
+<TD>Apr-25-02</TD><TD>13,384.00</TD><TD>13,384.00</TD><TD>13,113.00</TD><TD>13,273.00</TD><TD>0</TD><TD>13,273.00</TD></TR>
+<TR>
+<TD>Apr-24-02</TD><TD>13,182.00</TD><TD>13,394.00</TD><TD>13,176.00</TD><TD>13,381.00</TD><TD>0</TD><TD>13,381.00</TD></TR>
+<TR>
+<TD>Apr-23-02</TD><TD>13,224.00</TD><TD>13,302.00</TD><TD>13,076.00</TD><TD>13,188.00</TD><TD>0</TD><TD>13,188.00</TD></TR>
+<TR>
+<TD>Apr-22-02</TD><TD>13,484.00</TD><TD>13,485.00</TD><TD>13,056.00</TD><TD>13,224.00</TD><TD>0</TD><TD>13,224.00</TD></TR>
+<TR>
+<TD>Apr-19-02</TD><TD>13,568.00</TD><TD>13,631.00</TD><TD>13,448.00</TD><TD>13,478.00</TD><TD>0</TD><TD>13,478.00</TD></TR>
+<TR>
+<TD>Apr-18-02</TD><TD>13,729.00</TD><TD>13,729.00</TD><TD>13,446.00</TD><TD>13,573.00</TD><TD>0</TD><TD>13,573.00</TD></TR>
+<TR>
+<TD>Apr-17-02</TD><TD>13,633.00</TD><TD>13,872.00</TD><TD>13,633.00</TD><TD>13,732.00</TD><TD>0</TD><TD>13,732.00</TD></TR>
+<TR>
+<TD>Apr-16-02</TD><TD>13,476.00</TD><TD>13,693.00</TD><TD>13,476.00</TD><TD>13,623.00</TD><TD>0</TD><TD>13,623.00</TD></TR>
+<TR>
+<TD>Apr-15-02</TD><TD>13,772.00</TD><TD>13,822.00</TD><TD>13,438.00</TD><TD>13,472.00</TD><TD>0</TD><TD>13,472.00</TD></TR>
+<TR>
+<TD>Apr-12-02</TD><TD>13,418.00</TD><TD>13,764.00</TD><TD>13,418.00</TD><TD>13,751.00</TD><TD>0</TD><TD>13,751.00</TD></TR>
+<TR>
+<TD>Apr-11-02</TD><TD>13,419.00</TD><TD>13,559.00</TD><TD>13,385.00</TD><TD>13,411.00</TD><TD>0</TD><TD>13,411.00</TD></TR>
+<TR>
+<TD>Apr-10-02</TD><TD>13,183.00</TD><TD>13,445.00</TD><TD>13,182.00</TD><TD>13,416.00</TD><TD>0</TD><TD>13,416.00</TD></TR>
+<TR>
+<TD>Apr-08-02</TD><TD>13,248.00</TD><TD>13,248.00</TD><TD>13,114.00</TD><TD>13,160.00</TD><TD>0</TD><TD>13,160.00</TD></TR>
+<TR>
+<TD>Apr-05-02</TD><TD>13,362.00</TD><TD>13,445.00</TD><TD>13,233.00</TD><TD>13,276.00</TD><TD>0</TD><TD>13,276.00</TD></TR>
+<TR>
+<TD>Apr-04-02</TD><TD>13,090.00</TD><TD>13,370.00</TD><TD>13,041.00</TD><TD>13,360.00</TD><TD>0</TD><TD>13,360.00</TD></TR>
+<TR>
+<TD>Apr-03-02</TD><TD>13,280.00</TD><TD>13,345.00</TD><TD>13,061.00</TD><TD>13,085.00</TD><TD>0</TD><TD>13,085.00</TD></TR>
+<TR>
+<TD>Apr-02-02</TD><TD>13,482.00</TD><TD>13,535.00</TD><TD>13,245.00</TD><TD>13,245.00</TD><TD>0</TD><TD>13,245.00</TD></TR>
+<TR>
+<TD>Apr-01-02</TD><TD>13,256.00</TD><TD>13,499.00</TD><TD>13,068.00</TD><TD>13,467.00</TD><TD>0</TD><TD>13,467.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

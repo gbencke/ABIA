@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CMIG3.SA (COMPANHIA ENERGETICA DE MINAS G)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>22.37</TD><TD>22.59</TD><TD>21.65</TD><TD>22.59</TD><TD>6,571</TD><TD>21.97</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>21.80</TD><TD>22.47</TD><TD>21.60</TD><TD>22.36</TD><TD>20,270</TD><TD>21.74</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>22.00</TD><TD>22.45</TD><TD>21.21</TD><TD>21.98</TD><TD>10,113</TD><TD>21.36</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>20.00</TD><TD>22.00</TD><TD>19.50</TD><TD>21.93</TD><TD>6,848</TD><TD>21.31</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>22.00</TD><TD>22.00</TD><TD>20.00</TD><TD>20.10</TD><TD>12,516</TD><TD>19.48</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>21.20</TD><TD>22.50</TD><TD>21.11</TD><TD>21.95</TD><TD>8,236</TD><TD>21.33</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>21.38</TD><TD>22.00</TD><TD>20.51</TD><TD>21.95</TD><TD>8,389</TD><TD>21.33</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>20.50</TD><TD>20.99</TD><TD>20.11</TD><TD>20.99</TD><TD>64,200</TD><TD>20.37</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>19.80</TD><TD>21.10</TD><TD>19.80</TD><TD>20.50</TD><TD>2,711</TD><TD>19.88</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>20.70</TD><TD>20.70</TD><TD>19.51</TD><TD>20.48</TD><TD>5,501</TD><TD>19.86</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>20.00</TD><TD>20.39</TD><TD>19.81</TD><TD>19.81</TD><TD>78,455</TD><TD>19.19</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>18.70</TD><TD>20.37</TD><TD>18.69</TD><TD>19.79</TD><TD>6,925</TD><TD>19.17</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>19.00</TD><TD>19.00</TD><TD>17.51</TD><TD>17.86</TD><TD>15,684</TD><TD>17.24</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>20.09</TD><TD>20.09</TD><TD>19.00</TD><TD>19.31</TD><TD>3,320</TD><TD>18.69</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>19.61</TD><TD>19.88</TD><TD>19.10</TD><TD>19.80</TD><TD>5,034</TD><TD>19.18</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>20.40</TD><TD>20.80</TD><TD>20.09</TD><TD>20.43</TD><TD>9,981</TD><TD>19.81</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>20.00</TD><TD>20.70</TD><TD>20.00</TD><TD>20.29</TD><TD>27,817</TD><TD>19.67</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>19.51</TD><TD>20.29</TD><TD>19.51</TD><TD>20.14</TD><TD>29,474</TD><TD>19.52</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>20.62</TD><TD>21.29</TD><TD>19.85</TD><TD>20.40</TD><TD>5,746</TD><TD>19.78</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>21.41</TD><TD>21.41</TD><TD>20.55</TD><TD>20.55</TD><TD>4,303</TD><TD>19.93</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>22.00</TD><TD>22.99</TD><TD>21.39</TD><TD>22.37</TD><TD>4,057</TD><TD>21.75</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>20.36</TD><TD>21.00</TD><TD>20.36</TD><TD>20.60</TD><TD>2,277</TD><TD>19.98</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>20.20</TD><TD>21.27</TD><TD>20.16</TD><TD>20.36</TD><TD>8,150</TD><TD>19.74</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>19.51</TD><TD>20.74</TD><TD>19.50</TD><TD>20.00</TD><TD>11,020</TD><TD>19.38</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - LIGH3.SA (LIGHT-SERVICOS DE ELETRICIDADE )
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>79.06</TD><TD>82.50</TD><TD>79.05</TD><TD>80.90</TD><TD>4,283</TD><TD>80.90</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>79.00</TD><TD>83.00</TD><TD>79.00</TD><TD>79.22</TD><TD>2,165</TD><TD>79.22</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>78.00</TD><TD>83.00</TD><TD>78.00</TD><TD>82.00</TD><TD>4,076</TD><TD>82.00</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>74.02</TD><TD>78.00</TD><TD>74.00</TD><TD>77.50</TD><TD>3,181</TD><TD>77.50</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>77.00</TD><TD>78.00</TD><TD>74.00</TD><TD>74.00</TD><TD>1,301</TD><TD>74.00</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>75.01</TD><TD>77.99</TD><TD>70.02</TD><TD>76.00</TD><TD>2,871</TD><TD>76.00</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>74.00</TD><TD>80.01</TD><TD>72.00</TD><TD>76.00</TD><TD>2,536</TD><TD>76.00</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>78.21</TD><TD>79.00</TD><TD>73.00</TD><TD>74.95</TD><TD>6,989</TD><TD>74.95</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>86.40</TD><TD>86.40</TD><TD>77.00</TD><TD>77.00</TD><TD>2,101</TD><TD>77.00</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>87.99</TD><TD>87.99</TD><TD>83.40</TD><TD>83.40</TD><TD>1,400</TD><TD>83.40</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>85.99</TD><TD>88.00</TD><TD>85.39</TD><TD>86.00</TD><TD>4,257</TD><TD>86.00</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>84.01</TD><TD>84.90</TD><TD>82.52</TD><TD>82.52</TD><TD>1,099</TD><TD>82.52</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>86.90</TD><TD>86.90</TD><TD>84.00</TD><TD>84.00</TD><TD>377</TD><TD>84.00</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>85.21</TD><TD>86.99</TD><TD>84.01</TD><TD>84.01</TD><TD>527</TD><TD>84.01</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>85.12</TD><TD>87.89</TD><TD>85.10</TD><TD>85.82</TD><TD>1,838</TD><TD>85.82</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>86.99</TD><TD>87.99</TD><TD>86.50</TD><TD>87.99</TD><TD>2,699</TD><TD>87.99</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>85.10</TD><TD>87.49</TD><TD>84.50</TD><TD>86.99</TD><TD>3,665</TD><TD>86.99</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>85.00</TD><TD>87.50</TD><TD>85.00</TD><TD>85.80</TD><TD>3,586</TD><TD>85.80</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>85.00</TD><TD>87.50</TD><TD>85.00</TD><TD>85.02</TD><TD>1,811</TD><TD>85.02</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>85.00</TD><TD>86.90</TD><TD>85.00</TD><TD>85.06</TD><TD>1,583</TD><TD>85.06</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>85.00</TD><TD>87.98</TD><TD>84.00</TD><TD>84.00</TD><TD>3,030</TD><TD>84.00</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>85.40</TD><TD>87.98</TD><TD>82.00</TD><TD>85.61</TD><TD>2,201</TD><TD>85.61</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>86.00</TD><TD>87.99</TD><TD>86.00</TD><TD>86.04</TD><TD>2,546</TD><TD>86.04</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

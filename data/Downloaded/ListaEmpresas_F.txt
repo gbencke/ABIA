@@ -1,0 +1,222 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FORCA LUZ CATAGUAZES LEOPOLDINA&ccvm=3271&site=B&pregao=F CATAGUAZES&mercado=1&pagina=itr_dfp_ian">F CATAGUAZES</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FORCA LUZ CATAGUAZES LEOPOLDINA&ccvm=3271&site=B&pregao=F CATAGUAZES&mercado=1&pagina=itr_dfp_ian">CIA FORCA LUZ CATAGUAZES LEOPOLDINA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA FORCA LUZ CATAGUAZES LEOPOLDINA&ccvm=3271&site=B&pregao=F CATAGUAZES&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA TEXTIL FERREIRA GUIMARAES&ccvm=4138&site=B&pregao=F GUIMARAES&mercado=1&pagina=itr_dfp_ian">F GUIMARAES</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA TEXTIL FERREIRA GUIMARAES&ccvm=4138&site=B&pregao=F GUIMARAES&mercado=1&pagina=itr_dfp_ian">CIA TEXTIL FERREIRA GUIMARAES</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA TEXTIL FERREIRA GUIMARAES&ccvm=4138&site=B&pregao=F GUIMARAES&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FABRICA TECIDOS CARLOS RENAUX S.A.&ccvm=5827&site=B&pregao=FAB C RENAUX&mercado=1&pagina=itr_dfp_ian">FAB C RENAUX</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FABRICA TECIDOS CARLOS RENAUX S.A.&ccvm=5827&site=B&pregao=FAB C RENAUX&mercado=1&pagina=itr_dfp_ian">FABRICA TECIDOS CARLOS RENAUX S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FABRICA TECIDOS CARLOS RENAUX S.A.&ccvm=5827&site=B&pregao=FAB C RENAUX&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERROVIA CENTRO-ATLANTICA S.A.&ccvm=15369&site=B&pregao=FER C ATLANT&mercado=1&pagina=itr_dfp_ian">FER C ATLANT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERROVIA CENTRO-ATLANTICA S.A.&ccvm=15369&site=B&pregao=FER C ATLANT&mercado=1&pagina=itr_dfp_ian">FERROVIA CENTRO-ATLANTICA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FERROVIA CENTRO-ATLANTICA S.A.&ccvm=15369&site=B&pregao=FER C ATLANT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERRAGENS DEMELLOT S.A.&ccvm=5924&site=B&pregao=FER DEMELLOT&mercado=1&pagina=itr_dfp_ian">FER DEMELLOT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERRAGENS DEMELLOT S.A.&ccvm=5924&site=B&pregao=FER DEMELLOT&mercado=1&pagina=itr_dfp_ian">FERRAGENS DEMELLOT S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FERRAGENS DEMELLOT S.A.&ccvm=5924&site=B&pregao=FER DEMELLOT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERRAGENS HAGA S.A.&ccvm=13366&site=B&pregao=FER HAGA&mercado=1&pagina=itr_dfp_ian">FER HAGA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERRAGENS HAGA S.A.&ccvm=13366&site=B&pregao=FER HAGA&mercado=1&pagina=itr_dfp_ian">FERRAGENS HAGA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FERRAGENS HAGA S.A.&ccvm=13366&site=B&pregao=FER HAGA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FERRO LIGAS DA BAHIA - FERBASA&ccvm=3069&site=B&pregao=FERBASA&mercado=1&pagina=itr_dfp_ian">FERBASA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FERRO LIGAS DA BAHIA - FERBASA&ccvm=3069&site=B&pregao=FERBASA&mercado=1&pagina=itr_dfp_ian">CIA FERRO LIGAS DA BAHIA - FERBASA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA FERRO LIGAS DA BAHIA - FERBASA&ccvm=3069&site=B&pregao=FERBASA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERTIBRAS S.A.&ccvm=5940&site=B&pregao=FERTIBRAS&mercado=1&pagina=itr_dfp_ian">FERTIBRAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERTIBRAS S.A.&ccvm=5940&site=B&pregao=FERTIBRAS&mercado=1&pagina=itr_dfp_ian">FERTIBRAS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FERTIBRAS S.A.&ccvm=5940&site=B&pregao=FERTIBRAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FIBAM COMPANHIA INDUSTRIAL&ccvm=6017&site=B&pregao=FIBAM&mercado=1&pagina=itr_dfp_ian">FIBAM</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FIBAM COMPANHIA INDUSTRIAL&ccvm=6017&site=B&pregao=FIBAM&mercado=1&pagina=itr_dfp_ian">FIBAM COMPANHIA INDUSTRIAL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FIBAM COMPANHIA INDUSTRIAL&ccvm=6017&site=B&pregao=FIBAM&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FINANSINOS S.A.- CREDITO FINANC E INVEST&ccvm=6076&site=B&pregao=FINANSINOS&mercado=1&pagina=itr_dfp_ian">FINANSINOS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FINANSINOS S.A.- CREDITO FINANC E INVEST&ccvm=6076&site=B&pregao=FINANSINOS&mercado=1&pagina=itr_dfp_ian">FINANSINOS S.A.- CREDITO FINANC E INVEST</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FINANSINOS S.A.- CREDITO FINANC E INVEST&ccvm=6076&site=B&pregao=FINANSINOS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FINASA LEASING ARREND. MERCANTIL S.A.&ccvm=6084&site=B&pregao=FINASA LSG&mercado=20&pagina=itr_dfp_ian">FINASA LSG</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FINASA LEASING ARREND. MERCANTIL S.A.&ccvm=6084&site=B&pregao=FINASA LSG&mercado=20&pagina=itr_dfp_ian">FINASA LEASING ARREND. MERCANTIL S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FINASA LEASING ARREND. MERCANTIL S.A.&ccvm=6084&site=B&pregao=FINASA LSG&mercado=20&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FLUMINENSE DE REFRIGERANTES&ccvm=3263&site=B&pregao=FLUM REFRIG&mercado=1&pagina=itr_dfp_ian">FLUM REFRIG</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA FLUMINENSE DE REFRIGERANTES&ccvm=3263&site=B&pregao=FLUM REFRIG&mercado=1&pagina=itr_dfp_ian">CIA FLUMINENSE DE REFRIGERANTES</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA FLUMINENSE DE REFRIGERANTES&ccvm=3263&site=B&pregao=FLUM REFRIG&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FORJAS TAURUS S.A.&ccvm=6173&site=B&pregao=FORJA TAURUS&mercado=1&pagina=itr_dfp_ian">FORJA TAURUS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FORJAS TAURUS S.A.&ccvm=6173&site=B&pregao=FORJA TAURUS&mercado=1&pagina=itr_dfp_ian">FORJAS TAURUS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FORJAS TAURUS S.A.&ccvm=6173&site=B&pregao=FORJA TAURUS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERTILIZANTES FOSFATADOS S.A.- FOSFERTIL&ccvm=14028&site=B&pregao=FOSFERTIL&mercado=1&pagina=itr_dfp_ian">FOSFERTIL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FERTILIZANTES FOSFATADOS S.A.- FOSFERTIL&ccvm=14028&site=B&pregao=FOSFERTIL&mercado=1&pagina=itr_dfp_ian">FERTILIZANTES FOSFATADOS S.A.- FOSFERTIL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FERTILIZANTES FOSFATADOS S.A.- FOSFERTIL&ccvm=14028&site=B&pregao=FOSFERTIL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FRAS-LE S.A.&ccvm=6211&site=B&pregao=FRAS-LE&mercado=1&pagina=itr_dfp_ian">FRAS-LE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FRAS-LE S.A.&ccvm=6211&site=B&pregao=FRAS-LE&mercado=1&pagina=itr_dfp_ian">FRAS-LE S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FRAS-LE S.A.&ccvm=6211&site=B&pregao=FRAS-LE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

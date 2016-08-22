@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNEP4.SA (TELE NORDESTE CELULAR PARTICIPA)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>2.39</TD><TD>2.40</TD><TD>2.33</TD><TD>2.34</TD><TD>1,198,250</TD><TD>2.34</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>2.44</TD><TD>2.44</TD><TD>2.39</TD><TD>2.41</TD><TD>990,184</TD><TD>2.41</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>2.39</TD><TD>2.45</TD><TD>2.39</TD><TD>2.41</TD><TD>1,541,910</TD><TD>2.41</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>2.37</TD><TD>2.40</TD><TD>2.34</TD><TD>2.39</TD><TD>1,112,240</TD><TD>2.39</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>2.38</TD><TD>2.39</TD><TD>2.36</TD><TD>2.37</TD><TD>1,207,550</TD><TD>2.37</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>2.36</TD><TD>2.39</TD><TD>2.31</TD><TD>2.39</TD><TD>1,138,440</TD><TD>2.39</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>2.33</TD><TD>2.36</TD><TD>2.33</TD><TD>2.35</TD><TD>747,690</TD><TD>2.35</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>2.36</TD><TD>2.38</TD><TD>2.30</TD><TD>2.30</TD><TD>1,551,730</TD><TD>2.30</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>2.37</TD><TD>2.38</TD><TD>2.31</TD><TD>2.32</TD><TD>709,340</TD><TD>2.32</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>2.39</TD><TD>2.39</TD><TD>2.33</TD><TD>2.35</TD><TD>854,794</TD><TD>2.35</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>2.38</TD><TD>2.40</TD><TD>2.34</TD><TD>2.37</TD><TD>995,800</TD><TD>2.37</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>2.35</TD><TD>2.39</TD><TD>2.35</TD><TD>2.37</TD><TD>606,613</TD><TD>2.37</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>2.40</TD><TD>2.40</TD><TD>2.35</TD><TD>2.38</TD><TD>220,513</TD><TD>2.38</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>2.38</TD><TD>2.42</TD><TD>2.36</TD><TD>2.39</TD><TD>895,597</TD><TD>2.39</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>2.37</TD><TD>2.40</TD><TD>2.33</TD><TD>2.38</TD><TD>500,970</TD><TD>2.38</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>2.35</TD><TD>2.37</TD><TD>2.32</TD><TD>2.35</TD><TD>843,218</TD><TD>2.35</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>2.37</TD><TD>2.38</TD><TD>2.30</TD><TD>2.37</TD><TD>497,087</TD><TD>2.37</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>2.36</TD><TD>2.39</TD><TD>2.34</TD><TD>2.37</TD><TD>487,091</TD><TD>2.37</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>2.40</TD><TD>2.41</TD><TD>2.36</TD><TD>2.36</TD><TD>566,088</TD><TD>2.36</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>2.37</TD><TD>2.40</TD><TD>2.34</TD><TD>2.40</TD><TD>366,964</TD><TD>2.40</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>2.38</TD><TD>2.39</TD><TD>2.34</TD><TD>2.39</TD><TD>509,724</TD><TD>2.39</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>2.37</TD><TD>2.40</TD><TD>2.35</TD><TD>2.40</TD><TD>572,497</TD><TD>2.40</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>2.34</TD><TD>2.39</TD><TD>2.31</TD><TD>2.39</TD><TD>874,979</TD><TD>2.39</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELET3.SA (ELETROBRAS)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>29.50</TD><TD>30.20</TD><TD>29.40</TD><TD>30.00</TD><TD>360,264</TD><TD>25.63</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>29.89</TD><TD>30.50</TD><TD>29.70</TD><TD>30.12</TD><TD>412,918</TD><TD>25.75</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>27.51</TD><TD>29.00</TD><TD>27.51</TD><TD>28.90</TD><TD>351,266</TD><TD>24.53</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>27.20</TD><TD>28.30</TD><TD>26.70</TD><TD>28.20</TD><TD>485,333</TD><TD>23.83</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>28.97</TD><TD>28.97</TD><TD>27.30</TD><TD>27.70</TD><TD>70,559</TD><TD>23.33</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>29.30</TD><TD>29.50</TD><TD>28.00</TD><TD>28.40</TD><TD>257,907</TD><TD>24.03</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>31.07</TD><TD>31.07</TD><TD>29.20</TD><TD>29.50</TD><TD>220,180</TD><TD>25.13</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>31.65</TD><TD>32.00</TD><TD>30.80</TD><TD>31.20</TD><TD>557,072</TD><TD>26.83</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>31.70</TD><TD>33.00</TD><TD>31.65</TD><TD>31.65</TD><TD>185,260</TD><TD>27.28</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>32.01</TD><TD>33.00</TD><TD>31.70</TD><TD>32.40</TD><TD>175,897</TD><TD>28.03</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>34.50</TD><TD>34.50</TD><TD>33.01</TD><TD>33.50</TD><TD>259,345</TD><TD>29.13</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>33.85</TD><TD>35.20</TD><TD>33.85</TD><TD>34.20</TD><TD>227,178</TD><TD>29.83</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>32.00</TD><TD>34.00</TD><TD>32.00</TD><TD>33.85</TD><TD>128,537</TD><TD>29.48</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>31.50</TD><TD>33.00</TD><TD>31.50</TD><TD>32.30</TD><TD>285,979</TD><TD>27.93</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>32.11</TD><TD>32.30</TD><TD>32.10</TD><TD>32.12</TD><TD>17,500</TD><TD>27.75</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>34.00</TD><TD>34.50</TD><TD>32.75</TD><TD>33.00</TD><TD>388,339</TD><TD>28.63</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>34.65</TD><TD>35.40</TD><TD>34.65</TD><TD>34.70</TD><TD>275,504</TD><TD>30.33</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>35.99</TD><TD>36.00</TD><TD>34.50</TD><TD>34.60</TD><TD>738,397</TD><TD>30.23</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>35.80</TD><TD>36.20</TD><TD>35.50</TD><TD>36.00</TD><TD>940,323</TD><TD>31.63</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>35.50</TD><TD>36.10</TD><TD>35.50</TD><TD>35.80</TD><TD>142,235</TD><TD>31.43</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>36.40</TD><TD>36.50</TD><TD>35.70</TD><TD>35.70</TD><TD>309,293</TD><TD>31.33</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>36.50</TD><TD>36.60</TD><TD>36.00</TD><TD>36.39</TD><TD>233,574</TD><TD>32.02</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>37.49</TD><TD>37.49</TD><TD>36.00</TD><TD>36.89</TD><TD>344,516</TD><TD>32.52</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

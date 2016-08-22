@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EBTP4.SA (EMBRATEL PARTICIPACOES SA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>20.18</TD><TD>20.40</TD><TD>19.50</TD><TD>20.40</TD><TD>657,726</TD><TD>20.40</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>19.63</TD><TD>20.15</TD><TD>19.60</TD><TD>19.86</TD><TD>764,058</TD><TD>19.86</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>19.60</TD><TD>19.80</TD><TD>19.10</TD><TD>19.40</TD><TD>483,847</TD><TD>19.40</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>19.91</TD><TD>20.10</TD><TD>19.30</TD><TD>19.60</TD><TD>520,910</TD><TD>19.60</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>19.80</TD><TD>20.50</TD><TD>19.60</TD><TD>19.95</TD><TD>518,657</TD><TD>19.95</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>19.10</TD><TD>19.70</TD><TD>18.51</TD><TD>19.50</TD><TD>1,171,730</TD><TD>19.50</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>19.65</TD><TD>19.90</TD><TD>18.70</TD><TD>19.00</TD><TD>873,907</TD><TD>19.00</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>19.84</TD><TD>20.20</TD><TD>19.22</TD><TD>19.40</TD><TD>1,144,810</TD><TD>19.40</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>21.39</TD><TD>21.90</TD><TD>19.70</TD><TD>19.85</TD><TD>682,283</TD><TD>19.85</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>19.80</TD><TD>21.45</TD><TD>19.71</TD><TD>21.45</TD><TD>659,726</TD><TD>21.45</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>19.50</TD><TD>20.35</TD><TD>19.50</TD><TD>20.00</TD><TD>701,800</TD><TD>20.00</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>19.30</TD><TD>19.90</TD><TD>19.00</TD><TD>19.40</TD><TD>541,768</TD><TD>19.40</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>19.00</TD><TD>19.30</TD><TD>18.61</TD><TD>19.10</TD><TD>564,763</TD><TD>19.10</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>18.60</TD><TD>19.10</TD><TD>18.60</TD><TD>18.82</TD><TD>528,704</TD><TD>18.82</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>19.21</TD><TD>19.21</TD><TD>18.45</TD><TD>18.80</TD><TD>218,447</TD><TD>18.80</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>19.80</TD><TD>19.85</TD><TD>18.60</TD><TD>19.19</TD><TD>413,719</TD><TD>19.19</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>19.98</TD><TD>20.15</TD><TD>19.60</TD><TD>19.85</TD><TD>475,691</TD><TD>19.85</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>19.32</TD><TD>19.54</TD><TD>19.00</TD><TD>19.47</TD><TD>702,762</TD><TD>19.47</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>20.10</TD><TD>20.35</TD><TD>19.29</TD><TD>19.30</TD><TD>512,690</TD><TD>19.30</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>20.50</TD><TD>20.60</TD><TD>20.01</TD><TD>20.01</TD><TD>341,024</TD><TD>20.01</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>20.49</TD><TD>20.90</TD><TD>20.29</TD><TD>20.36</TD><TD>432,886</TD><TD>20.36</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>20.50</TD><TD>20.80</TD><TD>20.10</TD><TD>20.45</TD><TD>447,507</TD><TD>20.45</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>19.61</TD><TD>20.50</TD><TD>19.60</TD><TD>20.49</TD><TD>1,057,810</TD><TD>20.49</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

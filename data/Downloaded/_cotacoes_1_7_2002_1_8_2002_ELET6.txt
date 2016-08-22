@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELET6.SA (ELETROBRAS)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>20.80</TD><TD>21.21</TD><TD>20.50</TD><TD>20.70</TD><TD>1,210,600</TD><TD>17.81</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>20.40</TD><TD>21.45</TD><TD>20.39</TD><TD>20.70</TD><TD>786,241</TD><TD>17.81</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>20.01</TD><TD>20.30</TD><TD>19.50</TD><TD>19.90</TD><TD>1,096,420</TD><TD>17.01</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>20.75</TD><TD>21.10</TD><TD>19.80</TD><TD>19.80</TD><TD>579,414</TD><TD>16.91</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>21.44</TD><TD>21.95</TD><TD>20.02</TD><TD>20.34</TD><TD>236,915</TD><TD>17.45</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>21.70</TD><TD>21.89</TD><TD>20.70</TD><TD>21.80</TD><TD>450,252</TD><TD>18.91</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>20.50</TD><TD>22.10</TD><TD>19.81</TD><TD>21.95</TD><TD>565,829</TD><TD>19.06</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>21.99</TD><TD>21.99</TD><TD>20.30</TD><TD>20.90</TD><TD>541,193</TD><TD>18.01</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>22.80</TD><TD>23.15</TD><TD>21.12</TD><TD>21.20</TD><TD>775,194</TD><TD>18.31</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>23.57</TD><TD>23.57</TD><TD>22.60</TD><TD>22.90</TD><TD>517,926</TD><TD>20.01</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>23.60</TD><TD>24.00</TD><TD>23.40</TD><TD>23.60</TD><TD>242,818</TD><TD>20.71</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>24.00</TD><TD>24.20</TD><TD>23.21</TD><TD>23.40</TD><TD>549,153</TD><TD>20.51</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>23.82</TD><TD>24.20</TD><TD>23.30</TD><TD>23.30</TD><TD>263,393</TD><TD>20.41</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>24.56</TD><TD>24.60</TD><TD>23.40</TD><TD>23.82</TD><TD>472,076</TD><TD>20.93</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>24.71</TD><TD>25.05</TD><TD>24.01</TD><TD>24.80</TD><TD>365,511</TD><TD>21.91</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>23.95</TD><TD>24.70</TD><TD>23.52</TD><TD>24.60</TD><TD>581,485</TD><TD>21.71</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>24.85</TD><TD>25.29</TD><TD>23.60</TD><TD>23.93</TD><TD>406,893</TD><TD>21.04</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>24.51</TD><TD>25.10</TD><TD>24.50</TD><TD>24.85</TD><TD>231,310</TD><TD>21.96</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>25.00</TD><TD>25.01</TD><TD>24.50</TD><TD>24.50</TD><TD>240,799</TD><TD>21.61</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>25.30</TD><TD>25.50</TD><TD>25.00</TD><TD>25.00</TD><TD>106,016</TD><TD>22.11</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>26.40</TD><TD>26.40</TD><TD>24.80</TD><TD>25.11</TD><TD>560,940</TD><TD>22.22</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>27.00</TD><TD>27.00</TD><TD>26.40</TD><TD>26.50</TD><TD>425,463</TD><TD>23.61</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>26.70</TD><TD>27.10</TD><TD>26.31</TD><TD>27.06</TD><TD>377,028</TD><TD>24.17</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

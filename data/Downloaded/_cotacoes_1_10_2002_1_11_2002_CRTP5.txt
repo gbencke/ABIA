@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CRTP5.SA (CELULAR CRT PARTICIPACOES SA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>320.01</TD><TD>340.00</TD><TD>320.00</TD><TD>340.00</TD><TD>13,539</TD><TD>331.18</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>315.00</TD><TD>330.00</TD><TD>313.00</TD><TD>328.01</TD><TD>33,982</TD><TD>319.19</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>297.10</TD><TD>310.00</TD><TD>297.10</TD><TD>310.00</TD><TD>7,482</TD><TD>301.18</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>294.99</TD><TD>300.00</TD><TD>290.00</TD><TD>297.00</TD><TD>7,731</TD><TD>288.18</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>310.00</TD><TD>313.00</TD><TD>285.00</TD><TD>299.00</TD><TD>8,635</TD><TD>290.18</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>309.02</TD><TD>312.88</TD><TD>297.00</TD><TD>312.88</TD><TD>12,216</TD><TD>304.06</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>317.00</TD><TD>327.00</TD><TD>309.00</TD><TD>313.51</TD><TD>10,307</TD><TD>304.69</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>310.00</TD><TD>319.00</TD><TD>301.00</TD><TD>319.00</TD><TD>4,420</TD><TD>310.18</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>301.84</TD><TD>310.00</TD><TD>300.00</TD><TD>306.80</TD><TD>3,279</TD><TD>297.98</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>315.00</TD><TD>315.00</TD><TD>301.84</TD><TD>306.00</TD><TD>1,931</TD><TD>297.18</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>315.00</TD><TD>315.00</TD><TD>295.00</TD><TD>308.00</TD><TD>1,827</TD><TD>299.18</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>310.00</TD><TD>310.00</TD><TD>300.50</TD><TD>308.50</TD><TD>2,385</TD><TD>299.68</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>311.00</TD><TD>311.00</TD><TD>291.21</TD><TD>300.00</TD><TD>5,591</TD><TD>291.18</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>316.00</TD><TD>316.00</TD><TD>306.00</TD><TD>316.00</TD><TD>2,410</TD><TD>307.18</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>322.99</TD><TD>323.00</TD><TD>306.01</TD><TD>316.00</TD><TD>1,375</TD><TD>307.18</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>324.99</TD><TD>325.50</TD><TD>322.00</TD><TD>323.00</TD><TD>2,776</TD><TD>314.18</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>315.00</TD><TD>320.00</TD><TD>315.00</TD><TD>319.00</TD><TD>1,145</TD><TD>310.18</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>313.00</TD><TD>317.99</TD><TD>312.00</TD><TD>317.99</TD><TD>566</TD><TD>309.17</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>312.00</TD><TD>320.00</TD><TD>310.00</TD><TD>319.00</TD><TD>1,083</TD><TD>310.18</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>319.00</TD><TD>321.00</TD><TD>312.00</TD><TD>318.00</TD><TD>630</TD><TD>309.18</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>329.80</TD><TD>329.80</TD><TD>320.01</TD><TD>325.00</TD><TD>1,503</TD><TD>316.18</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>320.00</TD><TD>325.00</TD><TD>318.00</TD><TD>324.00</TD><TD>4,984</TD><TD>315.18</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>325.00</TD><TD>325.00</TD><TD>310.01</TD><TD>320.00</TD><TD>1,681</TD><TD>311.18</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>315.00</TD><TD>324.00</TD><TD>312.05</TD><TD>324.00</TD><TD>2,368</TD><TD>315.18</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

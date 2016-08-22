@@ -1,0 +1,140 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ITAU4.SA (BANCO ITAU HOLDING FINANCEIRA S)
+        </TD><TD>As of Nov-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>171.50</TD><TD>175.00</TD><TD>170.01</TD><TD>173.50</TD><TD>69,057</TD><TD>163.88</TD></TR>
+<TR>
+<TD>Oct-31-01</TD><TD>170.01</TD><TD>173.00</TD><TD>169.00</TD><TD>171.50</TD><TD>177,495</TD><TD>161.88</TD></TR>
+<TR>
+<TD>Oct-30-01</TD><TD>170.00</TD><TD>173.00</TD><TD>165.00</TD><TD>167.00</TD><TD>83,821</TD><TD>157.38</TD></TR>
+<TR>
+<TD>Oct-29-01</TD><TD>178.00</TD><TD>178.00</TD><TD>169.99</TD><TD>170.12</TD><TD>21,765</TD><TD>160.50</TD></TR>
+<TR>
+<TD>Oct-26-01</TD><TD>179.00</TD><TD>183.00</TD><TD>178.00</TD><TD>178.50</TD><TD>117,024</TD><TD>168.88</TD></TR>
+<TR>
+<TD>Oct-25-01</TD><TD>176.00</TD><TD>179.00</TD><TD>172.50</TD><TD>178.00</TD><TD>34,159</TD><TD>168.38</TD></TR>
+<TR>
+<TD>Oct-24-01</TD><TD>179.00</TD><TD>179.01</TD><TD>175.50</TD><TD>176.50</TD><TD>75,410</TD><TD>166.88</TD></TR>
+<TR>
+<TD>Oct-23-01</TD><TD>176.00</TD><TD>180.50</TD><TD>176.00</TD><TD>179.75</TD><TD>81,303</TD><TD>170.13</TD></TR>
+<TR>
+<TD>Oct-22-01</TD><TD>173.00</TD><TD>178.00</TD><TD>172.00</TD><TD>176.00</TD><TD>70,775</TD><TD>166.38</TD></TR>
+<TR>
+<TD>Oct-19-01</TD><TD>170.00</TD><TD>173.30</TD><TD>169.00</TD><TD>172.01</TD><TD>91,358</TD><TD>162.39</TD></TR>
+<TR>
+<TD>Oct-18-01</TD><TD>170.99</TD><TD>173.30</TD><TD>169.00</TD><TD>172.00</TD><TD>84,095</TD><TD>162.38</TD></TR>
+<TR>
+<TD>Oct-17-01</TD><TD>169.49</TD><TD>172.01</TD><TD>169.00</TD><TD>171.50</TD><TD>85,433</TD><TD>161.88</TD></TR>
+<TR>
+<TD>Oct-16-01</TD><TD>169.00</TD><TD>172.00</TD><TD>167.50</TD><TD>171.00</TD><TD>86,182</TD><TD>161.38</TD></TR>
+<TR>
+<TD>Oct-15-01</TD><TD>165.00</TD><TD>171.00</TD><TD>165.00</TD><TD>167.95</TD><TD>71,459</TD><TD>158.33</TD></TR>
+<TR>
+<TD>Oct-11-01</TD><TD>159.99</TD><TD>167.00</TD><TD>159.99</TD><TD>166.50</TD><TD>45,197</TD><TD>156.88</TD></TR>
+<TR>
+<TD>Oct-10-01</TD><TD>158.50</TD><TD>158.50</TD><TD>157.15</TD><TD>158.00</TD><TD>79,690</TD><TD>148.38</TD></TR>
+<TR>
+<TD>Oct-09-01</TD><TD>157.71</TD><TD>158.50</TD><TD>155.60</TD><TD>158.50</TD><TD>82,237</TD><TD>148.88</TD></TR>
+<TR>
+<TD>Oct-08-01</TD><TD>159.87</TD><TD>159.87</TD><TD>153.00</TD><TD>157.90</TD><TD>37,937</TD><TD>148.28</TD></TR>
+<TR>
+<TD>Oct-05-01</TD><TD>158.70</TD><TD>158.99</TD><TD>155.65</TD><TD>156.50</TD><TD>75,170</TD><TD>146.88</TD></TR>
+<TR>
+<TD>Oct-04-01</TD><TD>158.00</TD><TD>160.00</TD><TD>157.50</TD><TD>158.80</TD><TD>94,897</TD><TD>149.18</TD></TR>
+<TR>
+<TD>Oct-03-01</TD><TD>159.00</TD><TD>160.00</TD><TD>156.00</TD><TD>157.50</TD><TD>110,059</TD><TD>147.88</TD></TR>
+<TR>
+<TD>Oct-02-01</TD><TD>163.61</TD><TD>164.00</TD><TD>158.50</TD><TD>158.50</TD><TD>122,710</TD><TD>148.88</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>$0.07 Cash Dividend</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>169.99</TD><TD>169.99</TD><TD>164.00</TD><TD>164.00</TD><TD>75,042</TD><TD>154.38</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

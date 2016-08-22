@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - EBTP3.SA (EMBRATEL PARTICIPACOES SA)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>6.55</TD><TD>6.55</TD><TD>6.05</TD><TD>6.08</TD><TD>422,911</TD><TD>6.08</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>6.73</TD><TD>6.73</TD><TD>6.45</TD><TD>6.52</TD><TD>459,614</TD><TD>6.52</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>6.56</TD><TD>6.84</TD><TD>6.55</TD><TD>6.67</TD><TD>625,433</TD><TD>6.67</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>6.66</TD><TD>6.70</TD><TD>6.50</TD><TD>6.55</TD><TD>261,988</TD><TD>6.55</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>6.80</TD><TD>6.80</TD><TD>6.60</TD><TD>6.63</TD><TD>649,007</TD><TD>6.63</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>6.90</TD><TD>6.93</TD><TD>6.80</TD><TD>6.83</TD><TD>335,481</TD><TD>6.83</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>6.89</TD><TD>7.04</TD><TD>6.77</TD><TD>6.80</TD><TD>222,065</TD><TD>6.80</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>6.99</TD><TD>6.99</TD><TD>6.75</TD><TD>6.78</TD><TD>603,480</TD><TD>6.78</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>7.00</TD><TD>7.05</TD><TD>6.91</TD><TD>6.93</TD><TD>148,336</TD><TD>6.93</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>7.10</TD><TD>7.20</TD><TD>6.82</TD><TD>6.82</TD><TD>217,797</TD><TD>6.82</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>6.71</TD><TD>7.03</TD><TD>6.71</TD><TD>7.00</TD><TD>428,048</TD><TD>7.00</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>6.35</TD><TD>6.68</TD><TD>6.35</TD><TD>6.67</TD><TD>301,286</TD><TD>6.67</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>6.51</TD><TD>6.55</TD><TD>6.44</TD><TD>6.45</TD><TD>216,668</TD><TD>6.45</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>6.55</TD><TD>6.67</TD><TD>6.50</TD><TD>6.51</TD><TD>192,912</TD><TD>6.51</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>6.50</TD><TD>6.60</TD><TD>6.46</TD><TD>6.55</TD><TD>185,032</TD><TD>6.55</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>6.65</TD><TD>6.65</TD><TD>6.40</TD><TD>6.40</TD><TD>248,051</TD><TD>6.40</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>6.41</TD><TD>6.63</TD><TD>6.40</TD><TD>6.63</TD><TD>380,898</TD><TD>6.63</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>6.50</TD><TD>6.69</TD><TD>6.32</TD><TD>6.63</TD><TD>469,273</TD><TD>6.63</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>6.36</TD><TD>6.57</TD><TD>6.36</TD><TD>6.55</TD><TD>665,106</TD><TD>6.55</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>6.16</TD><TD>6.39</TD><TD>6.15</TD><TD>6.36</TD><TD>442,479</TD><TD>6.36</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>6.45</TD><TD>6.48</TD><TD>6.29</TD><TD>6.29</TD><TD>313,192</TD><TD>6.29</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>6.54</TD><TD>6.65</TD><TD>6.46</TD><TD>6.46</TD><TD>354,355</TD><TD>6.46</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>6.27</TD><TD>6.60</TD><TD>6.20</TD><TD>6.54</TD><TD>643,643</TD><TD>6.54</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

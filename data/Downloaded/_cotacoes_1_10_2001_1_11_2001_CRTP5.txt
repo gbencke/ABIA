@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CRTP5.SA (CELULAR CRT PARTICIPACOES SA)
+        </TD><TD>As of Nov-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>366.31</TD><TD>377.00</TD><TD>365.00</TD><TD>376.00</TD><TD>11,968</TD><TD>356.32</TD></TR>
+<TR>
+<TD>Oct-31-01</TD><TD>375.00</TD><TD>375.00</TD><TD>355.00</TD><TD>370.00</TD><TD>10,843</TD><TD>350.32</TD></TR>
+<TR>
+<TD>Oct-30-01</TD><TD>370.00</TD><TD>371.00</TD><TD>355.00</TD><TD>360.00</TD><TD>5,774</TD><TD>340.32</TD></TR>
+<TR>
+<TD>Oct-29-01</TD><TD>385.00</TD><TD>385.00</TD><TD>369.00</TD><TD>373.00</TD><TD>7,741</TD><TD>353.32</TD></TR>
+<TR>
+<TD>Oct-26-01</TD><TD>380.00</TD><TD>389.00</TD><TD>365.00</TD><TD>388.00</TD><TD>21,091</TD><TD>368.32</TD></TR>
+<TR>
+<TD>Oct-25-01</TD><TD>359.50</TD><TD>380.00</TD><TD>353.00</TD><TD>375.00</TD><TD>19,274</TD><TD>355.32</TD></TR>
+<TR>
+<TD>Oct-24-01</TD><TD>355.00</TD><TD>361.10</TD><TD>352.51</TD><TD>360.50</TD><TD>16,815</TD><TD>340.82</TD></TR>
+<TR>
+<TD>Oct-23-01</TD><TD>362.01</TD><TD>362.01</TD><TD>358.99</TD><TD>359.99</TD><TD>11,651</TD><TD>340.31</TD></TR>
+<TR>
+<TD>Oct-22-01</TD><TD>360.00</TD><TD>363.00</TD><TD>357.00</TD><TD>359.00</TD><TD>5,679</TD><TD>339.32</TD></TR>
+<TR>
+<TD>Oct-19-01</TD><TD>358.00</TD><TD>365.00</TD><TD>355.01</TD><TD>359.90</TD><TD>13,308</TD><TD>340.22</TD></TR>
+<TR>
+<TD>Oct-18-01</TD><TD>365.00</TD><TD>365.00</TD><TD>350.00</TD><TD>357.99</TD><TD>3,298</TD><TD>338.31</TD></TR>
+<TR>
+<TD>Oct-17-01</TD><TD>374.99</TD><TD>375.00</TD><TD>361.00</TD><TD>362.50</TD><TD>11,470</TD><TD>342.82</TD></TR>
+<TR>
+<TD>Oct-16-01</TD><TD>383.00</TD><TD>383.00</TD><TD>360.01</TD><TD>360.02</TD><TD>6,422</TD><TD>340.34</TD></TR>
+<TR>
+<TD>Oct-15-01</TD><TD>370.00</TD><TD>370.00</TD><TD>364.00</TD><TD>366.00</TD><TD>7,337</TD><TD>346.32</TD></TR>
+<TR>
+<TD>Oct-11-01</TD><TD>364.95</TD><TD>365.00</TD><TD>355.00</TD><TD>364.00</TD><TD>6,034</TD><TD>344.32</TD></TR>
+<TR>
+<TD>Oct-10-01</TD><TD>340.00</TD><TD>352.00</TD><TD>337.99</TD><TD>350.00</TD><TD>12,573</TD><TD>330.32</TD></TR>
+<TR>
+<TD>Oct-09-01</TD><TD>339.01</TD><TD>341.00</TD><TD>335.00</TD><TD>340.99</TD><TD>4,963</TD><TD>321.31</TD></TR>
+<TR>
+<TD>Oct-08-01</TD><TD>338.99</TD><TD>338.99</TD><TD>332.00</TD><TD>335.00</TD><TD>5,114</TD><TD>315.32</TD></TR>
+<TR>
+<TD>Oct-05-01</TD><TD>339.00</TD><TD>348.00</TD><TD>334.00</TD><TD>342.00</TD><TD>9,226</TD><TD>322.32</TD></TR>
+<TR>
+<TD>Oct-04-01</TD><TD>328.00</TD><TD>341.00</TD><TD>328.00</TD><TD>332.01</TD><TD>9,994</TD><TD>312.33</TD></TR>
+<TR>
+<TD>Oct-02-01</TD><TD>335.00</TD><TD>335.00</TD><TD>321.05</TD><TD>327.00</TD><TD>8,149</TD><TD>307.32</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>330.00</TD><TD>340.00</TD><TD>325.00</TD><TD>335.00</TD><TD>4,750</TD><TD>315.32</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

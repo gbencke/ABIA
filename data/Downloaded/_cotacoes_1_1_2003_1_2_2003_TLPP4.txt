@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TLPP4.SA (TELECOMUNICACOES DE SAO PAULO S)
+        </TD><TD>As of Jan-31-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jan-31-03</TD><TD>30.29</TD><TD>30.60</TD><TD>29.90</TD><TD>30.06</TD><TD>116,744</TD><TD>28.19</TD></TR>
+<TR>
+<TD>Jan-30-03</TD><TD>31.01</TD><TD>31.70</TD><TD>29.90</TD><TD>29.90</TD><TD>196,638</TD><TD>28.03</TD></TR>
+<TR>
+<TD>Jan-29-03</TD><TD>31.00</TD><TD>31.25</TD><TD>30.69</TD><TD>31.25</TD><TD>52,609</TD><TD>29.38</TD></TR>
+<TR>
+<TD>Jan-28-03</TD><TD>30.63</TD><TD>31.30</TD><TD>30.61</TD><TD>31.00</TD><TD>56,739</TD><TD>29.13</TD></TR>
+<TR>
+<TD>Jan-27-03</TD><TD>31.60</TD><TD>31.88</TD><TD>30.50</TD><TD>31.00</TD><TD>101,529</TD><TD>29.13</TD></TR>
+<TR>
+<TD>Jan-23-03</TD><TD>33.50</TD><TD>33.50</TD><TD>32.55</TD><TD>33.01</TD><TD>55,241</TD><TD>31.14</TD></TR>
+<TR>
+<TD>Jan-22-03</TD><TD>32.51</TD><TD>33.90</TD><TD>32.51</TD><TD>33.50</TD><TD>83,996</TD><TD>31.63</TD></TR>
+<TR>
+<TD>Jan-21-03</TD><TD>33.01</TD><TD>33.50</TD><TD>33.00</TD><TD>33.40</TD><TD>79,983</TD><TD>31.53</TD></TR>
+<TR>
+<TD>Jan-20-03</TD><TD>33.01</TD><TD>33.80</TD><TD>32.75</TD><TD>33.30</TD><TD>42,138</TD><TD>31.43</TD></TR>
+<TR>
+<TD>Jan-17-03</TD><TD>32.50</TD><TD>33.00</TD><TD>32.50</TD><TD>33.00</TD><TD>100,318</TD><TD>31.13</TD></TR>
+<TR>
+<TD>Jan-16-03</TD><TD>32.59</TD><TD>33.80</TD><TD>32.50</TD><TD>33.00</TD><TD>77,050</TD><TD>31.13</TD></TR>
+<TR>
+<TD>Jan-15-03</TD><TD>32.11</TD><TD>32.80</TD><TD>32.11</TD><TD>32.80</TD><TD>99,620</TD><TD>30.93</TD></TR>
+<TR>
+<TD>Jan-14-03</TD><TD>32.79</TD><TD>32.80</TD><TD>32.50</TD><TD>32.60</TD><TD>54,140</TD><TD>30.73</TD></TR>
+<TR>
+<TD>Jan-13-03</TD><TD>32.60</TD><TD>33.80</TD><TD>32.01</TD><TD>32.60</TD><TD>277,014</TD><TD>30.73</TD></TR>
+<TR>
+<TD>Jan-10-03</TD><TD>33.95</TD><TD>33.95</TD><TD>32.40</TD><TD>33.00</TD><TD>187,266</TD><TD>31.13</TD></TR>
+<TR>
+<TD>Jan-09-03</TD><TD>33.80</TD><TD>35.00</TD><TD>33.00</TD><TD>33.10</TD><TD>121,169</TD><TD>31.23</TD></TR>
+<TR>
+<TD>Jan-08-03</TD><TD>35.10</TD><TD>35.10</TD><TD>33.30</TD><TD>33.75</TD><TD>21,974</TD><TD>31.88</TD></TR>
+<TR>
+<TD>Jan-07-03</TD><TD>35.10</TD><TD>35.10</TD><TD>33.95</TD><TD>34.75</TD><TD>69,988</TD><TD>32.88</TD></TR>
+<TR>
+<TD>Jan-06-03</TD><TD>35.50</TD><TD>35.60</TD><TD>35.02</TD><TD>35.50</TD><TD>66,701</TD><TD>33.63</TD></TR>
+<TR>
+<TD>Jan-03-03</TD><TD>35.60</TD><TD>35.60</TD><TD>34.65</TD><TD>35.30</TD><TD>141,541</TD><TD>33.43</TD></TR>
+<TR>
+<TD>Jan-02-03</TD><TD>34.30</TD><TD>34.99</TD><TD>34.30</TD><TD>34.99</TD><TD>43,004</TD><TD>33.12</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

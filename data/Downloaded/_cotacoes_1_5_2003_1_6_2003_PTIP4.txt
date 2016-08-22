@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PTIP4.SA (COMPANHIA BRASILEIRA DE PETROLE)
+        </TD><TD>As of May-30-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-30-03</TD><TD>8.30</TD><TD>8.40</TD><TD>8.09</TD><TD>8.10</TD><TD>296,030</TD><TD>7.47</TD></TR>
+<TR>
+<TD>May-29-03</TD><TD>8.50</TD><TD>8.70</TD><TD>8.12</TD><TD>8.20</TD><TD>101,672</TD><TD>7.57</TD></TR>
+<TR>
+<TD>May-28-03</TD><TD>8.70</TD><TD>8.75</TD><TD>8.30</TD><TD>8.49</TD><TD>52,964</TD><TD>7.86</TD></TR>
+<TR>
+<TD>May-27-03</TD><TD>8.53</TD><TD>8.95</TD><TD>8.53</TD><TD>8.61</TD><TD>59,983</TD><TD>7.98</TD></TR>
+<TR>
+<TD>May-26-03</TD><TD>8.80</TD><TD>9.08</TD><TD>8.66</TD><TD>8.66</TD><TD>49,848</TD><TD>8.03</TD></TR>
+<TR>
+<TD>May-23-03</TD><TD>8.75</TD><TD>9.20</TD><TD>8.74</TD><TD>8.90</TD><TD>39,586</TD><TD>8.27</TD></TR>
+<TR>
+<TD>May-22-03</TD><TD>8.63</TD><TD>8.97</TD><TD>8.57</TD><TD>8.90</TD><TD>69,366</TD><TD>8.27</TD></TR>
+<TR>
+<TD>May-21-03</TD><TD>8.26</TD><TD>8.75</TD><TD>8.26</TD><TD>8.50</TD><TD>28,600</TD><TD>7.87</TD></TR>
+<TR>
+<TD>May-20-03</TD><TD>8.40</TD><TD>8.45</TD><TD>8.01</TD><TD>8.30</TD><TD>63,098</TD><TD>7.67</TD></TR>
+<TR>
+<TD>May-19-03</TD><TD>8.31</TD><TD>8.50</TD><TD>8.31</TD><TD>8.45</TD><TD>35,870</TD><TD>7.82</TD></TR>
+<TR>
+<TD>May-16-03</TD><TD>8.67</TD><TD>8.70</TD><TD>8.23</TD><TD>8.49</TD><TD>152,935</TD><TD>7.86</TD></TR>
+<TR>
+<TD>May-15-03</TD><TD>9.08</TD><TD>9.08</TD><TD>8.60</TD><TD>8.60</TD><TD>128,169</TD><TD>7.97</TD></TR>
+<TR>
+<TD>May-14-03</TD><TD>9.24</TD><TD>9.24</TD><TD>8.94</TD><TD>9.05</TD><TD>115,241</TD><TD>8.42</TD></TR>
+<TR>
+<TD>May-13-03</TD><TD>9.70</TD><TD>9.70</TD><TD>9.22</TD><TD>9.24</TD><TD>136,217</TD><TD>8.61</TD></TR>
+<TR>
+<TD>May-12-03</TD><TD>9.56</TD><TD>9.70</TD><TD>9.56</TD><TD>9.69</TD><TD>122,240</TD><TD>9.06</TD></TR>
+<TR>
+<TD>May-09-03</TD><TD>9.89</TD><TD>9.90</TD><TD>9.55</TD><TD>9.69</TD><TD>132,703</TD><TD>9.06</TD></TR>
+<TR>
+<TD>May-08-03</TD><TD>9.31</TD><TD>9.75</TD><TD>9.31</TD><TD>9.74</TD><TD>289,086</TD><TD>9.11</TD></TR>
+<TR>
+<TD>May-07-03</TD><TD>9.02</TD><TD>9.45</TD><TD>9.00</TD><TD>9.31</TD><TD>204,130</TD><TD>8.68</TD></TR>
+<TR>
+<TD>May-06-03</TD><TD>8.63</TD><TD>9.10</TD><TD>8.60</TD><TD>9.02</TD><TD>127,724</TD><TD>8.39</TD></TR>
+<TR>
+<TD>May-05-03</TD><TD>8.98</TD><TD>8.98</TD><TD>8.56</TD><TD>8.61</TD><TD>109,269</TD><TD>7.98</TD></TR>
+<TR>
+<TD>May-02-03</TD><TD>8.40</TD><TD>9.09</TD><TD>8.25</TD><TD>8.95</TD><TD>106,988</TD><TD>8.32</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

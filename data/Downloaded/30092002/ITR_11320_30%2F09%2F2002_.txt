@@ -1,0 +1,30 @@
+
+
+<html>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Sistema Divulgação Externa</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+</head>
+<frameset rows="60,*" frameborder="0" border="0" framespacing="0" noresize> 
+	<frame src="DIVEXTMenuBotoes.asp" name="menu1" marginwidth="0" marginheight="0" scrolling="no">
+	<frame src="DIVEXTG1Identificacao.asp" name="dados" marginwidth="0" marginheight="0" scrolling="auto">
+  <noframes> 
+  <body>
+  <p>
+                                           
+  </p>
+  <p>This web page uses frames, but your browser doesn't support them.</p>
+  <a href="index.htm">index</a>
+</body>
+  </noframes> </frameset>
+<head>
+<meta http-equiv="Cache Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+</head>
+</html>

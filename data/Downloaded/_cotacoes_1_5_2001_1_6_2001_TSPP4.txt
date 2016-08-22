@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TSPP4.SA (TELESP CELULAR PARTICIPACOES SA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>16.41</TD><TD>16.75</TD><TD>16.30</TD><TD>16.60</TD><TD>1,237,780</TD><TD>16.60</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>16.79</TD><TD>16.79</TD><TD>16.20</TD><TD>16.49</TD><TD>1,163,290</TD><TD>16.49</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>16.89</TD><TD>16.90</TD><TD>16.61</TD><TD>16.67</TD><TD>720,741</TD><TD>16.67</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>16.79</TD><TD>16.95</TD><TD>16.65</TD><TD>16.65</TD><TD>1,487,010</TD><TD>16.65</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>17.19</TD><TD>17.19</TD><TD>16.62</TD><TD>16.90</TD><TD>476,636</TD><TD>16.90</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>16.79</TD><TD>17.05</TD><TD>16.79</TD><TD>16.85</TD><TD>2,429,250</TD><TD>16.85</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>16.75</TD><TD>16.92</TD><TD>16.60</TD><TD>16.70</TD><TD>3,543,760</TD><TD>16.70</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>16.50</TD><TD>17.00</TD><TD>16.50</TD><TD>16.60</TD><TD>5,665,140</TD><TD>16.60</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>17.23</TD><TD>17.30</TD><TD>16.50</TD><TD>16.50</TD><TD>3,313,540</TD><TD>16.50</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>19.00</TD><TD>20.00</TD><TD>16.50</TD><TD>17.96</TD><TD>6,307,610</TD><TD>17.96</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>15.94</TD><TD>15.95</TD><TD>15.15</TD><TD>15.79</TD><TD>2,381,580</TD><TD>15.79</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>14.85</TD><TD>15.85</TD><TD>14.85</TD><TD>15.80</TD><TD>2,707,800</TD><TD>15.80</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>14.00</TD><TD>15.05</TD><TD>14.00</TD><TD>14.85</TD><TD>1,715,900</TD><TD>14.85</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>13.50</TD><TD>14.00</TD><TD>13.50</TD><TD>14.00</TD><TD>1,281,290</TD><TD>14.00</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>14.20</TD><TD>14.20</TD><TD>13.60</TD><TD>13.96</TD><TD>305,164</TD><TD>13.96</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>14.60</TD><TD>14.80</TD><TD>14.05</TD><TD>14.20</TD><TD>1,266,020</TD><TD>14.20</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>14.88</TD><TD>15.10</TD><TD>14.56</TD><TD>14.60</TD><TD>1,197,220</TD><TD>14.60</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>14.98</TD><TD>15.15</TD><TD>14.60</TD><TD>14.60</TD><TD>1,703,990</TD><TD>14.60</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>13.91</TD><TD>15.29</TD><TD>13.85</TD><TD>15.20</TD><TD>3,085,540</TD><TD>15.20</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>14.48</TD><TD>14.99</TD><TD>14.12</TD><TD>14.35</TD><TD>1,569,530</TD><TD>14.35</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>14.87</TD><TD>15.29</TD><TD>14.65</TD><TD>14.71</TD><TD>734,064</TD><TD>14.71</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>15.05</TD><TD>15.05</TD><TD>14.65</TD><TD>15.05</TD><TD>931,634</TD><TD>15.05</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>14.90</TD><TD>14.99</TD><TD>14.13</TD><TD>14.89</TD><TD>2,086,050</TD><TD>14.89</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

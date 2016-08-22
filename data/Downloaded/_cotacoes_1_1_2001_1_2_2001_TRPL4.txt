@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TRPL4.SA (COMPANHIA DE TRANSMISSAO DE ENE)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>8.08</TD><TD>8.16</TD><TD>7.80</TD><TD>7.94</TD><TD>183,791</TD><TD>6.05</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>8.30</TD><TD>8.49</TD><TD>8.05</TD><TD>8.06</TD><TD>164,950</TD><TD>6.17</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>8.39</TD><TD>8.39</TD><TD>8.07</TD><TD>8.15</TD><TD>7,748,750</TD><TD>6.26</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>8.40</TD><TD>8.50</TD><TD>8.25</TD><TD>8.35</TD><TD>64,876</TD><TD>6.46</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>8.20</TD><TD>8.50</TD><TD>8.00</TD><TD>8.40</TD><TD>104,248</TD><TD>6.51</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>8.45</TD><TD>8.45</TD><TD>8.07</TD><TD>8.20</TD><TD>142,769</TD><TD>6.31</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>8.00</TD><TD>8.29</TD><TD>7.90</TD><TD>8.25</TD><TD>245,913</TD><TD>6.36</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>8.00</TD><TD>8.10</TD><TD>7.74</TD><TD>7.80</TD><TD>259,226</TD><TD>5.91</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>8.30</TD><TD>8.30</TD><TD>8.00</TD><TD>8.04</TD><TD>194,376</TD><TD>6.15</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>8.20</TD><TD>8.49</TD><TD>8.10</TD><TD>8.20</TD><TD>163,490</TD><TD>6.31</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>8.59</TD><TD>8.59</TD><TD>8.10</TD><TD>8.20</TD><TD>188,377</TD><TD>6.31</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>8.59</TD><TD>8.60</TD><TD>8.20</TD><TD>8.20</TD><TD>171,552</TD><TD>6.31</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>8.32</TD><TD>8.75</TD><TD>8.30</TD><TD>8.47</TD><TD>318,302</TD><TD>6.58</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>8.30</TD><TD>8.40</TD><TD>8.11</TD><TD>8.30</TD><TD>374,551</TD><TD>6.41</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>7.88</TD><TD>8.21</TD><TD>7.57</TD><TD>8.08</TD><TD>743,789</TD><TD>6.19</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>7.60</TD><TD>7.98</TD><TD>7.55</TD><TD>7.68</TD><TD>294,512</TD><TD>5.79</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>7.35</TD><TD>7.78</TD><TD>7.35</TD><TD>7.60</TD><TD>413,840</TD><TD>5.71</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>7.37</TD><TD>7.40</TD><TD>7.14</TD><TD>7.35</TD><TD>60,015</TD><TD>5.46</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>7.14</TD><TD>7.59</TD><TD>7.14</TD><TD>7.26</TD><TD>139,335</TD><TD>5.37</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>7.37</TD><TD>7.70</TD><TD>7.21</TD><TD>7.40</TD><TD>193,605</TD><TD>5.51</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>6.79</TD><TD>7.37</TD><TD>6.60</TD><TD>7.37</TD><TD>313,007</TD><TD>5.48</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>6.70</TD><TD>6.99</TD><TD>6.70</TD><TD>6.80</TD><TD>156,128</TD><TD>4.91</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

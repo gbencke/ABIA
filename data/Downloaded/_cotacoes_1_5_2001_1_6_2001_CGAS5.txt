@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CGAS5.SA (CIA DE GAS DE SAO PAULO)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>161.99</TD><TD>161.99</TD><TD>157.00</TD><TD>157.50</TD><TD>24,387</TD><TD>153.69</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>154.50</TD><TD>162.50</TD><TD>154.50</TD><TD>158.99</TD><TD>42,170</TD><TD>155.18</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>157.50</TD><TD>157.50</TD><TD>151.00</TD><TD>154.49</TD><TD>128,501</TD><TD>150.68</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>153.50</TD><TD>159.48</TD><TD>153.50</TD><TD>157.50</TD><TD>83,224</TD><TD>153.69</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>154.50</TD><TD>154.50</TD><TD>152.50</TD><TD>152.50</TD><TD>22,265</TD><TD>148.69</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>152.00</TD><TD>154.80</TD><TD>148.00</TD><TD>151.80</TD><TD>65,912</TD><TD>147.99</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>145.00</TD><TD>153.50</TD><TD>143.50</TD><TD>150.00</TD><TD>67,680</TD><TD>146.19</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>140.00</TD><TD>146.00</TD><TD>140.00</TD><TD>143.00</TD><TD>33,030</TD><TD>139.19</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>142.00</TD><TD>149.00</TD><TD>140.01</TD><TD>140.01</TD><TD>32,314</TD><TD>136.20</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>134.00</TD><TD>142.00</TD><TD>134.00</TD><TD>141.00</TD><TD>37,579</TD><TD>137.19</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>132.99</TD><TD>136.00</TD><TD>130.00</TD><TD>134.50</TD><TD>15,943</TD><TD>130.69</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>130.00</TD><TD>130.00</TD><TD>126.00</TD><TD>128.70</TD><TD>15,312</TD><TD>124.89</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>129.99</TD><TD>129.99</TD><TD>128.01</TD><TD>129.00</TD><TD>3,735</TD><TD>125.19</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>130.00</TD><TD>136.40</TD><TD>124.10</TD><TD>125.50</TD><TD>5,961</TD><TD>121.69</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>130.00</TD><TD>130.99</TD><TD>124.00</TD><TD>130.00</TD><TD>12,310</TD><TD>126.19</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>136.79</TD><TD>136.79</TD><TD>129.70</TD><TD>129.70</TD><TD>12,394</TD><TD>125.89</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>137.00</TD><TD>137.50</TD><TD>133.10</TD><TD>135.51</TD><TD>8,480</TD><TD>131.70</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>137.00</TD><TD>137.79</TD><TD>132.00</TD><TD>136.90</TD><TD>19,370</TD><TD>133.09</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>137.90</TD><TD>139.00</TD><TD>134.00</TD><TD>137.00</TD><TD>8,684</TD><TD>133.19</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>136.20</TD><TD>137.99</TD><TD>132.50</TD><TD>137.99</TD><TD>22,995</TD><TD>134.18</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>130.20</TD><TD>137.80</TD><TD>129.50</TD><TD>136.20</TD><TD>159,247</TD><TD>132.39</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>129.99</TD><TD>131.99</TD><TD>127.50</TD><TD>130.40</TD><TD>23,970</TD><TD>126.59</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>133.00</TD><TD>137.99</TD><TD>124.01</TD><TD>131.00</TD><TD>61,120</TD><TD>127.19</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

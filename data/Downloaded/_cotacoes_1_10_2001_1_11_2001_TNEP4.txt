@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNEP4.SA (TELE NORDESTE CELULAR PARTICIPA)
+        </TD><TD>As of Nov-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>2.64</TD><TD>2.74</TD><TD>2.61</TD><TD>2.70</TD><TD>434,441</TD><TD>2.57</TD></TR>
+<TR>
+<TD>Oct-31-01</TD><TD>2.64</TD><TD>2.71</TD><TD>2.62</TD><TD>2.67</TD><TD>1,203,900</TD><TD>2.54</TD></TR>
+<TR>
+<TD>Oct-30-01</TD><TD>2.69</TD><TD>2.69</TD><TD>2.57</TD><TD>2.57</TD><TD>449,702</TD><TD>2.44</TD></TR>
+<TR>
+<TD>Oct-29-01</TD><TD>2.78</TD><TD>2.81</TD><TD>2.62</TD><TD>2.69</TD><TD>1,078,860</TD><TD>2.56</TD></TR>
+<TR>
+<TD>Oct-26-01</TD><TD>2.79</TD><TD>2.84</TD><TD>2.74</TD><TD>2.81</TD><TD>1,287,240</TD><TD>2.68</TD></TR>
+<TR>
+<TD>Oct-25-01</TD><TD>2.60</TD><TD>2.77</TD><TD>2.55</TD><TD>2.70</TD><TD>897,491</TD><TD>2.57</TD></TR>
+<TR>
+<TD>Oct-24-01</TD><TD>2.63</TD><TD>2.76</TD><TD>2.60</TD><TD>2.62</TD><TD>851,386</TD><TD>2.49</TD></TR>
+<TR>
+<TD>Oct-23-01</TD><TD>2.55</TD><TD>2.73</TD><TD>2.52</TD><TD>2.64</TD><TD>1,656,820</TD><TD>2.51</TD></TR>
+<TR>
+<TD>Oct-22-01</TD><TD>2.54</TD><TD>2.55</TD><TD>2.44</TD><TD>2.51</TD><TD>1,355,080</TD><TD>2.38</TD></TR>
+<TR>
+<TD>Oct-19-01</TD><TD>2.37</TD><TD>2.54</TD><TD>2.35</TD><TD>2.47</TD><TD>888,476</TD><TD>2.34</TD></TR>
+<TR>
+<TD>Oct-18-01</TD><TD>2.35</TD><TD>2.42</TD><TD>2.24</TD><TD>2.37</TD><TD>1,070,100</TD><TD>2.24</TD></TR>
+<TR>
+<TD>Oct-17-01</TD><TD>2.41</TD><TD>2.47</TD><TD>2.33</TD><TD>2.33</TD><TD>1,575,190</TD><TD>2.20</TD></TR>
+<TR>
+<TD>Oct-16-01</TD><TD>2.50</TD><TD>2.51</TD><TD>2.36</TD><TD>2.37</TD><TD>1,116,550</TD><TD>2.24</TD></TR>
+<TR>
+<TD>Oct-15-01</TD><TD>2.40</TD><TD>2.47</TD><TD>2.35</TD><TD>2.41</TD><TD>841,662</TD><TD>2.28</TD></TR>
+<TR>
+<TD>Oct-11-01</TD><TD>2.44</TD><TD>2.55</TD><TD>2.38</TD><TD>2.41</TD><TD>479,750</TD><TD>2.28</TD></TR>
+<TR>
+<TD>Oct-10-01</TD><TD>2.31</TD><TD>2.42</TD><TD>2.31</TD><TD>2.38</TD><TD>784,293</TD><TD>2.25</TD></TR>
+<TR>
+<TD>Oct-09-01</TD><TD>2.30</TD><TD>2.40</TD><TD>2.30</TD><TD>2.33</TD><TD>445,392</TD><TD>2.20</TD></TR>
+<TR>
+<TD>Oct-08-01</TD><TD>2.34</TD><TD>2.37</TD><TD>2.27</TD><TD>2.27</TD><TD>327,092</TD><TD>2.14</TD></TR>
+<TR>
+<TD>Oct-05-01</TD><TD>2.39</TD><TD>2.41</TD><TD>2.32</TD><TD>2.41</TD><TD>617,713</TD><TD>2.28</TD></TR>
+<TR>
+<TD>Oct-04-01</TD><TD>2.39</TD><TD>2.40</TD><TD>2.30</TD><TD>2.32</TD><TD>801,581</TD><TD>2.19</TD></TR>
+<TR>
+<TD>Oct-02-01</TD><TD>2.32</TD><TD>2.35</TD><TD>2.21</TD><TD>2.21</TD><TD>672,195</TD><TD>2.08</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>2.31</TD><TD>2.35</TD><TD>2.26</TD><TD>2.26</TD><TD>564,550</TD><TD>2.13</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

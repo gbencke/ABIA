@@ -1,0 +1,517 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>Indicadores - Prévia da Composição da carteira teórica do Ibovespa</title>
+<link rel="stylesheet" href="../Tabela.CSS" type="text/css">
+</head>
+
+<body bgcolor="#FFFFFF">
+<link rel="stylesheet" href="/pages/estilo_publicacoes.css" type="text/css">
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+        <td align="center" class="TXTtextopreto"><a href="/pages/Boletim1/Indice.asp" target="dados">Índice</a> | <a
+    href="javascript:{document.fi.M.value=2;document.fi.O.value =7; document.fi.submit()}" target="dados">Ajustes</a> | <a
+    href="http://www2.bmf.com.br/Pages/Portal/Boletim1/FrameIndexBoletimOnline1.htm" target="_top">Boletim 
+          Online</a> | <a href="/pages/Boletim1/CalendarioVencimentos1.asp" target="dados">Calendários 
+          de Vencimentos</a>&nbsp;| <a href="/pages/Boletim1/bd_manual/ClearingHistorico1.stm" target="dados">Clearing 
+          de Câmbio</a><br>
+          <a
+    href="/pages/Boletim1/HorariosNegociacao1.asp" target="dados">Códigos e Horários 
+          de Negociação</a> | <a
+    href="/pages/Boletim1/ContratosAberto1.asp" target="dados">Contratos em Aberto</a> 
+          | <a href="/pages/Boletim1/CustosOperacionais1.asp" target="dados">Custos 
+          Operacionais</a><br>
+          <a
+    href="/pages/Boletim1/garantias1.asp">Garantias Depositadas</a>&nbsp;| <a
+    href="/pages/Boletim1/ResumoOperacoes1.asp" target="dados"></a><a href="/pages/Boletim1/Indicadores1.asp" target="dados">Indicadores</a> 
+          |&nbsp;<a
+    href="/pages/informes1/indexinformes1.stm" target="dados">Informes</a> |&nbsp;<a
+    href="/pages/informes1/indexinformes1.asp" target="dados"></a><a
+    href="/pages/Boletim1/bd_manual/InformesLeilao.stm" target="dados">Leil&atilde;o 
+          de Swap Cambial</a> | <a href="/pages/Boletim1/MargensGarantia1.asp" target="dados">Margens 
+          de Garantia<br>
+          </a> <a
+    href="/pages/informes1/indexinformes1.asp" target="dados"></a><a href="/pages/Boletim1/bd_manual/OscilacaoMaximaDiaria1.stm" target="dados">Oscilação 
+          Máxima Diária</a>&nbsp;| <a
+    href="/pages/Boletim1/ResumoOperacoes1.asp" target="dados">Resumo das Opera&ccedil;&otilde;es</a> 
+          |&nbsp;<a
+    href="/pages/informes1/indexinformes1.asp" target="dados"></a><a
+    href="/pages/Boletim1/ResumoEstatistico1.asp" target="dados">Resumo Estat&iacute;stico<br>
+          </a><a href="/pages/Boletim1/Series1.asp" target="dados">Séries Autorizadas</a>&nbsp;| 
+          <a
+    href="/pages/boletim1/VolumeGeral/VolumeGeral.asp" target="dados">Volume Geral</a></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+</center></div>
+  <form method="POST" name="fi" action="/pages/Redireciona.asp?Idioma=1" target="_top">
+    <input type="hidden" name="M" size="0">
+    <input type="hidden" name="O" size="0">
+  </form>
+
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="631">
+  <tr>
+    <td width="34" valign="top" height="18"></td>
+    <td valign="top" width="597" height="30"></td>
+  </tr>
+  <tr>
+    <td width="34" valign="top"><img src="../../images/Comum/transp.gif" width="1" height="17"><img
+    src="../../images/Destaques1/CurvaRight.gif" vspace="0"></td>
+    <td valign="top" rowspan="2"><img src="../../images/boletim1/Tit_indicadores.gif"><br>
+    <br>
+    <br>
+    <span class="TXT"><b>Prévia da composição da carteira teórica do Ibovespa para o
+    quadrimestre<br>
+    de janeiro a abril/2003</b></span>. </td>
+  </tr>
+  <tr>
+    <td width="34"></td>
+  </tr>
+  <tr>
+    <td rowspan="4"></td>
+    <td class="TXT" width="597"><table border="0" width="100%">
+      <tr align="center">
+        <td valign="middle" height="1" colspan="5"
+        background="../../images/Destaques1/Divisor1.gif"></td>
+      </tr>
+      <tr align="center">
+        <td valign="middle" height="25" class="tit" colspan="5">Calculada em 02/01/2003</td>
+      </tr>
+      <tr align="center">
+        <td valign="middle" height="25" class="tit" width="115">Código</td>
+        <td valign="middle" height="25" width="142" class="tit">Ação</td>
+        <td valign="middle" height="25" width="77" class="tit">Tipo</td>
+        <td valign="middle" height="25" width="137" class="tit">Qtde. Teórica</td>
+        <td valign="middle" height="25" width="107" class="tit">Part. (%)</td>
+      </tr>
+      <tr>
+        <td class="con">ACES4</td>
+        <td class="con">ACESITA</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">66,47385228525</td>
+        <td class="con"><p ALIGN="RIGHT">0,543</td>
+      </tr>
+      <tr>
+        <td class="con">AMBV4</td>
+        <td class="con">AMBEV</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">0,36230122636</td>
+        <td class="con"><p ALIGN="RIGHT">1,736</td>
+      </tr>
+      <tr>
+        <td class="con">ARCZ6</td>
+        <td class="con">ARACRUZ</td>
+        <td class="con">PNB</td>
+        <td class="con"><p ALIGN="RIGHT">11,60377045365</td>
+        <td class="con"><p ALIGN="RIGHT">0,696</td>
+      </tr>
+      <tr>
+        <td class="con">BBDC4</td>
+        <td class="con">BRADESCO</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">62,80686959031</td>
+        <td class="con"><p ALIGN="RIGHT">5,902</td>
+      </tr>
+      <tr>
+        <td class="con">BRAP4</td>
+        <td class="con">BRADESPAR</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">109,51133891614</td>
+        <td class="con"><p ALIGN="RIGHT">0,564</td>
+      </tr>
+      <tr>
+        <td class="con">BBAS3</td>
+        <td class="con">BRASIL</td>
+        <td class="con">ON *</td>
+        <td class="con"><p ALIGN="RIGHT">21,49860944899</td>
+        <td class="con"><p ALIGN="RIGHT">1,870</td>
+      </tr>
+      <tr>
+        <td class="con">BRTP3</td>
+        <td class="con">BRASIL T PAR</td>
+        <td class="con">ON *</td>
+        <td class="con"><p ALIGN="RIGHT">4,23945102249</td>
+        <td class="con"><p ALIGN="RIGHT">0,519</td>
+      </tr>
+      <tr>
+        <td class="con">BRTP4</td>
+        <td class="con">BRASIL T PAR</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">16,38839325473</td>
+        <td class="con"><p ALIGN="RIGHT">2,647</td>
+      </tr>
+      <tr>
+        <td class="con">BRTO4</td>
+        <td class="con">BRASIL TELEC</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">22,78566580977</td>
+        <td class="con"><p ALIGN="RIGHT">2,374</td>
+      </tr>
+      <tr>
+        <td class="con">BRKM5</td>
+        <td class="con">BRASKEM</td>
+        <td class="con">PNA*</td>
+        <td class="con"><p ALIGN="RIGHT">0,14184503327</td>
+        <td class="con"><p ALIGN="RIGHT">0,277</td>
+      </tr>
+      <tr>
+        <td class="con">CLSC6</td>
+        <td class="con">CELESC</td>
+        <td class="con">PNB</td>
+        <td class="con"><p ALIGN="RIGHT">113,16075523915</td>
+        <td class="con"><p ALIGN="RIGHT">0,542</td>
+      </tr>
+      <tr>
+        <td class="con">CMIG3</td>
+        <td class="con">CEMIG</td>
+        <td class="con">ON * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">0,63443801318</td>
+        <td class="con"><p ALIGN="RIGHT">0,132</td>
+      </tr>
+      <tr>
+        <td class="con">CMIG4</td>
+        <td class="con">CEMIG</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">12,40701956252</td>
+        <td class="con"><p ALIGN="RIGHT">2,912</td>
+      </tr>
+      <tr>
+        <td class="con">CESP4</td>
+        <td class="con">CESP</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">8,05613512350</td>
+        <td class="con"><p ALIGN="RIGHT">0,511</td>
+      </tr>
+      <tr>
+        <td class="con">CGAS5</td>
+        <td class="con">COMGAS</td>
+        <td class="con">PNA*</td>
+        <td class="con"><p ALIGN="RIGHT">0,58067816776</td>
+        <td class="con"><p ALIGN="RIGHT">0,274</td>
+      </tr>
+      <tr>
+        <td class="con">CPLE6</td>
+        <td class="con">COPEL</td>
+        <td class="con">PNB*</td>
+        <td class="con"><p ALIGN="RIGHT">17,08329588682</td>
+        <td class="con"><p ALIGN="RIGHT">1,516</td>
+      </tr>
+      <tr>
+        <td class="con">CRTP5</td>
+        <td class="con">CRT CELULAR</td>
+        <td class="con">PNA* EJ</td>
+        <td class="con"><p ALIGN="RIGHT">0,24081088822</td>
+        <td class="con"><p ALIGN="RIGHT">0,656</td>
+      </tr>
+      <tr>
+        <td class="con">ELET3</td>
+        <td class="con">ELETROBRAS</td>
+        <td class="con">ON *</td>
+        <td class="con"><p ALIGN="RIGHT">5,87012462329</td>
+        <td class="con"><p ALIGN="RIGHT">1,229</td>
+      </tr>
+      <tr>
+        <td class="con">ELET6</td>
+        <td class="con">ELETROBRAS</td>
+        <td class="con">PNB*</td>
+        <td class="con"><p ALIGN="RIGHT">17,82684896634</td>
+        <td class="con"><p ALIGN="RIGHT">3,708</td>
+      </tr>
+      <tr>
+        <td class="con">ELPL4</td>
+        <td class="con">ELETROPAULO</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">3,71494523188</td>
+        <td class="con"><p ALIGN="RIGHT">0,857</td>
+      </tr>
+      <tr>
+        <td class="con">EMBR3</td>
+        <td class="con">EMBRAER</td>
+        <td class="con">ON EJ</td>
+        <td class="con"><p ALIGN="RIGHT">6,81283831643</td>
+        <td class="con"><p ALIGN="RIGHT">0,774</td>
+      </tr>
+      <tr>
+        <td class="con">EMBR4</td>
+        <td class="con">EMBRAER</td>
+        <td class="con">PN EJ</td>
+        <td class="con"><p ALIGN="RIGHT">21,42362165553</td>
+        <td class="con"><p ALIGN="RIGHT">2,662</td>
+      </tr>
+      <tr>
+        <td class="con">EBTP3</td>
+        <td class="con">EMBRATEL PAR</td>
+        <td class="con">ON *</td>
+        <td class="con"><p ALIGN="RIGHT">23,47365564619</td>
+        <td class="con"><p ALIGN="RIGHT">0,871</td>
+      </tr>
+      <tr>
+        <td class="con">EBTP4</td>
+        <td class="con">EMBRATEL PAR</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">143,14190820521</td>
+        <td class="con"><p ALIGN="RIGHT">4,751</td>
+      </tr>
+      <tr>
+        <td class="con">GGBR4</td>
+        <td class="con">GERDAU</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">4,69999821554</td>
+        <td class="con"><p ALIGN="RIGHT">1,371</td>
+      </tr>
+      <tr>
+        <td class="con">PTIP4</td>
+        <td class="con">IPIRANGA PET</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">2,97524669417</td>
+        <td class="con"><p ALIGN="RIGHT">0,207</td>
+      </tr>
+      <tr>
+        <td class="con">ITAU4</td>
+        <td class="con">ITAUBANCO</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">2,62196010883</td>
+        <td class="con"><p ALIGN="RIGHT">3,922</td>
+      </tr>
+      <tr>
+        <td class="con">ITSA4</td>
+        <td class="con">ITAUSA</td>
+        <td class="con">PN</td>
+        <td class="con"><p ALIGN="RIGHT">93,42237039622</td>
+        <td class="con"><p ALIGN="RIGHT">1,559</td>
+      </tr>
+      <tr>
+        <td class="con">KLBN4</td>
+        <td class="con">KLABIN S/A</td>
+        <td class="con">PN</td>
+        <td class="con"><p ALIGN="RIGHT">20,86068330288</td>
+        <td class="con"><p ALIGN="RIGHT">0,191</td>
+      </tr>
+      <tr>
+        <td class="con">LIGH3</td>
+        <td class="con">LIGHT</td>
+        <td class="con">ON *</td>
+        <td class="con"><p ALIGN="RIGHT">0,48600615970</td>
+        <td class="con"><p ALIGN="RIGHT">0,202</td>
+      </tr>
+      <tr>
+        <td class="con">PLIM4</td>
+        <td class="con">NET</td>
+        <td class="con">PN</td>
+        <td class="con"><p ALIGN="RIGHT">537,48258580198</td>
+        <td class="con"><p ALIGN="RIGHT">2,003</td>
+      </tr>
+      <tr>
+        <td class="con">PETR3</td>
+        <td class="con">PETROBRAS</td>
+        <td class="con">ON</td>
+        <td class="con"><p ALIGN="RIGHT">6,66793029271</td>
+        <td class="con"><p ALIGN="RIGHT">3,124</td>
+      </tr>
+      <tr>
+        <td class="con">PETR4</td>
+        <td class="con">PETROBRAS</td>
+        <td class="con">PN</td>
+        <td class="con"><p ALIGN="RIGHT">21,62961120383</td>
+        <td class="con"><p ALIGN="RIGHT">8,906</td>
+      </tr>
+      <tr>
+        <td class="con">BRDT4</td>
+        <td class="con">PETROBRAS BR</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">1,50791297792</td>
+        <td class="con"><p ALIGN="RIGHT">0,535</td>
+      </tr>
+      <tr>
+        <td class="con">SBSP3</td>
+        <td class="con">SABESP</td>
+        <td class="con">ON *</td>
+        <td class="con"><p ALIGN="RIGHT">1,51709937323</td>
+        <td class="con"><p ALIGN="RIGHT">1,239</td>
+      </tr>
+      <tr>
+        <td class="con">CSNA3</td>
+        <td class="con">SID NACIONAL</td>
+        <td class="con">ON *</td>
+        <td class="con"><p ALIGN="RIGHT">3,79134532863</td>
+        <td class="con"><p ALIGN="RIGHT">1,721</td>
+      </tr>
+      <tr>
+        <td class="con">CSTB4</td>
+        <td class="con">SID TUBARAO</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">1,75426023219</td>
+        <td class="con"><p ALIGN="RIGHT">0,623</td>
+      </tr>
+      <tr>
+        <td class="con">CRUZ3</td>
+        <td class="con">SOUZA CRUZ</td>
+        <td class="con">ON EJ</td>
+        <td class="con"><p ALIGN="RIGHT">4,76820376217</td>
+        <td class="con"><p ALIGN="RIGHT">0,754</td>
+      </tr>
+      <tr>
+        <td class="con">TCSL3</td>
+        <td class="con">TELE CL SUL</td>
+        <td class="con">ON * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">19,91127859159</td>
+        <td class="con"><p ALIGN="RIGHT">0,338</td>
+      </tr>
+      <tr>
+        <td class="con">TCSL4</td>
+        <td class="con">TELE CL SUL</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">45,67934009431</td>
+        <td class="con"><p ALIGN="RIGHT">1,091</td>
+      </tr>
+      <tr>
+        <td class="con">TCOC4</td>
+        <td class="con">TELE CTR OES</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">47,17710288552</td>
+        <td class="con"><p ALIGN="RIGHT">1,932</td>
+      </tr>
+      <tr>
+        <td class="con">TLCP4</td>
+        <td class="con">TELE LEST CL</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">131,69566442536</td>
+        <td class="con"><p ALIGN="RIGHT">0,514</td>
+      </tr>
+      <tr>
+        <td class="con">TNEP4</td>
+        <td class="con">TELE NORD CL</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">52,58601496710</td>
+        <td class="con"><p ALIGN="RIGHT">1,265</td>
+      </tr>
+      <tr>
+        <td class="con">TNLP3</td>
+        <td class="con">TELEMAR</td>
+        <td class="con">ON * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">6,14258904543</td>
+        <td class="con"><p ALIGN="RIGHT">1,018</td>
+      </tr>
+      <tr>
+        <td class="con">TNLP4</td>
+        <td class="con">TELEMAR</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">57,57803189934</td>
+        <td class="con"><p ALIGN="RIGHT">13,268</td>
+      </tr>
+      <tr>
+        <td class="con">TMAR5</td>
+        <td class="con">TELEMAR N L</td>
+        <td class="con">PNA* EJ</td>
+        <td class="con"><p ALIGN="RIGHT">5,29354097308</td>
+        <td class="con"><p ALIGN="RIGHT">1,942</td>
+      </tr>
+      <tr>
+        <td class="con">TMCP4</td>
+        <td class="con">TELEMIG PART</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">51,49757908360</td>
+        <td class="con"><p ALIGN="RIGHT">1,362</td>
+      </tr>
+      <tr>
+        <td class="con">TLPP4</td>
+        <td class="con">TELESP</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">2,86577252844</td>
+        <td class="con"><p ALIGN="RIGHT">0,872</td>
+      </tr>
+      <tr>
+        <td class="con">TSPP4</td>
+        <td class="con">TELESP CL PA</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">128,00514086272</td>
+        <td class="con"><p ALIGN="RIGHT">4,828</td>
+      </tr>
+      <tr>
+        <td class="con">TBLE3</td>
+        <td class="con">TRACTEBEL</td>
+        <td class="con">ON *</td>
+        <td class="con"><p ALIGN="RIGHT">9,50764667889</td>
+        <td class="con"><p ALIGN="RIGHT">0,295</td>
+      </tr>
+      <tr>
+        <td class="con">TRPL4</td>
+        <td class="con">TRAN PAULIST</td>
+        <td class="con">PN * EJ</td>
+        <td class="con"><p ALIGN="RIGHT">9,00413408320</td>
+        <td class="con"><p ALIGN="RIGHT">0,448</td>
+      </tr>
+      <tr>
+        <td class="con">USIM5</td>
+        <td class="con">USIMINAS</td>
+        <td class="con">PNA</td>
+        <td class="con"><p ALIGN="RIGHT">24,29105313909</td>
+        <td class="con"><p ALIGN="RIGHT">1,414</td>
+      </tr>
+      <tr>
+        <td class="con">VCPA4</td>
+        <td class="con">V C P</td>
+        <td class="con">PN *</td>
+        <td class="con"><p ALIGN="RIGHT">0,53965762363</td>
+        <td class="con"><p ALIGN="RIGHT">0,575</td>
+      </tr>
+      <tr>
+        <td class="con">VALE3</td>
+        <td class="con">VALE R DOCE</td>
+        <td class="con">ON</td>
+        <td class="con"><p ALIGN="RIGHT">1,34119960002</td>
+        <td class="con"><p ALIGN="RIGHT">1,225</td>
+      </tr>
+      <tr>
+        <td class="con">VALE5</td>
+        <td class="con">VALE R DOCE</td>
+        <td class="con">PNA</td>
+        <td class="con"><p ALIGN="RIGHT">3,15866644834</td>
+        <td class="con"><p ALIGN="RIGHT">2,736</td>
+      </tr>
+      <tr>
+        <td class="TOT" height="15" colspan="3" align="center"><b>QUANTIDADE TEÓRICA TOTAL</b></td>
+        <td class="tot"><b>1.990,69879934664</b></td>
+        <td class="tot"><b><p ALIGN="RIGHT">100,000</b></td>
+      </tr>
+      <tr align="center">
+        <td valign="middle" height="1" colspan="5"
+        background="../../images/Destaques1/Divisor1.gif"></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td class="TXT" width="597"></td>
+  </tr>
+  <tr>
+    <td class="TXT" width="597"><table border="0" cellspacing="1" width="600">
+      <tr>
+        <td class="TXT">Esta relação, com suas respectivas participações, não é
+        necessariamente a que prevalecerá na composição da carteira efetiva.<br>
+        <br>
+        (*) Preço por lote de mil ações </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td class="TXT"><img src="../../images/Comum/transp.gif"><a
+    href="javascript:history.back()"><img src="../../images/Destaques1/BtVoltar.gif"
+    vspace="6" border="0"></a></td>
+  </tr>
+</table>
+</center></div><div align="center"></div><div align="center"></div><div align="center"></div>
+</body>
+</html>

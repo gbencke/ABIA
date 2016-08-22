@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CSNA3.SA (COMPANHIA SIDERURGICA NACIONAL)
+        </TD><TD>As of Jan-31-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jan-31-03</TD><TD>55.00</TD><TD>58.29</TD><TD>55.00</TD><TD>57.75</TD><TD>177,254</TD><TD>53.66</TD></TR>
+<TR>
+<TD>Jan-30-03</TD><TD>55.94</TD><TD>55.94</TD><TD>53.56</TD><TD>55.50</TD><TD>37,471</TD><TD>51.41</TD></TR>
+<TR>
+<TD>Jan-29-03</TD><TD>55.97</TD><TD>55.97</TD><TD>54.01</TD><TD>55.50</TD><TD>92,610</TD><TD>51.41</TD></TR>
+<TR>
+<TD>Jan-28-03</TD><TD>53.00</TD><TD>55.54</TD><TD>53.00</TD><TD>55.00</TD><TD>111,019</TD><TD>50.91</TD></TR>
+<TR>
+<TD>Jan-27-03</TD><TD>53.50</TD><TD>53.60</TD><TD>52.33</TD><TD>53.40</TD><TD>444,901</TD><TD>49.31</TD></TR>
+<TR>
+<TD>Jan-23-03</TD><TD>55.88</TD><TD>55.88</TD><TD>53.94</TD><TD>54.22</TD><TD>155,084</TD><TD>50.13</TD></TR>
+<TR>
+<TD>Jan-22-03</TD><TD>53.53</TD><TD>55.55</TD><TD>53.53</TD><TD>54.80</TD><TD>117,540</TD><TD>50.71</TD></TR>
+<TR>
+<TD>Jan-21-03</TD><TD>52.51</TD><TD>55.81</TD><TD>52.51</TD><TD>55.00</TD><TD>197,574</TD><TD>50.91</TD></TR>
+<TR>
+<TD>Jan-20-03</TD><TD>52.50</TD><TD>53.30</TD><TD>51.80</TD><TD>53.30</TD><TD>36,774</TD><TD>49.21</TD></TR>
+<TR>
+<TD>Jan-17-03</TD><TD>52.07</TD><TD>52.70</TD><TD>51.61</TD><TD>52.70</TD><TD>92,500</TD><TD>48.61</TD></TR>
+<TR>
+<TD>Jan-16-03</TD><TD>54.00</TD><TD>54.00</TD><TD>52.50</TD><TD>53.01</TD><TD>150,998</TD><TD>48.92</TD></TR>
+<TR>
+<TD>Jan-15-03</TD><TD>52.61</TD><TD>55.00</TD><TD>52.61</TD><TD>53.40</TD><TD>84,182</TD><TD>49.31</TD></TR>
+<TR>
+<TD>Jan-14-03</TD><TD>54.00</TD><TD>54.99</TD><TD>52.50</TD><TD>53.49</TD><TD>169,466</TD><TD>49.40</TD></TR>
+<TR>
+<TD>Jan-13-03</TD><TD>54.01</TD><TD>56.48</TD><TD>53.46</TD><TD>53.95</TD><TD>224,353</TD><TD>49.86</TD></TR>
+<TR>
+<TD>Jan-10-03</TD><TD>54.70</TD><TD>56.69</TD><TD>54.70</TD><TD>55.75</TD><TD>258,286</TD><TD>51.66</TD></TR>
+<TR>
+<TD>Jan-09-03</TD><TD>52.90</TD><TD>54.70</TD><TD>52.88</TD><TD>54.15</TD><TD>542,110</TD><TD>50.06</TD></TR>
+<TR>
+<TD>Jan-08-03</TD><TD>51.01</TD><TD>52.79</TD><TD>51.01</TD><TD>52.10</TD><TD>71,913</TD><TD>48.01</TD></TR>
+<TR>
+<TD>Jan-07-03</TD><TD>51.20</TD><TD>53.19</TD><TD>51.20</TD><TD>51.55</TD><TD>187,778</TD><TD>47.46</TD></TR>
+<TR>
+<TD>Jan-06-03</TD><TD>52.48</TD><TD>52.48</TD><TD>50.50</TD><TD>51.20</TD><TD>120,792</TD><TD>47.11</TD></TR>
+<TR>
+<TD>Jan-03-03</TD><TD>52.30</TD><TD>52.70</TD><TD>50.69</TD><TD>50.80</TD><TD>74,070</TD><TD>46.71</TD></TR>
+<TR>
+<TD>Jan-02-03</TD><TD>51.00</TD><TD>52.00</TD><TD>51.00</TD><TD>51.90</TD><TD>57,637</TD><TD>47.81</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

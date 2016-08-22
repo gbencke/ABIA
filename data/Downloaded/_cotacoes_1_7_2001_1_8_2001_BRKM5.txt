@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRKM5.SA (BRASKEM S.A.)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>535.00</TD><TD>538.80</TD><TD>531.01</TD><TD>535.00</TD><TD>1,229</TD><TD>494.53</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>525.00</TD><TD>536.00</TD><TD>525.00</TD><TD>531.00</TD><TD>1,162</TD><TD>490.53</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>539.00</TD><TD>539.00</TD><TD>521.05</TD><TD>521.05</TD><TD>1,082</TD><TD>480.58</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>551.80</TD><TD>551.80</TD><TD>532.03</TD><TD>540.00</TD><TD>1,940</TD><TD>499.53</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>564.99</TD><TD>564.99</TD><TD>540.00</TD><TD>541.00</TD><TD>4,082</TD><TD>500.53</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>545.00</TD><TD>560.00</TD><TD>535.00</TD><TD>547.00</TD><TD>2,655</TD><TD>506.53</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>534.00</TD><TD>545.00</TD><TD>527.00</TD><TD>538.01</TD><TD>3,660</TD><TD>497.54</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>540.00</TD><TD>543.00</TD><TD>534.00</TD><TD>534.00</TD><TD>1,540</TD><TD>493.53</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>548.79</TD><TD>548.79</TD><TD>534.99</TD><TD>539.99</TD><TD>2,301</TD><TD>499.52</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>549.00</TD><TD>549.00</TD><TD>536.00</TD><TD>542.00</TD><TD>225</TD><TD>501.53</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>555.00</TD><TD>560.00</TD><TD>535.02</TD><TD>548.90</TD><TD>1,184</TD><TD>508.43</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>545.00</TD><TD>559.99</TD><TD>545.00</TD><TD>550.00</TD><TD>3,434</TD><TD>509.53</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>585.00</TD><TD>585.00</TD><TD>545.00</TD><TD>545.00</TD><TD>1,206</TD><TD>504.53</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>590.00</TD><TD>590.00</TD><TD>580.00</TD><TD>585.00</TD><TD>2,185</TD><TD>544.53</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>570.00</TD><TD>580.00</TD><TD>569.00</TD><TD>575.00</TD><TD>600</TD><TD>534.53</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>565.00</TD><TD>585.00</TD><TD>550.00</TD><TD>560.00</TD><TD>2,237</TD><TD>519.53</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>568.00</TD><TD>570.00</TD><TD>555.01</TD><TD>565.00</TD><TD>837</TD><TD>524.53</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>568.00</TD><TD>580.00</TD><TD>568.00</TD><TD>573.00</TD><TD>855</TD><TD>532.53</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>590.00</TD><TD>598.00</TD><TD>541.00</TD><TD>569.00</TD><TD>3,684</TD><TD>528.53</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>599.33</TD><TD>606.99</TD><TD>570.00</TD><TD>570.00</TD><TD>2,740</TD><TD>529.53</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>610.00</TD><TD>630.00</TD><TD>591.01</TD><TD>596.00</TD><TD>2,905</TD><TD>555.53</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>565.50</TD><TD>600.00</TD><TD>555.00</TD><TD>600.00</TD><TD>3,287</TD><TD>559.53</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

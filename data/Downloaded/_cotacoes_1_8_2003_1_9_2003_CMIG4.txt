@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CMIG4.SA (COMPANHIA ENERGETICA DE MINAS G)
+        </TD><TD>As of Aug-29-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-29-03</TD><TD>31.11</TD><TD>32.60</TD><TD>31.11</TD><TD>32.39</TD><TD>748,274</TD><TD>31.77</TD></TR>
+<TR>
+<TD>Aug-28-03</TD><TD>30.95</TD><TD>31.95</TD><TD>30.81</TD><TD>31.65</TD><TD>1,132,150</TD><TD>31.03</TD></TR>
+<TR>
+<TD>Aug-27-03</TD><TD>30.20</TD><TD>31.00</TD><TD>30.20</TD><TD>30.95</TD><TD>718,665</TD><TD>30.33</TD></TR>
+<TR>
+<TD>Aug-26-03</TD><TD>29.30</TD><TD>30.48</TD><TD>29.00</TD><TD>30.30</TD><TD>720,148</TD><TD>29.68</TD></TR>
+<TR>
+<TD>Aug-25-03</TD><TD>29.80</TD><TD>29.98</TD><TD>29.20</TD><TD>29.40</TD><TD>528,127</TD><TD>28.78</TD></TR>
+<TR>
+<TD>Aug-22-03</TD><TD>30.00</TD><TD>30.19</TD><TD>29.28</TD><TD>29.78</TD><TD>514,882</TD><TD>29.16</TD></TR>
+<TR>
+<TD>Aug-21-03</TD><TD>29.00</TD><TD>30.10</TD><TD>29.00</TD><TD>30.00</TD><TD>785,653</TD><TD>29.38</TD></TR>
+<TR>
+<TD>Aug-20-03</TD><TD>28.40</TD><TD>29.49</TD><TD>27.98</TD><TD>29.40</TD><TD>885,141</TD><TD>28.78</TD></TR>
+<TR>
+<TD>Aug-19-03</TD><TD>28.51</TD><TD>28.89</TD><TD>28.30</TD><TD>28.70</TD><TD>606,342</TD><TD>28.08</TD></TR>
+<TR>
+<TD>Aug-18-03</TD><TD>27.99</TD><TD>28.50</TD><TD>27.85</TD><TD>28.50</TD><TD>371,438</TD><TD>27.88</TD></TR>
+<TR>
+<TD>Aug-15-03</TD><TD>27.31</TD><TD>27.99</TD><TD>27.30</TD><TD>27.89</TD><TD>350,489</TD><TD>27.27</TD></TR>
+<TR>
+<TD>Aug-14-03</TD><TD>27.00</TD><TD>27.68</TD><TD>26.80</TD><TD>27.46</TD><TD>367,667</TD><TD>26.84</TD></TR>
+<TR>
+<TD>Aug-13-03</TD><TD>27.30</TD><TD>27.45</TD><TD>26.62</TD><TD>27.00</TD><TD>1,207,900</TD><TD>26.38</TD></TR>
+<TR>
+<TD>Aug-12-03</TD><TD>27.53</TD><TD>27.62</TD><TD>26.88</TD><TD>27.10</TD><TD>477,969</TD><TD>26.48</TD></TR>
+<TR>
+<TD>Aug-11-03</TD><TD>27.45</TD><TD>27.62</TD><TD>27.10</TD><TD>27.48</TD><TD>365,543</TD><TD>26.86</TD></TR>
+<TR>
+<TD>Aug-08-03</TD><TD>26.96</TD><TD>27.40</TD><TD>26.69</TD><TD>27.20</TD><TD>602,962</TD><TD>26.58</TD></TR>
+<TR>
+<TD>Aug-07-03</TD><TD>26.00</TD><TD>26.50</TD><TD>25.61</TD><TD>26.50</TD><TD>625,177</TD><TD>25.88</TD></TR>
+<TR>
+<TD>Aug-06-03</TD><TD>26.73</TD><TD>26.95</TD><TD>25.70</TD><TD>25.70</TD><TD>588,551</TD><TD>25.08</TD></TR>
+<TR>
+<TD>Aug-05-03</TD><TD>26.41</TD><TD>26.73</TD><TD>25.65</TD><TD>26.60</TD><TD>494,219</TD><TD>25.98</TD></TR>
+<TR>
+<TD>Aug-04-03</TD><TD>26.79</TD><TD>26.79</TD><TD>25.65</TD><TD>26.00</TD><TD>297,173</TD><TD>25.38</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>27.30</TD><TD>27.35</TD><TD>26.55</TD><TD>26.57</TD><TD>562,892</TD><TD>25.95</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CSTB4.SA (COMPANHIA SIDERURGICA DE TUBARA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>36.49</TD><TD>36.49</TD><TD>35.61</TD><TD>36.00</TD><TD>29,271</TD><TD>30.90</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>36.70</TD><TD>37.40</TD><TD>35.29</TD><TD>36.49</TD><TD>124,583</TD><TD>31.39</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>35.00</TD><TD>37.30</TD><TD>35.00</TD><TD>37.08</TD><TD>192,084</TD><TD>31.98</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>33.30</TD><TD>34.51</TD><TD>33.15</TD><TD>34.50</TD><TD>187,643</TD><TD>29.40</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>33.99</TD><TD>34.21</TD><TD>33.30</TD><TD>33.50</TD><TD>45,028</TD><TD>28.40</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>34.01</TD><TD>34.55</TD><TD>34.01</TD><TD>34.21</TD><TD>66,497</TD><TD>29.11</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>35.20</TD><TD>35.80</TD><TD>33.81</TD><TD>34.80</TD><TD>130,585</TD><TD>29.70</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>33.83</TD><TD>35.20</TD><TD>32.52</TD><TD>35.20</TD><TD>83,699</TD><TD>30.10</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>34.30</TD><TD>35.05</TD><TD>34.30</TD><TD>34.52</TD><TD>43,814</TD><TD>29.42</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>34.85</TD><TD>36.50</TD><TD>34.01</TD><TD>35.30</TD><TD>7,820</TD><TD>30.20</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>33.95</TD><TD>34.90</TD><TD>33.95</TD><TD>34.00</TD><TD>52,585</TD><TD>28.90</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>32.80</TD><TD>33.95</TD><TD>32.80</TD><TD>33.41</TD><TD>77,218</TD><TD>28.31</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>32.30</TD><TD>32.50</TD><TD>31.37</TD><TD>32.45</TD><TD>144,350</TD><TD>27.35</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>31.90</TD><TD>32.50</TD><TD>31.30</TD><TD>32.45</TD><TD>97,364</TD><TD>27.35</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>31.90</TD><TD>31.90</TD><TD>30.90</TD><TD>31.90</TD><TD>112,577</TD><TD>26.80</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>32.00</TD><TD>32.99</TD><TD>31.75</TD><TD>31.90</TD><TD>30,825</TD><TD>26.80</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>30.85</TD><TD>32.00</TD><TD>30.85</TD><TD>31.80</TD><TD>114,131</TD><TD>26.70</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>31.00</TD><TD>31.69</TD><TD>30.70</TD><TD>31.28</TD><TD>34,221</TD><TD>26.18</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>29.02</TD><TD>31.99</TD><TD>29.02</TD><TD>31.20</TD><TD>107,324</TD><TD>26.10</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>29.80</TD><TD>30.49</TD><TD>29.70</TD><TD>29.83</TD><TD>20,800</TD><TD>24.73</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>29.90</TD><TD>30.50</TD><TD>29.71</TD><TD>30.19</TD><TD>60,261</TD><TD>25.09</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>29.50</TD><TD>29.80</TD><TD>29.30</TD><TD>29.50</TD><TD>55,473</TD><TD>24.40</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>29.70</TD><TD>29.70</TD><TD>29.00</TD><TD>29.50</TD><TD>135,986</TD><TD>24.40</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>28.10</TD><TD>29.70</TD><TD>28.10</TD><TD>29.70</TD><TD>104,166</TD><TD>24.60</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

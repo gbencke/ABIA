@@ -1,0 +1,189 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DF VASCONCELLOS S.A. OPTIC MEC ALTA PREC&ccvm=5029&site=B&pregao=D F VASCONC&mercado=1&pagina=itr_dfp_ian">D F VASCONC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DF VASCONCELLOS S.A. OPTIC MEC ALTA PREC&ccvm=5029&site=B&pregao=D F VASCONC&mercado=1&pagina=itr_dfp_ian">DF VASCONCELLOS S.A. OPTIC MEC ALTA PREC</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DF VASCONCELLOS S.A. OPTIC MEC ALTA PREC&ccvm=5029&site=B&pregao=D F VASCONC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DHB INDUSTRIA E COMERCIO S.A.&ccvm=5150&site=B&pregao=D H B&mercado=1&pagina=itr_dfp_ian">D H B</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DHB INDUSTRIA E COMERCIO S.A.&ccvm=5150&site=B&pregao=D H B&mercado=1&pagina=itr_dfp_ian">DHB INDUSTRIA E COMERCIO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DHB INDUSTRIA E COMERCIO S.A.&ccvm=5150&site=B&pregao=D H B&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DIJON S.A.&ccvm=13838&site=B&pregao=DIJON&mercado=1&pagina=itr_dfp_ian">DIJON</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DIJON S.A.&ccvm=13838&site=B&pregao=DIJON&mercado=1&pagina=itr_dfp_ian">DIJON S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DIJON S.A.&ccvm=13838&site=B&pregao=DIJON&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS&ccvm=9342&site=B&pregao=DIMED&mercado=1&pagina=itr_dfp_ian">DIMED</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS&ccvm=9342&site=B&pregao=DIMED&mercado=1&pagina=itr_dfp_ian">DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS&ccvm=9342&site=B&pregao=DIMED&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DIXIE TOGA S.A.&ccvm=14931&site=B&pregao=DIXIE TOGA&mercado=1&pagina=itr_dfp_ian">DIXIE TOGA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DIXIE TOGA S.A.&ccvm=14931&site=B&pregao=DIXIE TOGA&mercado=1&pagina=itr_dfp_ian">DIXIE TOGA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DIXIE TOGA S.A.&ccvm=14931&site=B&pregao=DIXIE TOGA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA DOCAS DE IMBITUBA&ccvm=3174&site=B&pregao=DOC IMBITUBA&mercado=1&pagina=itr_dfp_ian">DOC IMBITUBA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA DOCAS DE IMBITUBA&ccvm=3174&site=B&pregao=DOC IMBITUBA&mercado=1&pagina=itr_dfp_ian">CIA DOCAS DE IMBITUBA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA DOCAS DE IMBITUBA&ccvm=3174&site=B&pregao=DOC IMBITUBA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DOCAS INVESTIMENTOS S.A.&ccvm=3182&site=B&pregao=DOCAS&mercado=1&pagina=itr_dfp_ian">DOCAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DOCAS INVESTIMENTOS S.A.&ccvm=3182&site=B&pregao=DOCAS&mercado=1&pagina=itr_dfp_ian">DOCAS INVESTIMENTOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DOCAS INVESTIMENTOS S.A.&ccvm=3182&site=B&pregao=DOCAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DOHLER S.A.&ccvm=5207&site=B&pregao=DOHLER&mercado=1&pagina=itr_dfp_ian">DOHLER</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DOHLER S.A.&ccvm=5207&site=B&pregao=DOHLER&mercado=1&pagina=itr_dfp_ian">DOHLER S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DOHLER S.A.&ccvm=5207&site=B&pregao=DOHLER&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DOUAT CIA TEXTIL&ccvm=11363&site=B&pregao=DOUAT TEXTIL&mercado=1&pagina=itr_dfp_ian">DOUAT TEXTIL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DOUAT CIA TEXTIL&ccvm=11363&site=B&pregao=DOUAT TEXTIL&mercado=1&pagina=itr_dfp_ian">DOUAT CIA TEXTIL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DOUAT CIA TEXTIL&ccvm=11363&site=B&pregao=DOUAT TEXTIL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DROGASIL S.A.&ccvm=5258&site=B&pregao=DROGASIL&mercado=1&pagina=itr_dfp_ian">DROGASIL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DROGASIL S.A.&ccvm=5258&site=B&pregao=DROGASIL&mercado=1&pagina=itr_dfp_ian">DROGASIL S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DROGASIL S.A.&ccvm=5258&site=B&pregao=DROGASIL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DTCOM - DIRECT TO COMPANY S.A.&ccvm=18597&site=B&pregao=DTCOM-DIRECT&mercado=1&pagina=itr_dfp_ian">DTCOM-DIRECT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DTCOM - DIRECT TO COMPANY S.A.&ccvm=18597&site=B&pregao=DTCOM-DIRECT&mercado=1&pagina=itr_dfp_ian">DTCOM - DIRECT TO COMPANY S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DTCOM - DIRECT TO COMPANY S.A.&ccvm=18597&site=B&pregao=DTCOM-DIRECT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DURATEX S.A.&ccvm=5274&site=B&pregao=DURATEX&mercado=1&pagina=itr_dfp_ian">DURATEX</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DURATEX S.A.&ccvm=5274&site=B&pregao=DURATEX&mercado=1&pagina=itr_dfp_ian">DURATEX S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DURATEX S.A.&ccvm=5274&site=B&pregao=DURATEX&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

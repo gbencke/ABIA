@@ -1,0 +1,108 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TMAR5.SA (TELEMAR NORTE LESTE SA)
+        </TD><TD>As of Nov-29-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-29-01</TD><TD>54.01</TD><TD>54.01</TD><TD>51.95</TD><TD>52.25</TD><TD>192,821</TD><TD>49.00</TD></TR>
+<TR>
+<TD>Nov-28-01</TD><TD>54.60</TD><TD>54.61</TD><TD>53.50</TD><TD>53.69</TD><TD>277,142</TD><TD>50.44</TD></TR>
+<TR>
+<TD>Nov-27-01</TD><TD>55.45</TD><TD>55.60</TD><TD>54.70</TD><TD>55.30</TD><TD>479,518</TD><TD>52.05</TD></TR>
+<TR>
+<TD>Nov-26-01</TD><TD>55.00</TD><TD>55.45</TD><TD>54.30</TD><TD>55.43</TD><TD>400,274</TD><TD>52.18</TD></TR>
+<TR>
+<TD>Nov-23-01</TD><TD>53.20</TD><TD>54.50</TD><TD>52.50</TD><TD>54.20</TD><TD>327,500</TD><TD>50.95</TD></TR>
+<TR>
+<TD>Nov-22-01</TD><TD>52.32</TD><TD>52.70</TD><TD>52.20</TD><TD>52.61</TD><TD>139,962</TD><TD>49.36</TD></TR>
+<TR>
+<TD>Nov-21-01</TD><TD>52.10</TD><TD>52.85</TD><TD>51.00</TD><TD>52.10</TD><TD>297,103</TD><TD>48.85</TD></TR>
+<TR>
+<TD>Nov-20-01</TD><TD>53.15</TD><TD>53.25</TD><TD>52.00</TD><TD>52.85</TD><TD>441,542</TD><TD>49.60</TD></TR>
+<TR>
+<TD>Nov-19-01</TD><TD>51.90</TD><TD>53.75</TD><TD>51.90</TD><TD>53.59</TD><TD>891,635</TD><TD>50.34</TD></TR>
+<TR>
+<TD>Nov-16-01</TD><TD>52.00</TD><TD>52.00</TD><TD>51.30</TD><TD>51.90</TD><TD>374,007</TD><TD>48.65</TD></TR>
+<TR>
+<TD>Nov-14-01</TD><TD>51.40</TD><TD>52.10</TD><TD>50.95</TD><TD>51.59</TD><TD>507,682</TD><TD>48.34</TD></TR>
+<TR>
+<TD>Nov-13-01</TD><TD>52.00</TD><TD>52.80</TD><TD>51.15</TD><TD>51.50</TD><TD>799,568</TD><TD>48.25</TD></TR>
+<TR>
+<TD>Nov-12-01</TD><TD>50.60</TD><TD>50.90</TD><TD>48.50</TD><TD>50.59</TD><TD>459,134</TD><TD>47.34</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,475 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TAM S.A.&ccvm=16390&site=B&pregao=TAM S/A&mercado=1&pagina=itr_dfp_ian">TAM S/A</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TAM S.A.&ccvm=16390&site=B&pregao=TAM S/A&mercado=1&pagina=itr_dfp_ian">TAM S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TAM S.A.&ccvm=16390&site=B&pregao=TAM S/A&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TECBLU TECELAGEM BLUMENAU S.A.&ccvm=11215&site=B&pregao=TEC BLUMENAU&mercado=1&pagina=itr_dfp_ian">TEC BLUMENAU</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TECBLU TECELAGEM BLUMENAU S.A.&ccvm=11215&site=B&pregao=TEC BLUMENAU&mercado=1&pagina=itr_dfp_ian">TECBLU TECELAGEM BLUMENAU S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TECBLU TECELAGEM BLUMENAU S.A.&ccvm=11215&site=B&pregao=TEC BLUMENAU&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FIACAO TEC SAO JOSE S.A.&ccvm=5983&site=B&pregao=TECEL S JOSE&mercado=1&pagina=itr_dfp_ian">TECEL S JOSE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FIACAO TEC SAO JOSE S.A.&ccvm=5983&site=B&pregao=TECEL S JOSE&mercado=1&pagina=itr_dfp_ian">FIACAO TEC SAO JOSE S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FIACAO TEC SAO JOSE S.A.&ccvm=5983&site=B&pregao=TECEL S JOSE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TECHNOS RELOGIOS S.A.&ccvm=11169&site=B&pregao=TECHNOS REL&mercado=1&pagina=itr_dfp_ian">TECHNOS REL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TECHNOS RELOGIOS S.A.&ccvm=11169&site=B&pregao=TECHNOS REL&mercado=1&pagina=itr_dfp_ian">TECHNOS RELOGIOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TECHNOS RELOGIOS S.A.&ccvm=11169&site=B&pregao=TECHNOS REL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TECNOSOLO ENG E TEC DE SOLO MAT S.A.&ccvm=11207&site=B&pregao=TECNOSOLO&mercado=1&pagina=itr_dfp_ian">TECNOSOLO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TECNOSOLO ENG E TEC DE SOLO MAT S.A.&ccvm=11207&site=B&pregao=TECNOSOLO&mercado=1&pagina=itr_dfp_ian">TECNOSOLO ENG E TEC DE SOLO MAT S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TECNOSOLO ENG E TEC DE SOLO MAT S.A.&ccvm=11207&site=B&pregao=TECNOSOLO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TEC TOY S.A.&ccvm=14133&site=B&pregao=TECTOY&mercado=1&pagina=itr_dfp_ian">TECTOY</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TEC TOY S.A.&ccvm=14133&site=B&pregao=TECTOY&mercado=1&pagina=itr_dfp_ian">TEC TOY S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TEC TOY S.A.&ccvm=14133&site=B&pregao=TECTOY&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEFONICA DATA BRASIL HOLDING S.A.&ccvm=18937&site=B&pregao=TEF DATA BRA&mercado=1&pagina=itr_dfp_ian">TEF DATA BRA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEFONICA DATA BRASIL HOLDING S.A.&ccvm=18937&site=B&pregao=TEF DATA BRA&mercado=1&pagina=itr_dfp_ian">TELEFONICA DATA BRASIL HOLDING S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELEFONICA DATA BRASIL HOLDING S.A.&ccvm=18937&site=B&pregao=TEF DATA BRA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TEKA-TECELAGEM KUEHNRICH S.A.&ccvm=11223&site=B&pregao=TEKA&mercado=1&pagina=itr_dfp_ian">TEKA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TEKA-TECELAGEM KUEHNRICH S.A.&ccvm=11223&site=B&pregao=TEKA&mercado=1&pagina=itr_dfp_ian">TEKA-TECELAGEM KUEHNRICH S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TEKA-TECELAGEM KUEHNRICH S.A.&ccvm=11223&site=B&pregao=TEKA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TEKNO S.A. CONSTRUCOES IND E COM&ccvm=11231&site=B&pregao=TEKNO&mercado=1&pagina=itr_dfp_ian">TEKNO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TEKNO S.A. CONSTRUCOES IND E COM&ccvm=11231&site=B&pregao=TEKNO&mercado=1&pagina=itr_dfp_ian">TEKNO S.A. CONSTRUCOES IND E COM</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TEKNO S.A. CONSTRUCOES IND E COM&ccvm=11231&site=B&pregao=TEKNO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE CELULAR SUL PARTICIPACOES S.A.&ccvm=17639&site=B&pregao=TELE CL SUL&mercado=1&pagina=itr_dfp_ian">TELE CL SUL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE CELULAR SUL PARTICIPACOES S.A.&ccvm=17639&site=B&pregao=TELE CL SUL&mercado=1&pagina=itr_dfp_ian">TELE CELULAR SUL PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELE CELULAR SUL PARTICIPACOES S.A.&ccvm=17639&site=B&pregao=TELE CL SUL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE CENTRO OESTE CEL PARTICIPACOES S.A.&ccvm=17612&site=B&pregao=TELE CTR OES&mercado=1&pagina=itr_dfp_ian">TELE CTR OES</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE CENTRO OESTE CEL PARTICIPACOES S.A.&ccvm=17612&site=B&pregao=TELE CTR OES&mercado=1&pagina=itr_dfp_ian">TELE CENTRO OESTE CEL PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELE CENTRO OESTE CEL PARTICIPACOES S.A.&ccvm=17612&site=B&pregao=TELE CTR OES&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE LESTE CELULAR PARTICIPACOES S.A.&ccvm=17698&site=B&pregao=TELE LEST CL&mercado=1&pagina=itr_dfp_ian">TELE LEST CL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE LESTE CELULAR PARTICIPACOES S.A.&ccvm=17698&site=B&pregao=TELE LEST CL&mercado=1&pagina=itr_dfp_ian">TELE LESTE CELULAR PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELE LESTE CELULAR PARTICIPACOES S.A.&ccvm=17698&site=B&pregao=TELE LEST CL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE NORDESTE CELULAR PARTICIPACOES S.A.&ccvm=17663&site=B&pregao=TELE NORD CL&mercado=1&pagina=itr_dfp_ian">TELE NORD CL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE NORDESTE CELULAR PARTICIPACOES S.A.&ccvm=17663&site=B&pregao=TELE NORD CL&mercado=1&pagina=itr_dfp_ian">TELE NORDESTE CELULAR PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELE NORDESTE CELULAR PARTICIPACOES S.A.&ccvm=17663&site=B&pregao=TELE NORD CL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE NORTE CELULAR PARTICIPACOES S.A.&ccvm=17604&site=B&pregao=TELE NORT CL&mercado=1&pagina=itr_dfp_ian">TELE NORT CL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE NORTE CELULAR PARTICIPACOES S.A.&ccvm=17604&site=B&pregao=TELE NORT CL&mercado=1&pagina=itr_dfp_ian">TELE NORTE CELULAR PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELE NORTE CELULAR PARTICIPACOES S.A.&ccvm=17604&site=B&pregao=TELE NORT CL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE SUDESTE CELULAR PARTICIPACOES S.A.&ccvm=17620&site=B&pregao=TELE SUDESTE&mercado=1&pagina=itr_dfp_ian">TELE SUDESTE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE SUDESTE CELULAR PARTICIPACOES S.A.&ccvm=17620&site=B&pregao=TELE SUDESTE&mercado=1&pagina=itr_dfp_ian">TELE SUDESTE CELULAR PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELE SUDESTE CELULAR PARTICIPACOES S.A.&ccvm=17620&site=B&pregao=TELE SUDESTE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEC BRASILEIRAS S.A. TELEBRAS&ccvm=11258&site=B&pregao=TELEBRAS&mercado=1&pagina=itr_dfp_ian">TELEBRAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEC BRASILEIRAS S.A. TELEBRAS&ccvm=11258&site=B&pregao=TELEBRAS&mercado=1&pagina=itr_dfp_ian">TELEC BRASILEIRAS S.A. TELEBRAS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELEC BRASILEIRAS S.A. TELEBRAS&ccvm=11258&site=B&pregao=TELEBRAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEFONICA S.A.&ccvm=80004&site=B&pregao=TELEFONICA&mercado=14&pagina=itr_dfp_ian">TELEFONICA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEFONICA S.A.&ccvm=80004&site=B&pregao=TELEFONICA&mercado=14&pagina=itr_dfp_ian">TELEFONICA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELEFONICA S.A.&ccvm=80004&site=B&pregao=TELEFONICA&mercado=14&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE NORTE LESTE PARTICIPACOES S.A.&ccvm=17655&site=B&pregao=TELEMAR&mercado=1&pagina=itr_dfp_ian">TELEMAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELE NORTE LESTE PARTICIPACOES S.A.&ccvm=17655&site=B&pregao=TELEMAR&mercado=1&pagina=itr_dfp_ian">TELE NORTE LESTE PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELE NORTE LESTE PARTICIPACOES S.A.&ccvm=17655&site=B&pregao=TELEMAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEMAR NORTE LESTE S.A.&ccvm=11320&site=B&pregao=TELEMAR N L&mercado=1&pagina=itr_dfp_ian">TELEMAR N L</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEMAR NORTE LESTE S.A.&ccvm=11320&site=B&pregao=TELEMAR N L&mercado=1&pagina=itr_dfp_ian">TELEMAR NORTE LESTE S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELEMAR NORTE LESTE S.A.&ccvm=11320&site=B&pregao=TELEMAR N L&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEMAR PARTICIPACOES S.A.&ccvm=18678&site=B&pregao=TELEMAR PART&mercado=8&pagina=itr_dfp_ian">TELEMAR PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEMAR PARTICIPACOES S.A.&ccvm=18678&site=B&pregao=TELEMAR PART&mercado=8&pagina=itr_dfp_ian">TELEMAR PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELEMAR PARTICIPACOES S.A.&ccvm=18678&site=B&pregao=TELEMAR PART&mercado=8&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEMIG CELULAR S.A.&ccvm=17213&site=B&pregao=TELEMIG CL&mercado=1&pagina=itr_dfp_ian">TELEMIG CL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEMIG CELULAR S.A.&ccvm=17213&site=B&pregao=TELEMIG CL&mercado=1&pagina=itr_dfp_ian">TELEMIG CELULAR S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELEMIG CELULAR S.A.&ccvm=17213&site=B&pregao=TELEMIG CL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEMIG CELULAR PARTICIPACOES S.A.&ccvm=17701&site=B&pregao=TELEMIG PART&mercado=1&pagina=itr_dfp_ian">TELEMIG PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEMIG CELULAR PARTICIPACOES S.A.&ccvm=17701&site=B&pregao=TELEMIG PART&mercado=1&pagina=itr_dfp_ian">TELEMIG CELULAR PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELEMIG CELULAR PARTICIPACOES S.A.&ccvm=17701&site=B&pregao=TELEMIG PART&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEC DE SAO PAULO S.A. - TELESP&ccvm=17671&site=B&pregao=TELESP&mercado=1&pagina=itr_dfp_ian">TELESP</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELEC DE SAO PAULO S.A. - TELESP&ccvm=17671&site=B&pregao=TELESP&mercado=1&pagina=itr_dfp_ian">TELEC DE SAO PAULO S.A. - TELESP</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELEC DE SAO PAULO S.A. - TELESP&ccvm=17671&site=B&pregao=TELESP&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELESP CELULAR PARTICIPACOES S.A.&ccvm=17710&site=B&pregao=TELESP CL PA&mercado=1&pagina=itr_dfp_ian">TELESP CL PA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELESP CELULAR PARTICIPACOES S.A.&ccvm=17710&site=B&pregao=TELESP CL PA&mercado=1&pagina=itr_dfp_ian">TELESP CELULAR PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELESP CELULAR PARTICIPACOES S.A.&ccvm=17710&site=B&pregao=TELESP CL PA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELET S.A.&ccvm=16152&site=B&pregao=TELET&mercado=1&pagina=itr_dfp_ian">TELET</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TELET S.A.&ccvm=16152&site=B&pregao=TELET&mercado=1&pagina=itr_dfp_ian">TELET S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TELET S.A.&ccvm=16152&site=B&pregao=TELET&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TERMINAIS PORTUARIOS PONTA DO FELIX S.A.&ccvm=15407&site=B&pregao=TERMIN PORT&mercado=1&pagina=itr_dfp_ian">TERMIN PORT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TERMINAIS PORTUARIOS PONTA DO FELIX S.A.&ccvm=15407&site=B&pregao=TERMIN PORT&mercado=1&pagina=itr_dfp_ian">TERMINAIS PORTUARIOS PONTA DO FELIX S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TERMINAIS PORTUARIOS PONTA DO FELIX S.A.&ccvm=15407&site=B&pregao=TERMIN PORT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TEXTIL RENAUX S.A.&ccvm=7544&site=B&pregao=TEX RENAUX&mercado=1&pagina=itr_dfp_ian">TEX RENAUX</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TEXTIL RENAUX S.A.&ccvm=7544&site=B&pregao=TEX RENAUX&mercado=1&pagina=itr_dfp_ian">TEXTIL RENAUX S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TEXTIL RENAUX S.A.&ccvm=7544&site=B&pregao=TEX RENAUX&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA THERMAS DO RIO QUENTE&ccvm=4154&site=B&pregao=THERMAS RIO&mercado=1&pagina=itr_dfp_ian">THERMAS RIO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA THERMAS DO RIO QUENTE&ccvm=4154&site=B&pregao=THERMAS RIO&mercado=1&pagina=itr_dfp_ian">CIA THERMAS DO RIO QUENTE</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA THERMAS DO RIO QUENTE&ccvm=4154&site=B&pregao=THERMAS RIO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TIM SUL S.A.&ccvm=17221&site=B&pregao=TIM SUL&mercado=1&pagina=itr_dfp_ian">TIM SUL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TIM SUL S.A.&ccvm=17221&site=B&pregao=TIM SUL&mercado=1&pagina=itr_dfp_ian">TIM SUL S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TIM SUL S.A.&ccvm=17221&site=B&pregao=TIM SUL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRACTEBEL ENERGIA S.A.&ccvm=17329&site=B&pregao=TRACTEBEL&mercado=1&pagina=itr_dfp_ian">TRACTEBEL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRACTEBEL ENERGIA S.A.&ccvm=17329&site=B&pregao=TRACTEBEL&mercado=1&pagina=itr_dfp_ian">TRACTEBEL ENERGIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TRACTEBEL ENERGIA S.A.&ccvm=17329&site=B&pregao=TRACTEBEL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRAFO EQUIPAMENTOS ELETRICOS S.A.&ccvm=11452&site=B&pregao=TRAFO&mercado=1&pagina=itr_dfp_ian">TRAFO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRAFO EQUIPAMENTOS ELETRICOS S.A.&ccvm=11452&site=B&pregao=TRAFO&mercado=1&pagina=itr_dfp_ian">TRAFO EQUIPAMENTOS ELETRICOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TRAFO EQUIPAMENTOS ELETRICOS S.A.&ccvm=11452&site=B&pregao=TRAFO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA TRANSMISSAO ENERGIA ELET PAULISTA&ccvm=18376&site=B&pregao=TRAN PAULIST&mercado=16&pagina=itr_dfp_ian">TRAN PAULIST</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA TRANSMISSAO ENERGIA ELET PAULISTA&ccvm=18376&site=B&pregao=TRAN PAULIST&mercado=16&pagina=itr_dfp_ian">CIA TRANSMISSAO ENERGIA ELET PAULISTA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA TRANSMISSAO ENERGIA ELET PAULISTA&ccvm=18376&site=B&pregao=TRAN PAULIST&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRANSBRASIL S.A. LINHAS AEREAS&ccvm=11479&site=B&pregao=TRANSBRASIL&mercado=1&pagina=itr_dfp_ian">TRANSBRASIL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRANSBRASIL S.A. LINHAS AEREAS&ccvm=11479&site=B&pregao=TRANSBRASIL&mercado=1&pagina=itr_dfp_ian">TRANSBRASIL S.A. LINHAS AEREAS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TRANSBRASIL S.A. LINHAS AEREAS&ccvm=11479&site=B&pregao=TRANSBRASIL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TREVISA INVESTIMENTOS S.A.&ccvm=8192&site=B&pregao=TREVISA&mercado=1&pagina=itr_dfp_ian">TREVISA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TREVISA INVESTIMENTOS S.A.&ccvm=8192&site=B&pregao=TREVISA&mercado=1&pagina=itr_dfp_ian">TREVISA INVESTIMENTOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TREVISA INVESTIMENTOS S.A.&ccvm=8192&site=B&pregao=TREVISA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRIKEM S.A.&ccvm=4910&site=B&pregao=TRIKEM&mercado=1&pagina=itr_dfp_ian">TRIKEM</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRIKEM S.A.&ccvm=4910&site=B&pregao=TRIKEM&mercado=1&pagina=itr_dfp_ian">TRIKEM S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TRIKEM S.A.&ccvm=4910&site=B&pregao=TRIKEM&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRIUNFO PARTICIP E INVESTIMENTOS S.A.&ccvm=19330&site=B&pregao=TRIUNFO PART&mercado=1&pagina=itr_dfp_ian">TRIUNFO PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRIUNFO PARTICIP E INVESTIMENTOS S.A.&ccvm=19330&site=B&pregao=TRIUNFO PART&mercado=1&pagina=itr_dfp_ian">TRIUNFO PARTICIP E INVESTIMENTOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TRIUNFO PARTICIP E INVESTIMENTOS S.A.&ccvm=19330&site=B&pregao=TRIUNFO PART&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRORION S.A.&ccvm=11525&site=B&pregao=TRORION&mercado=1&pagina=itr_dfp_ian">TRORION</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TRORION S.A.&ccvm=11525&site=B&pregao=TRORION&mercado=1&pagina=itr_dfp_ian">TRORION S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TRORION S.A.&ccvm=11525&site=B&pregao=TRORION&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TUPY S.A.&ccvm=6343&site=B&pregao=TUPY&mercado=1&pagina=itr_dfp_ian">TUPY</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=TUPY S.A.&ccvm=6343&site=B&pregao=TUPY&mercado=1&pagina=itr_dfp_ian">TUPY S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=TUPY S.A.&ccvm=6343&site=B&pregao=TUPY&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

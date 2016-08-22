@@ -1,0 +1,140 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - PLIM4.SA (NET SERVICOS DE COMUNICACAO SA)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>0.26</TD><TD>0.28</TD><TD>0.25</TD><TD>0.28</TD><TD>10,237</TD><TD>0.28</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>0.27</TD><TD>0.28</TD><TD>0.26</TD><TD>0.26</TD><TD>4,927</TD><TD>0.26</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>0.28</TD><TD>0.29</TD><TD>0.26</TD><TD>0.28</TD><TD>10,798</TD><TD>0.28</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>0.21</TD><TD>0.28</TD><TD>0.19</TD><TD>0.28</TD><TD>26,398</TD><TD>0.28</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>0.26</TD><TD>0.27</TD><TD>0.22</TD><TD>0.23</TD><TD>26,062</TD><TD>0.23</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>0.30</TD><TD>0.30</TD><TD>0.26</TD><TD>0.27</TD><TD>17,598</TD><TD>0.27</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>0.30</TD><TD>0.31</TD><TD>0.29</TD><TD>0.29</TD><TD>9,664</TD><TD>0.29</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>0.31</TD><TD>0.31</TD><TD>0.28</TD><TD>0.30</TD><TD>13,682</TD><TD>0.30</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>0.28</TD><TD>0.31</TD><TD>0.27</TD><TD>0.31</TD><TD>8,583</TD><TD>0.31</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>0.28</TD><TD>0.30</TD><TD>0.27</TD><TD>0.28</TD><TD>6,009</TD><TD>0.28</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>0.27</TD><TD>0.29</TD><TD>0.26</TD><TD>0.28</TD><TD>8,877</TD><TD>0.28</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>0.24</TD><TD>0.28</TD><TD>0.23</TD><TD>0.27</TD><TD>19,718</TD><TD>0.27</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>0.23</TD><TD>0.24</TD><TD>0.22</TD><TD>0.24</TD><TD>11,277</TD><TD>0.24</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>0.23</TD><TD>0.23</TD><TD>0.22</TD><TD>0.23</TD><TD>2,218</TD><TD>0.23</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>0.24</TD><TD>0.24</TD><TD>0.22</TD><TD>0.22</TD><TD>3,714</TD><TD>0.22</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>0.23</TD><TD>0.24</TD><TD>0.22</TD><TD>0.24</TD><TD>4,439</TD><TD>0.24</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>0.23</TD><TD>0.24</TD><TD>0.22</TD><TD>0.23</TD><TD>4,037</TD><TD>0.23</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>0.22</TD><TD>0.23</TD><TD>0.22</TD><TD>0.23</TD><TD>2,871</TD><TD>0.23</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>0.24</TD><TD>0.24</TD><TD>0.22</TD><TD>0.23</TD><TD>5,066</TD><TD>0.23</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>0.25</TD><TD>0.25</TD><TD>0.23</TD><TD>0.24</TD><TD>1,785</TD><TD>0.24</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>0.24</TD><TD>0.26</TD><TD>0.22</TD><TD>0.25</TD><TD>11,523</TD><TD>0.25</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>0.24</TD><TD>0.25</TD><TD>0.23</TD><TD>0.24</TD><TD>4,898</TD><TD>0.24</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>0.26</TD><TD>0.27</TD><TD>0.23</TD><TD>0.24</TD><TD>7,818</TD><TD>0.24</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>0.26</TD><TD>0.27</TD><TD>0.24</TD><TD>0.26</TD><TD>8,401</TD><TD>0.26</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

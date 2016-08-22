@@ -1,0 +1,134 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ULTRAPAR PARTICIPACOES S.A.&ccvm=18465&site=B&pregao=ULTRAPAR&mercado=1&pagina=itr_dfp_ian">ULTRAPAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ULTRAPAR PARTICIPACOES S.A.&ccvm=18465&site=B&pregao=ULTRAPAR&mercado=1&pagina=itr_dfp_ian">ULTRAPAR PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ULTRAPAR PARTICIPACOES S.A.&ccvm=18465&site=B&pregao=ULTRAPAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=UNIBANCO UNIAO DE BCOS BRASILEIROS S.A.&ccvm=11584&site=B&pregao=UNIBANCO&mercado=16&pagina=itr_dfp_ian">UNIBANCO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=UNIBANCO UNIAO DE BCOS BRASILEIROS S.A.&ccvm=11584&site=B&pregao=UNIBANCO&mercado=16&pagina=itr_dfp_ian">UNIBANCO UNIAO DE BCOS BRASILEIROS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=UNIBANCO UNIAO DE BCOS BRASILEIROS S.A.&ccvm=11584&site=B&pregao=UNIBANCO&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=UNIBANCO HOLDINGS S.A.&ccvm=14753&site=B&pregao=UNIBANCO HLD&mercado=16&pagina=itr_dfp_ian">UNIBANCO HLD</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=UNIBANCO HOLDINGS S.A.&ccvm=14753&site=B&pregao=UNIBANCO HLD&mercado=16&pagina=itr_dfp_ian">UNIBANCO HOLDINGS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=UNIBANCO HOLDINGS S.A.&ccvm=14753&site=B&pregao=UNIBANCO HLD&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=UNIPAR UNIAO DE IND PETROQ S.A.&ccvm=11592&site=B&pregao=UNIPAR&mercado=1&pagina=itr_dfp_ian">UNIPAR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=UNIPAR UNIAO DE IND PETROQ S.A.&ccvm=11592&site=B&pregao=UNIPAR&mercado=1&pagina=itr_dfp_ian">UNIPAR UNIAO DE IND PETROQ S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=UNIPAR UNIAO DE IND PETROQ S.A.&ccvm=11592&site=B&pregao=UNIPAR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=UOL INC. S.A.&ccvm=18473&site=B&pregao=UOL INC&mercado=1&pagina=itr_dfp_ian">UOL INC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=UOL INC. S.A.&ccvm=18473&site=B&pregao=UOL INC&mercado=1&pagina=itr_dfp_ian">UOL INC. S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=UOL INC. S.A.&ccvm=18473&site=B&pregao=UOL INC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=USINAS SID DE MINAS GERAIS S.A.-USIMINAS&ccvm=14320&site=B&pregao=USIMINAS&mercado=1&pagina=itr_dfp_ian">USIMINAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=USINAS SID DE MINAS GERAIS S.A.-USIMINAS&ccvm=14320&site=B&pregao=USIMINAS&mercado=1&pagina=itr_dfp_ian">USINAS SID DE MINAS GERAIS S.A.-USIMINAS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=USINAS SID DE MINAS GERAIS S.A.-USIMINAS&ccvm=14320&site=B&pregao=USIMINAS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=USINA COSTA PINTO S.A. ACUCAR ALCOOL&ccvm=12220&site=B&pregao=USIN C PINTO&mercado=1&pagina=itr_dfp_ian">USIN C PINTO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=USINA COSTA PINTO S.A. ACUCAR ALCOOL&ccvm=12220&site=B&pregao=USIN C PINTO&mercado=1&pagina=itr_dfp_ian">USINA COSTA PINTO S.A. ACUCAR ALCOOL</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=USINA COSTA PINTO S.A. ACUCAR ALCOOL&ccvm=12220&site=B&pregao=USIN C PINTO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

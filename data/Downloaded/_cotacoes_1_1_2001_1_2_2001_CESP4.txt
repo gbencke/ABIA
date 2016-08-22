@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CESP4.SA (COMPANHIA ENERGETICA DE SAO PAU)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>22.54</TD><TD>22.90</TD><TD>22.50</TD><TD>22.66</TD><TD>235,100</TD><TD>22.66</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>23.70</TD><TD>23.81</TD><TD>22.50</TD><TD>22.51</TD><TD>245,773</TD><TD>22.51</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>23.70</TD><TD>23.80</TD><TD>23.35</TD><TD>23.50</TD><TD>111,752</TD><TD>23.50</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>24.10</TD><TD>24.20</TD><TD>23.50</TD><TD>23.50</TD><TD>132,378</TD><TD>23.50</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>22.99</TD><TD>24.10</TD><TD>22.99</TD><TD>24.10</TD><TD>155,391</TD><TD>24.10</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>23.70</TD><TD>23.80</TD><TD>22.84</TD><TD>23.01</TD><TD>235,608</TD><TD>23.01</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>23.70</TD><TD>23.95</TD><TD>23.29</TD><TD>23.62</TD><TD>216,572</TD><TD>23.62</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>22.98</TD><TD>23.80</TD><TD>22.81</TD><TD>23.42</TD><TD>217,113</TD><TD>23.42</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>22.90</TD><TD>23.32</TD><TD>22.65</TD><TD>22.98</TD><TD>121,348</TD><TD>22.98</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>21.65</TD><TD>23.30</TD><TD>21.65</TD><TD>22.60</TD><TD>276,813</TD><TD>22.60</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>20.75</TD><TD>21.63</TD><TD>20.75</TD><TD>21.58</TD><TD>103,318</TD><TD>21.58</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>21.10</TD><TD>21.10</TD><TD>20.30</TD><TD>20.70</TD><TD>158,113</TD><TD>20.70</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>21.30</TD><TD>21.40</TD><TD>21.00</TD><TD>21.20</TD><TD>49,456</TD><TD>21.20</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>21.60</TD><TD>21.90</TD><TD>21.20</TD><TD>21.40</TD><TD>53,182</TD><TD>21.40</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>22.00</TD><TD>22.20</TD><TD>21.20</TD><TD>21.40</TD><TD>179,050</TD><TD>21.40</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>21.06</TD><TD>22.00</TD><TD>21.00</TD><TD>21.99</TD><TD>228,410</TD><TD>21.99</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>21.15</TD><TD>21.69</TD><TD>21.00</TD><TD>21.39</TD><TD>157,703</TD><TD>21.39</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>21.10</TD><TD>21.10</TD><TD>20.50</TD><TD>21.00</TD><TD>99,201</TD><TD>21.00</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>21.00</TD><TD>21.20</TD><TD>20.50</TD><TD>21.00</TD><TD>118,063</TD><TD>21.00</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>21.00</TD><TD>21.30</TD><TD>20.31</TD><TD>20.85</TD><TD>264,590</TD><TD>20.85</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>19.00</TD><TD>21.30</TD><TD>18.70</TD><TD>20.99</TD><TD>291,009</TD><TD>20.99</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>18.21</TD><TD>19.60</TD><TD>18.21</TD><TD>18.98</TD><TD>217,496</TD><TD>18.98</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

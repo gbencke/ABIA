@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNEP4.SA (TELE NORDESTE CELULAR PARTICIPA)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>3.52</TD><TD>3.52</TD><TD>3.30</TD><TD>3.31</TD><TD>1,045,040</TD><TD>3.18</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>3.45</TD><TD>3.54</TD><TD>3.41</TD><TD>3.44</TD><TD>938,258</TD><TD>3.31</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>3.66</TD><TD>3.70</TD><TD>3.47</TD><TD>3.47</TD><TD>919,321</TD><TD>3.34</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>3.62</TD><TD>3.70</TD><TD>3.58</TD><TD>3.62</TD><TD>851,405</TD><TD>3.49</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>3.75</TD><TD>3.78</TD><TD>3.60</TD><TD>3.65</TD><TD>786,490</TD><TD>3.52</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>3.74</TD><TD>3.80</TD><TD>3.69</TD><TD>3.75</TD><TD>549,441</TD><TD>3.62</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>3.70</TD><TD>3.81</TD><TD>3.66</TD><TD>3.69</TD><TD>850,310</TD><TD>3.56</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>3.85</TD><TD>3.90</TD><TD>3.75</TD><TD>3.75</TD><TD>371,300</TD><TD>3.62</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>3.75</TD><TD>3.84</TD><TD>3.70</TD><TD>3.81</TD><TD>587,823</TD><TD>3.68</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>3.76</TD><TD>3.78</TD><TD>3.66</TD><TD>3.68</TD><TD>592,327</TD><TD>3.55</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>3.92</TD><TD>3.92</TD><TD>3.75</TD><TD>3.75</TD><TD>421,541</TD><TD>3.62</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>3.85</TD><TD>3.89</TD><TD>3.78</TD><TD>3.85</TD><TD>1,659,550</TD><TD>3.72</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>3.85</TD><TD>3.85</TD><TD>3.78</TD><TD>3.78</TD><TD>547,773</TD><TD>3.65</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>3.79</TD><TD>3.81</TD><TD>3.65</TD><TD>3.80</TD><TD>631,486</TD><TD>3.67</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>3.75</TD><TD>3.80</TD><TD>3.70</TD><TD>3.72</TD><TD>789,079</TD><TD>3.59</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>3.65</TD><TD>3.76</TD><TD>3.58</TD><TD>3.76</TD><TD>1,307,350</TD><TD>3.63</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>3.89</TD><TD>3.89</TD><TD>3.65</TD><TD>3.70</TD><TD>538,365</TD><TD>3.57</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>3.76</TD><TD>3.95</TD><TD>3.72</TD><TD>3.74</TD><TD>1,698,190</TD><TD>3.61</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>3.78</TD><TD>3.91</TD><TD>3.73</TD><TD>3.77</TD><TD>3,182,870</TD><TD>3.64</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>3.80</TD><TD>3.85</TD><TD>3.63</TD><TD>3.65</TD><TD>575,626</TD><TD>3.52</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>3.80</TD><TD>3.86</TD><TD>3.77</TD><TD>3.81</TD><TD>1,143,600</TD><TD>3.68</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>3.75</TD><TD>3.80</TD><TD>3.75</TD><TD>3.78</TD><TD>1,076,870</TD><TD>3.65</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ELET6.SA (ELETROBRAS)
+        </TD><TD>As of Oct-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>15.20</TD><TD>16.20</TD><TD>15.20</TD><TD>15.90</TD><TD>559,163</TD><TD>13.01</TD></TR>
+<TR>
+<TD>Sep-30-02</TD><TD>15.80</TD><TD>15.80</TD><TD>14.90</TD><TD>15.10</TD><TD>458,842</TD><TD>12.21</TD></TR>
+<TR>
+<TD>Sep-27-02</TD><TD>17.00</TD><TD>17.00</TD><TD>15.95</TD><TD>15.95</TD><TD>755,367</TD><TD>13.06</TD></TR>
+<TR>
+<TD>Sep-26-02</TD><TD>17.25</TD><TD>17.40</TD><TD>16.85</TD><TD>16.98</TD><TD>443,091</TD><TD>14.09</TD></TR>
+<TR>
+<TD>Sep-25-02</TD><TD>17.06</TD><TD>17.53</TD><TD>16.95</TD><TD>17.10</TD><TD>865,658</TD><TD>14.21</TD></TR>
+<TR>
+<TD>Sep-24-02</TD><TD>17.50</TD><TD>17.50</TD><TD>16.70</TD><TD>16.85</TD><TD>789,853</TD><TD>13.96</TD></TR>
+<TR>
+<TD>Sep-23-02</TD><TD>17.88</TD><TD>17.89</TD><TD>17.25</TD><TD>17.59</TD><TD>397,359</TD><TD>14.70</TD></TR>
+<TR>
+<TD>Sep-20-02</TD><TD>18.70</TD><TD>18.80</TD><TD>18.10</TD><TD>18.25</TD><TD>751,281</TD><TD>15.36</TD></TR>
+<TR>
+<TD>Sep-19-02</TD><TD>18.79</TD><TD>19.00</TD><TD>18.38</TD><TD>18.38</TD><TD>573,746</TD><TD>15.49</TD></TR>
+<TR>
+<TD>Sep-18-02</TD><TD>18.87</TD><TD>18.87</TD><TD>18.41</TD><TD>18.79</TD><TD>719,769</TD><TD>15.90</TD></TR>
+<TR>
+<TD>Sep-17-02</TD><TD>19.35</TD><TD>19.40</TD><TD>18.70</TD><TD>18.70</TD><TD>483,523</TD><TD>15.81</TD></TR>
+<TR>
+<TD>Sep-16-02</TD><TD>19.90</TD><TD>19.95</TD><TD>19.05</TD><TD>19.13</TD><TD>343,417</TD><TD>16.24</TD></TR>
+<TR>
+<TD>Sep-13-02</TD><TD>20.11</TD><TD>20.40</TD><TD>19.80</TD><TD>20.26</TD><TD>285,598</TD><TD>17.37</TD></TR>
+<TR>
+<TD>Sep-12-02</TD><TD>20.46</TD><TD>20.48</TD><TD>20.00</TD><TD>20.30</TD><TD>276,438</TD><TD>17.41</TD></TR>
+<TR>
+<TD>Sep-11-02</TD><TD>19.99</TD><TD>20.70</TD><TD>19.89</TD><TD>20.60</TD><TD>514,422</TD><TD>17.71</TD></TR>
+<TR>
+<TD>Sep-10-02</TD><TD>19.70</TD><TD>20.00</TD><TD>19.10</TD><TD>19.80</TD><TD>645,533</TD><TD>16.91</TD></TR>
+<TR>
+<TD>Sep-09-02</TD><TD>18.90</TD><TD>19.59</TD><TD>18.90</TD><TD>19.53</TD><TD>703,399</TD><TD>16.64</TD></TR>
+<TR>
+<TD>Sep-06-02</TD><TD>19.25</TD><TD>19.50</TD><TD>18.71</TD><TD>18.90</TD><TD>465,395</TD><TD>16.01</TD></TR>
+<TR>
+<TD>Sep-05-02</TD><TD>19.75</TD><TD>19.75</TD><TD>18.90</TD><TD>19.04</TD><TD>565,631</TD><TD>16.15</TD></TR>
+<TR>
+<TD>Sep-04-02</TD><TD>20.20</TD><TD>20.20</TD><TD>19.70</TD><TD>19.74</TD><TD>763,564</TD><TD>16.85</TD></TR>
+<TR>
+<TD>Sep-03-02</TD><TD>21.52</TD><TD>21.52</TD><TD>20.32</TD><TD>20.45</TD><TD>641,790</TD><TD>17.56</TD></TR>
+<TR>
+<TD>Sep-02-02</TD><TD>21.78</TD><TD>21.90</TD><TD>21.52</TD><TD>21.66</TD><TD>222,440</TD><TD>18.77</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,124 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - LIGH3.SA (LIGHT-SERVICOS DE ELETRICIDADE )
+        </TD><TD>As of May-30-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>May-30-03</TD><TD>27.78</TD><TD>28.50</TD><TD>27.11</TD><TD>28.50</TD><TD>15,309</TD><TD>28.50</TD></TR>
+<TR>
+<TD>May-29-03</TD><TD>27.50</TD><TD>29.20</TD><TD>27.50</TD><TD>27.81</TD><TD>9,737</TD><TD>27.81</TD></TR>
+<TR>
+<TD>May-28-03</TD><TD>28.20</TD><TD>28.30</TD><TD>27.30</TD><TD>27.30</TD><TD>14,325</TD><TD>27.30</TD></TR>
+<TR>
+<TD>May-27-03</TD><TD>27.85</TD><TD>28.46</TD><TD>27.15</TD><TD>27.70</TD><TD>14,932</TD><TD>27.70</TD></TR>
+<TR>
+<TD>May-26-03</TD><TD>28.61</TD><TD>28.98</TD><TD>27.51</TD><TD>27.62</TD><TD>9,730</TD><TD>27.62</TD></TR>
+<TR>
+<TD>May-23-03</TD><TD>28.50</TD><TD>29.78</TD><TD>28.50</TD><TD>28.50</TD><TD>5,939</TD><TD>28.50</TD></TR>
+<TR>
+<TD>May-22-03</TD><TD>29.60</TD><TD>29.60</TD><TD>28.40</TD><TD>28.58</TD><TD>13,731</TD><TD>28.58</TD></TR>
+<TR>
+<TD>May-21-03</TD><TD>28.28</TD><TD>30.12</TD><TD>28.28</TD><TD>28.90</TD><TD>8,612</TD><TD>28.90</TD></TR>
+<TR>
+<TD>May-20-03</TD><TD>28.50</TD><TD>29.50</TD><TD>28.00</TD><TD>28.42</TD><TD>12,840</TD><TD>28.42</TD></TR>
+<TR>
+<TD>May-19-03</TD><TD>30.00</TD><TD>30.00</TD><TD>28.50</TD><TD>28.50</TD><TD>4,128</TD><TD>28.50</TD></TR>
+<TR>
+<TD>May-16-03</TD><TD>29.20</TD><TD>30.50</TD><TD>28.00</TD><TD>30.00</TD><TD>11,846</TD><TD>30.00</TD></TR>
+<TR>
+<TD>May-15-03</TD><TD>31.03</TD><TD>31.50</TD><TD>29.10</TD><TD>29.18</TD><TD>16,080</TD><TD>29.18</TD></TR>
+<TR>
+<TD>May-14-03</TD><TD>32.30</TD><TD>32.30</TD><TD>31.02</TD><TD>31.13</TD><TD>11,551</TD><TD>31.13</TD></TR>
+<TR>
+<TD>May-13-03</TD><TD>32.94</TD><TD>34.00</TD><TD>31.70</TD><TD>32.00</TD><TD>19,240</TD><TD>32.00</TD></TR>
+<TR>
+<TD>May-12-03</TD><TD>32.37</TD><TD>32.94</TD><TD>31.30</TD><TD>32.65</TD><TD>11,501</TD><TD>32.65</TD></TR>
+<TR>
+<TD>May-09-03</TD><TD>32.00</TD><TD>32.95</TD><TD>31.61</TD><TD>32.50</TD><TD>15,414</TD><TD>32.50</TD></TR>
+<TR>
+<TD>May-08-03</TD><TD>31.00</TD><TD>32.00</TD><TD>30.40</TD><TD>31.34</TD><TD>9,988</TD><TD>31.34</TD></TR>
+<TR>
+<TD>May-07-03</TD><TD>29.40</TD><TD>31.00</TD><TD>29.40</TD><TD>30.45</TD><TD>8,437</TD><TD>30.45</TD></TR>
+<TR>
+<TD>May-06-03</TD><TD>30.61</TD><TD>30.68</TD><TD>29.10</TD><TD>29.51</TD><TD>9,348</TD><TD>29.51</TD></TR>
+<TR>
+<TD>May-05-03</TD><TD>31.90</TD><TD>32.99</TD><TD>30.00</TD><TD>30.56</TD><TD>11,738</TD><TD>30.56</TD></TR>
+<TR>
+<TD>May-02-03</TD><TD>30.50</TD><TD>32.00</TD><TD>30.50</TD><TD>31.80</TD><TD>17,795</TD><TD>31.80</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

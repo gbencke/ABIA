@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CPLE6.SA (COMPANHIA PARANAENSE DE ENERGIA)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>10.60</TD><TD>10.65</TD><TD>10.00</TD><TD>10.40</TD><TD>955,327</TD><TD>10.40</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>9.80</TD><TD>10.99</TD><TD>9.80</TD><TD>10.50</TD><TD>405,058</TD><TD>10.50</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>9.88</TD><TD>10.15</TD><TD>9.70</TD><TD>9.80</TD><TD>970,000</TD><TD>9.80</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>9.90</TD><TD>10.52</TD><TD>9.70</TD><TD>9.70</TD><TD>354,175</TD><TD>9.70</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>10.40</TD><TD>10.40</TD><TD>9.70</TD><TD>9.80</TD><TD>255,829</TD><TD>9.80</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>10.50</TD><TD>10.65</TD><TD>10.16</TD><TD>10.16</TD><TD>460,544</TD><TD>10.16</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>10.13</TD><TD>10.89</TD><TD>10.00</TD><TD>10.65</TD><TD>358,746</TD><TD>10.65</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>10.99</TD><TD>11.00</TD><TD>10.15</TD><TD>10.35</TD><TD>473,748</TD><TD>10.35</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>11.50</TD><TD>11.60</TD><TD>10.20</TD><TD>10.88</TD><TD>326,348</TD><TD>10.88</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>11.90</TD><TD>11.90</TD><TD>11.50</TD><TD>11.50</TD><TD>301,850</TD><TD>11.50</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>11.71</TD><TD>12.00</TD><TD>11.70</TD><TD>11.90</TD><TD>271,617</TD><TD>11.90</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>11.95</TD><TD>12.10</TD><TD>11.70</TD><TD>11.75</TD><TD>584,749</TD><TD>11.75</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>11.80</TD><TD>11.90</TD><TD>11.51</TD><TD>11.78</TD><TD>583,184</TD><TD>11.78</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>12.10</TD><TD>12.10</TD><TD>11.50</TD><TD>11.68</TD><TD>249,560</TD><TD>11.68</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>12.00</TD><TD>12.10</TD><TD>11.75</TD><TD>11.99</TD><TD>393,035</TD><TD>11.99</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>11.30</TD><TD>12.01</TD><TD>11.22</TD><TD>12.01</TD><TD>576,207</TD><TD>12.01</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>11.65</TD><TD>11.75</TD><TD>11.36</TD><TD>11.36</TD><TD>458,410</TD><TD>11.36</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>11.19</TD><TD>11.64</TD><TD>11.19</TD><TD>11.52</TD><TD>446,893</TD><TD>11.52</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>11.10</TD><TD>11.49</TD><TD>10.81</TD><TD>11.11</TD><TD>665,359</TD><TD>11.11</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>11.20</TD><TD>11.20</TD><TD>10.99</TD><TD>11.06</TD><TD>198,678</TD><TD>11.06</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>11.00</TD><TD>11.18</TD><TD>10.70</TD><TD>10.90</TD><TD>541,375</TD><TD>10.90</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>11.05</TD><TD>11.20</TD><TD>10.90</TD><TD>11.10</TD><TD>658,876</TD><TD>11.10</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>11.55</TD><TD>11.60</TD><TD>11.20</TD><TD>11.35</TD><TD>699,274</TD><TD>11.35</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

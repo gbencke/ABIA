@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TRPL4.SA (COMPANHIA DE TRANSMISSAO DE ENE)
+        </TD><TD>As of Jul-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>6.17</TD><TD>6.17</TD><TD>5.92</TD><TD>6.02</TD><TD>117,762</TD><TD>4.56</TD></TR>
+<TR>
+<TD>Jun-28-02</TD><TD>6.03</TD><TD>6.32</TD><TD>6.03</TD><TD>6.24</TD><TD>81,150</TD><TD>4.78</TD></TR>
+<TR>
+<TD>Jun-27-02</TD><TD>6.00</TD><TD>6.09</TD><TD>6.00</TD><TD>6.06</TD><TD>110,268</TD><TD>4.60</TD></TR>
+<TR>
+<TD>Jun-26-02</TD><TD>5.80</TD><TD>6.08</TD><TD>5.70</TD><TD>6.08</TD><TD>104,422</TD><TD>4.62</TD></TR>
+<TR>
+<TD>Jun-25-02</TD><TD>$0.22 Cash Dividend</TD></TR>
+<TR>
+<TD>Jun-25-02</TD><TD>5.77</TD><TD>5.92</TD><TD>5.62</TD><TD>5.82</TD><TD>261,390</TD><TD>4.36</TD></TR>
+<TR>
+<TD>Jun-24-02</TD><TD>5.72</TD><TD>5.90</TD><TD>5.63</TD><TD>5.80</TD><TD>112,329</TD><TD>4.12</TD></TR>
+<TR>
+<TD>Jun-21-02</TD><TD>5.91</TD><TD>6.05</TD><TD>5.65</TD><TD>5.66</TD><TD>161,720</TD><TD>3.98</TD></TR>
+<TR>
+<TD>Jun-20-02</TD><TD>6.20</TD><TD>6.20</TD><TD>5.85</TD><TD>5.91</TD><TD>64,606</TD><TD>4.23</TD></TR>
+<TR>
+<TD>Jun-19-02</TD><TD>6.22</TD><TD>6.40</TD><TD>6.00</TD><TD>6.27</TD><TD>66,095</TD><TD>4.59</TD></TR>
+<TR>
+<TD>Jun-18-02</TD><TD>6.54</TD><TD>6.54</TD><TD>6.22</TD><TD>6.22</TD><TD>35,642</TD><TD>4.54</TD></TR>
+<TR>
+<TD>Jun-17-02</TD><TD>6.23</TD><TD>6.40</TD><TD>6.20</TD><TD>6.40</TD><TD>43,500</TD><TD>4.72</TD></TR>
+<TR>
+<TD>Jun-14-02</TD><TD>6.16</TD><TD>6.25</TD><TD>6.00</TD><TD>6.12</TD><TD>91,918</TD><TD>4.44</TD></TR>
+<TR>
+<TD>Jun-13-02</TD><TD>6.33</TD><TD>6.40</TD><TD>6.15</TD><TD>6.15</TD><TD>84,097</TD><TD>4.47</TD></TR>
+<TR>
+<TD>Jun-12-02</TD><TD>6.30</TD><TD>6.56</TD><TD>6.16</TD><TD>6.37</TD><TD>213,847</TD><TD>4.69</TD></TR>
+<TR>
+<TD>Jun-11-02</TD><TD>6.60</TD><TD>6.60</TD><TD>6.14</TD><TD>6.18</TD><TD>162,775</TD><TD>4.50</TD></TR>
+<TR>
+<TD>Jun-10-02</TD><TD>6.45</TD><TD>6.65</TD><TD>6.45</TD><TD>6.54</TD><TD>64,360</TD><TD>4.86</TD></TR>
+<TR>
+<TD>Jun-07-02</TD><TD>6.10</TD><TD>6.50</TD><TD>6.10</TD><TD>6.40</TD><TD>160,911</TD><TD>4.72</TD></TR>
+<TR>
+<TD>Jun-06-02</TD><TD>6.74</TD><TD>6.74</TD><TD>6.10</TD><TD>6.19</TD><TD>81,296</TD><TD>4.51</TD></TR>
+<TR>
+<TD>Jun-05-02</TD><TD>6.40</TD><TD>6.75</TD><TD>6.35</TD><TD>6.60</TD><TD>170,956</TD><TD>4.92</TD></TR>
+<TR>
+<TD>Jun-04-02</TD><TD>6.40</TD><TD>6.60</TD><TD>6.30</TD><TD>6.30</TD><TD>46,789</TD><TD>4.62</TD></TR>
+<TR>
+<TD>Jun-03-02</TD><TD>6.84</TD><TD>6.84</TD><TD>6.45</TD><TD>6.50</TD><TD>79,038</TD><TD>4.82</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BBAS3.SA (BANCO DO BRASIL SA)
+        </TD><TD>As of Apr-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Apr-30-02</TD><TD>14.20</TD><TD>14.20</TD><TD>13.20</TD><TD>13.49</TD><TD>75,356</TD><TD>12.23</TD></TR>
+<TR>
+<TD>Apr-29-02</TD><TD>13.71</TD><TD>13.90</TD><TD>13.61</TD><TD>13.65</TD><TD>16,800</TD><TD>12.39</TD></TR>
+<TR>
+<TD>Apr-26-02</TD><TD>13.84</TD><TD>14.10</TD><TD>13.60</TD><TD>13.70</TD><TD>49,269</TD><TD>12.44</TD></TR>
+<TR>
+<TD>Apr-25-02</TD><TD>14.05</TD><TD>14.22</TD><TD>13.72</TD><TD>13.86</TD><TD>106,125</TD><TD>12.60</TD></TR>
+<TR>
+<TD>Apr-24-02</TD><TD>13.65</TD><TD>14.40</TD><TD>13.65</TD><TD>14.20</TD><TD>156,087</TD><TD>12.94</TD></TR>
+<TR>
+<TD>Apr-23-02</TD><TD>13.60</TD><TD>14.20</TD><TD>13.40</TD><TD>13.80</TD><TD>57,027</TD><TD>12.54</TD></TR>
+<TR>
+<TD>Apr-22-02</TD><TD>14.00</TD><TD>14.00</TD><TD>13.02</TD><TD>13.50</TD><TD>63,980</TD><TD>12.24</TD></TR>
+<TR>
+<TD>Apr-19-02</TD><TD>14.30</TD><TD>14.40</TD><TD>13.51</TD><TD>13.78</TD><TD>95,930</TD><TD>12.52</TD></TR>
+<TR>
+<TD>Apr-18-02</TD><TD>14.60</TD><TD>14.60</TD><TD>13.90</TD><TD>13.90</TD><TD>88,290</TD><TD>12.64</TD></TR>
+<TR>
+<TD>Apr-17-02</TD><TD>14.40</TD><TD>14.80</TD><TD>14.05</TD><TD>14.35</TD><TD>150,669</TD><TD>13.09</TD></TR>
+<TR>
+<TD>Apr-16-02</TD><TD>14.50</TD><TD>14.70</TD><TD>14.30</TD><TD>14.40</TD><TD>94,671</TD><TD>13.14</TD></TR>
+<TR>
+<TD>Apr-15-02</TD><TD>15.25</TD><TD>15.25</TD><TD>14.30</TD><TD>14.36</TD><TD>228,674</TD><TD>13.10</TD></TR>
+<TR>
+<TD>Apr-12-02</TD><TD>14.40</TD><TD>15.30</TD><TD>14.20</TD><TD>14.96</TD><TD>279,399</TD><TD>13.70</TD></TR>
+<TR>
+<TD>Apr-11-02</TD><TD>13.85</TD><TD>13.85</TD><TD>13.25</TD><TD>13.26</TD><TD>35,162</TD><TD>12.00</TD></TR>
+<TR>
+<TD>Apr-10-02</TD><TD>13.30</TD><TD>13.97</TD><TD>13.25</TD><TD>13.79</TD><TD>91,111</TD><TD>12.53</TD></TR>
+<TR>
+<TD>Apr-09-02</TD><TD>13.00</TD><TD>13.50</TD><TD>13.00</TD><TD>13.45</TD><TD>112,826</TD><TD>12.19</TD></TR>
+<TR>
+<TD>Apr-08-02</TD><TD>12.31</TD><TD>12.98</TD><TD>12.22</TD><TD>12.98</TD><TD>42,898</TD><TD>11.72</TD></TR>
+<TR>
+<TD>Apr-05-02</TD><TD>12.78</TD><TD>12.79</TD><TD>12.40</TD><TD>12.60</TD><TD>33,919</TD><TD>11.34</TD></TR>
+<TR>
+<TD>Apr-04-02</TD><TD>11.90</TD><TD>12.89</TD><TD>11.75</TD><TD>12.70</TD><TD>54,315</TD><TD>11.44</TD></TR>
+<TR>
+<TD>Apr-03-02</TD><TD>11.90</TD><TD>12.00</TD><TD>11.84</TD><TD>11.99</TD><TD>40,043</TD><TD>10.73</TD></TR>
+<TR>
+<TD>Apr-02-02</TD><TD>12.10</TD><TD>12.15</TD><TD>11.75</TD><TD>11.75</TD><TD>30,715</TD><TD>10.49</TD></TR>
+<TR>
+<TD>Apr-01-02</TD><TD>11.70</TD><TD>11.94</TD><TD>11.70</TD><TD>11.89</TD><TD>72,696</TD><TD>10.63</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

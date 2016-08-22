@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CPLE6.SA (COMPANHIA PARANAENSE DE ENERGIA)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>17.80</TD><TD>17.85</TD><TD>17.26</TD><TD>17.69</TD><TD>195,478</TD><TD>17.04</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>17.65</TD><TD>17.80</TD><TD>17.50</TD><TD>17.70</TD><TD>82,297</TD><TD>17.05</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>17.81</TD><TD>17.81</TD><TD>17.25</TD><TD>17.45</TD><TD>137,328</TD><TD>16.80</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>17.80</TD><TD>17.95</TD><TD>17.70</TD><TD>17.80</TD><TD>140,106</TD><TD>17.15</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>18.39</TD><TD>18.39</TD><TD>17.40</TD><TD>17.80</TD><TD>419,829</TD><TD>17.15</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>17.50</TD><TD>18.40</TD><TD>17.30</TD><TD>17.95</TD><TD>612,370</TD><TD>17.30</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>17.04</TD><TD>18.00</TD><TD>17.04</TD><TD>17.26</TD><TD>290,263</TD><TD>16.61</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>17.15</TD><TD>17.99</TD><TD>17.15</TD><TD>17.60</TD><TD>428,946</TD><TD>16.95</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>17.05</TD><TD>17.50</TD><TD>17.05</TD><TD>17.40</TD><TD>333,580</TD><TD>16.75</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>17.80</TD><TD>17.85</TD><TD>17.20</TD><TD>17.35</TD><TD>173,914</TD><TD>16.70</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>18.38</TD><TD>18.38</TD><TD>17.51</TD><TD>17.70</TD><TD>154,013</TD><TD>17.05</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>18.00</TD><TD>18.70</TD><TD>17.70</TD><TD>18.38</TD><TD>349,657</TD><TD>17.73</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>18.90</TD><TD>19.20</TD><TD>17.73</TD><TD>17.73</TD><TD>420,200</TD><TD>17.08</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>18.10</TD><TD>19.20</TD><TD>17.25</TD><TD>18.90</TD><TD>210,668</TD><TD>18.25</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>17.20</TD><TD>18.30</TD><TD>17.05</TD><TD>18.10</TD><TD>322,907</TD><TD>17.45</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>18.00</TD><TD>18.00</TD><TD>17.49</TD><TD>17.79</TD><TD>333,671</TD><TD>17.14</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>18.51</TD><TD>18.81</TD><TD>18.23</TD><TD>18.31</TD><TD>231,961</TD><TD>17.66</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>18.80</TD><TD>19.10</TD><TD>18.00</TD><TD>18.50</TD><TD>740,781</TD><TD>17.85</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>18.45</TD><TD>19.50</TD><TD>17.50</TD><TD>18.90</TD><TD>1,310,940</TD><TD>18.25</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>18.50</TD><TD>18.50</TD><TD>17.70</TD><TD>17.70</TD><TD>240,674</TD><TD>17.05</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>17.80</TD><TD>18.60</TD><TD>17.80</TD><TD>18.50</TD><TD>437,767</TD><TD>17.85</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>17.70</TD><TD>18.32</TD><TD>17.30</TD><TD>18.15</TD><TD>397,214</TD><TD>17.50</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

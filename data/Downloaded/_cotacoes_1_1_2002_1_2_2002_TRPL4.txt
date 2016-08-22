@@ -1,0 +1,136 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TRPL4.SA (COMPANHIA DE TRANSMISSAO DE ENE)
+        </TD><TD>As of Feb-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-02</TD><TD>7.00</TD><TD>7.18</TD><TD>6.95</TD><TD>6.98</TD><TD>90,696</TD><TD>5.30</TD></TR>
+<TR>
+<TD>Jan-31-02</TD><TD>7.08</TD><TD>7.30</TD><TD>7.00</TD><TD>7.04</TD><TD>119,010</TD><TD>5.36</TD></TR>
+<TR>
+<TD>Jan-30-02</TD><TD>6.93</TD><TD>7.06</TD><TD>6.90</TD><TD>6.98</TD><TD>231,259</TD><TD>5.30</TD></TR>
+<TR>
+<TD>Jan-29-02</TD><TD>6.83</TD><TD>7.02</TD><TD>6.78</TD><TD>6.89</TD><TD>310,910</TD><TD>5.21</TD></TR>
+<TR>
+<TD>Jan-28-02</TD><TD>6.95</TD><TD>7.05</TD><TD>6.78</TD><TD>6.78</TD><TD>75,585</TD><TD>5.10</TD></TR>
+<TR>
+<TD>Jan-24-02</TD><TD>7.00</TD><TD>7.15</TD><TD>6.95</TD><TD>7.11</TD><TD>108,802</TD><TD>5.43</TD></TR>
+<TR>
+<TD>Jan-23-02</TD><TD>6.90</TD><TD>7.08</TD><TD>6.80</TD><TD>7.00</TD><TD>294,868</TD><TD>5.32</TD></TR>
+<TR>
+<TD>Jan-22-02</TD><TD>6.86</TD><TD>6.86</TD><TD>6.60</TD><TD>6.70</TD><TD>167,280</TD><TD>5.02</TD></TR>
+<TR>
+<TD>Jan-21-02</TD><TD>7.00</TD><TD>7.00</TD><TD>6.80</TD><TD>6.80</TD><TD>88,415</TD><TD>5.12</TD></TR>
+<TR>
+<TD>Jan-18-02</TD><TD>6.85</TD><TD>7.09</TD><TD>6.85</TD><TD>7.08</TD><TD>156,823</TD><TD>5.40</TD></TR>
+<TR>
+<TD>Jan-17-02</TD><TD>6.78</TD><TD>6.95</TD><TD>6.78</TD><TD>6.90</TD><TD>139,215</TD><TD>5.22</TD></TR>
+<TR>
+<TD>Jan-16-02</TD><TD>6.70</TD><TD>6.80</TD><TD>6.60</TD><TD>6.69</TD><TD>146,017</TD><TD>5.01</TD></TR>
+<TR>
+<TD>Jan-15-02</TD><TD>6.55</TD><TD>6.90</TD><TD>6.55</TD><TD>6.60</TD><TD>225,056</TD><TD>4.92</TD></TR>
+<TR>
+<TD>Jan-14-02</TD><TD>6.66</TD><TD>6.66</TD><TD>6.50</TD><TD>6.60</TD><TD>82,803</TD><TD>4.92</TD></TR>
+<TR>
+<TD>Jan-11-02</TD><TD>6.45</TD><TD>6.87</TD><TD>6.45</TD><TD>6.79</TD><TD>159,870</TD><TD>5.11</TD></TR>
+<TR>
+<TD>Jan-10-02</TD><TD>6.55</TD><TD>6.60</TD><TD>6.35</TD><TD>6.50</TD><TD>154,029</TD><TD>4.82</TD></TR>
+<TR>
+<TD>Jan-09-02</TD><TD>6.55</TD><TD>6.64</TD><TD>6.46</TD><TD>6.63</TD><TD>262,254</TD><TD>4.95</TD></TR>
+<TR>
+<TD>Jan-08-02</TD><TD>6.65</TD><TD>6.65</TD><TD>6.51</TD><TD>6.55</TD><TD>244,379</TD><TD>4.87</TD></TR>
+<TR>
+<TD>Jan-07-02</TD><TD>6.76</TD><TD>6.90</TD><TD>6.60</TD><TD>6.73</TD><TD>207,781</TD><TD>5.05</TD></TR>
+<TR>
+<TD>Jan-04-02</TD><TD>6.85</TD><TD>7.05</TD><TD>6.72</TD><TD>6.80</TD><TD>194,882</TD><TD>5.12</TD></TR>
+<TR>
+<TD>Jan-03-02</TD><TD>6.76</TD><TD>7.00</TD><TD>6.65</TD><TD>6.94</TD><TD>406,401</TD><TD>5.26</TD></TR>
+<TR>
+<TD>Jan-02-02</TD><TD>6.50</TD><TD>6.70</TD><TD>6.46</TD><TD>6.69</TD><TD>199,117</TD><TD>5.01</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

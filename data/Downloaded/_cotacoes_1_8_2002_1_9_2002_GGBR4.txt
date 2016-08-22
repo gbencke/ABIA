@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - GGBR4.SA (GERDAU SA)
+        </TD><TD>As of Aug-30-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-30-02</TD><TD>33.00</TD><TD>33.80</TD><TD>32.51</TD><TD>32.85</TD><TD>244,393</TD><TD>30.23</TD></TR>
+<TR>
+<TD>Aug-29-02</TD><TD>32.10</TD><TD>33.70</TD><TD>32.10</TD><TD>33.40</TD><TD>170,106</TD><TD>30.78</TD></TR>
+<TR>
+<TD>Aug-28-02</TD><TD>32.80</TD><TD>32.99</TD><TD>32.10</TD><TD>32.89</TD><TD>146,574</TD><TD>30.27</TD></TR>
+<TR>
+<TD>Aug-27-02</TD><TD>32.60</TD><TD>32.89</TD><TD>31.80</TD><TD>32.89</TD><TD>155,646</TD><TD>30.27</TD></TR>
+<TR>
+<TD>Aug-26-02</TD><TD>32.50</TD><TD>32.80</TD><TD>31.90</TD><TD>32.00</TD><TD>90,731</TD><TD>29.38</TD></TR>
+<TR>
+<TD>Aug-23-02</TD><TD>32.40</TD><TD>32.70</TD><TD>31.80</TD><TD>32.70</TD><TD>177,192</TD><TD>30.08</TD></TR>
+<TR>
+<TD>Aug-22-02</TD><TD>32.35</TD><TD>32.70</TD><TD>32.11</TD><TD>32.70</TD><TD>272,048</TD><TD>30.08</TD></TR>
+<TR>
+<TD>Aug-21-02</TD><TD>32.29</TD><TD>32.66</TD><TD>31.99</TD><TD>32.15</TD><TD>204,517</TD><TD>29.53</TD></TR>
+<TR>
+<TD>Aug-20-02</TD><TD>32.32</TD><TD>32.45</TD><TD>31.50</TD><TD>31.75</TD><TD>124,068</TD><TD>29.13</TD></TR>
+<TR>
+<TD>Aug-19-02</TD><TD>31.50</TD><TD>32.20</TD><TD>31.50</TD><TD>32.20</TD><TD>466,624</TD><TD>29.58</TD></TR>
+<TR>
+<TD>Aug-16-02</TD><TD>31.15</TD><TD>31.70</TD><TD>31.15</TD><TD>31.60</TD><TD>216,020</TD><TD>28.98</TD></TR>
+<TR>
+<TD>Aug-15-02</TD><TD>$0.70 Cash Dividend</TD></TR>
+<TR>
+<TD>Aug-15-02</TD><TD>30.70</TD><TD>31.79</TD><TD>30.60</TD><TD>31.00</TD><TD>437,514</TD><TD>28.38</TD></TR>
+<TR>
+<TD>Aug-14-02</TD><TD>30.80</TD><TD>30.81</TD><TD>29.91</TD><TD>30.40</TD><TD>184,333</TD><TD>27.08</TD></TR>
+<TR>
+<TD>Aug-13-02</TD><TD>29.00</TD><TD>30.89</TD><TD>29.00</TD><TD>30.41</TD><TD>149,677</TD><TD>27.09</TD></TR>
+<TR>
+<TD>Aug-12-02</TD><TD>29.30</TD><TD>29.30</TD><TD>28.60</TD><TD>29.00</TD><TD>88,211</TD><TD>25.68</TD></TR>
+<TR>
+<TD>Aug-09-02</TD><TD>29.10</TD><TD>29.50</TD><TD>28.82</TD><TD>29.06</TD><TD>247,447</TD><TD>25.74</TD></TR>
+<TR>
+<TD>Aug-08-02</TD><TD>30.00</TD><TD>30.10</TD><TD>29.00</TD><TD>29.01</TD><TD>306,848</TD><TD>25.69</TD></TR>
+<TR>
+<TD>Aug-07-02</TD><TD>30.00</TD><TD>30.30</TD><TD>28.70</TD><TD>29.10</TD><TD>220,140</TD><TD>25.78</TD></TR>
+<TR>
+<TD>Aug-06-02</TD><TD>29.90</TD><TD>30.30</TD><TD>29.40</TD><TD>30.00</TD><TD>265,466</TD><TD>26.68</TD></TR>
+<TR>
+<TD>Aug-05-02</TD><TD>30.31</TD><TD>30.31</TD><TD>29.50</TD><TD>29.90</TD><TD>107,534</TD><TD>26.58</TD></TR>
+<TR>
+<TD>Aug-02-02</TD><TD>28.50</TD><TD>30.47</TD><TD>28.50</TD><TD>30.00</TD><TD>95,442</TD><TD>26.68</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>29.50</TD><TD>29.50</TD><TD>27.50</TD><TD>28.50</TD><TD>801,748</TD><TD>25.18</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

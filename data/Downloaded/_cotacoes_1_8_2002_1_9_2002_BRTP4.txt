@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BRTP4.SA (BRASIL TELECOM PARTICIPACOES SA)
+        </TD><TD>As of Aug-30-02</TD></TR>
+</TABLE>
+More Info: Quote<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-30-02</TD><TD>18.44</TD><TD>18.69</TD><TD>17.65</TD><TD>17.65</TD><TD>855,367</TD><TD>17.29</TD></TR>
+<TR>
+<TD>Aug-29-02</TD><TD>18.02</TD><TD>18.50</TD><TD>17.50</TD><TD>18.25</TD><TD>1,147,330</TD><TD>17.89</TD></TR>
+<TR>
+<TD>Aug-28-02</TD><TD>18.80</TD><TD>18.80</TD><TD>18.02</TD><TD>18.15</TD><TD>1,074,110</TD><TD>17.79</TD></TR>
+<TR>
+<TD>Aug-27-02</TD><TD>18.41</TD><TD>18.90</TD><TD>18.20</TD><TD>18.85</TD><TD>1,130,500</TD><TD>18.49</TD></TR>
+<TR>
+<TD>Aug-26-02</TD><TD>17.20</TD><TD>18.60</TD><TD>17.20</TD><TD>18.40</TD><TD>977,101</TD><TD>18.04</TD></TR>
+<TR>
+<TD>Aug-23-02</TD><TD>17.30</TD><TD>17.35</TD><TD>16.50</TD><TD>17.20</TD><TD>2,014,440</TD><TD>16.84</TD></TR>
+<TR>
+<TD>Aug-22-02</TD><TD>17.70</TD><TD>17.70</TD><TD>17.15</TD><TD>17.30</TD><TD>1,317,170</TD><TD>16.94</TD></TR>
+<TR>
+<TD>Aug-21-02</TD><TD>17.20</TD><TD>17.74</TD><TD>17.10</TD><TD>17.70</TD><TD>1,177,740</TD><TD>17.34</TD></TR>
+<TR>
+<TD>Aug-20-02</TD><TD>17.80</TD><TD>17.80</TD><TD>16.80</TD><TD>16.88</TD><TD>771,828</TD><TD>16.52</TD></TR>
+<TR>
+<TD>Aug-19-02</TD><TD>17.50</TD><TD>18.00</TD><TD>17.20</TD><TD>17.40</TD><TD>500,387</TD><TD>17.04</TD></TR>
+<TR>
+<TD>Aug-16-02</TD><TD>17.20</TD><TD>17.90</TD><TD>17.05</TD><TD>17.70</TD><TD>847,695</TD><TD>17.34</TD></TR>
+<TR>
+<TD>Aug-15-02</TD><TD>17.20</TD><TD>17.25</TD><TD>16.80</TD><TD>17.00</TD><TD>950,328</TD><TD>16.64</TD></TR>
+<TR>
+<TD>Aug-14-02</TD><TD>17.00</TD><TD>17.15</TD><TD>16.00</TD><TD>17.00</TD><TD>806,201</TD><TD>16.64</TD></TR>
+<TR>
+<TD>Aug-13-02</TD><TD>16.85</TD><TD>17.70</TD><TD>16.50</TD><TD>16.80</TD><TD>995,423</TD><TD>16.44</TD></TR>
+<TR>
+<TD>Aug-12-02</TD><TD>17.01</TD><TD>17.04</TD><TD>16.30</TD><TD>17.01</TD><TD>775,677</TD><TD>16.65</TD></TR>
+<TR>
+<TD>Aug-09-02</TD><TD>17.40</TD><TD>17.75</TD><TD>17.01</TD><TD>17.01</TD><TD>1,343,300</TD><TD>16.65</TD></TR>
+<TR>
+<TD>Aug-08-02</TD><TD>16.80</TD><TD>18.00</TD><TD>16.80</TD><TD>17.61</TD><TD>2,949,000</TD><TD>17.25</TD></TR>
+<TR>
+<TD>Aug-07-02</TD><TD>16.05</TD><TD>16.30</TD><TD>15.60</TD><TD>16.10</TD><TD>1,068,430</TD><TD>15.74</TD></TR>
+<TR>
+<TD>Aug-06-02</TD><TD>15.00</TD><TD>16.10</TD><TD>15.00</TD><TD>15.80</TD><TD>485,007</TD><TD>15.44</TD></TR>
+<TR>
+<TD>Aug-05-02</TD><TD>15.55</TD><TD>15.55</TD><TD>14.80</TD><TD>14.95</TD><TD>707,339</TD><TD>14.59</TD></TR>
+<TR>
+<TD>Aug-02-02</TD><TD>16.20</TD><TD>16.20</TD><TD>15.50</TD><TD>15.55</TD><TD>692,663</TD><TD>15.19</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>16.00</TD><TD>16.60</TD><TD>15.19</TD><TD>16.00</TD><TD>1,243,750</TD><TD>15.64</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

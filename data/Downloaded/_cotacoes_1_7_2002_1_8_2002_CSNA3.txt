@@ -1,0 +1,128 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CSNA3.SA (COMPANHIA SIDERURGICA NACIONAL)
+        </TD><TD>As of Aug-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-02</TD><TD>44.17</TD><TD>44.17</TD><TD>39.51</TD><TD>39.80</TD><TD>143,461</TD><TD>35.71</TD></TR>
+<TR>
+<TD>Jul-31-02</TD><TD>40.10</TD><TD>43.98</TD><TD>40.10</TD><TD>42.50</TD><TD>140,518</TD><TD>38.41</TD></TR>
+<TR>
+<TD>Jul-30-02</TD><TD>42.51</TD><TD>42.99</TD><TD>38.50</TD><TD>39.00</TD><TD>252,025</TD><TD>34.91</TD></TR>
+<TR>
+<TD>Jul-29-02</TD><TD>44.88</TD><TD>45.40</TD><TD>42.50</TD><TD>42.50</TD><TD>227,573</TD><TD>38.41</TD></TR>
+<TR>
+<TD>Jul-26-02</TD><TD>48.10</TD><TD>48.10</TD><TD>43.20</TD><TD>44.89</TD><TD>186,533</TD><TD>40.80</TD></TR>
+<TR>
+<TD>Jul-25-02</TD><TD>48.00</TD><TD>48.00</TD><TD>46.30</TD><TD>48.00</TD><TD>213,431</TD><TD>43.91</TD></TR>
+<TR>
+<TD>Jul-24-02</TD><TD>47.00</TD><TD>47.42</TD><TD>43.80</TD><TD>47.40</TD><TD>250,364</TD><TD>43.31</TD></TR>
+<TR>
+<TD>Jul-23-02</TD><TD>51.79</TD><TD>51.80</TD><TD>47.00</TD><TD>48.34</TD><TD>273,517</TD><TD>44.25</TD></TR>
+<TR>
+<TD>Jul-22-02</TD><TD>53.00</TD><TD>55.30</TD><TD>50.06</TD><TD>51.00</TD><TD>425,497</TD><TD>46.91</TD></TR>
+<TR>
+<TD>Jul-19-02</TD><TD>55.01</TD><TD>55.60</TD><TD>52.80</TD><TD>53.00</TD><TD>413,225</TD><TD>48.91</TD></TR>
+<TR>
+<TD>Jul-18-02</TD><TD>53.51</TD><TD>57.50</TD><TD>53.51</TD><TD>55.89</TD><TD>927,314</TD><TD>51.80</TD></TR>
+<TR>
+<TD>Jul-17-02</TD><TD>59.00</TD><TD>59.00</TD><TD>51.50</TD><TD>54.03</TD><TD>1,865,550</TD><TD>49.94</TD></TR>
+<TR>
+<TD>Jul-16-02</TD><TD>45.50</TD><TD>47.21</TD><TD>45.50</TD><TD>46.90</TD><TD>147,623</TD><TD>42.81</TD></TR>
+<TR>
+<TD>Jul-15-02</TD><TD>45.00</TD><TD>46.34</TD><TD>44.00</TD><TD>46.00</TD><TD>209,320</TD><TD>41.91</TD></TR>
+<TR>
+<TD>Jul-12-02</TD><TD>45.70</TD><TD>46.20</TD><TD>42.90</TD><TD>44.85</TD><TD>317,353</TD><TD>40.76</TD></TR>
+<TR>
+<TD>Jul-11-02</TD><TD>46.50</TD><TD>46.50</TD><TD>44.80</TD><TD>45.70</TD><TD>200,312</TD><TD>41.61</TD></TR>
+<TR>
+<TD>Jul-10-02</TD><TD>48.30</TD><TD>48.40</TD><TD>45.90</TD><TD>47.00</TD><TD>173,015</TD><TD>42.91</TD></TR>
+<TR>
+<TD>Jul-08-02</TD><TD>47.98</TD><TD>48.40</TD><TD>47.37</TD><TD>47.99</TD><TD>120,880</TD><TD>43.90</TD></TR>
+<TR>
+<TD>Jul-05-02</TD><TD>49.70</TD><TD>49.70</TD><TD>47.55</TD><TD>47.79</TD><TD>107,351</TD><TD>43.70</TD></TR>
+<TR>
+<TD>Jul-04-02</TD><TD>47.99</TD><TD>50.00</TD><TD>47.99</TD><TD>49.70</TD><TD>226,939</TD><TD>45.61</TD></TR>
+<TR>
+<TD>Jul-03-02</TD><TD>49.00</TD><TD>49.20</TD><TD>46.65</TD><TD>47.79</TD><TD>262,070</TD><TD>43.70</TD></TR>
+<TR>
+<TD>Jul-02-02</TD><TD>46.25</TD><TD>49.50</TD><TD>45.60</TD><TD>49.50</TD><TD>183,476</TD><TD>45.41</TD></TR>
+<TR>
+<TD>Jul-01-02</TD><TD>45.40</TD><TD>46.99</TD><TD>45.00</TD><TD>45.89</TD><TD>280,001</TD><TD>41.80</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

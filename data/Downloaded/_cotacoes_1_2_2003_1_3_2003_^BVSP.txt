@@ -1,0 +1,122 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - ^BVSP (BRAZIL BOVESPA INDEX)
+        </TD><TD>As of Feb-28-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-28-03</TD><TD>10,153.00</TD><TD>10,281.00</TD><TD>10,152.00</TD><TD>10,281.00</TD><TD>0</TD><TD>10,281.00</TD></TR>
+<TR>
+<TD>Feb-27-03</TD><TD>10,006.00</TD><TD>10,146.00</TD><TD>9,998.00</TD><TD>10,126.00</TD><TD>0</TD><TD>10,126.00</TD></TR>
+<TR>
+<TD>Feb-26-03</TD><TD>10,192.00</TD><TD>10,271.00</TD><TD>9,977.00</TD><TD>9,995.00</TD><TD>0</TD><TD>9,995.00</TD></TR>
+<TR>
+<TD>Feb-25-03</TD><TD>10,231.00</TD><TD>10,231.00</TD><TD>10,022.00</TD><TD>10,192.00</TD><TD>0</TD><TD>10,192.00</TD></TR>
+<TR>
+<TD>Feb-24-03</TD><TD>10,334.00</TD><TD>10,454.00</TD><TD>10,251.00</TD><TD>10,254.00</TD><TD>0</TD><TD>10,254.00</TD></TR>
+<TR>
+<TD>Feb-21-03</TD><TD>10,222.00</TD><TD>10,340.00</TD><TD>10,144.00</TD><TD>10,331.00</TD><TD>0</TD><TD>10,331.00</TD></TR>
+<TR>
+<TD>Feb-20-03</TD><TD>10,259.00</TD><TD>10,268.00</TD><TD>10,118.00</TD><TD>10,217.00</TD><TD>0</TD><TD>10,217.00</TD></TR>
+<TR>
+<TD>Feb-19-03</TD><TD>10,434.00</TD><TD>10,434.00</TD><TD>10,206.00</TD><TD>10,252.00</TD><TD>0</TD><TD>10,252.00</TD></TR>
+<TR>
+<TD>Feb-18-03</TD><TD>10,192.00</TD><TD>10,466.00</TD><TD>10,166.00</TD><TD>10,450.00</TD><TD>0</TD><TD>10,450.00</TD></TR>
+<TR>
+<TD>Feb-17-03</TD><TD>10,089.00</TD><TD>10,229.00</TD><TD>10,089.00</TD><TD>10,189.00</TD><TD>0</TD><TD>10,189.00</TD></TR>
+<TR>
+<TD>Feb-14-03</TD><TD>10,103.00</TD><TD>10,163.00</TD><TD>9,968.00</TD><TD>10,081.00</TD><TD>0</TD><TD>10,081.00</TD></TR>
+<TR>
+<TD>Feb-13-03</TD><TD>10,509.00</TD><TD>10,509.00</TD><TD>10,091.00</TD><TD>10,108.00</TD><TD>0</TD><TD>10,108.00</TD></TR>
+<TR>
+<TD>Feb-12-03</TD><TD>10,512.00</TD><TD>10,587.00</TD><TD>10,445.00</TD><TD>10,510.00</TD><TD>0</TD><TD>10,510.00</TD></TR>
+<TR>
+<TD>Feb-11-03</TD><TD>10,491.00</TD><TD>10,650.00</TD><TD>10,475.00</TD><TD>10,509.00</TD><TD>0</TD><TD>10,509.00</TD></TR>
+<TR>
+<TD>Feb-10-03</TD><TD>10,388.00</TD><TD>10,527.00</TD><TD>10,310.00</TD><TD>10,480.00</TD><TD>0</TD><TD>10,480.00</TD></TR>
+<TR>
+<TD>Feb-07-03</TD><TD>10,567.00</TD><TD>10,692.00</TD><TD>10,355.00</TD><TD>10,381.00</TD><TD>0</TD><TD>10,381.00</TD></TR>
+<TR>
+<TD>Feb-06-03</TD><TD>10,587.00</TD><TD>10,589.00</TD><TD>10,360.00</TD><TD>10,566.00</TD><TD>0</TD><TD>10,566.00</TD></TR>
+<TR>
+<TD>Feb-05-03</TD><TD>10,581.00</TD><TD>10,761.00</TD><TD>10,497.00</TD><TD>10,592.00</TD><TD>0</TD><TD>10,592.00</TD></TR>
+<TR>
+<TD>Feb-04-03</TD><TD>10,879.00</TD><TD>10,879.00</TD><TD>10,534.00</TD><TD>10,577.00</TD><TD>0</TD><TD>10,577.00</TD></TR>
+<TR>
+<TD>Feb-03-03</TD><TD>10,943.00</TD><TD>11,067.00</TD><TD>10,852.00</TD><TD>10,910.00</TD><TD>0</TD><TD>10,910.00</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

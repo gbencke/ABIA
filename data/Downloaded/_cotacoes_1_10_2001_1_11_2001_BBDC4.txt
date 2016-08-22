@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - BBDC4.SA (BANCO BRADESCO SA)
+        </TD><TD>As of Nov-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Nov-01-01</TD><TD>10.28</TD><TD>10.62</TD><TD>10.16</TD><TD>10.48</TD><TD>1,247,280</TD><TD>9.63</TD></TR>
+<TR>
+<TD>Oct-31-01</TD><TD>10.15</TD><TD>10.30</TD><TD>10.11</TD><TD>10.25</TD><TD>2,678,250</TD><TD>9.39</TD></TR>
+<TR>
+<TD>Oct-30-01</TD><TD>10.03</TD><TD>10.48</TD><TD>9.95</TD><TD>9.95</TD><TD>2,240,660</TD><TD>9.09</TD></TR>
+<TR>
+<TD>Oct-29-01</TD><TD>10.79</TD><TD>10.88</TD><TD>10.31</TD><TD>10.32</TD><TD>1,080,030</TD><TD>9.46</TD></TR>
+<TR>
+<TD>Oct-26-01</TD><TD>11.10</TD><TD>11.25</TD><TD>10.90</TD><TD>10.90</TD><TD>857,167</TD><TD>10.04</TD></TR>
+<TR>
+<TD>Oct-25-01</TD><TD>10.75</TD><TD>11.24</TD><TD>10.75</TD><TD>11.06</TD><TD>814,461</TD><TD>10.20</TD></TR>
+<TR>
+<TD>Oct-24-01</TD><TD>11.01</TD><TD>11.09</TD><TD>10.75</TD><TD>10.98</TD><TD>973,758</TD><TD>10.12</TD></TR>
+<TR>
+<TD>Oct-23-01</TD><TD>10.95</TD><TD>11.25</TD><TD>10.95</TD><TD>11.10</TD><TD>1,073,170</TD><TD>10.24</TD></TR>
+<TR>
+<TD>Oct-22-01</TD><TD>10.81</TD><TD>11.00</TD><TD>10.65</TD><TD>10.97</TD><TD>683,551</TD><TD>10.11</TD></TR>
+<TR>
+<TD>Oct-19-01</TD><TD>10.45</TD><TD>10.85</TD><TD>10.30</TD><TD>10.70</TD><TD>1,752,540</TD><TD>9.84</TD></TR>
+<TR>
+<TD>Oct-18-01</TD><TD>10.55</TD><TD>10.55</TD><TD>10.25</TD><TD>10.46</TD><TD>1,010,310</TD><TD>9.60</TD></TR>
+<TR>
+<TD>Oct-17-01</TD><TD>10.60</TD><TD>10.75</TD><TD>10.36</TD><TD>10.60</TD><TD>1,777,930</TD><TD>9.74</TD></TR>
+<TR>
+<TD>Oct-16-01</TD><TD>10.70</TD><TD>10.70</TD><TD>10.41</TD><TD>10.41</TD><TD>1,186,070</TD><TD>9.55</TD></TR>
+<TR>
+<TD>Oct-15-01</TD><TD>10.29</TD><TD>10.70</TD><TD>10.25</TD><TD>10.60</TD><TD>1,249,640</TD><TD>9.74</TD></TR>
+<TR>
+<TD>Oct-11-01</TD><TD>10.01</TD><TD>10.46</TD><TD>9.85</TD><TD>10.32</TD><TD>2,618,820</TD><TD>9.46</TD></TR>
+<TR>
+<TD>Oct-10-01</TD><TD>9.75</TD><TD>9.85</TD><TD>9.60</TD><TD>9.75</TD><TD>3,012,730</TD><TD>8.89</TD></TR>
+<TR>
+<TD>Oct-09-01</TD><TD>9.73</TD><TD>9.87</TD><TD>9.63</TD><TD>9.75</TD><TD>2,011,420</TD><TD>8.89</TD></TR>
+<TR>
+<TD>Oct-08-01</TD><TD>9.70</TD><TD>9.85</TD><TD>9.62</TD><TD>9.69</TD><TD>1,338,300</TD><TD>8.83</TD></TR>
+<TR>
+<TD>Oct-05-01</TD><TD>10.21</TD><TD>10.25</TD><TD>9.83</TD><TD>9.95</TD><TD>1,325,810</TD><TD>9.09</TD></TR>
+<TR>
+<TD>Oct-04-01</TD><TD>10.40</TD><TD>10.60</TD><TD>10.11</TD><TD>10.15</TD><TD>1,121,460</TD><TD>9.29</TD></TR>
+<TR>
+<TD>Oct-02-01</TD><TD>10.65</TD><TD>10.68</TD><TD>10.33</TD><TD>10.40</TD><TD>1,239,540</TD><TD>9.54</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>$0.01 Cash Dividend</TD></TR>
+<TR>
+<TD>Oct-01-01</TD><TD>10.35</TD><TD>10.78</TD><TD>10.30</TD><TD>10.55</TD><TD>1,057,100</TD><TD>9.69</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

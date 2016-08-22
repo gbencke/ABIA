@@ -1,0 +1,140 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TBLE3.SA (TRACTBEL ENERGIA SA)
+        </TD><TD>As of Aug-01-03</TD></TR>
+</TABLE>
+More Info: Quote | Chart<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-03</TD><TD>6.40</TD><TD>6.40</TD><TD>5.96</TD><TD>5.96</TD><TD>39,423</TD><TD>5.96</TD></TR>
+<TR>
+<TD>Aug-00-03</TD><TD>$0.22 Cash Dividend</TD></TR>
+<TR>
+<TD>Jul-31-03</TD><TD>6.56</TD><TD>6.79</TD><TD>6.14</TD><TD>6.57</TD><TD>36,543</TD><TD>6.35</TD></TR>
+<TR>
+<TD>Jul-30-03</TD><TD>7.22</TD><TD>7.22</TD><TD>6.22</TD><TD>6.56</TD><TD>30,058</TD><TD>6.34</TD></TR>
+<TR>
+<TD>Jul-29-03</TD><TD>6.97</TD><TD>7.30</TD><TD>6.91</TD><TD>6.99</TD><TD>28,979</TD><TD>6.77</TD></TR>
+<TR>
+<TD>Jul-28-03</TD><TD>7.56</TD><TD>7.70</TD><TD>7.25</TD><TD>7.50</TD><TD>40,580</TD><TD>7.28</TD></TR>
+<TR>
+<TD>Jul-25-03</TD><TD>7.85</TD><TD>7.85</TD><TD>7.70</TD><TD>7.70</TD><TD>164,454</TD><TD>7.48</TD></TR>
+<TR>
+<TD>Jul-24-03</TD><TD>7.84</TD><TD>7.84</TD><TD>7.67</TD><TD>7.70</TD><TD>11,718</TD><TD>7.48</TD></TR>
+<TR>
+<TD>Jul-23-03</TD><TD>7.75</TD><TD>7.80</TD><TD>7.70</TD><TD>7.70</TD><TD>260,400</TD><TD>7.48</TD></TR>
+<TR>
+<TD>Jul-22-03</TD><TD>7.60</TD><TD>7.71</TD><TD>7.60</TD><TD>7.70</TD><TD>57,888</TD><TD>7.48</TD></TR>
+<TR>
+<TD>Jul-21-03</TD><TD>7.58</TD><TD>7.78</TD><TD>7.58</TD><TD>7.70</TD><TD>49,244</TD><TD>7.48</TD></TR>
+<TR>
+<TD>Jul-18-03</TD><TD>7.61</TD><TD>7.84</TD><TD>7.61</TD><TD>7.70</TD><TD>49,000</TD><TD>7.48</TD></TR>
+<TR>
+<TD>Jul-17-03</TD><TD>7.62</TD><TD>7.75</TD><TD>7.53</TD><TD>7.70</TD><TD>471,112</TD><TD>7.48</TD></TR>
+<TR>
+<TD>Jul-16-03</TD><TD>7.66</TD><TD>7.80</TD><TD>7.60</TD><TD>7.71</TD><TD>6,007</TD><TD>7.49</TD></TR>
+<TR>
+<TD>Jul-15-03</TD><TD>7.60</TD><TD>7.84</TD><TD>7.60</TD><TD>7.84</TD><TD>3,853</TD><TD>7.62</TD></TR>
+<TR>
+<TD>Jul-14-03</TD><TD>7.52</TD><TD>7.85</TD><TD>7.52</TD><TD>7.84</TD><TD>15,392</TD><TD>7.62</TD></TR>
+<TR>
+<TD>Jul-11-03</TD><TD>7.52</TD><TD>7.80</TD><TD>7.52</TD><TD>7.70</TD><TD>650,015</TD><TD>7.48</TD></TR>
+<TR>
+<TD>Jul-10-03</TD><TD>7.30</TD><TD>7.71</TD><TD>7.30</TD><TD>7.70</TD><TD>665,095</TD><TD>7.48</TD></TR>
+<TR>
+<TD>Jul-08-03</TD><TD>7.15</TD><TD>7.68</TD><TD>7.15</TD><TD>7.60</TD><TD>217,399</TD><TD>7.38</TD></TR>
+<TR>
+<TD>Jul-07-03</TD><TD>7.20</TD><TD>7.59</TD><TD>7.06</TD><TD>7.50</TD><TD>206,000</TD><TD>7.28</TD></TR>
+<TR>
+<TD>Jul-04-03</TD><TD>7.20</TD><TD>7.44</TD><TD>7.20</TD><TD>7.44</TD><TD>1,920</TD><TD>7.22</TD></TR>
+<TR>
+<TD>Jul-03-03</TD><TD>7.07</TD><TD>7.20</TD><TD>7.07</TD><TD>7.20</TD><TD>26,000</TD><TD>6.98</TD></TR>
+<TR>
+<TD>Jul-02-03</TD><TD>7.21</TD><TD>7.27</TD><TD>7.20</TD><TD>7.22</TD><TD>7,768</TD><TD>7.00</TD></TR>
+<TR>
+<TD>Jul-01-03</TD><TD>7.10</TD><TD>7.49</TD><TD>7.10</TD><TD>7.45</TD><TD>103,430</TD><TD>7.23</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+<TR>
+<TD>ADVERTISEMENT<TABLE>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD></TD><TD></TD><TD></TD></TR>
+<TR>
+<TD></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - CGAS5.SA (CIA DE GAS DE SAO PAULO)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>130.00</TD><TD>133.00</TD><TD>127.00</TD><TD>130.50</TD><TD>26,600</TD><TD>126.69</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>133.99</TD><TD>133.99</TD><TD>127.00</TD><TD>130.99</TD><TD>10,412</TD><TD>127.18</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>134.89</TD><TD>134.90</TD><TD>132.00</TD><TD>132.00</TD><TD>29,100</TD><TD>128.19</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>134.98</TD><TD>134.98</TD><TD>132.00</TD><TD>133.00</TD><TD>40,750</TD><TD>129.19</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>135.65</TD><TD>135.90</TD><TD>131.00</TD><TD>133.00</TD><TD>11,700</TD><TD>129.19</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>136.40</TD><TD>136.40</TD><TD>133.00</TD><TD>133.00</TD><TD>11,037</TD><TD>129.19</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>136.89</TD><TD>136.89</TD><TD>132.99</TD><TD>136.00</TD><TD>15,885</TD><TD>132.19</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>134.00</TD><TD>134.50</TD><TD>131.00</TD><TD>133.00</TD><TD>117,212</TD><TD>129.19</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>132.00</TD><TD>132.00</TD><TD>129.00</TD><TD>130.60</TD><TD>44,465</TD><TD>126.79</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>133.50</TD><TD>135.99</TD><TD>125.01</TD><TD>130.00</TD><TD>8,410</TD><TD>126.19</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>138.99</TD><TD>139.50</TD><TD>132.50</TD><TD>133.90</TD><TD>11,663</TD><TD>130.09</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>137.00</TD><TD>138.99</TD><TD>133.00</TD><TD>138.00</TD><TD>27,320</TD><TD>134.19</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>136.00</TD><TD>137.49</TD><TD>133.00</TD><TD>136.99</TD><TD>28,667</TD><TD>133.18</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>138.70</TD><TD>138.70</TD><TD>132.00</TD><TD>133.00</TD><TD>12,340</TD><TD>129.19</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>137.00</TD><TD>138.50</TD><TD>136.00</TD><TD>136.00</TD><TD>15,834</TD><TD>132.19</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>135.99</TD><TD>140.00</TD><TD>132.50</TD><TD>137.00</TD><TD>16,463</TD><TD>133.19</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>141.50</TD><TD>141.50</TD><TD>134.00</TD><TD>136.00</TD><TD>8,210</TD><TD>132.19</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>135.00</TD><TD>143.00</TD><TD>132.00</TD><TD>139.80</TD><TD>11,276</TD><TD>135.99</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>140.99</TD><TD>140.99</TD><TD>135.50</TD><TD>137.00</TD><TD>10,920</TD><TD>133.19</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>146.00</TD><TD>146.00</TD><TD>135.01</TD><TD>137.00</TD><TD>21,250</TD><TD>133.19</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>147.99</TD><TD>148.00</TD><TD>142.50</TD><TD>147.00</TD><TD>28,181</TD><TD>143.19</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>144.90</TD><TD>148.50</TD><TD>142.50</TD><TD>148.00</TD><TD>11,070</TD><TD>144.19</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

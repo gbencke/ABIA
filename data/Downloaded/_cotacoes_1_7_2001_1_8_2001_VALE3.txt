@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - VALE3.SA (COMPANHIA VALE DO RIO DOCE)
+        </TD><TD>As of Aug-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Aug-01-01</TD><TD>53.99</TD><TD>53.99</TD><TD>52.00</TD><TD>52.00</TD><TD>28</TD><TD>41.47</TD></TR>
+<TR>
+<TD>Jul-31-01</TD><TD>51.50</TD><TD>52.80</TD><TD>51.50</TD><TD>52.80</TD><TD>2</TD><TD>42.27</TD></TR>
+<TR>
+<TD>Jul-30-01</TD><TD>52.20</TD><TD>52.20</TD><TD>51.50</TD><TD>51.50</TD><TD>13</TD><TD>40.97</TD></TR>
+<TR>
+<TD>Jul-27-01</TD><TD>52.50</TD><TD>52.50</TD><TD>52.20</TD><TD>52.20</TD><TD>0</TD><TD>41.67</TD></TR>
+<TR>
+<TD>Jul-26-01</TD><TD>52.50</TD><TD>52.50</TD><TD>52.49</TD><TD>52.50</TD><TD>10</TD><TD>41.97</TD></TR>
+<TR>
+<TD>Jul-25-01</TD><TD>50.80</TD><TD>52.50</TD><TD>50.79</TD><TD>52.50</TD><TD>3,584</TD><TD>41.97</TD></TR>
+<TR>
+<TD>Jul-24-01</TD><TD>52.00</TD><TD>52.00</TD><TD>50.80</TD><TD>50.80</TD><TD>148</TD><TD>40.27</TD></TR>
+<TR>
+<TD>Jul-23-01</TD><TD>52.50</TD><TD>52.50</TD><TD>52.40</TD><TD>52.40</TD><TD>2</TD><TD>41.87</TD></TR>
+<TR>
+<TD>Jul-20-01</TD><TD>51.50</TD><TD>51.50</TD><TD>51.50</TD><TD>51.50</TD><TD>0</TD><TD>40.97</TD></TR>
+<TR>
+<TD>Jul-19-01</TD><TD>51.50</TD><TD>51.50</TD><TD>50.60</TD><TD>50.60</TD><TD>32</TD><TD>40.07</TD></TR>
+<TR>
+<TD>Jul-18-01</TD><TD>53.00</TD><TD>53.00</TD><TD>50.00</TD><TD>51.00</TD><TD>3</TD><TD>40.47</TD></TR>
+<TR>
+<TD>Jul-17-01</TD><TD>51.00</TD><TD>51.00</TD><TD>50.00</TD><TD>51.00</TD><TD>33</TD><TD>40.47</TD></TR>
+<TR>
+<TD>Jul-16-01</TD><TD>51.50</TD><TD>51.50</TD><TD>51.10</TD><TD>51.20</TD><TD>5</TD><TD>40.67</TD></TR>
+<TR>
+<TD>Jul-13-01</TD><TD>52.50</TD><TD>52.50</TD><TD>51.00</TD><TD>52.00</TD><TD>2</TD><TD>41.47</TD></TR>
+<TR>
+<TD>Jul-12-01</TD><TD>53.00</TD><TD>53.50</TD><TD>53.00</TD><TD>53.00</TD><TD>4</TD><TD>42.47</TD></TR>
+<TR>
+<TD>Jul-11-01</TD><TD>52.50</TD><TD>53.50</TD><TD>52.10</TD><TD>53.40</TD><TD>392</TD><TD>42.87</TD></TR>
+<TR>
+<TD>Jul-10-01</TD><TD>54.00</TD><TD>54.00</TD><TD>53.00</TD><TD>54.00</TD><TD>12</TD><TD>43.47</TD></TR>
+<TR>
+<TD>Jul-06-01</TD><TD>52.90</TD><TD>53.98</TD><TD>52.90</TD><TD>53.98</TD><TD>5</TD><TD>43.45</TD></TR>
+<TR>
+<TD>Jul-05-01</TD><TD>52.00</TD><TD>53.00</TD><TD>52.00</TD><TD>53.00</TD><TD>44</TD><TD>42.47</TD></TR>
+<TR>
+<TD>Jul-04-01</TD><TD>51.70</TD><TD>53.00</TD><TD>51.70</TD><TD>52.50</TD><TD>64</TD><TD>41.97</TD></TR>
+<TR>
+<TD>Jul-03-01</TD><TD>54.99</TD><TD>55.00</TD><TD>50.00</TD><TD>51.20</TD><TD>9</TD><TD>40.67</TD></TR>
+<TR>
+<TD>Jul-02-01</TD><TD>54.00</TD><TD>55.00</TD><TD>54.00</TD><TD>54.20</TD><TD>52</TD><TD>43.67</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

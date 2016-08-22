@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TRPL4.SA (COMPANHIA DE TRANSMISSAO DE ENE)
+        </TD><TD>As of Nov-01-02</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Nov-01-02</TD><TD>5.18</TD><TD>5.48</TD><TD>5.18</TD><TD>5.44</TD><TD>442,259</TD><TD>4.35</TD></TR>
+<TR>
+<TD>Oct-31-02</TD><TD>5.10</TD><TD>5.17</TD><TD>5.00</TD><TD>5.14</TD><TD>240,500</TD><TD>4.05</TD></TR>
+<TR>
+<TD>Oct-30-02</TD><TD>5.10</TD><TD>5.18</TD><TD>5.00</TD><TD>5.10</TD><TD>114,682</TD><TD>4.01</TD></TR>
+<TR>
+<TD>Oct-29-02</TD><TD>5.00</TD><TD>5.00</TD><TD>4.85</TD><TD>5.00</TD><TD>129,335</TD><TD>3.91</TD></TR>
+<TR>
+<TD>Oct-28-02</TD><TD>5.35</TD><TD>5.35</TD><TD>4.95</TD><TD>4.97</TD><TD>166,708</TD><TD>3.88</TD></TR>
+<TR>
+<TD>Oct-25-02</TD><TD>5.19</TD><TD>5.39</TD><TD>5.07</TD><TD>5.30</TD><TD>84,117</TD><TD>4.21</TD></TR>
+<TR>
+<TD>Oct-24-02</TD><TD>5.38</TD><TD>5.38</TD><TD>5.07</TD><TD>5.19</TD><TD>160,772</TD><TD>4.10</TD></TR>
+<TR>
+<TD>Oct-23-02</TD><TD>5.20</TD><TD>5.38</TD><TD>5.11</TD><TD>5.38</TD><TD>176,377</TD><TD>4.29</TD></TR>
+<TR>
+<TD>Oct-22-02</TD><TD>5.11</TD><TD>5.22</TD><TD>5.08</TD><TD>5.20</TD><TD>104,500</TD><TD>4.11</TD></TR>
+<TR>
+<TD>Oct-21-02</TD><TD>5.20</TD><TD>5.20</TD><TD>5.10</TD><TD>5.10</TD><TD>71,931</TD><TD>4.01</TD></TR>
+<TR>
+<TD>Oct-18-02</TD><TD>4.95</TD><TD>5.15</TD><TD>4.95</TD><TD>5.15</TD><TD>99,190</TD><TD>4.06</TD></TR>
+<TR>
+<TD>Oct-17-02</TD><TD>4.80</TD><TD>5.00</TD><TD>4.80</TD><TD>4.97</TD><TD>159,049</TD><TD>3.88</TD></TR>
+<TR>
+<TD>Oct-16-02</TD><TD>4.94</TD><TD>4.94</TD><TD>4.65</TD><TD>4.70</TD><TD>140,835</TD><TD>3.61</TD></TR>
+<TR>
+<TD>Oct-15-02</TD><TD>4.90</TD><TD>4.95</TD><TD>4.69</TD><TD>4.90</TD><TD>130,764</TD><TD>3.81</TD></TR>
+<TR>
+<TD>Oct-14-02</TD><TD>5.18</TD><TD>5.18</TD><TD>4.80</TD><TD>4.80</TD><TD>70,073</TD><TD>3.71</TD></TR>
+<TR>
+<TD>Oct-11-02</TD><TD>5.09</TD><TD>5.15</TD><TD>5.08</TD><TD>5.08</TD><TD>129,163</TD><TD>3.99</TD></TR>
+<TR>
+<TD>Oct-10-02</TD><TD>5.05</TD><TD>5.10</TD><TD>5.00</TD><TD>5.08</TD><TD>97,150</TD><TD>3.99</TD></TR>
+<TR>
+<TD>Oct-09-02</TD><TD>4.87</TD><TD>5.05</TD><TD>4.87</TD><TD>5.00</TD><TD>90,104</TD><TD>3.91</TD></TR>
+<TR>
+<TD>Oct-08-02</TD><TD>4.96</TD><TD>5.00</TD><TD>4.87</TD><TD>4.91</TD><TD>100,503</TD><TD>3.82</TD></TR>
+<TR>
+<TD>Oct-07-02</TD><TD>5.06</TD><TD>5.12</TD><TD>4.95</TD><TD>4.96</TD><TD>37,100</TD><TD>3.87</TD></TR>
+<TR>
+<TD>Oct-04-02</TD><TD>5.06</TD><TD>5.12</TD><TD>5.02</TD><TD>5.12</TD><TD>91,975</TD><TD>4.03</TD></TR>
+<TR>
+<TD>Oct-03-02</TD><TD>5.03</TD><TD>5.14</TD><TD>5.00</TD><TD>5.14</TD><TD>166,464</TD><TD>4.05</TD></TR>
+<TR>
+<TD>Oct-02-02</TD><TD>5.10</TD><TD>5.18</TD><TD>5.00</TD><TD>5.00</TD><TD>101,684</TD><TD>3.91</TD></TR>
+<TR>
+<TD>Oct-01-02</TD><TD>5.01</TD><TD>5.06</TD><TD>4.94</TD><TD>5.02</TD><TD>169,004</TD><TD>3.93</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

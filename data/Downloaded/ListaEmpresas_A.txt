@@ -1,0 +1,387 @@
+
+<html>
+<head>
+<title>Companhias Listadas</title>
+<style type="text/css">
+
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
+
+</style>
+</head>
+
+<body background="images/fundo_destaques.gif" bgcolor="#FFFFFF" bgproperties="fixed" text="#000000" link="#000000" vlink="#6A6A6A" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<center>
+<table border="0" width="60" cellspacing="2" cellpadding="1">
+
+  <tr valign="top">
+    <td><img src="images/tit_clistadas_dfbuscaempresaitr.gif" border="0"><br><br></td>
+  </tr>  
+   <tr valign="top">
+   <td style="padding-left: 12px;">
+
+    <img src="images/bullet_ciaslist_gr.gif" border="0">&nbsp;<font face="Arial" size="2"><b>Clique sobre o nome da empresa para acessar seus dados.</b></font><br><br>
+        <center>
+        <table border="0" width="80%" cellspacing="2" cellpadding="1">
+        <!---		Cabeçalho da Tabela		 --->
+        <tr valign="top">
+        	
+        	<td><font face="Arial" size="2"><b>Nome de Pregão</b></font></td>
+            
+            <td><font face="Arial" size="2"><b>Razão Social</b></font></td>
+            <td><font face="Arial" size="2"><b></b></font></td>
+        </tr>	
+          
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=A.P. PARTICIPACOES S.A.&ccvm=16802&site=B&pregao=A P PART&mercado=1&pagina=itr_dfp_ian">A P PART</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=A.P. PARTICIPACOES S.A.&ccvm=16802&site=B&pregao=A P PART&mercado=1&pagina=itr_dfp_ian">A.P. PARTICIPACOES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=A.P. PARTICIPACOES S.A.&ccvm=16802&site=B&pregao=A P PART&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ACESITA S.A.&ccvm=2658&site=B&pregao=ACESITA&mercado=1&pagina=itr_dfp_ian">ACESITA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ACESITA S.A.&ccvm=2658&site=B&pregao=ACESITA&mercado=1&pagina=itr_dfp_ian">ACESITA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ACESITA S.A.&ccvm=2658&site=B&pregao=ACESITA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELECTRO ACO ALTONA S.A.&ccvm=5380&site=B&pregao=ACO ALTONA&mercado=1&pagina=itr_dfp_ian">ACO ALTONA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ELECTRO ACO ALTONA S.A.&ccvm=5380&site=B&pregao=ACO ALTONA&mercado=1&pagina=itr_dfp_ian">ELECTRO ACO ALTONA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ELECTRO ACO ALTONA S.A.&ccvm=5380&site=B&pregao=ACO ALTONA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ACOS VILLARES S.A.&ccvm=108&site=B&pregao=ACOS VILL&mercado=1&pagina=itr_dfp_ian">ACOS VILL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ACOS VILLARES S.A.&ccvm=108&site=B&pregao=ACOS VILL&mercado=1&pagina=itr_dfp_ian">ACOS VILLARES S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ACOS VILLARES S.A.&ccvm=108&site=B&pregao=ACOS VILL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ADUBOS TREVO S.A.&ccvm=140&site=B&pregao=ADUBOS TREVO&mercado=1&pagina=itr_dfp_ian">ADUBOS TREVO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ADUBOS TREVO S.A.&ccvm=140&site=B&pregao=ADUBOS TREVO&mercado=1&pagina=itr_dfp_ian">ADUBOS TREVO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ADUBOS TREVO S.A.&ccvm=140&site=B&pregao=ADUBOS TREVO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AES ELPA S.A.&ccvm=19313&site=B&pregao=AES ELPA&mercado=1&pagina=itr_dfp_ian">AES ELPA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AES ELPA S.A.&ccvm=19313&site=B&pregao=AES ELPA&mercado=1&pagina=itr_dfp_ian">AES ELPA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=AES ELPA S.A.&ccvm=19313&site=B&pregao=AES ELPA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AES SUL DISTRIB GAUCHA DE ENERGIA S.A.&ccvm=16527&site=B&pregao=AES SUL&mercado=1&pagina=itr_dfp_ian">AES SUL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AES SUL DISTRIB GAUCHA DE ENERGIA S.A.&ccvm=16527&site=B&pregao=AES SUL&mercado=1&pagina=itr_dfp_ian">AES SUL DISTRIB GAUCHA DE ENERGIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=AES SUL DISTRIB GAUCHA DE ENERGIA S.A.&ccvm=16527&site=B&pregao=AES SUL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AES TIETE S.A.&ccvm=18350&site=B&pregao=AES TIETE&mercado=1&pagina=itr_dfp_ian">AES TIETE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AES TIETE S.A.&ccvm=18350&site=B&pregao=AES TIETE&mercado=1&pagina=itr_dfp_ian">AES TIETE S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=AES TIETE S.A.&ccvm=18350&site=B&pregao=AES TIETE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AETATIS SECURITIZADORA S.A.&ccvm=18104&site=B&pregao=AETATIS SEC&mercado=1&pagina=itr_dfp_ian">AETATIS SEC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AETATIS SECURITIZADORA S.A.&ccvm=18104&site=B&pregao=AETATIS SEC&mercado=1&pagina=itr_dfp_ian">AETATIS SECURITIZADORA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=AETATIS SECURITIZADORA S.A.&ccvm=18104&site=B&pregao=AETATIS SEC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AGF BRASIL SEGUROS S.A.&ccvm=12343&site=B&pregao=AGF BRASIL&mercado=1&pagina=itr_dfp_ian">AGF BRASIL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AGF BRASIL SEGUROS S.A.&ccvm=12343&site=B&pregao=AGF BRASIL&mercado=1&pagina=itr_dfp_ian">AGF BRASIL SEGUROS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=AGF BRASIL SEGUROS S.A.&ccvm=12343&site=B&pregao=AGF BRASIL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DANA-ALBARUS S.A. INDUSTRIA E COMERCIO&ccvm=248&site=B&pregao=ALBARUS&mercado=1&pagina=itr_dfp_ian">ALBARUS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=DANA-ALBARUS S.A. INDUSTRIA E COMERCIO&ccvm=248&site=B&pregao=ALBARUS&mercado=1&pagina=itr_dfp_ian">DANA-ALBARUS S.A. INDUSTRIA E COMERCIO</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=DANA-ALBARUS S.A. INDUSTRIA E COMERCIO&ccvm=248&site=B&pregao=ALBARUS&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CONSORCIO ALFA DE ADMINISTRACAO S.A.&ccvm=4707&site=B&pregao=ALFA CONSORC&mercado=1&pagina=itr_dfp_ian">ALFA CONSORC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CONSORCIO ALFA DE ADMINISTRACAO S.A.&ccvm=4707&site=B&pregao=ALFA CONSORC&mercado=1&pagina=itr_dfp_ian">CONSORCIO ALFA DE ADMINISTRACAO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CONSORCIO ALFA DE ADMINISTRACAO S.A.&ccvm=4707&site=B&pregao=ALFA CONSORC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FINANCEIRA ALFA S.A.- CRED FINANC E INVS&ccvm=3891&site=B&pregao=ALFA FINANC&mercado=1&pagina=itr_dfp_ian">ALFA FINANC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=FINANCEIRA ALFA S.A.- CRED FINANC E INVS&ccvm=3891&site=B&pregao=ALFA FINANC&mercado=1&pagina=itr_dfp_ian">FINANCEIRA ALFA S.A.- CRED FINANC E INVS</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=FINANCEIRA ALFA S.A.- CRED FINANC E INVS&ccvm=3891&site=B&pregao=ALFA FINANC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ALFA HOLDINGS S.A.&ccvm=9954&site=B&pregao=ALFA HOLDING&mercado=1&pagina=itr_dfp_ian">ALFA HOLDING</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ALFA HOLDINGS S.A.&ccvm=9954&site=B&pregao=ALFA HOLDING&mercado=1&pagina=itr_dfp_ian">ALFA HOLDINGS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ALFA HOLDINGS S.A.&ccvm=9954&site=B&pregao=ALFA HOLDING&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BCO ALFA DE INVESTIMENTO S.A.&ccvm=1384&site=B&pregao=ALFA INVEST&mercado=1&pagina=itr_dfp_ian">ALFA INVEST</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BCO ALFA DE INVESTIMENTO S.A.&ccvm=1384&site=B&pregao=ALFA INVEST&mercado=1&pagina=itr_dfp_ian">BCO ALFA DE INVESTIMENTO S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=BCO ALFA DE INVESTIMENTO S.A.&ccvm=1384&site=B&pregao=ALFA INVEST&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=SIDERURGICA J. L. ALIPERTI S.A.&ccvm=12823&site=B&pregao=ALIPERTI&mercado=1&pagina=itr_dfp_ian">ALIPERTI</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=SIDERURGICA J. L. ALIPERTI S.A.&ccvm=12823&site=B&pregao=ALIPERTI&mercado=1&pagina=itr_dfp_ian">SIDERURGICA J. L. ALIPERTI S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=SIDERURGICA J. L. ALIPERTI S.A.&ccvm=12823&site=B&pregao=ALIPERTI&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ALL AMERICA LATINA LOGISTICA S.A.&ccvm=17450&site=B&pregao=ALL AMER LAT&mercado=1&pagina=itr_dfp_ian">ALL AMER LAT</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ALL AMERICA LATINA LOGISTICA S.A.&ccvm=17450&site=B&pregao=ALL AMER LAT&mercado=1&pagina=itr_dfp_ian">ALL AMERICA LATINA LOGISTICA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ALL AMERICA LATINA LOGISTICA S.A.&ccvm=17450&site=B&pregao=ALL AMER LAT&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=SAO PAULO ALPARGATAS S.A.&ccvm=10456&site=B&pregao=ALPARGATAS&mercado=16&pagina=itr_dfp_ian">ALPARGATAS</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=SAO PAULO ALPARGATAS S.A.&ccvm=10456&site=B&pregao=ALPARGATAS&mercado=16&pagina=itr_dfp_ian">SAO PAULO ALPARGATAS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=SAO PAULO ALPARGATAS S.A.&ccvm=10456&site=B&pregao=ALPARGATAS&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ALTERE SECURITIZADORA S.A.&ccvm=18066&site=B&pregao=ALTERE SEC&mercado=1&pagina=itr_dfp_ian">ALTERE SEC</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ALTERE SECURITIZADORA S.A.&ccvm=18066&site=B&pregao=ALTERE SEC&mercado=1&pagina=itr_dfp_ian">ALTERE SECURITIZADORA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ALTERE SECURITIZADORA S.A.&ccvm=18066&site=B&pregao=ALTERE SEC&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BCO AMAZONIA S.A.&ccvm=922&site=B&pregao=AMAZONIA&mercado=1&pagina=itr_dfp_ian">AMAZONIA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=BCO AMAZONIA S.A.&ccvm=922&site=B&pregao=AMAZONIA&mercado=1&pagina=itr_dfp_ian">BCO AMAZONIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=BCO AMAZONIA S.A.&ccvm=922&site=B&pregao=AMAZONIA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA BEBIDAS DAS AMERICAS - AMBEV&ccvm=18112&site=B&pregao=AMBEV&mercado=1&pagina=itr_dfp_ian">AMBEV</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CIA BEBIDAS DAS AMERICAS - AMBEV&ccvm=18112&site=B&pregao=AMBEV&mercado=1&pagina=itr_dfp_ian">CIA BEBIDAS DAS AMERICAS - AMBEV</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CIA BEBIDAS DAS AMERICAS - AMBEV&ccvm=18112&site=B&pregao=AMBEV&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AMERICEL S.A.&ccvm=16195&site=B&pregao=AMERICEL&mercado=1&pagina=itr_dfp_ian">AMERICEL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AMERICEL S.A.&ccvm=16195&site=B&pregao=AMERICEL&mercado=1&pagina=itr_dfp_ian">AMERICEL S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=AMERICEL S.A.&ccvm=16195&site=B&pregao=AMERICEL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ANHEMBI TURISMO E EVENTOS DA CID SP S.A.&ccvm=9415&site=B&pregao=ANHEMBI TUR&mercado=1&pagina=itr_dfp_ian">ANHEMBI TUR</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ANHEMBI TURISMO E EVENTOS DA CID SP S.A.&ccvm=9415&site=B&pregao=ANHEMBI TUR&mercado=1&pagina=itr_dfp_ian">ANHEMBI TURISMO E EVENTOS DA CID SP S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ANHEMBI TURISMO E EVENTOS DA CID SP S.A.&ccvm=9415&site=B&pregao=ANHEMBI TUR&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ARACRUZ CELULOSE S.A.&ccvm=434&site=B&pregao=ARACRUZ&mercado=16&pagina=itr_dfp_ian">ARACRUZ</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ARACRUZ CELULOSE S.A.&ccvm=434&site=B&pregao=ARACRUZ&mercado=16&pagina=itr_dfp_ian">ARACRUZ CELULOSE S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ARACRUZ CELULOSE S.A.&ccvm=434&site=B&pregao=ARACRUZ&mercado=16&pagina=itr_dfp_ian">N1</a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=INDUSTRIAS ARTEB S.A.&ccvm=15881&site=B&pregao=ARTEB&mercado=1&pagina=itr_dfp_ian">ARTEB</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=INDUSTRIAS ARTEB S.A.&ccvm=15881&site=B&pregao=ARTEB&mercado=1&pagina=itr_dfp_ian">INDUSTRIAS ARTEB S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=INDUSTRIAS ARTEB S.A.&ccvm=15881&site=B&pregao=ARTEB&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ARTHUR LANGE S.A. INDUSTRIA E COMERCIO&ccvm=574&site=B&pregao=ARTHUR LANGE&mercado=1&pagina=itr_dfp_ian">ARTHUR LANGE</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=ARTHUR LANGE S.A. INDUSTRIA E COMERCIO&ccvm=574&site=B&pregao=ARTHUR LANGE&mercado=1&pagina=itr_dfp_ian">ARTHUR LANGE S.A. INDUSTRIA E COMERCIO</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=ARTHUR LANGE S.A. INDUSTRIA E COMERCIO&ccvm=574&site=B&pregao=ARTHUR LANGE&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AUTEL S.A. TELECOMUNICACOES&ccvm=14419&site=B&pregao=AUTEL&mercado=1&pagina=itr_dfp_ian">AUTEL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AUTEL S.A. TELECOMUNICACOES&ccvm=14419&site=B&pregao=AUTEL&mercado=1&pagina=itr_dfp_ian">AUTEL S.A. TELECOMUNICACOES</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=AUTEL S.A. TELECOMUNICACOES&ccvm=14419&site=B&pregao=AUTEL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AVIPAL S.A. - AVICULTURA E AGROPECUARIA&ccvm=12238&site=B&pregao=AVIPAL&mercado=1&pagina=itr_dfp_ian">AVIPAL</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AVIPAL S.A. - AVICULTURA E AGROPECUARIA&ccvm=12238&site=B&pregao=AVIPAL&mercado=1&pagina=itr_dfp_ian">AVIPAL S.A. - AVICULTURA E AGROPECUARIA</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=AVIPAL S.A. - AVICULTURA E AGROPECUARIA&ccvm=12238&site=B&pregao=AVIPAL&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CALCADOS AZALEIA S.A.&ccvm=19003&site=B&pregao=AZALEIA&mercado=1&pagina=itr_dfp_ian">AZALEIA</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=CALCADOS AZALEIA S.A.&ccvm=19003&site=B&pregao=AZALEIA&mercado=1&pagina=itr_dfp_ian">CALCADOS AZALEIA S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=CALCADOS AZALEIA S.A.&ccvm=19003&site=B&pregao=AZALEIA&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+     
+        <!---		Corpo da Tabela		 --->
+      <!--<tr bgColor="#ffffff">-->
+     <tr>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AZEVEDO E TRAVASSOS S.A.&ccvm=11975&site=B&pregao=AZEVEDO&mercado=1&pagina=itr_dfp_ian">AZEVEDO</a></font></td>
+     
+     <td><font face="Arial" size="2" class="text"><a href="DemonstFinancIPE0.asp?razao=AZEVEDO E TRAVASSOS S.A.&ccvm=11975&site=B&pregao=AZEVEDO&mercado=1&pagina=itr_dfp_ian">AZEVEDO E TRAVASSOS S.A.</a></font></td>
+     <td><font face="Arial" size="2" class="text"><b><a href="DemonstFinancIPE0.asp?razao=AZEVEDO E TRAVASSOS S.A.&ccvm=11975&site=B&pregao=AZEVEDO&mercado=1&pagina=itr_dfp_ian"></a></b></font></td>
+     </tr>
+
+  
+        </table>
+        <br><br>
+        </center>
+       
+  <tr valign="top">
+    <td align="right"><a href="Javascript:history.back();"><img src="images/volta_vermelho.gif" border="0"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan=5 align="right">
+	<img height="1" src="images/fio.gif" vspace="5" width="100%"><br>
+	<font face="Arial" size="1">© <a href="http://www.bovespa.com.br/copyrig.htm" target="blank">
+	Copyright Bovespa</a>. Todos os direitos reservados.</font>
+    </td>
+  </tr>
+
+</table>
+</center>
+</body>
+</html>
+
+        

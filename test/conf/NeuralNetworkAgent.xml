@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<agent Name="NeuralNetworkAgent">
+       <Parameter Name="Simulated" Value="true"/>
+</agent>

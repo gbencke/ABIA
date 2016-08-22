@@ -1,0 +1,130 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TNEP4.SA (TELE NORDESTE CELULAR PARTICIPA)
+        </TD><TD>As of Jun-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Jun-01-01</TD><TD>4.10</TD><TD>4.10</TD><TD>3.93</TD><TD>3.98</TD><TD>1,277,760</TD><TD>3.85</TD></TR>
+<TR>
+<TD>May-31-01</TD><TD>4.02</TD><TD>4.10</TD><TD>3.89</TD><TD>4.05</TD><TD>2,575,260</TD><TD>3.92</TD></TR>
+<TR>
+<TD>May-30-01</TD><TD>4.07</TD><TD>4.07</TD><TD>3.88</TD><TD>3.96</TD><TD>1,030,550</TD><TD>3.83</TD></TR>
+<TR>
+<TD>May-29-01</TD><TD>4.13</TD><TD>4.22</TD><TD>4.05</TD><TD>4.06</TD><TD>1,935,970</TD><TD>3.93</TD></TR>
+<TR>
+<TD>May-28-01</TD><TD>4.15</TD><TD>4.15</TD><TD>3.95</TD><TD>4.12</TD><TD>767,148</TD><TD>3.99</TD></TR>
+<TR>
+<TD>May-25-01</TD><TD>4.14</TD><TD>4.31</TD><TD>3.94</TD><TD>4.01</TD><TD>3,855,270</TD><TD>3.88</TD></TR>
+<TR>
+<TD>May-24-01</TD><TD>3.93</TD><TD>4.15</TD><TD>3.85</TD><TD>4.13</TD><TD>4,359,710</TD><TD>4.00</TD></TR>
+<TR>
+<TD>May-23-01</TD><TD>3.90</TD><TD>4.01</TD><TD>3.88</TD><TD>3.92</TD><TD>2,874,670</TD><TD>3.79</TD></TR>
+<TR>
+<TD>May-22-01</TD><TD>3.98</TD><TD>4.09</TD><TD>3.82</TD><TD>3.90</TD><TD>3,675,750</TD><TD>3.77</TD></TR>
+<TR>
+<TD>May-21-01</TD><TD>3.83</TD><TD>4.00</TD><TD>3.75</TD><TD>3.96</TD><TD>1,923,890</TD><TD>3.83</TD></TR>
+<TR>
+<TD>May-18-01</TD><TD>3.54</TD><TD>3.77</TD><TD>3.46</TD><TD>3.74</TD><TD>3,560,490</TD><TD>3.61</TD></TR>
+<TR>
+<TD>May-17-01</TD><TD>3.45</TD><TD>3.60</TD><TD>3.43</TD><TD>3.50</TD><TD>590,176</TD><TD>3.37</TD></TR>
+<TR>
+<TD>May-16-01</TD><TD>3.30</TD><TD>3.63</TD><TD>3.30</TD><TD>3.51</TD><TD>2,226,620</TD><TD>3.38</TD></TR>
+<TR>
+<TD>May-15-01</TD><TD>2.99</TD><TD>3.32</TD><TD>2.99</TD><TD>3.32</TD><TD>3,991,980</TD><TD>3.19</TD></TR>
+<TR>
+<TD>May-14-01</TD><TD>3.14</TD><TD>3.14</TD><TD>2.94</TD><TD>2.94</TD><TD>113,267</TD><TD>2.81</TD></TR>
+<TR>
+<TD>May-11-01</TD><TD>3.10</TD><TD>3.15</TD><TD>3.02</TD><TD>3.02</TD><TD>381,681</TD><TD>2.89</TD></TR>
+<TR>
+<TD>May-10-01</TD><TD>3.19</TD><TD>3.20</TD><TD>3.10</TD><TD>3.15</TD><TD>496,090</TD><TD>3.02</TD></TR>
+<TR>
+<TD>May-09-01</TD><TD>3.24</TD><TD>3.24</TD><TD>3.07</TD><TD>3.11</TD><TD>760,882</TD><TD>2.98</TD></TR>
+<TR>
+<TD>May-08-01</TD><TD>3.24</TD><TD>3.30</TD><TD>3.19</TD><TD>3.24</TD><TD>865,247</TD><TD>3.11</TD></TR>
+<TR>
+<TD>May-07-01</TD><TD>3.27</TD><TD>3.27</TD><TD>3.19</TD><TD>3.24</TD><TD>1,032,440</TD><TD>3.11</TD></TR>
+<TR>
+<TD>May-04-01</TD><TD>3.26</TD><TD>3.28</TD><TD>3.21</TD><TD>3.21</TD><TD>336,805</TD><TD>3.08</TD></TR>
+<TR>
+<TD>May-03-01</TD><TD>3.15</TD><TD>3.29</TD><TD>3.15</TD><TD>3.28</TD><TD>394,221</TD><TD>3.15</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>6:5 Stock Split</TD></TR>
+<TR>
+<TD>May-02-01</TD><TD>3.15</TD><TD>3.18</TD><TD>3.05</TD><TD>3.18</TD><TD>524,541</TD><TD>3.05</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+

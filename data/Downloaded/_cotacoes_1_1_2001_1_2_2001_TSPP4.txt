@@ -1,0 +1,126 @@
+
+            <TABLE>
+<TR>
+</TD><TD>Search -Finance Home - Yahoo! - Help
+            </TD></TR>
+</TABLE>
+
+   	    
+        <TABLE>
+<TR>
+
+        <TD>Historical Prices - TSPP4.SA (TELESP CELULAR PARTICIPACOES SA)
+        </TD><TD>As of Feb-01-01</TD></TR>
+</TABLE>
+More Info: Quote | Chart | News | Profile | Research<TABLE>
+<TR>
+<TD>
+
+
+<TABLE>
+
+<TR>
+
+<TD>
+<TABLE>
+
+<TR>
+
+<TD>Start:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+<TR>
+
+<TD>End:</TD>
+<TD>
+---JanFebMarAprMayJunJulAugSepOctNovDec
+</TD>
+</TR>
+
+</TABLE>
+
+</TD>
+<TD>
+ Daily
+ Weekly
+ Monthly    
+
+ Dividends</TD></TR>
+
+<TR>
+
+<TD>
+Ticker Symbol:&nbsp;
+
+</TD>
+</TR>
+
+</TABLE>
+
+ -->
+<TABLE>
+<TR>
+<TD>Date</TD><TD>Open</TD><TD>High</TD><TD>Low</TD><TD>Close</TD><TD>Volume</TD><TD>Adj. Close*</TD></TR>
+<TR>
+<TD>Feb-01-01</TD><TD>21.50</TD><TD>21.60</TD><TD>20.22</TD><TD>20.55</TD><TD>1,518,470</TD><TD>20.55</TD></TR>
+<TR>
+<TD>Jan-31-01</TD><TD>22.01</TD><TD>22.29</TD><TD>21.51</TD><TD>21.51</TD><TD>1,046,470</TD><TD>21.51</TD></TR>
+<TR>
+<TD>Jan-30-01</TD><TD>23.04</TD><TD>23.04</TD><TD>21.80</TD><TD>21.80</TD><TD>1,248,720</TD><TD>21.80</TD></TR>
+<TR>
+<TD>Jan-29-01</TD><TD>22.99</TD><TD>23.03</TD><TD>22.42</TD><TD>22.89</TD><TD>1,067,170</TD><TD>22.89</TD></TR>
+<TR>
+<TD>Jan-26-01</TD><TD>22.70</TD><TD>23.00</TD><TD>22.52</TD><TD>22.68</TD><TD>2,555,310</TD><TD>22.68</TD></TR>
+<TR>
+<TD>Jan-24-01</TD><TD>21.70</TD><TD>23.50</TD><TD>21.40</TD><TD>22.94</TD><TD>5,058,770</TD><TD>22.94</TD></TR>
+<TR>
+<TD>Jan-23-01</TD><TD>21.18</TD><TD>21.48</TD><TD>20.65</TD><TD>21.40</TD><TD>3,201,360</TD><TD>21.40</TD></TR>
+<TR>
+<TD>Jan-22-01</TD><TD>21.00</TD><TD>21.00</TD><TD>20.31</TD><TD>20.66</TD><TD>1,353,670</TD><TD>20.66</TD></TR>
+<TR>
+<TD>Jan-19-01</TD><TD>21.97</TD><TD>22.10</TD><TD>20.60</TD><TD>20.65</TD><TD>1,169,700</TD><TD>20.65</TD></TR>
+<TR>
+<TD>Jan-18-01</TD><TD>21.39</TD><TD>21.69</TD><TD>20.60</TD><TD>21.20</TD><TD>1,355,830</TD><TD>21.20</TD></TR>
+<TR>
+<TD>Jan-17-01</TD><TD>20.80</TD><TD>22.00</TD><TD>20.70</TD><TD>21.10</TD><TD>932,938</TD><TD>21.10</TD></TR>
+<TR>
+<TD>Jan-16-01</TD><TD>22.00</TD><TD>22.18</TD><TD>20.01</TD><TD>20.81</TD><TD>856,352</TD><TD>20.81</TD></TR>
+<TR>
+<TD>Jan-15-01</TD><TD>22.19</TD><TD>22.29</TD><TD>21.60</TD><TD>21.96</TD><TD>242,719</TD><TD>21.96</TD></TR>
+<TR>
+<TD>Jan-12-01</TD><TD>22.25</TD><TD>22.70</TD><TD>21.10</TD><TD>21.80</TD><TD>927,983</TD><TD>21.80</TD></TR>
+<TR>
+<TD>Jan-11-01</TD><TD>22.60</TD><TD>22.99</TD><TD>21.90</TD><TD>21.99</TD><TD>668,573</TD><TD>21.99</TD></TR>
+<TR>
+<TD>Jan-10-01</TD><TD>22.90</TD><TD>23.00</TD><TD>22.50</TD><TD>22.59</TD><TD>914,149</TD><TD>22.59</TD></TR>
+<TR>
+<TD>Jan-09-01</TD><TD>23.40</TD><TD>23.59</TD><TD>22.80</TD><TD>23.00</TD><TD>1,514,980</TD><TD>23.00</TD></TR>
+<TR>
+<TD>Jan-08-01</TD><TD>23.00</TD><TD>23.10</TD><TD>22.50</TD><TD>22.65</TD><TD>281,566</TD><TD>22.65</TD></TR>
+<TR>
+<TD>Jan-05-01</TD><TD>22.52</TD><TD>23.40</TD><TD>22.52</TD><TD>22.85</TD><TD>639,344</TD><TD>22.85</TD></TR>
+<TR>
+<TD>Jan-04-01</TD><TD>23.10</TD><TD>24.30</TD><TD>22.51</TD><TD>22.76</TD><TD>1,170,160</TD><TD>22.76</TD></TR>
+<TR>
+<TD>Jan-03-01</TD><TD>19.80</TD><TD>23.05</TD><TD>19.19</TD><TD>23.00</TD><TD>1,002,120</TD><TD>23.00</TD></TR>
+<TR>
+<TD>Jan-02-01</TD><TD>20.11</TD><TD>20.70</TD><TD>19.55</TD><TD>19.55</TD><TD>256,112</TD><TD>19.55</TD></TR>
+</TABLE>
+Download Spreadsheet Format* adjusted for dividends and splits            please see FAQ.		    </TD><TD><TABLE>
+ <TR>
+ <TD>ADVERTISEMENT</TD></TR>
+</TABLE>
+ </TD></TR>
+</TABLE>
+	
+
+
+
+
+
+Questions or Comments?Copyright © 2003 Yahoo! Inc. All rights reserved.Privacy Policy -Terms of ServiceHistorical chart data and daily updates provided byCommodity Systems, Inc. (CSI).Data and information is provided for informational purposes only, and is notintended for trading purposes.  Neither Yahoo nor any of its data or content providers (suchas CSI) shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+
