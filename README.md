@@ -6,7 +6,7 @@ Autonomous agents are used to encapsulate such technics and they collaborate amo
 
 This is my Graduation Final Project for the Bachelor of Computer Sciences Degree, please see the full documentation here:
 
-#### [Agent Based Investment Analysis - Brazilian Portuguese](doc/TCII.pdf)
+#### [Agent Based Investment Analysis - Brazilian Portuguese](https://raw.githubusercontent.com/gbencke/ABIA/master/doc/TCII.pdf)
 
 ### **Overview**
 
